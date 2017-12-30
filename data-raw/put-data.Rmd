@@ -1310,6 +1310,25 @@ freadW(22) %>%
   Mop
 ```
 
+```{r}
+freadW(24) %>%
+  .[variable %npin% "Total"] %>%
+  # Mark split points
+  .[, Age := .extract_Age(sub("^.*?_([0-9].*)$", "_\\1", variable))] %>%
+  .[, LabourForceStatus := sub("^.*Employed_(.*)", "\\1", variable)] %>%
+  .[LabourForceStatus %enotin% "Hours_worked_not_stated",
+    LabourForceStatus := zmatch(LabourForceStatus,
+                                c("Away from work", "Full-time", "Part-time"))] %>%
+  .[LabourForceStatus %ein% "Hours_worked_not_stated", 
+    LabourForceStatus := NA_character_] %>%
+  .[, variable := sub("^([^0-9]+)_[0-9].*$", "\\1", variable)] %>%
+  .[] %>%
+  .[variable %enotin% "Need_for_assistance_not_stated",
+    NeedsAssistance := variable %ein% "Has_need_for_assistance"] %>%
+  .[] %>%
+  Mop
+```
+
 
 
 
