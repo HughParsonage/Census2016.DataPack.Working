@@ -530,7 +530,9 @@ splitW <- function(DT, ...,
                    # from length(Vs)
                    elicit = TRUE) {
   lower_caps <- function(v) {
-    v <- gsub("(?:Not_stated)", "na", v)
+    # Not_stated can be at the start of a code,
+    # e.g. Table 15
+    v <- gsub("(?<!(^))(?:Not_stated)", "na", v)
     v <- gsub("(?:None)", "0", v)
     v <- gsub("Information_and_Communication_Technology", 
               "Information_and_communication_technology",
@@ -1087,15 +1089,171 @@ freadW(15) %>%
   .[variable %pin% "Total_personal_income_not_stated",
     IncomeTotPersonal.min := NA_character_] %>%
   .[variable %npin% "Total_personal_income_not_stated",
-    IncomeTotPersonal.min := sub("^I([0-9]+?).*$", "\\1", IncomeTotPersonal.min)] %>%
+    IncomeTotPersonal.min := sub("^I([0-9]+)[^0-9].*$", "\\1", IncomeTotPersonal.min)] %>%
   .[variable %pin% "Negative_nil_income",
     IncomeTotPersonal.min := "-1"] %>%
   .[, IncomeTotPersonal.min := as.integer(IncomeTotPersonal.min)] %>%
+  .[, IncomeTotPersonal.min := 52L * IncomeTotPersonal.min] %>%
   .[Occupation %ein% "Inadequately described na",
     Occupation := NA_character_] %>%
-  .[]
+  
+  .[, PublicSector := grepl("government", EmployerType, ignore.case = TRUE)] %>%
+  .[variable %pin% "^Not_stated", PublicSector := NA] %>%
+  .[(PublicSector), LevelOfGovt := sub(" government", "", EmployerType, ignore.case = TRUE)] %>%
+  .[, EmployerType := NULL] %>%
+  
+  .[] %>%
+  Mop(suborder = c("IncomeTotPersonal.min", "Occupation", "PublicSector", "LevelOfGovt"))
+
+```
+
+```{r}
+freadW(15) %>%
+  .[variable %pin% "_Total$"] %>%
+  .[, variable := sub("_Total$", "", variable)] %>%
+  .[, variable := sub("National_Government", "National_government", variable)] %>%
+  .[, variable := sub("Negative_Nil_income", "Negative_nil_income", variable)] %>%
+  .[, variable := sub("([a-z])_([0-9])", "\\1_I\\2", variable)] %>%
+  splitW(EmployerType, IncomeTotPersonal.min) %>%
+  .[EmployerType != "Total"] %>%
+  .[IncomeTotPersonal.min != "Total"] %>%
+  .[variable %pin% "Total_personal_income_not_stated",
+    IncomeTotPersonal.min := NA_character_] %>%
+  .[variable %npin% "Total_personal_income_not_stated",
+    IncomeTotPersonal.min := sub("^I([0-9]+)[^0-9].*$", "\\1", IncomeTotPersonal.min)] %>%
+  .[variable %pin% "Negative_nil_income",
+    IncomeTotPersonal.min := "-1"] %>%
+  .[, IncomeTotPersonal.min := as.integer(IncomeTotPersonal.min)] %>%
+  .[, IncomeTotPersonal.min := 52L * IncomeTotPersonal.min] %>%
+  .[] %>%
+  .[, PublicSector := grepl("government", EmployerType, ignore.case = TRUE)] %>%
+  .[variable %pin% "^Not_stated", PublicSector := NA] %>%
+  .[(PublicSector), LevelOfGovt := sub(" government", "", EmployerType, ignore.case = TRUE)] %>%
+  .[, EmployerType := NULL] %>%
+  
+  .[] %>%
+  Mop(suborder = c("IncomeTotPersonal.min", "PublicSector", "LevelOfGovt"))
+```
+
+```{r}
+freadW(15) %>%
+  .[variable %pin% "_Total_"] %>%
+  .[, variable := sub("_Total_", "_", variable)] %>%
+  .[, variable := sub("National_Government", "National_government", variable)] %>%
+  .[, variable := sub("Negative_Nil_income", "Negative_nil_income", variable)] %>%
+  .[, variable := sub("([a-z])_([0-9])", "\\1_I\\2", variable)] %>%
+  splitW(EmployerType, Occupation) %>%
+  .[EmployerType != "Total"] %>%
+  .[Occupation != "Total"] %>%
+  .[Occupation %ein% "Inadequately described na",
+    Occupation := NA_character_] %>%
+  
+  .[, PublicSector := grepl("government", EmployerType, ignore.case = TRUE)] %>%
+  .[variable %pin% "^Not_stated", PublicSector := NA] %>%
+  .[(PublicSector), LevelOfGovt := sub(" government", "", EmployerType, ignore.case = TRUE)] %>%
+  .[, EmployerType := NULL] %>%
+  
+  .[] %>%
+ Mop(suborder = c("Occupation", "PublicSector", "LevelOfGovt"))
+```
+
+```{r}
+freadW(15) %>%
+  .[variable %npin% "_Total_Total"] %>%
+  .[, variable := sub("_Total_Total", "", variable)] %>%
+  .[, variable := sub("National_Government", "National_government", variable)] %>%
+  .[!grepl("^Total", variable)] %>%
+  nrow %>%
+  is_greater_than(0) %>%
+  stopifnot
+```
+
+```{r}
+freadW(16) %>%
+  .[, variable := sub("Negative_Nil_income", "Negative_nil_income", variable)] %>%
+  .[, variable := sub("([a-z])_(1|[0-9]{3,4})_([0-9]{3,4})_", "\\1_I\\2_\\3_", variable)] %>%
+  .[, variable := sub("3000_or_more", "I3000_or_more", variable)] %>%
+  splitW(Occupation, IncomeTotPersonal.min, .Age) %>%
+  .[Occupation != "Total"] %>%
+  .[IncomeTotPersonal.min != "Total"] %>%
+  .[.Age != "Total"] %>%
+  .[variable %pin% "Total_personal_income_not_stated",
+    IncomeTotPersonal.min := NA_character_] %>%
+  .[variable %npin% "Total_personal_income_not_stated",
+    IncomeTotPersonal.min := sub("^I([0-9]+)[^0-9].*$", "\\1", IncomeTotPersonal.min)] %>%
+  .[variable %pin% "Negative_nil_income",
+    IncomeTotPersonal.min := "-1"] %>%
+  .[, IncomeTotPersonal.min := as.integer(IncomeTotPersonal.min)] %>%
+  .[, IncomeTotPersonal.min := 52L * IncomeTotPersonal.min] %>%
+  .[Occupation %pin% "na", Occupation := NA_character_] %>%
+  .[.Age %pin% "[0-9]{2} [0-9]{2}", 
+    Age := sub("Age ([0-9]{2}) ([0-9]{2}) years", "\\1-\\2", .Age)] %>%
+  .[.Age %ein% "Age 75 years and over", 
+    Age := "75+"] %>%
+  .[, Age := factor(Age, levels = unique(.$Age), ordered = TRUE)] %>%
+  .[, .Age := NULL] %>%
   Mop
 ```
+
+
+```{r}
+freadW(17) %>%
+  .[, variable := sub("Negative_Nil_income", "Negative_nil_income", variable)] %>%
+  .[, variable := sub("([a-z])_(1|[0-9]{3,4})_([0-9]{3,4})_", "\\1_I\\2_\\3_", variable)] %>%
+  .[, variable := sub("3000_or_more", "I3000_or_more", variable)] %>%
+  .[, variable := gsub("N(umber_of_hours_worked.*)$", "N\\L\\1\\E", variable)] %>%
+  .[] %>%
+  splitW(Occupation, IncomeTotPersonal.min, .HoursWorked) %>%
+  .[, .HoursWorked := sub("Number of hours worked ", "", .HoursWorked)] %>%
+  .[.HoursWorked %ein% "none", .HoursWorked := "0"] %>%
+  .[.HoursWorked %ein% "not stated", .HoursWorked := NA_character_] %>%
+  .[Occupation != "Total"] %>%
+  .[IncomeTotPersonal.min != "Total"] %>%
+  .[.HoursWorked %enotin% "total"] %>%
+  .[variable %pin% "Total_personal_income_not_stated",
+    IncomeTotPersonal.min := NA_character_] %>%
+  .[variable %npin% "Total_personal_income_not_stated",
+    IncomeTotPersonal.min := sub("^I([0-9]+)[^0-9].*$", "\\1", IncomeTotPersonal.min)] %>%
+  .[variable %pin% "Negative_nil_income",
+    IncomeTotPersonal.min := "-1"] %>%
+  .[, IncomeTotPersonal.min := as.integer(IncomeTotPersonal.min)] %>%
+  .[, IncomeTotPersonal.min := 52L * IncomeTotPersonal.min] %>%
+  .[Occupation %pin% "na", Occupation := NA_character_] %>%
+  .[, 
+    HoursWorked.min := as.integer(sub("^([0-9]+) .*$", "\\1", .HoursWorked))] %>%
+  .[, .HoursWorked := NULL] %>%
+  Mop
+```
+
+```{r}
+freadW(18) %>%
+  .[, variable := sub("Negative_Nil_income", "Negative_nil_income", variable)] %>%
+  .[, variable := sub("([a-z])_(1|[0-9]{3,4})_([0-9]{3,4})_", "\\1_I\\2_\\3_", variable)] %>%
+  .[, variable := sub("3000_or_more", "I3000_or_more", variable)] %>%
+  .[, variable := gsub("N(umber_of_hours_worked.*)$", "N\\L\\1\\E", variable)] %>%
+  .[] %>%
+  splitW(Occupation, IncomeTotPersonal.min, .HoursWorked) %>%
+  .[, .HoursWorked := sub("Number of hours worked ", "", .HoursWorked)] %>%
+  .[.HoursWorked %ein% "none", .HoursWorked := "0"] %>%
+  .[.HoursWorked %ein% "not stated", .HoursWorked := NA_character_] %>%
+  .[Occupation != "Total"] %>%
+  .[IncomeTotPersonal.min != "Total"] %>%
+  .[.HoursWorked %enotin% "total"] %>%
+  .[variable %pin% "Total_personal_income_not_stated",
+    IncomeTotPersonal.min := NA_character_] %>%
+  .[variable %npin% "Total_personal_income_not_stated",
+    IncomeTotPersonal.min := sub("^I([0-9]+)[^0-9].*$", "\\1", IncomeTotPersonal.min)] %>%
+  .[variable %pin% "Negative_nil_income",
+    IncomeTotPersonal.min := "-1"] %>%
+  .[, IncomeTotPersonal.min := as.integer(IncomeTotPersonal.min)] %>%
+  .[, IncomeTotPersonal.min := 52L * IncomeTotPersonal.min] %>%
+  .[Occupation %pin% "na", Occupation := NA_character_] %>%
+  .[, 
+    HoursWorked.min := as.integer(sub("^([0-9]+) .*$", "\\1", .HoursWorked))] %>%
+  .[, .HoursWorked := NULL] %>%
+  Mop
+```
+
 
 
 
