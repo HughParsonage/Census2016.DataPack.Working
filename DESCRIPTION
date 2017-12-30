@@ -1,0 +1,9 @@
+Package: Census2016.DataPack.Working
+Version: 0.0.0.9000
+Title: Provides Normalized Tables from the ABS 2016 Census Working Population Profile DataPack
+Description: What the package does (one paragraph).
+Authors@R: person("Hugh", "Parsonage", , "hugh.parsonage@gmail.com", c("aut", "cre"))
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+ByteCompile: true

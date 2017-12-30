@@ -1,0 +1,1103 @@
+---
+title: "put-data"
+author: "Hugh Parsonage"
+date: "28 December 2017"
+output: html_document
+---
+
+```{r Region}
+Region <- "STE"
+```
+
+```{r setup}
+START <- Sys.time()
+knitr::opts_knit$set(root.dir = "..")
+knitr::opts_chunk$set(echo = TRUE, 
+                      print_chunk = TRUE)
+```
+
+```{r loadPackages}
+library(fastmatch)
+library(readxl)
+library(testthat)
+library(magrittr)
+library(hutils)
+library(data.table)
+library(ASGS)
+library(Census2016.DataPack)
+```
+
+
+
+```{r Clear-tables}
+# Ensure we are working with pristine tables
+if (!isTRUE(getOption("knitr.in.progress"))) {
+  AllTables <- Filter(function(x) is.data.table(get(x)), ls())
+  if (length(AllTables) != 0) {
+    if (exists("table_killer")) {
+      menu_selection <- 1
+    } else {
+      menu_selection <- menu(c("Remove all tables.",
+                               "Cancel."),
+                             title = "Data tables detected. This script will save all tables in the workspace to the package. Remove current tables from workspace?")
+    }
+  }
+  
+  if (exists("menu_selection")) {
+    if (menu_selection %in% c(0, 2)) {
+      stop("Operation cancelled.")
+    } else {
+      rm(list = AllTables)
+    }
+  }
+}
+```
+
+```{r Metadata}
+Metadata <-
+  read_excel("./data-raw/Metadata/Metadata_2016_WPP_DataPack.xlsx",
+             sheet = "Cell descriptors information", 
+             skip = 10) %>%
+  as.data.table %>%
+  .[, varI := as.integer(gsub("^W", "", Sequential))] %>%
+  setnames("DataPack file", "DataPackFile") %>%
+  .[, TableNo := as.integer(gsub("[^0-9]", "", DataPackFile))] %>%
+  .[]
+```
+
+```{r short2long}
+.short2long <- function(short) {
+  coalesce(Metadata[match(x = short, Short)][["Long"]], short)
+}
+
+expect_equal(.short2long(c("squierl", "M_40_44_EHW_NS", "Tot_Tot_EWPT")),
+             c("squierl", 
+               "Males_40_44_years_Employed_Hours_worked_not_stated",
+               "Total_Total_Employed_Worked_part_time"))
+
+short2long <- function(.data) {
+  noms <- names(.data)
+  setnames(.data, noms, .short2long(noms))
+}
+```
+
+```{r Region_key}
+Region_key <- 
+  fread(paste0('./data-raw/data/', Region, '/AUST/2016Census_W01A_AUS_', Region, '.csv')) %>%
+  names %>%
+  extract2(1)
+```
+
+```{r perf}
+grep <- function(..., perl, fixed) base::grep(..., perl = missing(fixed), fixed = !missing(fixed))
+grepl <- function(..., perl, fixed) base::grepl(..., perl = missing(fixed), fixed = !missing(fixed))
+gsub <- function(..., perl, fixed) base::gsub(..., perl = missing(fixed), fixed = !missing(fixed))
+sub <- function(..., perl, fixed) base::sub(..., perl = missing(fixed), fixed = !missing(fixed))
+```
+
+```{r check-case-subs}
+# Possible future issue with R 3.5
+stopifnot(sub("a_([a-z])", "\\U\\1\\E", "a_b") == "B",
+          sub("a_([A-Z])", "\\L\\1\\E", "a_B") == "b")
+```
+
+```{r freadG}
+#' @return Wide as-is data table of all tables.
+freadG <- function(g, ...) {
+  stopifnot(length(g) == 1)
+  g0 <- paste0(if (g < 10) "0", g)
+  file_list <-
+    list.files(path = file.path('./data-raw/data/', Region, 'AUST'),
+               # Files may be of the form ..G08_AUS.. or ..G09B_AUS..
+               pattern = paste0('2016Census_W', g0, '[A-Z]?_AUS_', Region, '\\.csv$'),
+               full.names = TRUE)
+  if (length(file_list) > 1) {
+    file_list %>%
+    lapply(fread, key = Region_key, ...) %>%
+    Reduce(f = function(X, Y) X[Y])
+  } else {
+    fread(file = file_list[1], ...)
+  } %>% 
+    short2long
+}
+```
+
+```{r freadW}
+varI <- NULL
+varIused <- NULL
+freadW <- function(g, value.name = "workers") {
+  gmolten <- 
+    freadG(g, logical01=FALSE) %>%
+    melt.data.table(id.vars = Region_key,
+                    variable.factor = FALSE,
+                    value.name = value.name)
+  
+  # Lots of duplicate table names across g's
+  Metadata <- Metadata[TableNo == g]
+  
+  if (all(.subset2(gmolten, "variable") %chin% .subset2(Metadata, "Long"))) {
+    og <- gmolten[Metadata, on = "variable==Long", nomatch=0L]
+  } else if (all(.subset2(gmolten, "variable") %chin% .subset2(Metadata, "Short"))) {
+    # Want the Long form to be 'variable'
+    og <- gmolten[Metadata, on = "variable==Short", nomatch=0L]
+    og <- drop_col(og, "variable")
+    setnames(og, "Long", "variable")
+  } else {
+    stop("Unable to decode table names.")
+  }
+  
+  if (g > 1) {
+    # Already done in g = 1
+    og <- og[variable %npin% "^(Persons|Males|Females)_Total_Total$"]
+  }
+  
+  og[varI %notin% varIused] %>%
+    drop_cols(setdiff(names(Metadata), "varI")) %>%
+    .[]
+}
+```
+
+```{r extract_Sex}
+.extract_Sex <- function(v) {
+  req_regex <- ".*(Males|Females)"
+  substr(sub(req_regex, "\\1", v), 0, 1)
+}
+
+expect_equal(.extract_Sex("Total_persons_2006_Census_Males"), "M")
+extract_Sex <- function(.data) {
+  req_regex <- ".*(Males|Females)"
+  stopifnot("variable" %in% names(.data),
+            all(grepl(req_regex, .data[["variable"]])))
+  .data[, Sex := .extract_Sex(variable)]
+}
+```
+
+```{r grapes-notlike}
+`%npin%` <- function(x, y) {
+  y <- paste0(y, collapse = "|")
+  !grepl(y, x)
+}
+```
+
+```{r extract_Age}
+.extract_Age <- function(v, orderedFactor = TRUE) {
+  out <-
+    if_else(grepl("^.*?_([0-9]{2})_([0-9]{2})_years$", v),
+            sub("^.*?_([0-9]{2})_([0-9]{2})_years", "\\1-\\2", v),
+            if_else(grepl("^.*Census_[0-9]{1,2}_[0-9]{1,2}_years.*", v),
+                    sub("^.*Census_([0-9]{1,2})_([0-9]{1,2})_years.*$", "\\1-\\2", v),
+                    if_else(grepl("years_and_over", v),
+                            sub("^.*[^0-9]([0-9]+)_years_and_over.*$", "\\1+", v),
+                            if_else(grepl("^.*Age_(?:group(?:_of_parent)?|years)_([0-9]{1,2})_([0-9]{1,2})_years.*", v),
+                                    sub("^.*Age_(?:group(?:_of_parent)?|years)_([0-9]{1,2})_([0-9]{1,2})_years.*",
+                                        "\\1-\\2",
+                                        v),
+                                    if_else(grepl("_[0-9]{1,2}_[0-9]{1,2}_years$", v),
+                                            sub("^.*([0-9]{1,2})_([0-9]{1,2})_years$", "\\1-\\2", v),
+                                            v)))))
+  i0 <- grepl("_([0-9]{2})_([0-9]{2})_years_[A-Z]", v)
+  out[i0] <- sub("^.*_([0-9]{2})_([0-9]{2})_years_[A-Z].*$", "\\1-\\2", v[i0])
+  
+  
+  if (any(grepl("_", out))) {
+    stop("\n\t", paste0(head(unique(grep("_", out, value = TRUE))), collapse = "\n\t"), " present.")
+  }
+            
+  if (orderedFactor) {
+    out <- factor(out, levels = unique(out), ordered = TRUE)
+  }
+  out
+}
+expect_equal(.extract_Age("Age_group_85_years_and_over_2006_Census_Males", FALSE), "85+")
+expect_equal(.extract_Age("2016_Census_80_84_years_Never_married_Females", FALSE), "80-84")
+expect_equal(.extract_Age("2006_Census_Buddhism_0_14_years", FALSE), "0-14")
+expect_equal(.extract_Age("Age_group_0_4_years_2006_Census_Persons", FALSE), "0-4")
+expect_equal(.extract_Age("2006_Census_Age_group_of_parent_15_19_years_Number_of_children_ever_born_No_children", FALSE), "15-19")
+expect_equal(.extract_Age("2006_Census_Persons_Postgraduate_Degree_Level_15_19_years", FALSE), "15-19")
+expect_equal(.extract_Age("2006_Census_Persons_15_19_years_Employed_Hours_worked_not_stated", FALSE), "15-19")
+
+local({
+  input <- c("Age_group_0_4_years_2006_Census_Persons",
+             "Age_group_5_14_years_2016_Census_Persons",
+             "Age_group_35_44_years_2011_Census_Persons",
+             "Age_group_55_64_years_2011_Census_Persons",
+             "Age_group_85_years_and_over_2006_Census_Persons")
+  output <- .extract_Age(input) 
+  
+  # i.e. ascending order, not 
+  expect_false(is.unsorted(output))
+})
+
+extract_Age <- function(.data) {
+  .data[, Age := .extract_Age(variable)]
+}
+```
+
+```{r extract_CountryOfBirth}
+extract_CountryOfBirth <- function(DT) {
+  stopifnot(any(grepl("^Australia", DT[["variable"]])))
+  DT %>%
+    # Set not stated -> NA
+    .[variable %npin% "Country_of_birth_not_stated",
+      CountryOfBirth := variable] %>%
+    .[CountryOfBirth == "The_Former_Yugoslav_Rebublic_of_Macedonia",
+      CountryOfBirth := "The former Yugoslav Republic of Macedonia"] %>%
+    .[CountryOfBirth == "Korea_Republic_of_South",
+      CountryOfBirth := "South Korea"] %>%
+    .[CountryOfBirth == "United_Kingdom_Channel_Islands_and_Isle_of_Man",
+      CountryOfBirth := "United Kingdom"] %>%
+    .[CountryOfBirth == "United_States_of_America",
+      CountryOfBirth := "United States"] %>%
+    .[CountryOfBirth == "Hong_Kong_SAR_of_China",
+      CountryOfBirth := "Hong Kong"] %>%
+    .[CountryOfBirth == "Hong_Kong_SAR_of_China",
+      CountryOfBirth := "Hong Kong"] %>%
+    .[CountryOfBirth == "Born_elsewhere",
+      CountryOfBirth := "Other"] %>%
+    .[, CountryOfBirth := gsub("_", " ", CountryOfBirth)] %>%
+    .[CountryOfBirth %pin% "United Kingdom", CountryOfBirth := "United Kingdom"]
+}
+```
+
+
+```{r decodeRegion}
+decodeRegion <- function(DT) {
+  out <- DT
+  decoder <- 
+    switch(Region,
+           "SA2" = SA16_decoder[ASGS_Structure == Region,
+                                .(SA2_MAIN16 = Census_Code_2016,
+                                  SA2_NAME16 = Census_Name_2016)],
+           "SA3" = SA16_decoder[ASGS_Structure == Region,
+                                .(SA3_MAIN16 = Census_Code_2016,
+                                  SA3_NAME16 = Census_Name_2016)],
+           "SA4" = SA16_decoder[ASGS_Structure == Region,
+                                .(SA4_MAIN16 = Census_Code_2016,
+                                  SA4_NAME16 = Census_Name_2016)],
+           "STE" = SA16_decoder[ASGS_Structure == Region,
+                                .(STE_MAIN16 = Census_Code_2016,
+                                  STE_NAME16 = Census_Name_2016)],
+           "LGA" = {
+             NonABS_decoder[ASGS_Structure == Region,
+                            .(Census_Code_2016, LGA_NAME16 = Census_Name_2016)]
+           },
+           "CED" = {
+             NonABS_decoder[ASGS_Structure == Region,
+                            .(Census_Code_2016, CED_NAME16 = Census_Name_2016)]
+           },
+           "SED" = {
+             NonABS_decoder[ASGS_Structure == Region,
+                            .(Census_Code_2016, SED_NAME16 = Census_Name_2016)]
+           },
+           "SSC" = {
+             NonABS_decoder[ASGS_Structure == Region,
+                            .(Census_Code_2016, SSC_NAME16 = Census_Name_2016)]
+           },
+           NULL) %>%
+    unique %>%
+    setnames(1, Region_key)
+  
+  decoded_out <- decoder[out, on = Region_key]
+  decoded_out[, (Region_key) := NULL]
+  decoded_out
+}
+```
+
+```{r}
+totals <-
+  freadG(1) %>%
+  .[, .SD, .SDcols = c(names(.)[1], "P_Tot_Tot")] %>%
+  setnames(1:2, c(Region_key, "tot_workers")) %>%
+  setkeyv(Region_key) %>%
+  .[]
+```
+
+
+```{r}
+total_workers_born_overseas <-
+  freadG(7) %>%
+  .[, .(tot_workers = Total_Total), keyby = c(names(.)[1])]
+```
+
+```{r provide_complementary_observation}
+# If ABS doesn't drill down for all variables
+provide_complementary_observation <- function(.data,
+                                              vars = NULL,
+                                              value.name = "workers",
+                                              compl.var.name = "Other") {
+  if (Region != "LGA") {
+    meta_decoder <- SA16_decoder[ASGS_Structure == Region]
+  } else {
+    meta_decoder <-
+      LGA_2016@data %>%
+      as.data.table %>%
+      .[, .(Census_Name_2016 = as.character(LGA_NAME16),
+            Census_Code_2016 = paste0("LGA", (as.character(LGA_CODE16))))]
+  }
+  
+  tempDT <- 
+    get(paste0(Region, 
+               "_w_",
+               paste0(c(vars, if (value.name != "workers") value.name),
+                      collapse = "_"))) %>%
+    .[meta_decoder,
+      on = c(paste0(names(.)[1], "==Census_Name_2016")),
+      nomatch=0L] %>%
+    setnames("Census_Code_2016", Region_key) %>%
+    setnames(value.name, "workers")
+  
+  .data %>%
+    copy %>%
+    setnames(value.name, "workers") %>%
+    .[, .(tot_in_workers = sum(workers)), keyby = c(Region_key, vars)] %>%
+    .[tempDT, on = c(Region_key, vars)] %>%
+    .[, workers := workers - tot_in_workers] %>%
+    setnames("workers", value.name) %>%
+    .[, "variable" := compl.var.name] %>%
+    .[, .SD, .SDcols = c(Region_key, vars, "variable", value.name)] %>%
+    rbind(.data, use.names = TRUE, fill = TRUE)
+}
+```
+
+
+```{r}
+Mop <- function(DT, value.name = "workers", suborder = NULL, dry.run = FALSE) {
+  stopifnot(is.data.table(DT),
+            nrow(DT) > 0L,
+            value.name %in% names(DT),
+            "varI" %in% names(DT),
+            # Should be Completed
+            'MaxSchooling' %notin% names(DT))
+  
+  if ("Sex" %in% names(DT) &&
+      all(c("Persons", "Males", "Females") %chin% DT[["Sex"]])) {
+    Mop(DT[Sex != "Persons"],
+        value.name = value.name, suborder = suborder, dry.run = dry.run)
+    Mop(DT[Sex == "Persons"][, Sex := NULL],
+        value.name = value.name, suborder = suborder, dry.run = dry.run)
+    return(invisible(NULL))
+  }
+  
+  .varIused <- sort(unique(c(.subset2(DT, "varI"))))
+  
+  # Check for no duplicates, except for value.name
+  if (anyDuplicated(DT, by = setdiff(names(DT), c(value.name, "variable")))) {
+    print(duplicated_rows(DT, by = setdiff(names(DT), c(value.name, "variable"))))
+    stop("Duplicated rows.")
+  }
+  
+  # Are any columns constant?
+  uv <- vapply(DT, uniqueN, integer(1))
+  if (any(uv == 1)) {
+    print(names(uv)[uv == 1])
+    stop("Constant columns in DT.")
+  }
+  
+  out <- 
+    DT %>%
+    drop_col("variable") %>%
+    setcolorder(sort(names(.))) %>%
+    set_cols_first(c(Region_key)) %>%
+    setorderv(setdiff(names(.), value.name)) %>%
+    set_cols_last(value.name) %>%
+    .[]
+  
+  if ("CountryOfBirth" %in% names(DT)) {
+    out[CountryOfBirth %pin% "Born elsewhere", CountryOfBirth := "(Born elsewhere)"]
+  }
+  
+  for (j in names(DT)) {
+   out[out[[j]] == "Other", (j) := "(Other)"]
+  }
+  
+  if (value.name == "workers_born_overseas") {
+    totals <- total_workers_born_overseas
+  }
+  
+  cf_population <- 
+    out[, list(ApparentPopulation = sum(eval(parse(text = value.name)))), keyby = Region_key] %>%
+    .[totals, on = Region_key] %>%
+    .[, err_r := 1 - tot_workers / ApparentPopulation]
+  
+  wprop_wrong <- 
+    weighted.mean(abs(.subset2(cf_population, "err_r")) > 0.005 * ncol(DT), 
+                  .subset2(cf_population, "tot_workers"))
+  
+  cond <- wprop_wrong > 0.05
+  
+  if (is.na(cond)) {
+    print(cf_population)
+    stop("cond NA", call. = FALSE)
+  }
+  
+  if (cond) {
+    print(wprop_wrong)
+    print(cf_population[,
+                        err_r := paste0(if_else(tot_workers < ApparentPopulation, "+", "-"),
+                                        scales::percent(abs(err_r)))])
+    print(out)
+    stop("Error too high. Working population too high / low.")
+  }
+  
+  if (anyDuplicated(out, by = setdiff(names(out), value.name))) {
+    print(duplicated_rows(out, by = setdiff(names(out), value.name)))
+    stop("Duplicated rows.")
+  }
+  
+  if (!is.null(suborder)) {
+    set_colsuborder(DT, suborder)
+    setorderv(DT, setdiff(names(out), value.name))
+  }
+  
+  out_noms <- names(out)
+  
+  object_name <- 
+    paste0(Region,
+           "_w_",
+           paste0(setdiff(out_noms, c(Region_key, "workers", "varI")),
+                  collapse = "_"))
+  
+  if (object_name %in% ls(envir = .GlobalEnv)) {
+    stop("`", object_name, "` already defined.")
+  }
+  
+  decoded_out <- decodeRegion(out)
+  if (!anyDuplicated(decoded_out, by = setdiff(names(decoded_out), value.name))) {
+    out <- decoded_out 
+  } else {
+    cat("\n\n\n\n\n")
+    print(duplicated_rows(decoded_out, by = setdiff(names(decoded_out), value.name)))
+    cat("\n\n\n\n\n")
+  }
+  decoded_out[, varI := NULL]
+  if (!dry.run) {
+    varIused <<- sort(c(varIused, .varIused))
+    
+    assign(object_name, out, envir = .GlobalEnv)
+  } else {
+    cat("OK\n")
+  }
+  decoded_out[]
+}
+```
+
+
+```{r zmatch}
+#' @param x Values to be matched against
+#' @param y Permitted decoded values. 
+#' @param extract1 A regex with a capturing group. The part of \code{x} to be retained.
+#' @param y.complete Must all values in y match with at least one value in \code{x}?
+#' @return For every value in x, the closest match in y.
+zmatch <- function(x, y, extract1 = "^(.*)$", delete.penalty = 0.01, sub.penalty = 0.2, y.complete = TRUE) {
+  x <- sub(extract1, "\\1", x, perl = TRUE)
+  Y <- gsub("[^A-Za-z]+", "_", y)
+  distance_matrix <-
+    adist(x, Y,
+          costs = list(deletions = delete.penalty,
+                       substitutions = sub.penalty))
+  
+  indexes <- apply(distance_matrix, 1, which.min)
+  out <- y[indexes]
+  
+  if (y.complete && any(y[!is.na(y)] %notin% out)) {
+    stop("Not all y were matched.\n\t",
+         paste0(unique(y[y %notin% out]), sep = "\n\t"))
+  }
+  
+  out
+}
+```
+
+```{r}
+do_dots <- function(...) {
+  eval(substitute(alist(...)))
+}
+
+dt <- data.table(x = 1:3)
+add_var <- function(DT, ...) {
+  dotsL <- length(match.call(expand.dots = FALSE)$...)
+  noms <- vapply(seq_len(dotsL), function(x) deparse(do_dots(...)[[x]]), character(1))
+  noms
+}
+add_var(dt, a, b)
+```
+
+
+```{r splitW}
+splitW <- function(DT, ...,
+                   Vs,
+                   # elict the rows of DT
+                   # from length(Vs)
+                   elicit = TRUE) {
+  lower_caps <- function(v) {
+    v <- gsub("(?:Not_stated)", "na", v)
+    v <- gsub("(?:None)", "0", v)
+    v <- gsub("Information_and_Communication_Technology", 
+              "Information_and_communication_technology",
+              v)
+    v <- gsub("_ICT_", "_ict_", v)
+    v
+  }
+  
+  reraise_caps <- function(v) {
+    v <- gsub("Information_and_communication_technology",
+              "Information_and_Communication_Technology", 
+              v)
+    v <- gsub("_ict_", "_ICT_", v)
+    
+    v <- gsub("_", " ", v)
+    v
+  }
+  
+  if (missing(Vs)) {
+    dotsL <- length(match.call(expand.dots = FALSE)$...)
+    Vs <- vapply(seq_len(dotsL),
+                 function(x) deparse(do_dots(...)[[x]]),
+                 character(1))
+    v <- .subset2(DT, "variable")
+    # Assume a new level occurs with each capital letter, 
+    # except the following
+    v <- lower_caps(v)
+    level <- nchar(gsub("[^A-Z]", "", v))
+    n_levels <- uniqueN(level)
+  }
+  
+  if (elicit) {
+    out <- DT[which(level == length(Vs))]
+  } else {
+    out <- DT
+    if (n_levels > 1L) {
+      to_print <- copy(out)
+      to_print[, level := level] %>%
+        unique(by = "level") %>%
+        print
+      stop("Cannot print: levels appear to be different.")
+    }
+    if (length(Vs) != n_levels) {
+      stop("length(Vs) = ", length(Vs), " != n_levels = ", n_levels, ".")
+    }
+  }
+  
+  
+  out[, variable := lower_caps(variable)]
+  out[,
+      (Vs) := tstrsplit(.SD[[1]], split = "_(?=[A-Z])", perl = TRUE),
+      .SDcols = "variable"
+      ][,        
+        (Vs) := lapply(.SD, reraise_caps),
+        .SDcols = Vs
+        ]
+  
+  # for (vv in names(out)) {
+  #   if ("Total" %fin% out[[vv]]) {
+  #     out <- out[out[[vv]] != "Total"]
+  #   }
+  # }
+  out
+  
+}
+```
+
+
+
+Begin:
+
+
+```{r}
+freadW(1) %>%
+  .[grepl("^Persons_[1-9].*Total$", variable)] %>%
+  extract_Age() %>%
+  .[] %>%
+  Mop
+```
+
+
+```{r}
+freadW(1) %>%
+  .[grepl("^(Males|Females)[^0-9]*Total$", variable)] %>%
+  extract_Sex() %>%
+  Mop
+```
+
+
+```{r}
+freadW(1) %>%
+  .[variable %pin% "^Persons_Total"] %>%
+  .[variable %npin% "_Total_Total$"] %>%
+  .[variable %npin% "Hours_worked_not_stated",
+    LabourForceStatus := zmatch(variable, 
+                                y = c("Full-time", "Part-time", "Away from work"))] %>%
+  .[] %>%
+  Mop
+```
+
+
+```{r}
+freadW(1) %>%
+  .[variable %pin% "[0-9]"] %>%
+  .[variable %pin% c("Persons")] %>%
+  .[variable %npin% "Total"] %>%
+  extract_Age() %>%
+  .[variable %npin% "Hours_worked_not_stated",
+    LabourForceStatus := zmatch(variable, 
+                                y = c("Full-time", "Part-time", "Away from work"))] %>%
+  Mop
+```
+
+```{r}
+freadW(1) %>%
+  .[variable %pin% "[0-9]"] %>%
+  .[variable %pin% c("Males", "Females")] %>%
+  .[variable %pin% "Total$"] %>%
+  extract_Sex() %>%
+  extract_Age() %>%
+  Mop
+```
+
+```{r}
+freadW(1) %>%
+  .[variable %pin% "[0-9]"] %>%
+  .[variable %pin% c("Males", "Females")] %>%
+  .[variable %npin% "Total$"] %>%
+  extract_Sex() %>%
+  extract_Age() %>%
+  .[variable %npin% "Hours_worked_not_stated",
+    LabourForceStatus := zmatch(variable, 
+                                y = c("Full-time", "Part-time", "Away from work"))] %>%
+  Mop
+```
+
+
+```{r}
+freadW(1) %>%
+  .[variable %npin% "[0-9]"] %>%
+  .[variable %pin% c("Males", "Females")] %>%
+  .[variable %npin% "Total$"] %>%
+  extract_Sex() %>%
+  .[variable %npin% "Hours_worked_not_stated",
+    LabourForceStatus := zmatch(variable, 
+                                y = c("Full-time", "Part-time", "Away from work"))] %>%
+  Mop
+```
+
+```{r}
+freadW(2) %>%
+  .[variable %npin% c("Male", "Female")] %>%
+  .[variable %npin% "[0-9]"] %>%
+  .[variable %pin% "Total_(?!Total)"] %>%
+  .[, EmploymentStatus := gsub("_", " ", gsub("^.*([A-Z][^A-Z]+)$", "\\1", variable))] %>%
+  .[variable %pin% "EmploymentStatus", EmploymentStatus := NA_character_] %>%
+  Mop
+```
+
+```{r}
+freadW(2) %>%
+  .[variable %npin% c("Male", "Female")] %>%
+  .[variable %npin% "Total"] %>%
+  extract_Age() %>%
+  .[, EmploymentStatus := gsub("_", " ", gsub("^.*([A-Z][^A-Z]+)$", "\\1", variable))] %>%
+  .[variable %pin% "EmploymentStatus", EmploymentStatus := NA_character_] %>%
+  Mop
+```
+
+
+```{r}
+freadW(2) %>%
+  .[variable %npin% c("[0-9]")] %>%
+  .[variable %npin% "Total$"] %>%
+  .[variable %pin% c("Male", "Female")] %>%
+  extract_Sex() %>%
+  .[, EmploymentStatus := gsub("_", " ", sub("^.*([A-Z][^A-Z]+)$", "\\1", variable))] %>%
+  .[variable %pin% "Status_in_employment_not_stated", EmploymentStatus := NA_character_] %>%
+  Mop
+```
+
+```{r EmploymentStatus_regex}
+EmploymentStatus_regex <-
+  "^((?:Contributing.family.workers)|(?:Employee)|(?:Owner.managers.of.incorporated.enterprises)|(?:Owner.managers.of.unincorporated.enterprises)|(?:Status.in.employment.not.stated)).*$"
+```
+
+```{r}
+freadW(3) %>%
+  .[variable %pin% "^(Contributing|Employee|Owner|Status).*[0-9]{2}.*years?.*_Number_of_hours_worked_.*$"] %>%
+  .[variable %npin% "Not_stated$",
+    HoursWorked := sub("^.*Number_of_hours_worked_", "", variable)] %>%
+  .[HoursWorked == "None", HoursWorked := "0"] %>%
+  .[variable %npin% "Not_stated$",
+    HoursWorked := if_else(HoursWorked == "49_hours_and_over",
+                           "49+",
+                           sub("^([0-9]+)_([0-9]{2}).*$", "\\1-\\2", HoursWorked))] %>%
+  .[variable %npin% "Not_stated$",
+    HoursWorked.min := as.integer(sub("^([0-9]+).*", "\\1", HoursWorked))] %>%
+  .[, HoursWorked := NULL] %>%
+  .[] %>%
+  .[, EmploymentStatus := zmatch(variable, 
+                                 y = c("Contributing family workers",
+                                       "Employee",
+                                       "Owner managers of incorporated enterprises",
+                                       "Owner managers of unincorporated enterprises",
+                                       "Status in employment not stated"),
+                                 extract1 = EmploymentStatus_regex)] %>%
+  .[EmploymentStatus == "Status in employment not stated", EmploymentStatus := NA_character_] %>%
+  .[] %>%
+  extract_Age %>%
+  .[] %>%
+  Mop
+```
+
+```{r}
+freadW(2) %>%
+  .[variable %pin% c("^Males", "^Female")] %>%
+  .[variable %pin% "[0-9]{2}.years?"] %>%
+  .[variable %npin% "Total$"] %>%
+  extract_Age %>%
+  extract_Sex %>%
+  .[, EmploymentStatus := zmatch(variable, 
+                                 y = c("Contributing family workers",
+                                       "Employee",
+                                       "Owner managers of incorporated enterprises",
+                                       "Owner managers of unincorporated enterprises",
+                                       "Status in employment not stated"),
+                                 extract1 = EmploymentStatus_regex)] %>%
+  .[EmploymentStatus == "Status in employment not stated", EmploymentStatus := NA_character_] %>%
+  .[] %>%
+  Mop
+```
+
+```{r}
+
+```
+
+
+```{r}
+cat("Age, EmploymentStatus, LabourForceStatus, Sex")
+freadW(4) %>%
+  .[variable %pin% c("^Males", "^Female")] %>%
+  .[variable %pin% "[0-9]{2}.years?"] %>%
+  .[variable %npin% "Total"] %>%
+  extract_Sex %>%
+  .[, variable := sub("(Males|Females)_", "", variable)] %>%
+  .[] %>%
+  .[variable %npin% "Hours_worked_not_stated",
+    LabourForceStatus := zmatch(variable, 
+                                y = c("Full-time", "Part-time"), 
+                                extract1 = c("^Employed_worked_(.*)_[0-9].*$"))] %>%
+  extract_Age %>%
+  .[] %>%
+  .[, variable := sub("^.*years(?:_and_over)_", "", variable)] %>%
+  .[, EmploymentStatus := zmatch(variable, 
+                                 y = c("Contributing family workers",
+                                       "Employee",
+                                       "Owner managers of incorporated enterprises",
+                                       "Owner managers of unincorporated enterprises",
+                                       "Status in employment not stated"),
+                                 extract1 = EmploymentStatus_regex)] %>%
+  .[EmploymentStatus == "Status in employment not stated", EmploymentStatus := NA_character_] %>%
+  provide_complementary_observation(vars = c("Age", "EmploymentStatus", "Sex")) %>%
+  .[] %>%
+  Mop
+```
+
+
+```{r}
+cat("CountryOfBirth")
+freadW(5) %>%
+  .[variable %pin% "^Persons"] %>%
+  .[variable %npin% "^Persons_Total"] %>%
+  .[variable %pin% "Total$"] %>%
+  .[, variable := sub("_Total$", "", variable)] %>%
+  .[, variable := sub("Persons_", "", variable)] %>%
+  extract_CountryOfBirth() %>%
+  Mop
+```
+
+```{r}
+cat("CountryOfBirth, EmploymentStatus")
+freadW(5) %>%
+  .[variable %pin% "^Persons"] %>%
+  .[, variable := sub("^Persons_", "", variable)] %>%
+  .[variable %npin% "^Total"] %>%
+  .[variable %npin% "Total$"] %>%
+  .[, EmploymentStatus := zmatch(variable, 
+                                 y = c("Contributing family workers",
+                                       "Employee",
+                                       "Owner managers of incorporated enterprises",
+                                       "Owner managers of unincorporated enterprises",
+                                       "Status in employment not stated"),
+                                 extract1 = EmploymentStatus_regex)] %>%
+  .[, variable := sub("^(.*)_([A-Z][^A-Z]+)$", "\\1", variable)] %>%
+  extract_CountryOfBirth() %>%
+  Mop()
+```
+
+```{r}
+cat("CountryOfBirth, Sex")
+freadW(5) %>%
+  .[variable %npin% "^Persons"] %>%
+  extract_Sex %>%
+  .[, variable := sub("^(?:Males|Females)_", "", variable)] %>%
+  .[variable %pin% "Total$"] %>%
+  .[variable %npin% "^Total"] %>%
+  .[, variable := sub("_Total$", "", variable)] %>%
+  extract_CountryOfBirth() %>%
+  Mop()
+```
+
+
+```{r}
+cat("CountryOfBirth, EmploymentStatus, Sex")
+freadW(5) %>%
+  .[variable %npin% "^Persons"] %>%
+  extract_Sex %>%
+  .[, variable := sub("^(?:Males|Females)_", "", variable)] %>%
+  .[variable %npin% "Total$"] %>%
+  .[variable %npin% "^Total"] %>%
+  .[, EmploymentStatus := zmatch(variable, 
+                                 y = c("Contributing family workers",
+                                       "Employee",
+                                       "Owner managers of incorporated enterprises",
+                                       "Owner managers of unincorporated enterprises",
+                                       "Status in employment not stated"),
+                                 extract1 = EmploymentStatus_regex)] %>%
+  .[, variable := sub("^(.*)_([A-Z][^A-Z]+)$", "\\1", variable)] %>%
+  extract_CountryOfBirth() %>%
+  Mop()
+```
+
+
+
+```{r EmploymentStatus-IncomeTotPersonal.min-Sex}
+freadW(6) %>%
+  .[variable %npin% "^Persons"] %>%
+  extract_Sex %>%
+  .[, variable := sub("^(?:Males|Females)_", "", variable)] %>%
+  
+  .[variable %npin% "^Total"] %>%
+
+  .[variable %pin% "^[0-9]",
+    IncomeTotPersonal.min := 52L * as.integer(sub("^([0-9]+)_.*$", "\\1", variable))] %>%
+  .[variable %pin% "Negative_Nil_income", IncomeTotPersonal.min := -1L] %>%
+  .[, variable := sub("^.*(9|income|more|not_stated)_", "", variable)] %>%
+  .[variable %npin% "Total$"] %>%
+  .[, EmploymentStatus := zmatch(variable, 
+                                 y = c("Contributing family workers",
+                                       "Employee",
+                                       "Owner managers of incorporated enterprises",
+                                       "Owner managers of unincorporated enterprises",
+                                       "Status in employment not stated"))] %>%
+  .[] %>%
+  Mop
+```
+
+
+```{r EmploymentStatus-IncomeTotPersonal.min}
+freadW(6) %>%
+  .[variable %pin% "^Persons"] %>%
+  .[, variable := sub("^(Persons)_", "", variable)] %>%
+  
+  .[variable %npin% "^Total"] %>%
+
+  .[variable %pin% "^[0-9]",
+    IncomeTotPersonal.min := 52L * as.integer(sub("^([0-9]+)_.*$", "\\1", variable))] %>%
+  .[variable %pin% "Negative_Nil_income", IncomeTotPersonal.min := -1L] %>%
+  .[, variable := sub("^.*(9|income|more|not_stated)_", "", variable)] %>%
+  .[variable %npin% "Total$"] %>%
+  .[, EmploymentStatus := zmatch(variable, 
+                                 y = c("Contributing family workers",
+                                       "Employee",
+                                       "Owner managers of incorporated enterprises",
+                                       "Owner managers of unincorporated enterprises",
+                                       "Status in employment not stated"))] %>%
+  .[] %>%
+  Mop
+```
+
+```{r IncomeTotPersonal.min-Sex}
+freadW(6) %>%
+  .[variable %npin% "^Persons"] %>%
+  extract_Sex %>%
+  .[, variable := sub("^(?:Males|Females)_", "", variable)] %>%
+  .[variable %pin% "Total$"] %>%
+  .[, variable := sub("_Total$", "", variable)] %>%
+  .[] %>%
+  .[variable %pin% "^[0-9]",
+    IncomeTotPersonal.min := 52L * as.integer(sub("^([0-9]+)_.*$", "\\1", variable))] %>%
+  .[variable %pin% "Negative_Nil_income", IncomeTotPersonal.min := -1L] %>%
+  .[] %>%
+  Mop
+```
+
+
+```{r IncomeTotPersonal.min}
+freadW(6) %>%
+  .[variable %pin% "^Persons.*Total$"] %>%
+  .[, variable := sub("^Persons_(.*)_Total$", "\\1", variable)] %>%
+  .[] %>%
+  .[variable %pin% "^[0-9]",
+    IncomeTotPersonal.min := 52L * as.integer(sub("^([0-9]+)_.*$", "\\1", variable))] %>%
+  .[variable %pin% "Negative_Nil_income", IncomeTotPersonal.min := -1L] %>%
+  .[] %>%
+  Mop
+```
+
+
+```{r IndustryOfEmployment-YearOfArrival}
+freadW(7, value.name = "workers_born_overseas") %>%
+  .[variable %pin% "Year_of_arrival"] %>%
+  .[variable %pin% "[0-9]$", YearOfArrival.max := sub("^.*_([0-9]+)$", "\\1", variable)] %>%
+  .[variable %npin% "^Total"] %>%
+  .[, IndustryOfEmployment := gsub("_", " ", 
+                                   sub("_Year_of_arrival.*$", "", variable))] %>%
+  .[] %>%
+  Mop("workers_born_overseas")
+```
+
+
+```{r IndustryOfEmployment}
+freadW(7, value.name = "workers_born_overseas") %>%
+  .[variable %npin% "Total_Total"] %>%
+  .[variable %pin% "_Total$"] %>%
+  .[, variable := sub("_Total$", "", variable)] %>%
+  .[, IndustryOfEmployment := gsub("_", " ", variable)] %>%
+  .[] %>%
+  Mop("workers_born_overseas")
+```
+
+
+```{r YearOfArrival}
+freadW(7, value.name = "workers_born_overseas") %>%
+  .[variable %pin% "Year_of_arrival"] %>%
+  .[variable %pin% "[0-9]$", YearOfArrival.max := sub("^.*_([0-9]+)$", "\\1", variable)] %>%
+  .[variable %pin% "^Total"] %>%
+  Mop("workers_born_overseas")
+```
+
+
+```{r}
+freadW(8, value.name = "workers_born_overseas") %>%
+  .[variable %npin% "Total_Total$"] %>%
+  .[variable %npin% "Total_Year"] %>%
+  .[variable %npin% "Total$"] %>%
+  .[variable %pin% c("English", "^Speaks")] %>%
+  .[variable %pin% "Year_of_arrival"] %>%
+  .[variable %pin% "[0-9]$",
+    YearOfArrival.max := sub("^.*_([0-9]+)$", "\\1", variable)] %>%
+  .[, variable := sub("_Year_of_arrival.*$", "", variable)] %>%
+  .[variable %npin% "Inadequately_described_Not_stated",
+    IndustryOfEmployment := gsub("_", " ", 
+                                 sub("^.*([A-Z][^A-Z]+)$", "\\1",
+                                     variable))] %>%
+  .[, variable := sub("^(.*)_([A-Z][^A-Z]+)$",
+                      "\\1",
+                      variable)] %>%
+  .[, SpeaksEnglishOnly := variable == "Speaks_English_only"] %>%
+  .[variable %pin% "^Speaks.other.language",
+    EnglishProficiency := zmatch(variable,
+                                 y = c("Speaks English well or very well", 
+                                       "Speaks English not well or not at all"))] %>%
+  .[] %>%
+  Mop("workers_born_overseas")
+```
+
+
+```{r eval=FALSE}
+# doesn't work
+freadW(9) %>%
+  .[variable %npin% "Persons$"] %>%
+  # .[variable %npin% "Total"] %>%
+  splitW(Industry, Subindustry, Sex)
+```
+
+```{r}
+freadW(11) %>%
+  splitW(Sex, IndustryOfEmployment, HoursWorked) %>%
+  .[, HoursWorked := sub("Number of hours worked ", "", HoursWorked)] %>%
+  .[, HoursWorked := sub(" hours", "", HoursWorked)] %>%
+  .[HoursWorked != "na",
+    HoursWorked.min := as.integer(sub("^([0-9]+).*", "\\1", HoursWorked))] %>%
+  .[, HoursWorked := NULL] %>%
+  .[IndustryOfEmployment != "Total"] %>%
+  .[, .(workers = sum(workers),
+        varI = first(varI)), 
+    keyby = c(Region_key, "HoursWorked.min", "IndustryOfEmployment", "Sex")] %>%
+  Mop(dry.run = FALSE)
+```
+
+```{r}
+freadW(12) %>%
+  splitW(IndustryOfEmployment, Occupation) %>%
+  .[Occupation != "Total"] %>%
+  .[IndustryOfEmployment != "Total"] %>%
+  # unique(by = c("IndustryOfEmployment", "Occupation"))
+  .[, .(workers = sum(workers),
+        varI = first(varI)), 
+    keyby = c(Region_key, "IndustryOfEmployment", "Occupation")] %>%
+  .[IndustryOfEmployment == "Inadequately described na", 
+    IndustryOfEmployment := NA_character_] %>%
+  .[Occupation == "Inadequately described na", 
+    Occupation := NA_character_] %>%
+  .[] %>%
+  Mop
+```
+
+```{r}
+.occupations <- 
+  freadW(13) %>%
+  .[variable %pin% "Total_Persons$"] %>%
+  .[variable != "Total_Persons"] %>%
+  .[, .(workers = sum(workers)),
+    keyby = .(eval(parse(text = Region_key)),
+              Occupation = gsub("_", " ", 
+                                sub("_Total_Persons",
+                                    "",
+                                    variable)))] %>%
+  setnames("parse", Region_key) %>%
+  .[]
+```
+
+```{r}
+freadW(13) %>%
+  .[variable %chin% c("Inadequately_described_Males",
+                      "Inadequately_described_Females",
+                      "Inadequately_described_Persons",
+                      "Occupation_Not_stated_Males",
+                      "Occupation_Not_stated_Females",
+                      "Occupation_Not_stated_Persons"),
+    variable := sub("^.*_(\\w+)$", "Occupation_Not_stated_Total_\\1", variable)] %>%
+  splitW(Occupation, OccupationSubtype, Sex) %>%
+  # duplicated_rows(c(Region_key, "Occupation", "OccupationSubtype", "Sex"))
+  .[, .(workers = sum(workers),
+        varI = first(varI)),
+    keyby = c(Region_key, "Occupation", "OccupationSubtype", "Sex")] %>%
+  .[Occupation %pin% "na$", Occupation := NA_character_] %>%
+  .[is.na(Occupation), OccupationSubtype := NA_character_] %>%
+  .[or(is.na(OccupationSubtype), OccupationSubtype != "Total")] %>%
+  Mop
+```
+
+```{r}
+freadW(15) %>%
+  .[, variable := sub("National_Government", "National_government", variable)] %>%
+  .[, variable := sub("Negative_Nil_income", "Negative_nil_income", variable)] %>%
+  .[, variable := sub("([a-z])_([0-9])", "\\1_I\\2", variable)] %>%
+  splitW(EmployerType, IncomeTotPersonal.min, Occupation) %>%
+  .[EmployerType != "Total"] %>%
+  .[IncomeTotPersonal.min != "Total"] %>%
+  .[Occupation != "Total"] %>%
+  .[variable %pin% "Total_personal_income_not_stated",
+    IncomeTotPersonal.min := NA_character_] %>%
+  .[variable %npin% "Total_personal_income_not_stated",
+    IncomeTotPersonal.min := sub("^I([0-9]+?).*$", "\\1", IncomeTotPersonal.min)] %>%
+  .[variable %pin% "Negative_nil_income",
+    IncomeTotPersonal.min := "-1"] %>%
+  .[, IncomeTotPersonal.min := as.integer(IncomeTotPersonal.min)] %>%
+  .[Occupation %ein% "Inadequately described na",
+    Occupation := NA_character_] %>%
+  .[]
+  Mop
+```
+
+
+
+
+

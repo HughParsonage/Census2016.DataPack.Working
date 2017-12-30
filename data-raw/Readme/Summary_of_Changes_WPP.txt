@@ -1,0 +1,26 @@
+# December Re-issue of WPP with amendments to workplace locations
+
+Note: A discrepancy occurred in the process used to transform detailed workplace location information into data suitable for output. This issue has been resolved and this updated release had been created using the corrected place of work data. 
+
+As part of this re-issue, the following undefined LGA Census Codes were also removed:
+
+LGA19090	POW Capital City undefined (Greater Sydney)
+LGA19898	POW State/Territory undefined (NSW)
+LGA29090	POW Capital City undefined (Greater Melbourne)
+LGA29898	POW State/Territory undefined (Vic.)
+LGA39090	POW Capital City undefined (Greater Brisbane)
+LGA39898	POW State/Territory undefined (Qld)
+LGA49090	POW Capital City undefined (Greater Adelaide)
+LGA49898	POW State/Territory undefined (SA)
+LGA59090	POW Capital City undefined (Greater Perth)
+LGA59898	POW State/Territory undefined (WA)
+LGA69090	POW Capital City undefined (Greater Hobart)
+LGA69898	POW State/Territory undefined (Tas.)
+LGA79090	POW Capital City undefined (Greater Darwin)
+LGA79898	POW State/Territory undefined (NT)
+LGA89090	POW Capital City undefined (ACT)
+LGA89898	POW State/Territory undefined (ACT)
+LGA99090	POW Capital City undefined (OT)
+LGA99898	POW State/Territory undefined (OT)
+
+Please note that the above geographies contained no data and the included "2016Census_geog_Place of Work_desc.xlsx" metadata file has been updated to reflect these changes.
