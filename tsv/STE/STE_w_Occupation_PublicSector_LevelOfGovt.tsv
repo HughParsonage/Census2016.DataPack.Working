@@ -1,0 +1,480 @@
+STE_NAME16	Occupation	PublicSector	LevelOfGovt	workers
+New South Wales				22994
+New South Wales		0		33970
+New South Wales		0		8103
+New South Wales		1	Local	752
+New South Wales		1	National	1739
+New South Wales		1	State territory	2422
+New South Wales	Clerical and administrative workers			2239
+New South Wales	Clerical and administrative workers	0		371693
+New South Wales	Clerical and administrative workers	0		5707
+New South Wales	Clerical and administrative workers	1	Local	10768
+New South Wales	Clerical and administrative workers	1	National	33476
+New South Wales	Clerical and administrative workers	1	State territory	44994
+New South Wales	Community and personal service workers			2808
+New South Wales	Community and personal service workers	0		282103
+New South Wales	Community and personal service workers	0		4742
+New South Wales	Community and personal service workers	1	Local	3627
+New South Wales	Community and personal service workers	1	National	8332
+New South Wales	Community and personal service workers	1	State territory	51677
+New South Wales	Labourers			4034
+New South Wales	Labourers	0		275611
+New South Wales	Labourers	0		4984
+New South Wales	Labourers	1	Local	5343
+New South Wales	Labourers	1	National	831
+New South Wales	Labourers	1	State territory	10490
+New South Wales	Machinery operators and drivers			2333
+New South Wales	Machinery operators and drivers	0		189654
+New South Wales	Machinery operators and drivers	0		3299
+New South Wales	Machinery operators and drivers	1	Local	4717
+New South Wales	Machinery operators and drivers	1	National	1663
+New South Wales	Machinery operators and drivers	1	State territory	7223
+New South Wales	Managers			1931
+New South Wales	Managers	0		408708
+New South Wales	Managers	0		6214
+New South Wales	Managers	1	Local	5117
+New South Wales	Managers	1	National	13565
+New South Wales	Managers	1	State territory	23850
+New South Wales	Professionals			3476
+New South Wales	Professionals	0		579868
+New South Wales	Professionals	0		8029
+New South Wales	Professionals	1	Local	9953
+New South Wales	Professionals	1	National	42762
+New South Wales	Professionals	1	State territory	157125
+New South Wales	Sales workers			1728
+New South Wales	Sales workers	0		304747
+New South Wales	Sales workers	0		4593
+New South Wales	Sales workers	1	Local	222
+New South Wales	Sales workers	1	National	1613
+New South Wales	Sales workers	1	State territory	2054
+New South Wales	Technicians and trades workers			4047
+New South Wales	Technicians and trades workers	0		395092
+New South Wales	Technicians and trades workers	0		7010
+New South Wales	Technicians and trades workers	1	Local	7149
+New South Wales	Technicians and trades workers	1	National	8371
+New South Wales	Technicians and trades workers	1	State territory	11327
+Victoria				17886
+Victoria		0		24937
+Victoria		0		6757
+Victoria		1	Local	516
+Victoria		1	National	1580
+Victoria		1	State territory	1836
+Victoria	Clerical and administrative workers			1796
+Victoria	Clerical and administrative workers	0		294491
+Victoria	Clerical and administrative workers	0		5039
+Victoria	Clerical and administrative workers	1	Local	8340
+Victoria	Clerical and administrative workers	1	National	26943
+Victoria	Clerical and administrative workers	1	State territory	31183
+Victoria	Community and personal service workers			2305
+Victoria	Community and personal service workers	0		227916
+Victoria	Community and personal service workers	0		4520
+Victoria	Community and personal service workers	1	Local	7640
+Victoria	Community and personal service workers	1	National	5061
+Victoria	Community and personal service workers	1	State territory	46000
+Victoria	Labourers			3173
+Victoria	Labourers	0		233232
+Victoria	Labourers	0		4708
+Victoria	Labourers	1	Local	4459
+Victoria	Labourers	1	National	588
+Victoria	Labourers	1	State territory	5250
+Victoria	Machinery operators and drivers			1804
+Victoria	Machinery operators and drivers	0		150482
+Victoria	Machinery operators and drivers	0		2889
+Victoria	Machinery operators and drivers	1	Local	1562
+Victoria	Machinery operators and drivers	1	National	1237
+Victoria	Machinery operators and drivers	1	State territory	3529
+Victoria	Managers			1624
+Victoria	Managers	0		334149
+Victoria	Managers	0		5644
+Victoria	Managers	1	Local	4042
+Victoria	Managers	1	National	11632
+Victoria	Managers	1	State territory	18072
+Victoria	Professionals			2640
+Victoria	Professionals	0		457281
+Victoria	Professionals	0		6996
+Victoria	Professionals	1	Local	9538
+Victoria	Professionals	1	National	41037
+Victoria	Professionals	1	State territory	124288
+Victoria	Sales workers			1463
+Victoria	Sales workers	0		260707
+Victoria	Sales workers	0		4643
+Victoria	Sales workers	1	Local	217
+Victoria	Sales workers	1	National	1496
+Victoria	Sales workers	1	State territory	1456
+Victoria	Technicians and trades workers			3299
+Victoria	Technicians and trades workers	0		337843
+Victoria	Technicians and trades workers	0		6858
+Victoria	Technicians and trades workers	1	Local	3150
+Victoria	Technicians and trades workers	1	National	5037
+Victoria	Technicians and trades workers	1	State territory	7592
+Queensland				12550
+Queensland		0		18800
+Queensland		0		4904
+Queensland		1	Local	483
+Queensland		1	National	1055
+Queensland		1	State territory	1589
+Queensland	Clerical and administrative workers			1215
+Queensland	Clerical and administrative workers	0		224107
+Queensland	Clerical and administrative workers	0		3519
+Queensland	Clerical and administrative workers	1	Local	8904
+Queensland	Clerical and administrative workers	1	National	20526
+Queensland	Clerical and administrative workers	1	State territory	36422
+Queensland	Community and personal service workers			1442
+Queensland	Community and personal service workers	0		188816
+Queensland	Community and personal service workers	0		3211
+Queensland	Community and personal service workers	1	Local	1064
+Queensland	Community and personal service workers	1	National	7564
+Queensland	Community and personal service workers	1	State territory	43126
+Queensland	Labourers			2336
+Queensland	Labourers	0		207634
+Queensland	Labourers	0		3856
+Queensland	Labourers	1	Local	4239
+Queensland	Labourers	1	National	493
+Queensland	Labourers	1	State territory	10365
+Queensland	Machinery operators and drivers			1202
+Queensland	Machinery operators and drivers	0		136276
+Queensland	Machinery operators and drivers	0		2524
+Queensland	Machinery operators and drivers	1	Local	4026
+Queensland	Machinery operators and drivers	1	National	1621
+Queensland	Machinery operators and drivers	1	State territory	3403
+Queensland	Managers			1048
+Queensland	Managers	0		229365
+Queensland	Managers	0		3844
+Queensland	Managers	1	Local	3430
+Queensland	Managers	1	National	7718
+Queensland	Managers	1	State territory	15914
+Queensland	Professionals			1355
+Queensland	Professionals	0		280048
+Queensland	Professionals	0		3911
+Queensland	Professionals	1	Local	7054
+Queensland	Professionals	1	National	24728
+Queensland	Professionals	1	State territory	109877
+Queensland	Sales workers			952
+Queensland	Sales workers	0		204154
+Queensland	Sales workers	0		3027
+Queensland	Sales workers	1	Local	201
+Queensland	Sales workers	1	National	887
+Queensland	Sales workers	1	State territory	1387
+Queensland	Technicians and trades workers			2158
+Queensland	Technicians and trades workers	0		280907
+Queensland	Technicians and trades workers	0		4784
+Queensland	Technicians and trades workers	1	Local	5012
+Queensland	Technicians and trades workers	1	National	5190
+Queensland	Technicians and trades workers	1	State territory	10198
+South Australia				3691
+South Australia		0		6415
+South Australia		0		1297
+South Australia		1	Local	159
+South Australia		1	National	534
+South Australia		1	State territory	655
+South Australia	Clerical and administrative workers			287
+South Australia	Clerical and administrative workers	0		76072
+South Australia	Clerical and administrative workers	0		1047
+South Australia	Clerical and administrative workers	1	Local	2259
+South Australia	Clerical and administrative workers	1	National	8379
+South Australia	Clerical and administrative workers	1	State territory	12358
+South Australia	Community and personal service workers			482
+South Australia	Community and personal service workers	0		70346
+South Australia	Community and personal service workers	0		1095
+South Australia	Community and personal service workers	1	Local	702
+South Australia	Community and personal service workers	1	National	1686
+South Australia	Community and personal service workers	1	State territory	16163
+South Australia	Labourers			651
+South Australia	Labourers	0		79048
+South Australia	Labourers	0		1308
+South Australia	Labourers	1	Local	1016
+South Australia	Labourers	1	National	246
+South Australia	Labourers	1	State territory	1558
+South Australia	Machinery operators and drivers			307
+South Australia	Machinery operators and drivers	0		42899
+South Australia	Machinery operators and drivers	0		638
+South Australia	Machinery operators and drivers	1	Local	674
+South Australia	Machinery operators and drivers	1	National	370
+South Australia	Machinery operators and drivers	1	State territory	893
+South Australia	Managers			315
+South Australia	Managers	0		83719
+South Australia	Managers	0		1235
+South Australia	Managers	1	Local	1141
+South Australia	Managers	1	National	3079
+South Australia	Managers	1	State territory	5399
+South Australia	Professionals			397
+South Australia	Professionals	0		102753
+South Australia	Professionals	0		1334
+South Australia	Professionals	1	Local	1819
+South Australia	Professionals	1	National	9864
+South Australia	Professionals	1	State territory	35537
+South Australia	Sales workers			257
+South Australia	Sales workers	0		70497
+South Australia	Sales workers	0		979
+South Australia	Sales workers	1	Local	56
+South Australia	Sales workers	1	National	345
+South Australia	Sales workers	1	State territory	437
+South Australia	Technicians and trades workers			613
+South Australia	Technicians and trades workers	0		91969
+South Australia	Technicians and trades workers	0		1413
+South Australia	Technicians and trades workers	1	Local	1427
+South Australia	Technicians and trades workers	1	National	2892
+South Australia	Technicians and trades workers	1	State territory	2444
+Western Australia				5983
+Western Australia		0		11573
+Western Australia		0		2443
+Western Australia		1	Local	279
+Western Australia		1	National	534
+Western Australia		1	State territory	961
+Western Australia	Clerical and administrative workers			554
+Western Australia	Clerical and administrative workers	0		119020
+Western Australia	Clerical and administrative workers	0		1769
+Western Australia	Clerical and administrative workers	1	Local	4245
+Western Australia	Clerical and administrative workers	1	National	9411
+Western Australia	Clerical and administrative workers	1	State territory	17307
+Western Australia	Community and personal service workers			724
+Western Australia	Community and personal service workers	0		95132
+Western Australia	Community and personal service workers	0		1533
+Western Australia	Community and personal service workers	1	Local	1754
+Western Australia	Community and personal service workers	1	National	2079
+Western Australia	Community and personal service workers	1	State territory	23148
+Western Australia	Labourers			1090
+Western Australia	Labourers	0		106399
+Western Australia	Labourers	0		1829
+Western Australia	Labourers	1	Local	1559
+Western Australia	Labourers	1	National	247
+Western Australia	Labourers	1	State territory	4653
+Western Australia	Machinery operators and drivers			577
+Western Australia	Machinery operators and drivers	0		85076
+Western Australia	Machinery operators and drivers	0		1337
+Western Australia	Machinery operators and drivers	1	Local	1316
+Western Australia	Machinery operators and drivers	1	National	369
+Western Australia	Machinery operators and drivers	1	State territory	1329
+Western Australia	Managers			444
+Western Australia	Managers	0		124054
+Western Australia	Managers	0		1828
+Western Australia	Managers	1	Local	2127
+Western Australia	Managers	1	National	3179
+Western Australia	Managers	1	State territory	9791
+Western Australia	Professionals			711
+Western Australia	Professionals	0		166306
+Western Australia	Professionals	0		2157
+Western Australia	Professionals	1	Local	3083
+Western Australia	Professionals	1	National	10644
+Western Australia	Professionals	1	State territory	57258
+Western Australia	Sales workers			392
+Western Australia	Sales workers	0		100706
+Western Australia	Sales workers	0		1434
+Western Australia	Sales workers	1	Local	128
+Western Australia	Sales workers	1	National	503
+Western Australia	Sales workers	1	State territory	472
+Western Australia	Technicians and trades workers			1205
+Western Australia	Technicians and trades workers	0		178855
+Western Australia	Technicians and trades workers	0		2854
+Western Australia	Technicians and trades workers	1	Local	2269
+Western Australia	Technicians and trades workers	1	National	2420
+Western Australia	Technicians and trades workers	1	State territory	6350
+Tasmania				1168
+Tasmania		0		2017
+Tasmania		0		412
+Tasmania		1	Local	71
+Tasmania		1	National	211
+Tasmania		1	State territory	280
+Tasmania	Clerical and administrative workers			85
+Tasmania	Clerical and administrative workers	0		20009
+Tasmania	Clerical and administrative workers	0		265
+Tasmania	Clerical and administrative workers	1	Local	759
+Tasmania	Clerical and administrative workers	1	National	2979
+Tasmania	Clerical and administrative workers	1	State territory	4264
+Tasmania	Community and personal service workers			125
+Tasmania	Community and personal service workers	0		21253
+Tasmania	Community and personal service workers	0		299
+Tasmania	Community and personal service workers	1	Local	338
+Tasmania	Community and personal service workers	1	National	187
+Tasmania	Community and personal service workers	1	State territory	4740
+Tasmania	Labourers			182
+Tasmania	Labourers	0		23094
+Tasmania	Labourers	0		425
+Tasmania	Labourers	1	Local	447
+Tasmania	Labourers	1	National	55
+Tasmania	Labourers	1	State territory	1311
+Tasmania	Machinery operators and drivers			103
+Tasmania	Machinery operators and drivers	0		12592
+Tasmania	Machinery operators and drivers	0		199
+Tasmania	Machinery operators and drivers	1	Local	278
+Tasmania	Machinery operators and drivers	1	National	66
+Tasmania	Machinery operators and drivers	1	State territory	506
+Tasmania	Managers			108
+Tasmania	Managers	0		23063
+Tasmania	Managers	0		352
+Tasmania	Managers	1	Local	411
+Tasmania	Managers	1	National	561
+Tasmania	Managers	1	State territory	2190
+Tasmania	Professionals			96
+Tasmania	Professionals	0		24985
+Tasmania	Professionals	0		329
+Tasmania	Professionals	1	Local	575
+Tasmania	Professionals	1	National	1502
+Tasmania	Professionals	1	State territory	13380
+Tasmania	Sales workers			96
+Tasmania	Sales workers	0		20989
+Tasmania	Sales workers	0		303
+Tasmania	Sales workers	1	Local	29
+Tasmania	Sales workers	1	National	106
+Tasmania	Sales workers	1	State territory	143
+Tasmania	Technicians and trades workers			170
+Tasmania	Technicians and trades workers	0		27811
+Tasmania	Technicians and trades workers	0		400
+Tasmania	Technicians and trades workers	1	Local	427
+Tasmania	Technicians and trades workers	1	National	216
+Tasmania	Technicians and trades workers	1	State territory	1382
+Northern Territory				952
+Northern Territory		0		1298
+Northern Territory		0		418
+Northern Territory		1	Local	59
+Northern Territory		1	National	187
+Northern Territory		1	State territory	158
+Northern Territory	Clerical and administrative workers			75
+Northern Territory	Clerical and administrative workers	0		8845
+Northern Territory	Clerical and administrative workers	0		183
+Northern Territory	Clerical and administrative workers	1	Local	415
+Northern Territory	Clerical and administrative workers	1	National	1885
+Northern Territory	Clerical and administrative workers	1	State territory	3238
+Northern Territory	Community and personal service workers			124
+Northern Territory	Community and personal service workers	0		8797
+Northern Territory	Community and personal service workers	0		281
+Northern Territory	Community and personal service workers	1	Local	367
+Northern Territory	Community and personal service workers	1	National	1756
+Northern Territory	Community and personal service workers	1	State territory	3391
+Northern Territory	Labourers			123
+Northern Territory	Labourers	0		9464
+Northern Territory	Labourers	0		272
+Northern Territory	Labourers	1	Local	318
+Northern Territory	Labourers	1	National	98
+Northern Territory	Labourers	1	State territory	450
+Northern Territory	Machinery operators and drivers			54
+Northern Territory	Machinery operators and drivers	0		6124
+Northern Territory	Machinery operators and drivers	0		147
+Northern Territory	Machinery operators and drivers	1	Local	70
+Northern Territory	Machinery operators and drivers	1	National	354
+Northern Territory	Machinery operators and drivers	1	State territory	119
+Northern Territory	Managers			40
+Northern Territory	Managers	0		9618
+Northern Territory	Managers	0		169
+Northern Territory	Managers	1	Local	299
+Northern Territory	Managers	1	National	1250
+Northern Territory	Managers	1	State territory	1909
+Northern Territory	Professionals			96
+Northern Territory	Professionals	0		12175
+Northern Territory	Professionals	0		319
+Northern Territory	Professionals	1	Local	285
+Northern Territory	Professionals	1	National	2134
+Northern Territory	Professionals	1	State territory	7290
+Northern Territory	Sales workers			36
+Northern Territory	Sales workers	0		6925
+Northern Territory	Sales workers	0		118
+Northern Territory	Sales workers	1	Local	11
+Northern Territory	Sales workers	1	National	75
+Northern Territory	Sales workers	1	State territory	93
+Northern Territory	Technicians and trades workers			150
+Northern Territory	Technicians and trades workers	0		16480
+Northern Territory	Technicians and trades workers	0		340
+Northern Territory	Technicians and trades workers	1	Local	161
+Northern Territory	Technicians and trades workers	1	National	1345
+Northern Territory	Technicians and trades workers	1	State territory	676
+Australian Capital Territory				1064
+Australian Capital Territory		0		1837
+Australian Capital Territory		0		383
+Australian Capital Territory		1	Local	11
+Australian Capital Territory		1	National	2514
+Australian Capital Territory		1	State territory	336
+Australian Capital Territory	Clerical and administrative workers			141
+Australian Capital Territory	Clerical and administrative workers	0		16070
+Australian Capital Territory	Clerical and administrative workers	0		341
+Australian Capital Territory	Clerical and administrative workers	1	Local	80
+Australian Capital Territory	Clerical and administrative workers	1	National	19511
+Australian Capital Territory	Clerical and administrative workers	1	State territory	4023
+Australian Capital Territory	Community and personal service workers			125
+Australian Capital Territory	Community and personal service workers	0		18138
+Australian Capital Territory	Community and personal service workers	0		239
+Australian Capital Territory	Community and personal service workers	1	National	3164
+Australian Capital Territory	Community and personal service workers	1	State territory	2353
+Australian Capital Territory	Labourers			110
+Australian Capital Territory	Labourers	0		10434
+Australian Capital Territory	Labourers	0		161
+Australian Capital Territory	Labourers	1	Local	7
+Australian Capital Territory	Labourers	1	National	189
+Australian Capital Territory	Labourers	1	State territory	357
+Australian Capital Territory	Machinery operators and drivers			60
+Australian Capital Territory	Machinery operators and drivers	0		4170
+Australian Capital Territory	Machinery operators and drivers	0		64
+Australian Capital Territory	Machinery operators and drivers	1	Local	8
+Australian Capital Territory	Machinery operators and drivers	1	National	253
+Australian Capital Territory	Machinery operators and drivers	1	State territory	635
+Australian Capital Territory	Managers			73
+Australian Capital Territory	Managers	0		16744
+Australian Capital Territory	Managers	0		282
+Australian Capital Territory	Managers	1	Local	77
+Australian Capital Territory	Managers	1	National	17233
+Australian Capital Territory	Managers	1	State territory	2559
+Australian Capital Territory	Professionals			217
+Australian Capital Territory	Professionals	0		30271
+Australian Capital Territory	Professionals	0		483
+Australian Capital Territory	Professionals	1	Local	65
+Australian Capital Territory	Professionals	1	National	27525
+Australian Capital Territory	Professionals	1	State territory	10541
+Australian Capital Territory	Sales workers			46
+Australian Capital Territory	Sales workers	0		14807
+Australian Capital Territory	Sales workers	0		150
+Australian Capital Territory	Sales workers	1	National	270
+Australian Capital Territory	Sales workers	1	State territory	109
+Australian Capital Territory	Technicians and trades workers			148
+Australian Capital Territory	Technicians and trades workers	0		18096
+Australian Capital Territory	Technicians and trades workers	0		277
+Australian Capital Territory	Technicians and trades workers	1	Local	17
+Australian Capital Territory	Technicians and trades workers	1	National	2300
+Australian Capital Territory	Technicians and trades workers	1	State territory	761
+Other Territories				19
+Other Territories		0		48
+Other Territories		0		9
+Other Territories		1	Local	4
+Other Territories		1	National	10
+Other Territories	Clerical and administrative workers			7
+Other Territories	Clerical and administrative workers	0		206
+Other Territories	Clerical and administrative workers	0		3
+Other Territories	Clerical and administrative workers	1	Local	31
+Other Territories	Clerical and administrative workers	1	National	44
+Other Territories	Clerical and administrative workers	1	State territory	13
+Other Territories	Community and personal service workers			3
+Other Territories	Community and personal service workers	0		296
+Other Territories	Community and personal service workers	0		7
+Other Territories	Community and personal service workers	1	Local	9
+Other Territories	Community and personal service workers	1	National	68
+Other Territories	Community and personal service workers	1	State territory	43
+Other Territories	Labourers			3
+Other Territories	Labourers	0		297
+Other Territories	Labourers	0		8
+Other Territories	Labourers	1	Local	19
+Other Territories	Labourers	1	National	3
+Other Territories	Labourers	1	State territory	5
+Other Territories	Machinery operators and drivers	0		145
+Other Territories	Machinery operators and drivers	0		9
+Other Territories	Machinery operators and drivers	1	Local	20
+Other Territories	Machinery operators and drivers	1	National	3
+Other Territories	Machinery operators and drivers	1	State territory	3
+Other Territories	Managers			4
+Other Territories	Managers	0		344
+Other Territories	Managers	0		6
+Other Territories	Managers	1	Local	22
+Other Territories	Managers	1	National	100
+Other Territories	Managers	1	State territory	28
+Other Territories	Professionals	0		275
+Other Territories	Professionals	1	Local	10
+Other Territories	Professionals	1	National	54
+Other Territories	Professionals	1	State territory	81
+Other Territories	Sales workers			4
+Other Territories	Sales workers	0		129
+Other Territories	Sales workers	0		3
+Other Territories	Sales workers	1	Local	3
+Other Territories	Sales workers	1	National	3
+Other Territories	Technicians and trades workers			6
+Other Territories	Technicians and trades workers	0		397
+Other Territories	Technicians and trades workers	0		12
+Other Territories	Technicians and trades workers	1	Local	26
+Other Territories	Technicians and trades workers	1	National	21
+Other Territories	Technicians and trades workers	1	State territory	9

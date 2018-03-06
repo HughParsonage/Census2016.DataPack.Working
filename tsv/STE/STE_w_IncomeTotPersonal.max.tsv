@@ -1,0 +1,136 @@
+STE_NAME16	IncomeTotPersonal.max	workers
+New South Wales		52696
+New South Wales	0	24381
+New South Wales	7875	106066
+New South Wales	15750	126895
+New South Wales	21000	145073
+New South Wales	26250	175329
+New South Wales	34125	271785
+New South Wales	42000	343367
+New South Wales	52500	412534
+New South Wales	65625	436034
+New South Wales	78750	309418
+New South Wales	91875	267076
+New South Wales	105000	194604
+New South Wales	157500	299282
+New South Wales	Inf	193640
+Victoria		48057
+Victoria	0	21918
+Victoria	7875	101743
+Victoria	15750	116469
+Victoria	21000	124336
+Victoria	26250	146660
+Victoria	34125	224888
+Victoria	42000	285595
+Victoria	52500	347980
+Victoria	65625	364645
+Victoria	78750	257355
+Victoria	91875	212003
+Victoria	105000	143699
+Victoria	157500	206618
+Victoria	Inf	128378
+Queensland		33572
+Queensland	0	17285
+Queensland	7875	74735
+Queensland	15750	82737
+Queensland	21000	91253
+Queensland	26250	111642
+Queensland	34125	183423
+Queensland	42000	237917
+Queensland	52500	279175
+Queensland	65625	288453
+Queensland	78750	200540
+Queensland	91875	173464
+Queensland	105000	111809
+Queensland	157500	160033
+Queensland	Inf	84843
+South Australia		10327
+South Australia	0	5430
+South Australia	7875	27504
+South Australia	15750	32971
+South Australia	21000	34669
+South Australia	26250	43463
+South Australia	34125	68220
+South Australia	42000	84260
+South Australia	52500	101295
+South Australia	65625	102953
+South Australia	78750	67681
+South Australia	91875	56321
+South Australia	105000	37952
+South Australia	157500	46990
+South Australia	Inf	22788
+Western Australia		17171
+Western Australia	0	8912
+Western Australia	7875	40317
+Western Australia	15750	44983
+Western Australia	21000	46718
+Western Australia	26250	54664
+Western Australia	34125	83064
+Western Australia	42000	98665
+Western Australia	52500	124006
+Western Australia	65625	146490
+Western Australia	78750	110915
+Western Australia	91875	100032
+Western Australia	105000	76427
+Western Australia	157500	132574
+Western Australia	Inf	81299
+Tasmania		2985
+Tasmania	0	1492
+Tasmania	7875	7945
+Tasmania	15750	9714
+Tasmania	21000	10819
+Tasmania	26250	13876
+Tasmania	34125	21936
+Tasmania	42000	26370
+Tasmania	52500	29413
+Tasmania	65625	29339
+Tasmania	78750	19187
+Tasmania	91875	15772
+Tasmania	105000	10293
+Tasmania	157500	11196
+Tasmania	Inf	5034
+Northern Territory		2240
+Northern Territory	0	702
+Northern Territory	7875	2270
+Northern Territory	15750	2964
+Northern Territory	21000	2788
+Northern Territory	26250	3495
+Northern Territory	34125	6077
+Northern Territory	42000	8186
+Northern Territory	52500	11527
+Northern Territory	65625	14994
+Northern Territory	78750	12390
+Northern Territory	91875	11102
+Northern Territory	105000	8726
+Northern Territory	157500	14307
+Northern Territory	Inf	7980
+Australian Capital Territory		2380
+Australian Capital Territory	0	976
+Australian Capital Territory	7875	7230
+Australian Capital Territory	15750	6849
+Australian Capital Territory	21000	6235
+Australian Capital Territory	26250	7453
+Australian Capital Territory	34125	11507
+Australian Capital Territory	42000	14802
+Australian Capital Territory	52500	20011
+Australian Capital Territory	65625	26517
+Australian Capital Territory	78750	26207
+Australian Capital Territory	91875	25968
+Australian Capital Territory	105000	18017
+Australian Capital Territory	157500	37335
+Australian Capital Territory	Inf	15987
+Other Territories		49
+Other Territories	0	22
+Other Territories	7875	55
+Other Territories	15750	83
+Other Territories	21000	121
+Other Territories	26250	150
+Other Territories	34125	250
+Other Territories	42000	306
+Other Territories	52500	324
+Other Territories	65625	334
+Other Territories	78750	242
+Other Territories	91875	238
+Other Territories	105000	207
+Other Territories	157500	279
+Other Territories	Inf	147

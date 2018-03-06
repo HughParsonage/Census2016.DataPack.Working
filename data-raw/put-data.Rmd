@@ -6,7 +6,7 @@ output: html_document
 ---
 
 ```{r Region}
-Region <- "STE"
+# Region <- "STE"
 ```
 
 ```{r setup}
@@ -17,17 +17,19 @@ knitr::opts_chunk$set(echo = TRUE,
 ```
 
 ```{r loadPackages}
-library(fastmatch)
-library(readxl)
-library(testthat)
-library(magrittr)
-library(hutils)
-library(data.table)
-library(ASGS)
-library(Census2016.DataPack)
+suppressMessages({
+  library(fastmatch)
+  library(readxl)
+  library(testthat)
+  library(magrittr)
+  library(hutils)
+  library(data.table)
+  library(ASGS)
+  library(Census2016.DataPack)
+  library(Census2016.spec)
+})
+options(warn = 2)
 ```
-
-
 
 ```{r Clear-tables}
 # Ensure we are working with pristine tables
@@ -51,6 +53,10 @@ if (!isTRUE(getOption("knitr.in.progress"))) {
     }
   }
 }
+```
+
+```{r SA16_decoder}
+SA16_decoder <- fread("~/Census2016.DataPack/data-raw/SA16_decoder.csv")
 ```
 
 ```{r Metadata}
@@ -359,6 +365,54 @@ provide_complementary_observation <- function(.data,
 }
 ```
 
+```{r decode_country}
+.decode_country <- function(x, to = "alpha-3") {
+  xna <- is.na(x)
+  x[!xna] <- trimws(x[!xna])
+  stopifnot(to == "alpha-3",
+            names(ISO3166)[1] == "name")
+  nom <- ISO3166[["name"]]
+  a3 <- ISO3166[["alpha_3"]]
+  keep <- and(nchar(x, keepNA = FALSE) == 3L,
+              x == toupper(x))
+  
+  res <- a3[pmatch(x, nom, duplicates.ok = TRUE)]
+  res[keep] <- x[keep]
+  if (anyNA(res[!xna])) {
+    print(data.table(x = x, res = res) %>% unique)
+    stop("Country code could not be decoded.")
+  }
+  res[xna] <- NA_character_
+  res
+}
+
+decode_country <- function(out) {
+  stopifnot(is.data.table(out),
+            "CountryOfBirth" %in% names(out))
+  out[, CountryOfBirth := trimws(gsub("_", " ", CountryOfBirth))]
+  out[, CountryOfBirth := gsub("(?<!(F))Ye?a?r.*arrival.ns$", "", CountryOfBirth, ignore.case = TRUE)]
+  out[CountryOfBirth %pin% "(Born )?[Ee]lsewhere", CountryOfBirth := NA_character_]
+  out[CountryOfBirth %pin% "Bosnia", CountryOfBirth := "Bosnia and Herzegovina"]
+  out[CountryOfBirth %pin% "Korea", CountryOfBirth := "KOR"]
+  out[CountryOfBirth %pin% c("N[a-z]+n Ireland",
+                             "England",
+                             "Scotland",
+                             "Wales"),
+      CountryOfBirth := "United Kingdom"]
+  out[CountryOfBirth %pin% "SE Europe nfd", CountryOfBirth := NA_character_]
+  out[CountryOfBirth == "Vietnam", CountryOfBirth := "VNM"]
+  # Negative lookbehind due to FYROM (Macedonia)
+  
+  
+  out[CountryOfBirth %pin% "FYROM",                   CountryOfBirth := "MKD"]
+  out[CountryOfBirth %pin% "China excl? (and )?SARs?.*Ta",  CountryOfBirth := "CHN"]
+  out[CountryOfBirth %pin% c("USA", "United States"), CountryOfBirth := "USA"]
+  out[CountryOfBirth %pin% "Ho?ng Ko?ng",             CountryOfBirth := "Hong Kong"]
+  out[, CountryOfBirth := .decode_country(CountryOfBirth)]
+  out[]
+}
+```
+
 
 ```{r}
 Mop <- function(DT, value.name = "workers", suborder = NULL, dry.run = FALSE) {
@@ -371,7 +425,7 @@ Mop <- function(DT, value.name = "workers", suborder = NULL, dry.run = FALSE) {
   
   if ("Sex" %in% names(DT) &&
       all(c("Persons", "Males", "Females") %chin% DT[["Sex"]])) {
-    Mop(DT[Sex != "Persons"],
+    Mop(DT[Sex != "Persons"][, Sex := substr(Sex, 0, 1)],
         value.name = value.name, suborder = suborder, dry.run = dry.run)
     Mop(DT[Sex == "Persons"][, Sex := NULL],
         value.name = value.name, suborder = suborder, dry.run = dry.run)
@@ -402,11 +456,40 @@ Mop <- function(DT, value.name = "workers", suborder = NULL, dry.run = FALSE) {
     set_cols_last(value.name) %>%
     .[]
   
-  if ("CountryOfBirth" %in% names(DT)) {
-    out[CountryOfBirth %pin% "Born elsewhere", CountryOfBirth := "(Born elsewhere)"]
+  rm(DT)
+  
+  if ("CountryOfBirth" %chin% names(out)) {
+    out <- decode_country(out)
   }
   
-  for (j in names(DT)) {
+  if ("LabourForceStatus" %chin% names(out)) {
+    out[LabourForceStatus == "Full-time",
+        LabourForceStatus := "Employed (full-time)"]
+      out[LabourForceStatus == "Part-time",
+        LabourForceStatus := "Employed (part-time)"]
+      out[LabourForceStatus == "Away from work",
+        LabourForceStatus := "Employed (away from work)"]
+  }
+  
+  if ("EnglishProficiency" %chin% names(out) &&
+      !identical(class(out[["EnglishProficiency"]]),
+                 c("ordered", "factor"))) {
+    out[,
+        EnglishProficiency := factor(EnglishProficiency,
+                                     levels = c("Speaks English not well or not at all",
+                                                "Speaks English well or very well"),
+                                     ordered = TRUE)]
+  }
+  
+  if ("YearOfArrival.max" %chin% names(out)) {
+    vYearOfarrival.max <- out[["YearOfArrival.max"]]
+    tryCatch(as.integer(vYearOfarrival.max),
+             warning = function(e) stop("YearOfArrival.max not coercible to integer."))
+    out[, YearOfArrival.max := as.integer(YearOfArrival.max)]
+  }
+  
+  
+  for (j in names(out)) {
    out[out[[j]] == "Other", (j) := "(Other)"]
   }
   
@@ -417,10 +500,12 @@ Mop <- function(DT, value.name = "workers", suborder = NULL, dry.run = FALSE) {
   cf_population <- 
     out[, list(ApparentPopulation = sum(eval(parse(text = value.name)))), keyby = Region_key] %>%
     .[totals, on = Region_key] %>%
-    .[, err_r := 1 - tot_workers / ApparentPopulation]
+    .[, err_r := 0] %>%
+    .[ApparentPopulation > 5L, err_r := 1 - tot_workers / ApparentPopulation] %>%
+    .[tot_workers > 5L, err_r := 0]
   
   wprop_wrong <- 
-    weighted.mean(abs(.subset2(cf_population, "err_r")) > 0.005 * ncol(DT), 
+    weighted.mean(abs(.subset2(cf_population, "err_r")) > 0.005 * ncol(out), 
                   .subset2(cf_population, "tot_workers"))
   
   cond <- wprop_wrong > 0.05
@@ -445,8 +530,8 @@ Mop <- function(DT, value.name = "workers", suborder = NULL, dry.run = FALSE) {
   }
   
   if (!is.null(suborder)) {
-    set_colsuborder(DT, suborder)
-    setorderv(DT, setdiff(names(out), value.name))
+    set_colsuborder(out, suborder)
+    setorderv(out, setdiff(names(out), value.name))
   }
   
   out_noms <- names(out)
@@ -462,7 +547,8 @@ Mop <- function(DT, value.name = "workers", suborder = NULL, dry.run = FALSE) {
   }
   
   decoded_out <- decodeRegion(out)
-  if (!anyDuplicated(decoded_out, by = setdiff(names(decoded_out), value.name))) {
+  if (!anyDuplicated(decoded_out,
+                     by = setdiff(names(decoded_out), value.name))) {
     out <- decoded_out 
   } else {
     cat("\n\n\n\n\n")
@@ -477,6 +563,7 @@ Mop <- function(DT, value.name = "workers", suborder = NULL, dry.run = FALSE) {
   } else {
     cat("OK\n")
   }
+  if (exists("in_for_loop")) cat("=")
   decoded_out[]
 }
 ```
@@ -782,7 +869,8 @@ freadW(4) %>%
   .[] %>%
   .[variable %npin% "Hours_worked_not_stated",
     LabourForceStatus := zmatch(variable, 
-                                y = c("Full-time", "Part-time"), 
+                                y = c("Employed (full-time)",
+                                      "Employed (part-time)"), 
                                 extract1 = c("^Employed_worked_(.*)_[0-9].*$"))] %>%
   extract_Age %>%
   .[] %>%
@@ -810,6 +898,11 @@ freadW(5) %>%
   .[, variable := sub("_Total$", "", variable)] %>%
   .[, variable := sub("Persons_", "", variable)] %>%
   extract_CountryOfBirth() %>%
+  .[CountryOfBirth %pin% "Other",
+    CountryOfBirth := NA_character_] %>%
+  .[, .(workers = sum(workers)),
+    keyby = c(Region_key, "CountryOfBirth")] %>%
+  .[]
   Mop
 ```
 
@@ -829,6 +922,11 @@ freadW(5) %>%
                                  extract1 = EmploymentStatus_regex)] %>%
   .[, variable := sub("^(.*)_([A-Z][^A-Z]+)$", "\\1", variable)] %>%
   extract_CountryOfBirth() %>%
+  .[CountryOfBirth %pin% "Other",
+    CountryOfBirth := NA_character_] %>%
+  .[, .(workers = sum(workers),
+        varI = varI[1]),
+    keyby = c(Region_key, "CountryOfBirth", "EmploymentStatus")] %>%
   Mop()
 ```
 
@@ -842,6 +940,11 @@ freadW(5) %>%
   .[variable %npin% "^Total"] %>%
   .[, variable := sub("_Total$", "", variable)] %>%
   extract_CountryOfBirth() %>%
+  .[CountryOfBirth %pin% c("Other", "Born.elsewhere"),
+    CountryOfBirth := NA_character_] %>%
+  .[, .(workers = sum(workers),
+        varI = varI[1]),
+    keyby = c(Region_key, "CountryOfBirth", "Sex")] %>%
   Mop()
 ```
 
@@ -863,6 +966,11 @@ freadW(5) %>%
                                  extract1 = EmploymentStatus_regex)] %>%
   .[, variable := sub("^(.*)_([A-Z][^A-Z]+)$", "\\1", variable)] %>%
   extract_CountryOfBirth() %>%
+  .[CountryOfBirth %pin% c("Other", "Born.elsewhere"),
+    CountryOfBirth := NA_character_] %>%
+  .[, .(workers = sum(workers),
+        varI = varI[1]),
+    keyby = c(Region_key, "CountryOfBirth", "EmploymentStatus", "Sex")] %>%
   Mop()
 ```
 
@@ -876,9 +984,15 @@ freadW(6) %>%
   
   .[variable %npin% "^Total"] %>%
 
-  .[variable %pin% "^[0-9]",
-    IncomeTotPersonal.min := 52L * as.integer(sub("^([0-9]+)_.*$", "\\1", variable))] %>%
-  .[variable %pin% "Negative_Nil_income", IncomeTotPersonal.min := -1L] %>%
+  .[and(variable %pin% "^[0-9]",
+        variable %npin% "^3000"),
+    IncomeTotPersonal.max := sub("^(1|[0-9]{3,4})_([0-9]{3,4})_.*$",
+                                 "\\2",
+                                 variable)] %>%
+  .[variable %pin% "^3000_or_more", IncomeTotPersonal.max := "Inf"] %>%
+  .[variable %pin% "Negative_Nil_income", IncomeTotPersonal.max := "0"] %>%
+  .[, IncomeTotPersonal.max := round(as.double(IncomeTotPersonal.max), -1)] %>%
+  .[, IncomeTotPersonal.max := 52.5 * IncomeTotPersonal.max] %>%
   .[, variable := sub("^.*(9|income|more|not_stated)_", "", variable)] %>%
   .[variable %npin% "Total$"] %>%
   .[, EmploymentStatus := zmatch(variable, 
@@ -898,10 +1012,17 @@ freadW(6) %>%
   .[, variable := sub("^(Persons)_", "", variable)] %>%
   
   .[variable %npin% "^Total"] %>%
-
-  .[variable %pin% "^[0-9]",
-    IncomeTotPersonal.min := 52L * as.integer(sub("^([0-9]+)_.*$", "\\1", variable))] %>%
-  .[variable %pin% "Negative_Nil_income", IncomeTotPersonal.min := -1L] %>%
+  
+  .[and(variable %pin% "^[0-9]",
+        variable %npin% "^3000"),
+    IncomeTotPersonal.max := sub("^(1|[0-9]{3,4})_([0-9]{3,4}).*$",
+                                 "\\2",
+                                 variable)] %>%
+  .[variable %pin% "^3000_or_more", IncomeTotPersonal.max := "Inf"] %>%
+  .[variable %pin% "Negative_Nil_income", IncomeTotPersonal.max := "0"] %>%
+  .[, IncomeTotPersonal.max := round(as.double(IncomeTotPersonal.max), -1)] %>%
+  .[, IncomeTotPersonal.max := 52.5 * IncomeTotPersonal.max] %>%
+  
   .[, variable := sub("^.*(9|income|more|not_stated)_", "", variable)] %>%
   .[variable %npin% "Total$"] %>%
   .[, EmploymentStatus := zmatch(variable, 
@@ -921,10 +1042,14 @@ freadW(6) %>%
   .[, variable := sub("^(?:Males|Females)_", "", variable)] %>%
   .[variable %pin% "Total$"] %>%
   .[, variable := sub("_Total$", "", variable)] %>%
-  .[] %>%
-  .[variable %pin% "^[0-9]",
-    IncomeTotPersonal.min := 52L * as.integer(sub("^([0-9]+)_.*$", "\\1", variable))] %>%
-  .[variable %pin% "Negative_Nil_income", IncomeTotPersonal.min := -1L] %>%
+  .[variable %pin% "^(1|[0-9]{3,4})_([0-9]{3,4})_.*$",
+    IncomeTotPersonal.max := sub("^(1|[0-9]{3,4})_([0-9]{3,4}).*$",
+                                 "\\2",
+                                 variable)] %>%
+  .[variable %pin% "^3000_or_more", IncomeTotPersonal.max := "Inf"] %>%
+  .[variable %pin% "Negative_Nil_income", IncomeTotPersonal.max := "0"] %>%
+  .[variable %pin% "not_stated$", IncomeTotPersonal.max := NA_character_] %>%
+  .[, IncomeTotPersonal.max := round(as.double(IncomeTotPersonal.max), -1)] %>%
   .[] %>%
   Mop
 ```
@@ -934,10 +1059,15 @@ freadW(6) %>%
 freadW(6) %>%
   .[variable %pin% "^Persons.*Total$"] %>%
   .[, variable := sub("^Persons_(.*)_Total$", "\\1", variable)] %>%
-  .[] %>%
-  .[variable %pin% "^[0-9]",
-    IncomeTotPersonal.min := 52L * as.integer(sub("^([0-9]+)_.*$", "\\1", variable))] %>%
-  .[variable %pin% "Negative_Nil_income", IncomeTotPersonal.min := -1L] %>%
+  .[and(variable %pin% "^[0-9]",
+        variable %npin% "^3000"),
+    IncomeTotPersonal.max := sub("^(1|[0-9]{3,4})_([0-9]{3,4}).*$",
+                                 "\\2",
+                                 variable)] %>%
+  .[variable %pin% "^3000_or_more", IncomeTotPersonal.max := "Inf"] %>%
+  .[variable %pin% "Negative_Nil_income", IncomeTotPersonal.max := "0"] %>%
+  .[variable %pin% "not_stated$", IncomeTotPersonal.max := NA_character_] %>%
+  .[, IncomeTotPersonal.max := 52.5 * round(as.double(IncomeTotPersonal.max), -1)] %>%
   .[] %>%
   Mop
 ```
@@ -950,7 +1080,8 @@ freadW(7, value.name = "workers_born_overseas") %>%
   .[variable %npin% "^Total"] %>%
   .[, IndustryOfEmployment := gsub("_", " ", 
                                    sub("_Year_of_arrival.*$", "", variable))] %>%
-  .[] %>%
+  .[IndustryOfEmployment %pin% "Inadequately described",
+    IndustryOfEmployment := NA_character_] %>%
   Mop("workers_born_overseas")
 ```
 
@@ -961,6 +1092,8 @@ freadW(7, value.name = "workers_born_overseas") %>%
   .[variable %pin% "_Total$"] %>%
   .[, variable := sub("_Total$", "", variable)] %>%
   .[, IndustryOfEmployment := gsub("_", " ", variable)] %>%
+  .[IndustryOfEmployment %pin% "Inadequately described",
+    IndustryOfEmployment := NA_character_] %>%
   .[] %>%
   Mop("workers_born_overseas")
 ```
@@ -1019,6 +1152,8 @@ freadW(11) %>%
     HoursWorked.min := as.integer(sub("^([0-9]+).*", "\\1", HoursWorked))] %>%
   .[, HoursWorked := NULL] %>%
   .[IndustryOfEmployment != "Total"] %>%
+  .[IndustryOfEmployment %pin% "Inadequately described", 
+    IndustryOfEmployment := NA_character_] %>%
   .[, .(workers = sum(workers),
         varI = first(varI)), 
     keyby = c(Region_key, "HoursWorked.min", "IndustryOfEmployment", "Sex")] %>%
@@ -1034,7 +1169,7 @@ freadW(12) %>%
   .[, .(workers = sum(workers),
         varI = first(varI)), 
     keyby = c(Region_key, "IndustryOfEmployment", "Occupation")] %>%
-  .[IndustryOfEmployment == "Inadequately described na", 
+  .[IndustryOfEmployment %pin% "Inadequately described", 
     IndustryOfEmployment := NA_character_] %>%
   .[Occupation == "Inadequately described na", 
     Occupation := NA_character_] %>%
@@ -1082,18 +1217,20 @@ freadW(15) %>%
   .[, variable := sub("National_Government", "National_government", variable)] %>%
   .[, variable := sub("Negative_Nil_income", "Negative_nil_income", variable)] %>%
   .[, variable := sub("([a-z])_([0-9])", "\\1_I\\2", variable)] %>%
-  splitW(EmployerType, IncomeTotPersonal.min, Occupation) %>%
+  splitW(EmployerType, IncomeTotPersonal.max, Occupation) %>%
   .[EmployerType != "Total"] %>%
-  .[IncomeTotPersonal.min != "Total"] %>%
+  .[IncomeTotPersonal.max != "Total"] %>%
   .[Occupation != "Total"] %>%
-  .[variable %pin% "Total_personal_income_not_stated",
-    IncomeTotPersonal.min := NA_character_] %>%
-  .[variable %npin% "Total_personal_income_not_stated",
-    IncomeTotPersonal.min := sub("^I([0-9]+)[^0-9].*$", "\\1", IncomeTotPersonal.min)] %>%
-  .[variable %pin% "Negative_nil_income",
-    IncomeTotPersonal.min := "-1"] %>%
-  .[, IncomeTotPersonal.min := as.integer(IncomeTotPersonal.min)] %>%
-  .[, IncomeTotPersonal.min := 52L * IncomeTotPersonal.min] %>%
+  .[IncomeTotPersonal.max %ein% "Negative nil income",
+    IncomeTotPersonal.max := "0"] %>%
+  .[IncomeTotPersonal.max %ein% "I3000 or more",
+    IncomeTotPersonal.max := "Inf"] %>%
+  .[IncomeTotPersonal.max %pin% "([0-9]+)9$",
+    IncomeTotPersonal.max := sub("^.* ([0-9]+)$", "\\1", IncomeTotPersonal.max)] %>%
+  .[IncomeTotPersonal.max %ein% "Total personal income not stated",
+    IncomeTotPersonal.max := NA_character_] %>%
+  .[, IncomeTotPersonal.max := round(as.double(IncomeTotPersonal.max), -1)] %>%
+  .[, IncomeTotPersonal.max := 52.5 * IncomeTotPersonal.max] %>%
   .[Occupation %ein% "Inadequately described na",
     Occupation := NA_character_] %>%
   
@@ -1103,7 +1240,7 @@ freadW(15) %>%
   .[, EmployerType := NULL] %>%
   
   .[] %>%
-  Mop(suborder = c("IncomeTotPersonal.min", "Occupation", "PublicSector", "LevelOfGovt"))
+  Mop(suborder = c("IncomeTotPersonal.max", "Occupation", "PublicSector", "LevelOfGovt"))
 
 ```
 
@@ -1114,17 +1251,20 @@ freadW(15) %>%
   .[, variable := sub("National_Government", "National_government", variable)] %>%
   .[, variable := sub("Negative_Nil_income", "Negative_nil_income", variable)] %>%
   .[, variable := sub("([a-z])_([0-9])", "\\1_I\\2", variable)] %>%
-  splitW(EmployerType, IncomeTotPersonal.min) %>%
+  splitW(EmployerType, IncomeTotPersonal.max) %>%
   .[EmployerType != "Total"] %>%
-  .[IncomeTotPersonal.min != "Total"] %>%
-  .[variable %pin% "Total_personal_income_not_stated",
-    IncomeTotPersonal.min := NA_character_] %>%
-  .[variable %npin% "Total_personal_income_not_stated",
-    IncomeTotPersonal.min := sub("^I([0-9]+)[^0-9].*$", "\\1", IncomeTotPersonal.min)] %>%
-  .[variable %pin% "Negative_nil_income",
-    IncomeTotPersonal.min := "-1"] %>%
-  .[, IncomeTotPersonal.min := as.integer(IncomeTotPersonal.min)] %>%
-  .[, IncomeTotPersonal.min := 52L * IncomeTotPersonal.min] %>%
+  .[IncomeTotPersonal.max != "Total"] %>%
+  .[IncomeTotPersonal.max %enotin% c("Negative nil income", 
+                                     "Total personal income not stated"),
+    IncomeTotPersonal.max := sub("^.* ([0-9]+)$", "\\1", IncomeTotPersonal.max)] %>%
+  .[IncomeTotPersonal.max %ein% "Negative nil income",
+    IncomeTotPersonal.max := "0"] %>%
+  .[IncomeTotPersonal.max %ein% "I3000 or more",
+    IncomeTotPersonal.max := "Inf"] %>%
+  .[IncomeTotPersonal.max %ein% "Total personal income not stated",
+    IncomeTotPersonal.max := NA_character_] %>%
+  .[, IncomeTotPersonal.max := as.double(IncomeTotPersonal.max)] %>%
+  .[, IncomeTotPersonal.max := 52.5 * round(IncomeTotPersonal.max, -1)] %>%
   .[] %>%
   .[, PublicSector := grepl("government", EmployerType, ignore.case = TRUE)] %>%
   .[variable %pin% "^Not_stated", PublicSector := NA] %>%
@@ -1132,7 +1272,7 @@ freadW(15) %>%
   .[, EmployerType := NULL] %>%
   
   .[] %>%
-  Mop(suborder = c("IncomeTotPersonal.min", "PublicSector", "LevelOfGovt"))
+  Mop(suborder = c("IncomeTotPersonal.max", "PublicSector", "LevelOfGovt"))
 ```
 
 ```{r}
@@ -1164,18 +1304,21 @@ freadW(16) %>%
   .[, variable := sub("Negative_Nil_income", "Negative_nil_income", variable)] %>%
   .[, variable := sub("([a-z])_(1|[0-9]{3,4})_([0-9]{3,4})_", "\\1_I\\2_\\3_", variable)] %>%
   .[, variable := sub("3000_or_more", "I3000_or_more", variable)] %>%
-  splitW(Occupation, IncomeTotPersonal.min, .Age) %>%
+  splitW(Occupation, IncomeTotPersonal.max, .Age) %>%
   .[Occupation != "Total"] %>%
-  .[IncomeTotPersonal.min != "Total"] %>%
+  .[IncomeTotPersonal.max != "Total"] %>%
   .[.Age != "Total"] %>%
-  .[variable %pin% "Total_personal_income_not_stated",
-    IncomeTotPersonal.min := NA_character_] %>%
-  .[variable %npin% "Total_personal_income_not_stated",
-    IncomeTotPersonal.min := sub("^I([0-9]+)[^0-9].*$", "\\1", IncomeTotPersonal.min)] %>%
-  .[variable %pin% "Negative_nil_income",
-    IncomeTotPersonal.min := "-1"] %>%
-  .[, IncomeTotPersonal.min := as.integer(IncomeTotPersonal.min)] %>%
-  .[, IncomeTotPersonal.min := 52L * IncomeTotPersonal.min] %>%
+  .[IncomeTotPersonal.max %enotin% c("Negative nil income", 
+                                     "Total personal income not stated"),
+    IncomeTotPersonal.max := sub("^.* ([0-9]+)$", "\\1", IncomeTotPersonal.max)] %>%
+  .[IncomeTotPersonal.max %ein% "Negative nil income",
+    IncomeTotPersonal.max := "0"] %>%
+  .[IncomeTotPersonal.max %ein% "I3000 or more",
+    IncomeTotPersonal.max := "Inf"] %>%
+  .[IncomeTotPersonal.max %ein% "Total personal income not stated",
+    IncomeTotPersonal.max := NA_character_] %>%
+  .[, IncomeTotPersonal.max := as.double(IncomeTotPersonal.max)] %>%
+  .[, IncomeTotPersonal.max := 52.5 * round(IncomeTotPersonal.max, -1)] %>%
   .[Occupation %pin% " na$", Occupation := NA_character_] %>%
   .[.Age %pin% "[0-9]{2} [0-9]{2}", 
     Age := sub("Age ([0-9]{2}) ([0-9]{2}) years", "\\1-\\2", .Age)] %>%
@@ -1194,21 +1337,24 @@ freadW(17) %>%
   .[, variable := sub("3000_or_more", "I3000_or_more", variable)] %>%
   .[, variable := gsub("N(umber_of_hours_worked.*)$", "N\\L\\1\\E", variable)] %>%
   .[] %>%
-  splitW(Occupation, IncomeTotPersonal.min, .HoursWorked) %>%
+  splitW(Occupation, IncomeTotPersonal.max, .HoursWorked) %>%
   .[, .HoursWorked := sub("Number of hours worked ", "", .HoursWorked)] %>%
   .[.HoursWorked %ein% "none", .HoursWorked := "0"] %>%
   .[.HoursWorked %ein% "not stated", .HoursWorked := NA_character_] %>%
   .[Occupation != "Total"] %>%
-  .[IncomeTotPersonal.min != "Total"] %>%
+  .[IncomeTotPersonal.max != "Total"] %>%
   .[.HoursWorked %enotin% "total"] %>%
-  .[variable %pin% "Total_personal_income_not_stated",
-    IncomeTotPersonal.min := NA_character_] %>%
-  .[variable %npin% "Total_personal_income_not_stated",
-    IncomeTotPersonal.min := sub("^I([0-9]+)[^0-9].*$", "\\1", IncomeTotPersonal.min)] %>%
-  .[variable %pin% "Negative_nil_income",
-    IncomeTotPersonal.min := "-1"] %>%
-  .[, IncomeTotPersonal.min := as.integer(IncomeTotPersonal.min)] %>%
-  .[, IncomeTotPersonal.min := 52L * IncomeTotPersonal.min] %>%
+  .[IncomeTotPersonal.max %enotin% c("Negative nil income", 
+                                     "Total personal income not stated"),
+    IncomeTotPersonal.max := sub("^.* ([0-9]+)$", "\\1", IncomeTotPersonal.max)] %>%
+  .[IncomeTotPersonal.max %ein% "Negative nil income",
+    IncomeTotPersonal.max := "0"] %>%
+  .[IncomeTotPersonal.max %ein% "I3000 or more",
+    IncomeTotPersonal.max := "Inf"] %>%
+  .[IncomeTotPersonal.max %ein% "Total personal income not stated",
+    IncomeTotPersonal.max := NA_character_] %>%
+  .[, IncomeTotPersonal.max := as.double(IncomeTotPersonal.max)] %>%
+  .[, IncomeTotPersonal.max := 52.5 * round(IncomeTotPersonal.max, -1)] %>%
   .[Occupation %pin% " na$", Occupation := NA_character_] %>%
   .[, 
     HoursWorked.min := as.integer(sub("^([0-9]+) .*$", "\\1", .HoursWorked))] %>%
@@ -1222,18 +1368,21 @@ freadW(18) %>%
   .[, variable := sub("([a-z])_(1|[0-9]{3,4})_([0-9]{3,4})_", "\\1_I\\2_\\3_", variable)] %>%
   .[, variable := sub("3000_or_more", "I3000_or_more", variable)] %>%
   .[, variable := gsub("N(umber_of_hours_worked.*)$", "N\\L\\1\\E", variable)] %>%
-  splitW(NonSchoolQualification, IncomeTotPersonal.min, Occupation) %>%
+  splitW(NonSchoolQualification, IncomeTotPersonal.max, Occupation) %>%
   .[Occupation != "Total"] %>%
-  .[IncomeTotPersonal.min != "Total"] %>%
+  .[IncomeTotPersonal.max != "Total"] %>%
   .[NonSchoolQualification %enotin% "Total"] %>%
-  .[variable %pin% "Total_personal_income_not_stated",
-    IncomeTotPersonal.min := NA_character_] %>%
-  .[variable %npin% "Total_personal_income_not_stated",
-    IncomeTotPersonal.min := sub("^I([0-9]+)[^0-9].*$", "\\1", IncomeTotPersonal.min)] %>%
-  .[variable %pin% "Negative_nil_income",
-    IncomeTotPersonal.min := "-1"] %>%
-  .[, IncomeTotPersonal.min := as.integer(IncomeTotPersonal.min)] %>%
-  .[, IncomeTotPersonal.min := 52L * IncomeTotPersonal.min] %>%
+  .[IncomeTotPersonal.max %enotin% c("Negative nil income", 
+                                     "Total personal income not stated"),
+    IncomeTotPersonal.max := sub("^.* ([0-9]+)$", "\\1", IncomeTotPersonal.max)] %>%
+  .[IncomeTotPersonal.max %ein% "Negative nil income",
+    IncomeTotPersonal.max := "0"] %>%
+  .[IncomeTotPersonal.max %ein% "I3000 or more",
+    IncomeTotPersonal.max := "Inf"] %>%
+  .[IncomeTotPersonal.max %ein% "Total personal income not stated",
+    IncomeTotPersonal.max := NA_character_] %>%
+  .[, IncomeTotPersonal.max := as.double(IncomeTotPersonal.max)] %>%
+  .[, IncomeTotPersonal.max := 52.5 * round(IncomeTotPersonal.max, -1)] %>%
   .[Occupation %pin% " na$", Occupation := NA_character_] %>%
   .[]
   Mop
@@ -1247,21 +1396,24 @@ freadW(19) %>%
   .[, variable := sub("3000_or_more", "I3000_or_more", variable)] %>%
   .[, variable := gsub("N(umber_of_hours_worked.*)$", "N\\L\\1\\E", variable)] %>%
   .[] %>%
-  splitW(Occupation, IncomeTotPersonal.min, .HoursWorked) %>%
+  splitW(Occupation, IncomeTotPersonal.max, .HoursWorked) %>%
   .[, .HoursWorked := sub("Number of hours worked ", "", .HoursWorked)] %>%
   .[.HoursWorked %ein% "none", .HoursWorked := "0"] %>%
   .[.HoursWorked %ein% "not stated", .HoursWorked := NA_character_] %>%
   .[Occupation != "Total"] %>%
-  .[IncomeTotPersonal.min != "Total"] %>%
+  .[IncomeTotPersonal.max != "Total"] %>%
   .[.HoursWorked %enotin% "total"] %>%
-  .[variable %pin% "Total_personal_income_not_stated",
-    IncomeTotPersonal.min := NA_character_] %>%
-  .[variable %npin% "Total_personal_income_not_stated",
-    IncomeTotPersonal.min := sub("^I([0-9]+)[^0-9].*$", "\\1", IncomeTotPersonal.min)] %>%
-  .[variable %pin% "Negative_nil_income",
-    IncomeTotPersonal.min := "-1"] %>%
-  .[, IncomeTotPersonal.min := as.integer(IncomeTotPersonal.min)] %>%
-  .[, IncomeTotPersonal.min := 52L * IncomeTotPersonal.min] %>%
+  .[IncomeTotPersonal.max %enotin% c("Negative nil income", 
+                                     "Total personal income not stated"),
+    IncomeTotPersonal.max := sub("^.* ([0-9]+)$", "\\1", IncomeTotPersonal.max)] %>%
+  .[IncomeTotPersonal.max %ein% "Negative nil income",
+    IncomeTotPersonal.max := "0"] %>%
+  .[IncomeTotPersonal.max %ein% "I3000 or more",
+    IncomeTotPersonal.max := "Inf"] %>%
+  .[IncomeTotPersonal.max %ein% "Total personal income not stated",
+    IncomeTotPersonal.max := NA_character_] %>%
+  .[, IncomeTotPersonal.max := as.double(IncomeTotPersonal.max)] %>%
+  .[, IncomeTotPersonal.max := 52.5 * round(IncomeTotPersonal.max, -1)] %>%
   .[Occupation %pin% " na$", Occupation := NA_character_] %>%
   .[, 
     HoursWorked.min := as.integer(sub("^([0-9]+) .*$", "\\1", .HoursWorked))] %>%
@@ -1327,6 +1479,147 @@ freadW(24) %>%
     NeedsAssistance := variable %ein% "Has_need_for_assistance"] %>%
   .[] %>%
   Mop
+```
+
+```{r use_data, eval=dir.exists("data")}
+# Print side-effect ok
+stopifnot(dir.exists("data"))
+ced_tbls <-
+  tables(silent = TRUE) %>%
+  use_series("NAME") %>%
+  grep(pattern = paste0("^", Region, "_"), x = ., value = TRUE)
+
+library(Census2016.spec)
+ced_data_list <- mget(ced_tbls)
+tryCatch(test_check(data_list = ced_data_list, show.progress = FALSE), 
+         error = function(e) {
+           test_check(data_list = ced_data_list, show.progress = TRUE)
+         })
+cat("| ")
+cat(crayon::green(Region), crayon::green("OK"), "\n")
+
+provide_normalize <- function(x) {
+  provide.dir(x)
+  normalizePath(x)
+}
+
+
+data_path <- "data"
+tsv_path <- provide_normalize(paste0("./tsv/", Region))
+
+
+prior_region_data_size <- prior_data_size <- NULL
+
+try({
+prior_data_size <- 
+  lapply(list.files(path = data_path,
+                    full.names = TRUE),
+         file.info) %>%
+  rbindlist %$%
+  sum(size) %>%
+  divide_by(1024^2) %>%
+  round(2)
+
+prior_region_data_size <-
+  lapply(list.files(path = data_path,
+                    pattern = Region,
+                    full.names = TRUE),
+         file.info) %>%
+  rbindlist %$%
+  sum(size) %>%
+  divide_by(1024^2) %>%
+  round(2)
+}, silent = TRUE)
+
+region_dtas <- c(list.files(path = "data/",
+                            pattern = Region,
+                            full.names = TRUE),
+                 list.files(path = file.path("data-raw", "data", Region),
+                            pattern = paste0(Region, ".*csv$"),
+                            full.names = TRUE))
+
+vapply(region_dtas,
+       file.remove,
+       logical(1)) %>%
+  all %>%
+  stopifnot
+
+library(foreach)
+library(doParallel)
+cl <- makeCluster(8)
+registerDoParallel(cl, cores = 8)
+# force data_path eval
+invisible(nchar(data_path))
+
+foreach(tbl = ced_tbls, .inorder = FALSE, .export = c(ced_tbls)) %dopar% {
+  save(list = tbl,
+       file = file.path(data_path, paste0(tbl, ".rda")),
+       compress = "gzip",
+       compression_level = 9)
+}
+stopImplicitCluster()
+stopCluster(cl)
+
+fwrite <- function(...) data.table::fwrite(..., sep = "\t")
+refwrite <- function(DT, file.tsv) {
+  fwrite(DT, file.tsv)
+  if ((file.size(file.tsv) / (50 * 1024^2)) > 1) {
+    NN <- nrow(DT)
+    DT1 <- DT[seq_len(NN %/% 2)]
+    DT2 <- DT[-seq_len(NN %/% 2)]
+    file.remove(file.tsv)
+    refwrite(DT1, sub("\\.tsv$", "1.tsv", file.tsv))
+    refwrite(DT2, sub("\\.tsv$", "2.tsv", file.tsv)) 
+  }
+}
+
+rm_zeros <- function(DT) {
+  v <- DT[[ncol(DT)]]
+  if (is.integer(v) &&
+      !anyNA(v) &&
+      min(v) == 0L) {
+    w <- which(v > 0L)
+    DT[w]
+  } else {
+    DT
+  }
+}
+
+for (tbl in ced_tbls) {
+  file.tsv <- file.path(tsv_path, paste0(tbl, ".tsv"))
+  .ced_tbl <- rm_zeros(get(tbl))
+  refwrite(.ced_tbl, file = file.tsv)
+}
+
+region_dtas <- list.files(path = "data/",
+                          pattern = Region,
+                          full.names = TRUE)
+# tools::resaveRdaFiles(paths = region_dtas)
+
+current_region_data_size <-
+  lapply(list.files(path = data_path,
+                    pattern = Region,
+                    full.names = TRUE),
+         file.info) %>%
+  rbindlist %$%
+  sum(size) %>%
+  divide_by(1024^2) %>%
+  round(2)
+
+current_data_size <- 
+  lapply(list.files(path = data_path,
+                    full.names = TRUE),
+         file.info) %>%
+  rbindlist %$%
+  sum(size) %>%
+  divide_by(1024^2) %>%
+  round(2)
+
+cat("\n")
+cat("Region:\t", prior_region_data_size, "MB  ===> ", current_region_data_size, "MB\n")
+cat("Total: \t", prior_data_size, "MB  ===> ", current_data_size, "MB\t")
+
+
 ```
 
 

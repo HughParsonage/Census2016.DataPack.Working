@@ -1,0 +1,271 @@
+STE_NAME16	IncomeTotPersonal.max	Sex	workers
+New South Wales		F	65013
+New South Wales		F	80998
+New South Wales		F	89323
+New South Wales		F	104502
+New South Wales		F	162287
+New South Wales		F	188521
+New South Wales		F	199725
+New South Wales		F	196601
+New South Wales		F	134561
+New South Wales		F	110785
+New South Wales		F	76137
+New South Wales		F	97132
+New South Wales		F	24068
+New South Wales		M	41055
+New South Wales		M	45893
+New South Wales		M	55749
+New South Wales		M	70825
+New South Wales		M	109494
+New South Wales		M	154840
+New South Wales		M	212808
+New South Wales		M	239433
+New South Wales		M	174851
+New South Wales		M	156298
+New South Wales		M	118472
+New South Wales		M	202151
+New South Wales		M	28626
+New South Wales	0	F	12436
+New South Wales	0	M	11941
+New South Wales	Inf	F	48279
+New South Wales	Inf	M	145366
+Victoria		F	62132
+Victoria		F	75289
+Victoria		F	77762
+Victoria		F	89372
+Victoria		F	136053
+Victoria		F	155450
+Victoria		F	166818
+Victoria		F	162800
+Victoria		F	110457
+Victoria		F	84099
+Victoria		F	50693
+Victoria		F	59944
+Victoria		F	22180
+Victoria		M	39610
+Victoria		M	41178
+Victoria		M	46572
+Victoria		M	57286
+Victoria		M	88833
+Victoria		M	130142
+Victoria		M	181161
+Victoria		M	201846
+Victoria		M	146901
+Victoria		M	127907
+Victoria		M	93006
+Victoria		M	146677
+Victoria		M	25875
+Victoria	0	F	11101
+Victoria	0	M	10819
+Victoria	Inf	F	30335
+Victoria	Inf	M	98038
+Queensland		F	45481
+Queensland		F	53719
+Queensland		F	58026
+Queensland		F	70567
+Queensland		F	116317
+Queensland		F	136657
+Queensland		F	137324
+Queensland		F	129477
+Queensland		F	84539
+Queensland		F	69956
+Queensland		F	38689
+Queensland		F	43922
+Queensland		F	15372
+Queensland		M	29248
+Queensland		M	29024
+Queensland		M	33227
+Queensland		M	41076
+Queensland		M	67103
+Queensland		M	101262
+Queensland		M	141859
+Queensland		M	158973
+Queensland		M	115999
+Queensland		M	103505
+Queensland		M	73124
+Queensland		M	116107
+Queensland		M	18200
+Queensland	0	F	8929
+Queensland	0	M	8352
+Queensland	Inf	F	17747
+Queensland	Inf	M	67093
+South Australia		F	16573
+South Australia		F	20839
+South Australia		F	21754
+South Australia		F	27191
+South Australia		F	42355
+South Australia		F	45873
+South Australia		F	47883
+South Australia		F	44924
+South Australia		F	28401
+South Australia		F	22605
+South Australia		F	13721
+South Australia		F	13037
+South Australia		F	4864
+South Australia		M	10934
+South Australia		M	12132
+South Australia		M	12916
+South Australia		M	16270
+South Australia		M	25865
+South Australia		M	38386
+South Australia		M	53411
+South Australia		M	58026
+South Australia		M	39277
+South Australia		M	33713
+South Australia		M	24237
+South Australia		M	33949
+South Australia		M	5469
+South Australia	0	F	2721
+South Australia	0	M	2716
+South Australia	Inf	F	5045
+South Australia	Inf	M	17746
+Western Australia		F	25207
+Western Australia		F	30195
+Western Australia		F	30824
+Western Australia		F	35535
+Western Australia		F	53838
+Western Australia		F	59921
+Western Australia		F	65276
+Western Australia		F	67868
+Western Australia		F	47568
+Western Australia		F	38247
+Western Australia		F	25772
+Western Australia		F	32808
+Western Australia		F	7706
+Western Australia		M	15108
+Western Australia		M	14787
+Western Australia		M	15897
+Western Australia		M	19128
+Western Australia		M	29227
+Western Australia		M	38740
+Western Australia		M	58737
+Western Australia		M	78627
+Western Australia		M	63350
+Western Australia		M	61777
+Western Australia		M	50651
+Western Australia		M	99766
+Western Australia		M	9463
+Western Australia	0	F	4785
+Western Australia	0	M	4132
+Western Australia	Inf	F	12819
+Western Australia	Inf	M	68481
+Tasmania		F	4896
+Tasmania		F	6307
+Tasmania		F	6951
+Tasmania		F	8888
+Tasmania		F	13624
+Tasmania		F	14337
+Tasmania		F	13467
+Tasmania		F	12750
+Tasmania		F	7974
+Tasmania		F	6192
+Tasmania		F	3746
+Tasmania		F	3339
+Tasmania		F	1360
+Tasmania		M	3044
+Tasmania		M	3408
+Tasmania		M	3865
+Tasmania		M	4992
+Tasmania		M	8313
+Tasmania		M	12037
+Tasmania		M	15948
+Tasmania		M	16586
+Tasmania		M	11214
+Tasmania		M	9579
+Tasmania		M	6542
+Tasmania		M	7859
+Tasmania		M	1621
+Tasmania	0	F	761
+Tasmania	0	M	729
+Tasmania	Inf	F	1204
+Tasmania	Inf	M	3830
+Northern Territory		F	1280
+Northern Territory		F	1754
+Northern Territory		F	1682
+Northern Territory		F	2121
+Northern Territory		F	3599
+Northern Territory		F	4756
+Northern Territory		F	6012
+Northern Territory		F	7243
+Northern Territory		F	5580
+Northern Territory		F	4763
+Northern Territory		F	3454
+Northern Territory		F	4069
+Northern Territory		F	951
+Northern Territory		M	987
+Northern Territory		M	1205
+Northern Territory		M	1107
+Northern Territory		M	1367
+Northern Territory		M	2482
+Northern Territory		M	3424
+Northern Territory		M	5515
+Northern Territory		M	7750
+Northern Territory		M	6806
+Northern Territory		M	6344
+Northern Territory		M	5277
+Northern Territory		M	10229
+Northern Territory		M	1285
+Northern Territory	0	F	369
+Northern Territory	0	M	332
+Northern Territory	Inf	F	1238
+Northern Territory	Inf	M	6750
+Australian Capital Territory		F	4239
+Australian Capital Territory		F	4208
+Australian Capital Territory		F	3834
+Australian Capital Territory		F	4401
+Australian Capital Territory		F	6754
+Australian Capital Territory		F	8421
+Australian Capital Territory		F	10425
+Australian Capital Territory		F	13744
+Australian Capital Territory		F	14109
+Australian Capital Territory		F	13425
+Australian Capital Territory		F	8402
+Australian Capital Territory		F	14711
+Australian Capital Territory		F	1146
+Australian Capital Territory		M	2987
+Australian Capital Territory		M	2636
+Australian Capital Territory		M	2397
+Australian Capital Territory		M	3055
+Australian Capital Territory		M	4755
+Australian Capital Territory		M	6381
+Australian Capital Territory		M	9587
+Australian Capital Territory		M	12772
+Australian Capital Territory		M	12097
+Australian Capital Territory		M	12538
+Australian Capital Territory		M	9621
+Australian Capital Territory		M	22622
+Australian Capital Territory		M	1235
+Australian Capital Territory	0	F	513
+Australian Capital Territory	0	M	462
+Australian Capital Territory	Inf	F	4152
+Australian Capital Territory	Inf	M	11833
+Other Territories		F	33
+Other Territories		F	56
+Other Territories		F	82
+Other Territories		F	92
+Other Territories		F	144
+Other Territories		F	154
+Other Territories		F	131
+Other Territories		F	125
+Other Territories		F	93
+Other Territories		F	77
+Other Territories		F	61
+Other Territories		F	67
+Other Territories		F	18
+Other Territories		M	15
+Other Territories		M	25
+Other Territories		M	36
+Other Territories		M	52
+Other Territories		M	108
+Other Territories		M	157
+Other Territories		M	192
+Other Territories		M	203
+Other Territories		M	151
+Other Territories		M	154
+Other Territories		M	147
+Other Territories		M	214
+Other Territories		M	34
+Other Territories	0	F	14
+Other Territories	0	M	10
+Other Territories	Inf	F	16
+Other Territories	Inf	M	130

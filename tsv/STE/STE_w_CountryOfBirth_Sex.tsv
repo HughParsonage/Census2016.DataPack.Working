@@ -1,0 +1,618 @@
+STE_NAME16	CountryOfBirth	Sex	workers
+New South Wales		F	113237
+New South Wales		M	139568
+New South Wales	AUS	F	1065881
+New South Wales	AUS	M	1148099
+New South Wales	CAN	F	4576
+New South Wales	CAN	M	4261
+New South Wales	CHN	F	55711
+New South Wales	CHN	M	53366
+New South Wales	HRV	F	2503
+New South Wales	HRV	M	2998
+New South Wales	EGY	F	3159
+New South Wales	EGY	M	5137
+New South Wales	FJI	F	10676
+New South Wales	FJI	M	10760
+New South Wales	MKD	F	3202
+New South Wales	MKD	M	3885
+New South Wales	DEU	F	6087
+New South Wales	DEU	M	6127
+New South Wales	GRC	F	2590
+New South Wales	GRC	M	4018
+New South Wales	HKG	F	12043
+New South Wales	HKG	M	12883
+New South Wales	IND	F	35813
+New South Wales	IND	M	57590
+New South Wales	IDN	F	9842
+New South Wales	IDN	M	9896
+New South Wales	IRN	F	4620
+New South Wales	IRN	M	6765
+New South Wales	IRQ	F	3923
+New South Wales	IRQ	M	7189
+New South Wales	IRL	F	7064
+New South Wales	IRL	M	9417
+New South Wales	ITA	F	5768
+New South Wales	ITA	M	9919
+New South Wales	JPN	F	5027
+New South Wales	JPN	M	2884
+New South Wales	LBN	F	7057
+New South Wales	LBN	M	15130
+New South Wales	MYS	F	9627
+New South Wales	MYS	M	9269
+New South Wales	MLT	F	1477
+New South Wales	MLT	M	2192
+New South Wales	NLD	F	2651
+New South Wales	NLD	M	3359
+New South Wales	NZL	F	34026
+New South Wales	NZL	M	39662
+New South Wales	PAK	F	2629
+New South Wales	PAK	M	9585
+New South Wales	PHL	F	32498
+New South Wales	PHL	M	24169
+New South Wales	POL	F	3660
+New South Wales	POL	M	3368
+New South Wales	SGP	F	3448
+New South Wales	SGP	M	3163
+New South Wales	ZAF	F	13639
+New South Wales	ZAF	M	15535
+New South Wales	KOR	F	13143
+New South Wales	KOR	M	15008
+New South Wales	LKA	F	7285
+New South Wales	LKA	M	10250
+New South Wales	THA	F	10816
+New South Wales	THA	M	6120
+New South Wales	TUR	F	2108
+New South Wales	TUR	M	3652
+New South Wales	GBR	F	63134
+New South Wales	GBR	M	78948
+New South Wales	USA	F	8391
+New South Wales	USA	M	8481
+New South Wales	VNM	F	20783
+New South Wales	VNM	M	22739
+New South Wales	ZWE	F	2281
+New South Wales	ZWE	M	2404
+Victoria		F	82290
+Victoria		M	101901
+Victoria	AUS	F	896507
+Victoria	AUS	M	953566
+Victoria	CAN	F	3229
+Victoria	CAN	M	2805
+Victoria	CHN	F	35113
+Victoria	CHN	M	32211
+Victoria	HRV	F	2490
+Victoria	HRV	M	3081
+Victoria	EGY	F	2055
+Victoria	EGY	M	3083
+Victoria	FJI	F	3430
+Victoria	FJI	M	3468
+Victoria	MKD	F	3169
+Victoria	MKD	M	4196
+Victoria	DEU	F	4775
+Victoria	DEU	M	5257
+Victoria	GRC	F	4207
+Victoria	GRC	M	6428
+Victoria	HKG	F	6080
+Victoria	HKG	M	6286
+Victoria	IND	F	41245
+Victoria	IND	M	69159
+Victoria	IDN	F	5061
+Victoria	IDN	M	4586
+Victoria	IRN	F	2646
+Victoria	IRN	M	4368
+Victoria	IRQ	F	1695
+Victoria	IRQ	M	3451
+Victoria	IRL	F	4419
+Victoria	IRL	M	5488
+Victoria	ITA	F	6883
+Victoria	ITA	M	11762
+Victoria	JPN	F	3022
+Victoria	JPN	M	1550
+Victoria	LBN	F	2059
+Victoria	LBN	M	4287
+Victoria	MYS	F	14221
+Victoria	MYS	M	13706
+Victoria	MLT	F	1843
+Victoria	MLT	M	2705
+Victoria	NLD	F	2681
+Victoria	NLD	M	3704
+Victoria	NZL	F	27754
+Victoria	NZL	M	31213
+Victoria	PAK	F	1973
+Victoria	PAK	M	8488
+Victoria	PHL	F	18731
+Victoria	PHL	M	13750
+Victoria	POL	F	3472
+Victoria	POL	M	3288
+Victoria	SGP	F	4187
+Victoria	SGP	M	3732
+Victoria	ZAF	F	8569
+Victoria	ZAF	M	9528
+Victoria	KOR	F	3768
+Victoria	KOR	M	4149
+Victoria	LKA	F	14235
+Victoria	LKA	M	20115
+Victoria	THA	F	5229
+Victoria	THA	M	2678
+Victoria	TUR	F	2152
+Victoria	TUR	M	4182
+Victoria	GBR	F	47735
+Victoria	GBR	M	58935
+Victoria	USA	F	5534
+Victoria	USA	M	5435
+Victoria	VNM	F	20342
+Victoria	VNM	M	21569
+Victoria	ZWE	F	1681
+Victoria	ZWE	M	1745
+Queensland		F	54323
+Queensland		M	59174
+Queensland	AUS	F	751193
+Queensland	AUS	M	806214
+Queensland	CAN	F	3547
+Queensland	CAN	M	3106
+Queensland	CHN	F	11135
+Queensland	CHN	M	9376
+Queensland	HRV	F	659
+Queensland	HRV	M	735
+Queensland	EGY	F	311
+Queensland	EGY	M	556
+Queensland	FJI	F	3858
+Queensland	FJI	M	3932
+Queensland	MKD	F	254
+Queensland	MKD	M	261
+Queensland	DEU	F	4410
+Queensland	DEU	M	4126
+Queensland	GRC	F	327
+Queensland	GRC	M	616
+Queensland	HKG	F	2817
+Queensland	HKG	M	2868
+Queensland	IND	F	11696
+Queensland	IND	M	19875
+Queensland	IDN	F	1877
+Queensland	IDN	M	1403
+Queensland	IRN	F	1144
+Queensland	IRN	M	1952
+Queensland	IRQ	F	199
+Queensland	IRQ	M	464
+Queensland	IRL	F	2981
+Queensland	IRL	M	3914
+Queensland	ITA	F	1611
+Queensland	ITA	M	2797
+Queensland	JPN	F	4593
+Queensland	JPN	M	2296
+Queensland	LBN	F	217
+Queensland	LBN	M	447
+Queensland	MYS	F	4284
+Queensland	MYS	M	4030
+Queensland	MLT	F	296
+Queensland	MLT	M	415
+Queensland	NLD	F	2203
+Queensland	NLD	M	2742
+Queensland	NZL	F	58510
+Queensland	NZL	M	64976
+Queensland	PAK	F	476
+Queensland	PAK	M	1740
+Queensland	PHL	F	14929
+Queensland	PHL	M	8331
+Queensland	POL	F	1352
+Queensland	POL	M	1153
+Queensland	SGP	F	1774
+Queensland	SGP	M	1578
+Queensland	ZAF	F	12345
+Queensland	ZAF	M	13798
+Queensland	KOR	F	4657
+Queensland	KOR	M	5505
+Queensland	LKA	F	2247
+Queensland	LKA	M	3268
+Queensland	THA	F	3810
+Queensland	THA	M	1469
+Queensland	TUR	F	216
+Queensland	TUR	M	528
+Queensland	GBR	F	49824
+Queensland	GBR	M	57630
+Queensland	USA	F	4394
+Queensland	USA	M	4510
+Queensland	VNM	F	5213
+Queensland	VNM	M	5010
+Queensland	ZWE	F	3046
+Queensland	ZWE	M	3345
+South Australia		F	16372
+South Australia		M	19960
+South Australia	AUS	F	272000
+South Australia	AUS	M	288571
+South Australia	CAN	F	707
+South Australia	CAN	M	654
+South Australia	CHN	F	5052
+South Australia	CHN	M	4409
+South Australia	HRV	F	445
+South Australia	HRV	M	497
+South Australia	EGY	F	163
+South Australia	EGY	M	326
+South Australia	FJI	F	372
+South Australia	FJI	M	369
+South Australia	MKD	F	60
+South Australia	MKD	M	73
+South Australia	DEU	F	1539
+South Australia	DEU	M	1591
+South Australia	GRC	F	726
+South Australia	GRC	M	1095
+South Australia	HKG	F	784
+South Australia	HKG	M	829
+South Australia	IND	F	6646
+South Australia	IND	M	10223
+South Australia	IDN	F	505
+South Australia	IDN	M	405
+South Australia	IRN	F	681
+South Australia	IRN	M	1076
+South Australia	IRQ	F	153
+South Australia	IRQ	M	248
+South Australia	IRL	F	696
+South Australia	IRL	M	922
+South Australia	ITA	F	1762
+South Australia	ITA	M	2846
+South Australia	JPN	F	522
+South Australia	JPN	M	253
+South Australia	LBN	F	242
+South Australia	LBN	M	373
+South Australia	MYS	F	2214
+South Australia	MYS	M	1911
+South Australia	MLT	F	142
+South Australia	MLT	M	215
+South Australia	NLD	F	907
+South Australia	NLD	M	1097
+South Australia	NZL	F	3567
+South Australia	NZL	M	4200
+South Australia	PAK	F	264
+South Australia	PAK	M	1006
+South Australia	PHL	F	4372
+South Australia	PHL	M	2808
+South Australia	POL	F	1155
+South Australia	POL	M	1068
+South Australia	SGP	F	644
+South Australia	SGP	M	570
+South Australia	ZAF	F	2005
+South Australia	ZAF	M	2100
+South Australia	KOR	F	972
+South Australia	KOR	M	881
+South Australia	LKA	F	859
+South Australia	LKA	M	1229
+South Australia	THA	F	923
+South Australia	THA	M	523
+South Australia	TUR	F	97
+South Australia	TUR	M	153
+South Australia	GBR	F	25042
+South Australia	GBR	M	27403
+South Australia	USA	F	1103
+South Australia	USA	M	1189
+South Australia	VNM	F	3587
+South Australia	VNM	M	3522
+South Australia	ZWE	F	506
+South Australia	ZWE	M	474
+Western Australia		F	34868
+Western Australia		M	41208
+Western Australia	AUS	F	326052
+Western Australia	AUS	M	376047
+Western Australia	CAN	F	1879
+Western Australia	CAN	M	1662
+Western Australia	CHN	F	6757
+Western Australia	CHN	M	6666
+Western Australia	HRV	F	883
+Western Australia	HRV	M	1005
+Western Australia	EGY	F	283
+Western Australia	EGY	M	565
+Western Australia	FJI	F	363
+Western Australia	FJI	M	453
+Western Australia	MKD	F	726
+Western Australia	MKD	M	840
+Western Australia	DEU	F	2822
+Western Australia	DEU	M	2577
+Western Australia	GRC	F	231
+Western Australia	GRC	M	371
+Western Australia	HKG	F	1735
+Western Australia	HKG	M	1821
+Western Australia	IND	F	11242
+Western Australia	IND	M	18620
+Western Australia	IDN	F	3266
+Western Australia	IDN	M	2708
+Western Australia	IRN	F	1175
+Western Australia	IRN	M	1832
+Western Australia	IRQ	F	272
+Western Australia	IRQ	M	653
+Western Australia	IRL	F	5397
+Western Australia	IRL	M	6915
+Western Australia	ITA	F	2345
+Western Australia	ITA	M	4183
+Western Australia	JPN	F	1532
+Western Australia	JPN	M	826
+Western Australia	LBN	F	159
+Western Australia	LBN	M	320
+Western Australia	MYS	F	8195
+Western Australia	MYS	M	8046
+Western Australia	MLT	F	142
+Western Australia	MLT	M	209
+Western Australia	NLD	F	1442
+Western Australia	NLD	M	1902
+Western Australia	NZL	F	22376
+Western Australia	NZL	M	30323
+Western Australia	PAK	F	491
+Western Australia	PAK	M	2133
+Western Australia	PHL	F	9138
+Western Australia	PHL	M	8744
+Western Australia	POL	F	1531
+Western Australia	POL	M	1336
+Western Australia	SGP	F	4130
+Western Australia	SGP	M	3922
+Western Australia	ZAF	F	12258
+Western Australia	ZAF	M	14009
+Western Australia	KOR	F	1760
+Western Australia	KOR	M	2305
+Western Australia	LKA	F	1713
+Western Australia	LKA	M	2810
+Western Australia	THA	F	2706
+Western Australia	THA	M	1047
+Western Australia	TUR	F	155
+Western Australia	TUR	M	391
+Western Australia	GBR	F	59581
+Western Australia	GBR	M	69815
+Western Australia	USA	F	2309
+Western Australia	USA	M	2703
+Western Australia	VNM	F	4601
+Western Australia	VNM	M	4505
+Western Australia	ZWE	F	3871
+Western Australia	ZWE	M	4392
+Tasmania		F	3770
+Tasmania		M	4087
+Tasmania	AUS	F	91387
+Tasmania	AUS	M	94211
+Tasmania	CAN	F	252
+Tasmania	CAN	M	234
+Tasmania	CHN	F	633
+Tasmania	CHN	M	537
+Tasmania	HRV	F	32
+Tasmania	HRV	M	27
+Tasmania	EGY	F	9
+Tasmania	EGY	M	32
+Tasmania	FJI	F	73
+Tasmania	FJI	M	66
+Tasmania	MKD	M	10
+Tasmania	DEU	F	365
+Tasmania	DEU	M	362
+Tasmania	GRC	F	56
+Tasmania	GRC	M	81
+Tasmania	HKG	F	115
+Tasmania	HKG	M	114
+Tasmania	IND	F	450
+Tasmania	IND	M	724
+Tasmania	IDN	F	73
+Tasmania	IDN	M	51
+Tasmania	IRN	F	50
+Tasmania	IRN	M	79
+Tasmania	IRQ	F	14
+Tasmania	IRQ	M	27
+Tasmania	IRL	F	145
+Tasmania	IRL	M	179
+Tasmania	ITA	F	80
+Tasmania	ITA	M	133
+Tasmania	JPN	F	142
+Tasmania	JPN	M	69
+Tasmania	LBN	F	16
+Tasmania	LBN	M	22
+Tasmania	MYS	F	346
+Tasmania	MYS	M	269
+Tasmania	MLT	F	11
+Tasmania	MLT	M	26
+Tasmania	NLD	F	261
+Tasmania	NLD	M	353
+Tasmania	NZL	F	1313
+Tasmania	NZL	M	1487
+Tasmania	PAK	F	33
+Tasmania	PAK	M	124
+Tasmania	PHL	F	589
+Tasmania	PHL	M	208
+Tasmania	POL	F	101
+Tasmania	POL	M	100
+Tasmania	SGP	F	137
+Tasmania	SGP	M	91
+Tasmania	ZAF	F	448
+Tasmania	ZAF	M	464
+Tasmania	KOR	F	163
+Tasmania	KOR	M	132
+Tasmania	LKA	F	97
+Tasmania	LKA	M	124
+Tasmania	THA	F	221
+Tasmania	THA	M	80
+Tasmania	TUR	F	12
+Tasmania	TUR	M	20
+Tasmania	GBR	F	3829
+Tasmania	GBR	M	4473
+Tasmania	USA	F	368
+Tasmania	USA	M	411
+Tasmania	VNM	F	122
+Tasmania	VNM	M	85
+Tasmania	ZWE	F	89
+Tasmania	ZWE	M	94
+Northern Territory		F	3513
+Northern Territory		M	4332
+Northern Territory	AUS	F	33653
+Northern Territory	AUS	M	42335
+Northern Territory	CAN	F	141
+Northern Territory	CAN	M	132
+Northern Territory	CHN	F	400
+Northern Territory	CHN	M	366
+Northern Territory	HRV	F	4
+Northern Territory	HRV	M	21
+Northern Territory	EGY	F	10
+Northern Territory	EGY	M	22
+Northern Territory	FJI	F	141
+Northern Territory	FJI	M	174
+Northern Territory	MKD	F	3
+Northern Territory	MKD	M	11
+Northern Territory	DEU	F	345
+Northern Territory	DEU	M	246
+Northern Territory	GRC	F	162
+Northern Territory	GRC	M	402
+Northern Territory	HKG	F	95
+Northern Territory	HKG	M	112
+Northern Territory	IND	F	980
+Northern Territory	IND	M	1560
+Northern Territory	IDN	F	415
+Northern Territory	IDN	M	245
+Northern Territory	IRN	F	35
+Northern Territory	IRN	M	77
+Northern Territory	IRQ	M	23
+Northern Territory	IRL	F	379
+Northern Territory	IRL	M	559
+Northern Territory	ITA	F	110
+Northern Territory	ITA	M	181
+Northern Territory	JPN	F	114
+Northern Territory	JPN	M	175
+Northern Territory	LBN	F	10
+Northern Territory	LBN	M	27
+Northern Territory	MYS	F	242
+Northern Territory	MYS	M	250
+Northern Territory	MLT	F	12
+Northern Territory	MLT	M	13
+Northern Territory	NLD	F	124
+Northern Territory	NLD	M	151
+Northern Territory	NZL	F	1585
+Northern Territory	NZL	M	2222
+Northern Territory	PAK	F	43
+Northern Territory	PAK	M	174
+Northern Territory	PHL	F	2127
+Northern Territory	PHL	M	1795
+Northern Territory	POL	F	41
+Northern Territory	POL	M	45
+Northern Territory	SGP	F	98
+Northern Territory	SGP	M	107
+Northern Territory	ZAF	F	303
+Northern Territory	ZAF	M	482
+Northern Territory	KOR	F	133
+Northern Territory	KOR	M	184
+Northern Territory	LKA	F	196
+Northern Territory	LKA	M	307
+Northern Territory	THA	F	390
+Northern Territory	THA	M	139
+Northern Territory	TUR	F	11
+Northern Territory	TUR	M	25
+Northern Territory	GBR	F	2177
+Northern Territory	GBR	M	2927
+Northern Territory	USA	F	312
+Northern Territory	USA	M	470
+Northern Territory	VNM	F	309
+Northern Territory	VNM	M	299
+Northern Territory	ZWE	F	268
+Northern Territory	ZWE	M	287
+Australian Capital Territory		F	6764
+Australian Capital Territory		M	7327
+Australian Capital Territory	AUS	F	81233
+Australian Capital Territory	AUS	M	81592
+Australian Capital Territory	CAN	F	444
+Australian Capital Territory	CAN	M	397
+Australian Capital Territory	CHN	F	2581
+Australian Capital Territory	CHN	M	2139
+Australian Capital Territory	HRV	F	206
+Australian Capital Territory	HRV	M	252
+Australian Capital Territory	EGY	F	77
+Australian Capital Territory	EGY	M	145
+Australian Capital Territory	FJI	F	350
+Australian Capital Territory	FJI	M	326
+Australian Capital Territory	MKD	F	209
+Australian Capital Territory	MKD	M	217
+Australian Capital Territory	DEU	F	517
+Australian Capital Territory	DEU	M	509
+Australian Capital Territory	GRC	F	126
+Australian Capital Territory	GRC	M	168
+Australian Capital Territory	HKG	F	536
+Australian Capital Territory	HKG	M	514
+Australian Capital Territory	IND	F	3137
+Australian Capital Territory	IND	M	4329
+Australian Capital Territory	IDN	F	390
+Australian Capital Territory	IDN	M	289
+Australian Capital Territory	IRN	F	199
+Australian Capital Territory	IRN	M	297
+Australian Capital Territory	IRQ	F	65
+Australian Capital Territory	IRQ	M	136
+Australian Capital Territory	IRL	F	259
+Australian Capital Territory	IRL	M	288
+Australian Capital Territory	ITA	F	314
+Australian Capital Territory	ITA	M	455
+Australian Capital Territory	JPN	F	291
+Australian Capital Territory	JPN	M	108
+Australian Capital Territory	LBN	F	93
+Australian Capital Territory	LBN	M	125
+Australian Capital Territory	MYS	F	808
+Australian Capital Territory	MYS	M	744
+Australian Capital Territory	MLT	F	54
+Australian Capital Territory	MLT	M	69
+Australian Capital Territory	NLD	F	197
+Australian Capital Territory	NLD	M	226
+Australian Capital Territory	NZL	F	1709
+Australian Capital Territory	NZL	M	1881
+Australian Capital Territory	PAK	F	320
+Australian Capital Territory	PAK	M	827
+Australian Capital Territory	PHL	F	1662
+Australian Capital Territory	PHL	M	1075
+Australian Capital Territory	POL	F	282
+Australian Capital Territory	POL	M	248
+Australian Capital Territory	SGP	F	292
+Australian Capital Territory	SGP	M	291
+Australian Capital Territory	ZAF	F	732
+Australian Capital Territory	ZAF	M	757
+Australian Capital Territory	KOR	F	675
+Australian Capital Territory	KOR	M	696
+Australian Capital Territory	LKA	F	901
+Australian Capital Territory	LKA	M	982
+Australian Capital Territory	THA	F	555
+Australian Capital Territory	THA	M	276
+Australian Capital Territory	TUR	F	60
+Australian Capital Territory	TUR	M	89
+Australian Capital Territory	GBR	F	4212
+Australian Capital Territory	GBR	M	5127
+Australian Capital Territory	USA	F	875
+Australian Capital Territory	USA	M	840
+Australian Capital Territory	VNM	F	1124
+Australian Capital Territory	VNM	M	999
+Australian Capital Territory	ZWE	F	240
+Australian Capital Territory	ZWE	M	253
+Other Territories		F	57
+Other Territories		M	105
+Other Territories	AUS	F	698
+Other Territories	AUS	M	993
+Other Territories	CAN	F	3
+Other Territories	CAN	M	3
+Other Territories	CHN	F	16
+Other Territories	CHN	M	23
+Other Territories	FJI	F	24
+Other Territories	FJI	M	19
+Other Territories	DEU	F	5
+Other Territories	DEU	M	3
+Other Territories	GRC	M	3
+Other Territories	HKG	M	5
+Other Territories	IND	F	5
+Other Territories	IND	M	12
+Other Territories	IDN	F	3
+Other Territories	IDN	M	4
+Other Territories	IRL	M	4
+Other Territories	ITA	M	4
+Other Territories	MYS	F	108
+Other Territories	MYS	M	156
+Other Territories	NLD	F	5
+Other Territories	NLD	M	3
+Other Territories	NZL	F	142
+Other Territories	NZL	M	125
+Other Territories	PAK	M	3
+Other Territories	PHL	F	25
+Other Territories	PHL	M	17
+Other Territories	POL	M	4
+Other Territories	SGP	F	12
+Other Territories	SGP	M	31
+Other Territories	ZAF	F	7
+Other Territories	ZAF	M	20
+Other Territories	KOR	F	3
+Other Territories	LKA	M	3
+Other Territories	THA	F	10
+Other Territories	THA	M	8
+Other Territories	GBR	F	49
+Other Territories	GBR	M	78
+Other Territories	USA	F	3
+Other Territories	USA	M	5
+Other Territories	ZWE	F	4

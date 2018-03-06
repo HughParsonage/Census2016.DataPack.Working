@@ -1,0 +1,516 @@
+SA4_NAME16	EmploymentStatus	workers
+Capital Region	Contributing family workers	2695
+Capital Region	Employee	55846
+Capital Region	Owner managers of incorporated enterprises	5364
+Capital Region	Owner managers of unincorporated enterprises	8352
+Capital Region	Status in employment not stated	983
+Central Coast	Contributing family workers	1503
+Central Coast	Employee	86009
+Central Coast	Owner managers of incorporated enterprises	7309
+Central Coast	Owner managers of unincorporated enterprises	8802
+Central Coast	Status in employment not stated	1115
+Central West	Contributing family workers	3014
+Central West	Employee	65855
+Central West	Owner managers of incorporated enterprises	4636
+Central West	Owner managers of unincorporated enterprises	8462
+Central West	Status in employment not stated	1230
+Coffs Harbour - Grafton	Contributing family workers	1278
+Coffs Harbour - Grafton	Employee	38947
+Coffs Harbour - Grafton	Owner managers of incorporated enterprises	2793
+Coffs Harbour - Grafton	Owner managers of unincorporated enterprises	5143
+Coffs Harbour - Grafton	Status in employment not stated	679
+Far West and Orana	Contributing family workers	2017
+Far West and Orana	Employee	35902
+Far West and Orana	Owner managers of incorporated enterprises	2396
+Far West and Orana	Owner managers of unincorporated enterprises	4780
+Far West and Orana	Status in employment not stated	791
+Hunter Valley exc Newcastle	Contributing family workers	1833
+Hunter Valley exc Newcastle	Employee	85601
+Hunter Valley exc Newcastle	Owner managers of incorporated enterprises	5279
+Hunter Valley exc Newcastle	Owner managers of unincorporated enterprises	6356
+Hunter Valley exc Newcastle	Status in employment not stated	1031
+Illawarra	Contributing family workers	1150
+Illawarra	Employee	87024
+Illawarra	Owner managers of incorporated enterprises	5851
+Illawarra	Owner managers of unincorporated enterprises	7018
+Illawarra	Status in employment not stated	981
+Mid North Coast	Contributing family workers	1913
+Mid North Coast	Employee	53800
+Mid North Coast	Owner managers of incorporated enterprises	4032
+Mid North Coast	Owner managers of unincorporated enterprises	7512
+Mid North Coast	Status in employment not stated	1098
+Murray	Contributing family workers	1794
+Murray	Employee	38679
+Murray	Owner managers of incorporated enterprises	3473
+Murray	Owner managers of unincorporated enterprises	4513
+Murray	Status in employment not stated	675
+New England and North West	Contributing family workers	3284
+New England and North West	Employee	57086
+New England and North West	Owner managers of incorporated enterprises	4170
+New England and North West	Owner managers of unincorporated enterprises	7997
+New England and North West	Status in employment not stated	1155
+Newcastle and Lake Macquarie	Contributing family workers	1443
+Newcastle and Lake Macquarie	Employee	135695
+Newcastle and Lake Macquarie	Owner managers of incorporated enterprises	8322
+Newcastle and Lake Macquarie	Owner managers of unincorporated enterprises	8916
+Newcastle and Lake Macquarie	Status in employment not stated	1220
+Richmond - Tweed	Contributing family workers	2171
+Richmond - Tweed	Employee	65750
+Richmond - Tweed	Owner managers of incorporated enterprises	5694
+Richmond - Tweed	Owner managers of unincorporated enterprises	10918
+Richmond - Tweed	Status in employment not stated	1241
+Riverina	Contributing family workers	2252
+Riverina	Employee	54742
+Riverina	Owner managers of incorporated enterprises	3920
+Riverina	Owner managers of unincorporated enterprises	6155
+Riverina	Status in employment not stated	918
+Southern Highlands and Shoalhaven	Contributing family workers	1170
+Southern Highlands and Shoalhaven	Employee	40058
+Southern Highlands and Shoalhaven	Owner managers of incorporated enterprises	3931
+Southern Highlands and Shoalhaven	Owner managers of unincorporated enterprises	5682
+Southern Highlands and Shoalhaven	Status in employment not stated	725
+Sydney - Baulkham Hills and Hawkesbury	Contributing family workers	1365
+Sydney - Baulkham Hills and Hawkesbury	Employee	63687
+Sydney - Baulkham Hills and Hawkesbury	Owner managers of incorporated enterprises	8603
+Sydney - Baulkham Hills and Hawkesbury	Owner managers of unincorporated enterprises	6180
+Sydney - Baulkham Hills and Hawkesbury	Status in employment not stated	642
+Sydney - Blacktown	Contributing family workers	1011
+Sydney - Blacktown	Employee	91894
+Sydney - Blacktown	Owner managers of incorporated enterprises	6677
+Sydney - Blacktown	Owner managers of unincorporated enterprises	5798
+Sydney - Blacktown	Status in employment not stated	1010
+Sydney - City and Inner South	Contributing family workers	2496
+Sydney - City and Inner South	Employee	523949
+Sydney - City and Inner South	Owner managers of incorporated enterprises	27651
+Sydney - City and Inner South	Owner managers of unincorporated enterprises	20300
+Sydney - City and Inner South	Status in employment not stated	3946
+Sydney - Eastern Suburbs	Contributing family workers	1300
+Sydney - Eastern Suburbs	Employee	72289
+Sydney - Eastern Suburbs	Owner managers of incorporated enterprises	8793
+Sydney - Eastern Suburbs	Owner managers of unincorporated enterprises	8693
+Sydney - Eastern Suburbs	Status in employment not stated	800
+Sydney - Inner South West	Contributing family workers	2170
+Sydney - Inner South West	Employee	119379
+Sydney - Inner South West	Owner managers of incorporated enterprises	13286
+Sydney - Inner South West	Owner managers of unincorporated enterprises	12103
+Sydney - Inner South West	Status in employment not stated	1690
+Sydney - Inner West	Contributing family workers	1346
+Sydney - Inner West	Employee	87300
+Sydney - Inner West	Owner managers of incorporated enterprises	9278
+Sydney - Inner West	Owner managers of unincorporated enterprises	8315
+Sydney - Inner West	Status in employment not stated	991
+Sydney - North Sydney and Hornsby	Contributing family workers	2408
+Sydney - North Sydney and Hornsby	Employee	178774
+Sydney - North Sydney and Hornsby	Owner managers of incorporated enterprises	18143
+Sydney - North Sydney and Hornsby	Owner managers of unincorporated enterprises	12866
+Sydney - North Sydney and Hornsby	Status in employment not stated	1448
+Sydney - Northern Beaches	Contributing family workers	1440
+Sydney - Northern Beaches	Employee	66096
+Sydney - Northern Beaches	Owner managers of incorporated enterprises	10930
+Sydney - Northern Beaches	Owner managers of unincorporated enterprises	9061
+Sydney - Northern Beaches	Status in employment not stated	708
+Sydney - Outer South West	Contributing family workers	940
+Sydney - Outer South West	Employee	66069
+Sydney - Outer South West	Owner managers of incorporated enterprises	5742
+Sydney - Outer South West	Owner managers of unincorporated enterprises	5034
+Sydney - Outer South West	Status in employment not stated	870
+Sydney - Outer West and Blue Mountains	Contributing family workers	1244
+Sydney - Outer West and Blue Mountains	Employee	85262
+Sydney - Outer West and Blue Mountains	Owner managers of incorporated enterprises	6976
+Sydney - Outer West and Blue Mountains	Owner managers of unincorporated enterprises	7889
+Sydney - Outer West and Blue Mountains	Status in employment not stated	899
+Sydney - Parramatta	Contributing family workers	1770
+Sydney - Parramatta	Employee	192017
+Sydney - Parramatta	Owner managers of incorporated enterprises	12808
+Sydney - Parramatta	Owner managers of unincorporated enterprises	9719
+Sydney - Parramatta	Status in employment not stated	2047
+Sydney - Ryde	Contributing family workers	834
+Sydney - Ryde	Employee	88232
+Sydney - Ryde	Owner managers of incorporated enterprises	5462
+Sydney - Ryde	Owner managers of unincorporated enterprises	4480
+Sydney - Ryde	Status in employment not stated	597
+Sydney - South West	Contributing family workers	1539
+Sydney - South West	Employee	104308
+Sydney - South West	Owner managers of incorporated enterprises	9485
+Sydney - South West	Owner managers of unincorporated enterprises	7632
+Sydney - South West	Status in employment not stated	1521
+Sydney - Sutherland	Contributing family workers	893
+Sydney - Sutherland	Employee	52554
+Sydney - Sutherland	Owner managers of incorporated enterprises	6737
+Sydney - Sutherland	Owner managers of unincorporated enterprises	5613
+Sydney - Sutherland	Status in employment not stated	587
+Migratory - Offshore - Shipping (NSW)	Employee	61
+Migratory - Offshore - Shipping (NSW)	Owner managers of incorporated enterprises	7
+Migratory - Offshore - Shipping (NSW)	Owner managers of unincorporated enterprises	16
+Migratory - Offshore - Shipping (NSW)	Status in employment not stated	3
+No usual address (NSW)	Contributing family workers	1997
+No usual address (NSW)	Employee	79636
+No usual address (NSW)	Owner managers of incorporated enterprises	17188
+No usual address (NSW)	Owner managers of unincorporated enterprises	41954
+No usual address (NSW)	Status in employment not stated	2587
+Ballarat	Contributing family workers	1462
+Ballarat	Employee	49149
+Ballarat	Owner managers of incorporated enterprises	3900
+Ballarat	Owner managers of unincorporated enterprises	4570
+Ballarat	Status in employment not stated	787
+Bendigo	Contributing family workers	1358
+Bendigo	Employee	49598
+Bendigo	Owner managers of incorporated enterprises	3776
+Bendigo	Owner managers of unincorporated enterprises	4919
+Bendigo	Status in employment not stated	747
+Geelong	Contributing family workers	1758
+Geelong	Employee	89726
+Geelong	Owner managers of incorporated enterprises	7213
+Geelong	Owner managers of unincorporated enterprises	7711
+Geelong	Status in employment not stated	1061
+Hume	Contributing family workers	2322
+Hume	Employee	53996
+Hume	Owner managers of incorporated enterprises	4596
+Hume	Owner managers of unincorporated enterprises	6598
+Hume	Status in employment not stated	1004
+Latrobe - Gippsland	Contributing family workers	2958
+Latrobe - Gippsland	Employee	79276
+Latrobe - Gippsland	Owner managers of incorporated enterprises	6251
+Latrobe - Gippsland	Owner managers of unincorporated enterprises	10180
+Latrobe - Gippsland	Status in employment not stated	1526
+Melbourne - Inner	Contributing family workers	4371
+Melbourne - Inner	Employee	613394
+Melbourne - Inner	Owner managers of incorporated enterprises	35541
+Melbourne - Inner	Owner managers of unincorporated enterprises	28224
+Melbourne - Inner	Status in employment not stated	4937
+Melbourne - Inner East	Contributing family workers	2178
+Melbourne - Inner East	Employee	117182
+Melbourne - Inner East	Owner managers of incorporated enterprises	12451
+Melbourne - Inner East	Owner managers of unincorporated enterprises	9454
+Melbourne - Inner East	Status in employment not stated	1066
+Melbourne - Inner South	Contributing family workers	2371
+Melbourne - Inner South	Employee	121609
+Melbourne - Inner South	Owner managers of incorporated enterprises	14883
+Melbourne - Inner South	Owner managers of unincorporated enterprises	12377
+Melbourne - Inner South	Status in employment not stated	1334
+Melbourne - North East	Contributing family workers	1973
+Melbourne - North East	Employee	117600
+Melbourne - North East	Owner managers of incorporated enterprises	11871
+Melbourne - North East	Owner managers of unincorporated enterprises	10149
+Melbourne - North East	Status in employment not stated	1613
+Melbourne - North West	Contributing family workers	1651
+Melbourne - North West	Employee	116945
+Melbourne - North West	Owner managers of incorporated enterprises	10181
+Melbourne - North West	Owner managers of unincorporated enterprises	7956
+Melbourne - North West	Status in employment not stated	1698
+Melbourne - Outer East	Contributing family workers	2813
+Melbourne - Outer East	Employee	140933
+Melbourne - Outer East	Owner managers of incorporated enterprises	14704
+Melbourne - Outer East	Owner managers of unincorporated enterprises	13187
+Melbourne - Outer East	Status in employment not stated	1516
+Melbourne - South East	Contributing family workers	3702
+Melbourne - South East	Employee	255405
+Melbourne - South East	Owner managers of incorporated enterprises	20522
+Melbourne - South East	Owner managers of unincorporated enterprises	16732
+Melbourne - South East	Status in employment not stated	2802
+Melbourne - West	Contributing family workers	2758
+Melbourne - West	Employee	185135
+Melbourne - West	Owner managers of incorporated enterprises	14686
+Melbourne - West	Owner managers of unincorporated enterprises	13378
+Melbourne - West	Status in employment not stated	2496
+Mornington Peninsula	Contributing family workers	1726
+Mornington Peninsula	Employee	72541
+Mornington Peninsula	Owner managers of incorporated enterprises	8622
+Mornington Peninsula	Owner managers of unincorporated enterprises	8485
+Mornington Peninsula	Status in employment not stated	1018
+North West	Contributing family workers	3127
+North West	Employee	46806
+North West	Owner managers of incorporated enterprises	4655
+North West	Owner managers of unincorporated enterprises	5841
+North West	Status in employment not stated	966
+Shepparton	Contributing family workers	1732
+Shepparton	Employee	42687
+Shepparton	Owner managers of incorporated enterprises	4058
+Shepparton	Owner managers of unincorporated enterprises	4538
+Shepparton	Status in employment not stated	792
+Warrnambool and South West	Contributing family workers	2095
+Warrnambool and South West	Employee	40769
+Warrnambool and South West	Owner managers of incorporated enterprises	3216
+Warrnambool and South West	Owner managers of unincorporated enterprises	6381
+Warrnambool and South West	Status in employment not stated	867
+Migratory - Offshore - Shipping (Vic.)	Contributing family workers	3
+Migratory - Offshore - Shipping (Vic.)	Employee	146
+Migratory - Offshore - Shipping (Vic.)	Owner managers of incorporated enterprises	3
+Migratory - Offshore - Shipping (Vic.)	Owner managers of unincorporated enterprises	4
+Migratory - Offshore - Shipping (Vic.)	Status in employment not stated	3
+No usual address (Vic.)	Contributing family workers	1616
+No usual address (Vic.)	Employee	66022
+No usual address (Vic.)	Owner managers of incorporated enterprises	15171
+No usual address (Vic.)	Owner managers of unincorporated enterprises	33984
+No usual address (Vic.)	Status in employment not stated	2241
+Brisbane - East	Contributing family workers	1150
+Brisbane - East	Employee	66546
+Brisbane - East	Owner managers of incorporated enterprises	6580
+Brisbane - East	Owner managers of unincorporated enterprises	5611
+Brisbane - East	Status in employment not stated	660
+Brisbane - North	Contributing family workers	787
+Brisbane - North	Employee	100183
+Brisbane - North	Owner managers of incorporated enterprises	5590
+Brisbane - North	Owner managers of unincorporated enterprises	5185
+Brisbane - North	Status in employment not stated	762
+Brisbane - South	Contributing family workers	1738
+Brisbane - South	Employee	134274
+Brisbane - South	Owner managers of incorporated enterprises	10014
+Brisbane - South	Owner managers of unincorporated enterprises	8580
+Brisbane - South	Status in employment not stated	1106
+Brisbane - West	Contributing family workers	754
+Brisbane - West	Employee	50142
+Brisbane - West	Owner managers of incorporated enterprises	4209
+Brisbane - West	Owner managers of unincorporated enterprises	4202
+Brisbane - West	Status in employment not stated	333
+Brisbane Inner City	Contributing family workers	1796
+Brisbane Inner City	Employee	282509
+Brisbane Inner City	Owner managers of incorporated enterprises	14874
+Brisbane Inner City	Owner managers of unincorporated enterprises	11227
+Brisbane Inner City	Status in employment not stated	1647
+Cairns	Contributing family workers	2176
+Cairns	Employee	81467
+Cairns	Owner managers of incorporated enterprises	6198
+Cairns	Owner managers of unincorporated enterprises	8288
+Cairns	Status in employment not stated	1172
+Darling Downs - Maranoa	Contributing family workers	3358
+Darling Downs - Maranoa	Employee	41926
+Darling Downs - Maranoa	Owner managers of incorporated enterprises	3793
+Darling Downs - Maranoa	Owner managers of unincorporated enterprises	6050
+Darling Downs - Maranoa	Status in employment not stated	824
+Central Queensland	Contributing family workers	2269
+Central Queensland	Employee	82907
+Central Queensland	Owner managers of incorporated enterprises	4378
+Central Queensland	Owner managers of unincorporated enterprises	6031
+Central Queensland	Status in employment not stated	977
+Gold Coast	Contributing family workers	4015
+Gold Coast	Employee	192614
+Gold Coast	Owner managers of incorporated enterprises	21627
+Gold Coast	Owner managers of unincorporated enterprises	18828
+Gold Coast	Status in employment not stated	2176
+Ipswich	Contributing family workers	1621
+Ipswich	Employee	93396
+Ipswich	Owner managers of incorporated enterprises	5245
+Ipswich	Owner managers of unincorporated enterprises	6650
+Ipswich	Status in employment not stated	996
+Logan - Beaudesert	Contributing family workers	1661
+Logan - Beaudesert	Employee	77663
+Logan - Beaudesert	Owner managers of incorporated enterprises	6961
+Logan - Beaudesert	Owner managers of unincorporated enterprises	7039
+Logan - Beaudesert	Status in employment not stated	918
+Mackay - Isaac - Whitsunday	Contributing family workers	1708
+Mackay - Isaac - Whitsunday	Employee	69420
+Mackay - Isaac - Whitsunday	Owner managers of incorporated enterprises	4290
+Mackay - Isaac - Whitsunday	Owner managers of unincorporated enterprises	4536
+Mackay - Isaac - Whitsunday	Status in employment not stated	887
+Moreton Bay - North	Contributing family workers	1218
+Moreton Bay - North	Employee	53721
+Moreton Bay - North	Owner managers of incorporated enterprises	4335
+Moreton Bay - North	Owner managers of unincorporated enterprises	5304
+Moreton Bay - North	Status in employment not stated	662
+Moreton Bay - South	Contributing family workers	884
+Moreton Bay - South	Employee	40022
+Moreton Bay - South	Owner managers of incorporated enterprises	4395
+Moreton Bay - South	Owner managers of unincorporated enterprises	4359
+Moreton Bay - South	Status in employment not stated	368
+Queensland - Outback	Contributing family workers	1390
+Queensland - Outback	Employee	30769
+Queensland - Outback	Owner managers of incorporated enterprises	1632
+Queensland - Outback	Owner managers of unincorporated enterprises	2515
+Queensland - Outback	Status in employment not stated	457
+Sunshine Coast	Contributing family workers	2897
+Sunshine Coast	Employee	101199
+Sunshine Coast	Owner managers of incorporated enterprises	12243
+Sunshine Coast	Owner managers of unincorporated enterprises	13410
+Sunshine Coast	Status in employment not stated	1232
+Toowoomba	Contributing family workers	1068
+Toowoomba	Employee	55026
+Toowoomba	Owner managers of incorporated enterprises	3665
+Toowoomba	Owner managers of unincorporated enterprises	3721
+Toowoomba	Status in employment not stated	580
+Townsville	Contributing family workers	1595
+Townsville	Employee	85203
+Townsville	Owner managers of incorporated enterprises	4784
+Townsville	Owner managers of unincorporated enterprises	5822
+Townsville	Status in employment not stated	869
+Wide Bay	Contributing family workers	3236
+Wide Bay	Employee	73936
+Wide Bay	Owner managers of incorporated enterprises	5102
+Wide Bay	Owner managers of unincorporated enterprises	8489
+Wide Bay	Status in employment not stated	1151
+Migratory - Offshore - Shipping (Qld)	Contributing family workers	6
+Migratory - Offshore - Shipping (Qld)	Employee	174
+Migratory - Offshore - Shipping (Qld)	Owner managers of incorporated enterprises	12
+Migratory - Offshore - Shipping (Qld)	Owner managers of unincorporated enterprises	15
+No usual address (Qld)	Contributing family workers	1522
+No usual address (Qld)	Employee	58038
+No usual address (Qld)	Owner managers of incorporated enterprises	10356
+No usual address (Qld)	Owner managers of unincorporated enterprises	27349
+No usual address (Qld)	Status in employment not stated	1566
+Adelaide - Central and Hills	Contributing family workers	2263
+Adelaide - Central and Hills	Employee	186406
+Adelaide - Central and Hills	Owner managers of incorporated enterprises	11651
+Adelaide - Central and Hills	Owner managers of unincorporated enterprises	12693
+Adelaide - Central and Hills	Status in employment not stated	1663
+Adelaide - North	Contributing family workers	1604
+Adelaide - North	Employee	106907
+Adelaide - North	Owner managers of incorporated enterprises	5736
+Adelaide - North	Owner managers of unincorporated enterprises	8690
+Adelaide - North	Status in employment not stated	1179
+Adelaide - South	Contributing family workers	1482
+Adelaide - South	Employee	82095
+Adelaide - South	Owner managers of incorporated enterprises	5683
+Adelaide - South	Owner managers of unincorporated enterprises	9081
+Adelaide - South	Status in employment not stated	892
+Adelaide - West	Contributing family workers	995
+Adelaide - West	Employee	107469
+Adelaide - West	Owner managers of incorporated enterprises	6095
+Adelaide - West	Owner managers of unincorporated enterprises	6601
+Adelaide - West	Status in employment not stated	1129
+Barossa - Yorke - Mid North	Contributing family workers	1983
+Barossa - Yorke - Mid North	Employee	30470
+Barossa - Yorke - Mid North	Owner managers of incorporated enterprises	2688
+Barossa - Yorke - Mid North	Owner managers of unincorporated enterprises	5149
+Barossa - Yorke - Mid North	Status in employment not stated	659
+South Australia - Outback	Contributing family workers	1046
+South Australia - Outback	Employee	30483
+South Australia - Outback	Owner managers of incorporated enterprises	1684
+South Australia - Outback	Owner managers of unincorporated enterprises	2858
+South Australia - Outback	Status in employment not stated	507
+South Australia - South East	Contributing family workers	3136
+South Australia - South East	Employee	53737
+South Australia - South East	Owner managers of incorporated enterprises	4366
+South Australia - South East	Owner managers of unincorporated enterprises	8262
+South Australia - South East	Status in employment not stated	1092
+Migratory - Offshore - Shipping (SA)	Employee	52
+Migratory - Offshore - Shipping (SA)	Owner managers of unincorporated enterprises	4
+No usual address (SA)	Contributing family workers	492
+No usual address (SA)	Employee	18810
+No usual address (SA)	Owner managers of incorporated enterprises	2837
+No usual address (SA)	Owner managers of unincorporated enterprises	11595
+No usual address (SA)	Status in employment not stated	577
+Bunbury	Contributing family workers	2083
+Bunbury	Employee	56601
+Bunbury	Owner managers of incorporated enterprises	4024
+Bunbury	Owner managers of unincorporated enterprises	6878
+Bunbury	Status in employment not stated	832
+Mandurah	Contributing family workers	495
+Mandurah	Employee	21708
+Mandurah	Owner managers of incorporated enterprises	1580
+Mandurah	Owner managers of unincorporated enterprises	2352
+Mandurah	Status in employment not stated	249
+Perth - Inner	Contributing family workers	1496
+Perth - Inner	Employee	204695
+Perth - Inner	Owner managers of incorporated enterprises	10994
+Perth - Inner	Owner managers of unincorporated enterprises	8920
+Perth - Inner	Status in employment not stated	1274
+Perth - North East	Contributing family workers	1441
+Perth - North East	Employee	73278
+Perth - North East	Owner managers of incorporated enterprises	6200
+Perth - North East	Owner managers of unincorporated enterprises	7130
+Perth - North East	Status in employment not stated	766
+Perth - North West	Contributing family workers	2267
+Perth - North West	Employee	130808
+Perth - North West	Owner managers of incorporated enterprises	11875
+Perth - North West	Owner managers of unincorporated enterprises	14423
+Perth - North West	Status in employment not stated	1280
+Perth - South East	Contributing family workers	2289
+Perth - South East	Employee	168143
+Perth - South East	Owner managers of incorporated enterprises	11485
+Perth - South East	Owner managers of unincorporated enterprises	12392
+Perth - South East	Status in employment not stated	1478
+Perth - South West	Contributing family workers	1992
+Perth - South West	Employee	128402
+Perth - South West	Owner managers of incorporated enterprises	9051
+Perth - South West	Owner managers of unincorporated enterprises	10571
+Perth - South West	Status in employment not stated	1145
+Western Australia - Wheat Belt	Contributing family workers	3516
+Western Australia - Wheat Belt	Employee	39943
+Western Australia - Wheat Belt	Owner managers of incorporated enterprises	4346
+Western Australia - Wheat Belt	Owner managers of unincorporated enterprises	7607
+Western Australia - Wheat Belt	Status in employment not stated	825
+Western Australia - Outback (North)	Contributing family workers	378
+Western Australia - Outback (North)	Employee	70407
+Western Australia - Outback (North)	Owner managers of incorporated enterprises	1764
+Western Australia - Outback (North)	Owner managers of unincorporated enterprises	1402
+Western Australia - Outback (North)	Status in employment not stated	674
+Western Australia - Outback (South)	Contributing family workers	1342
+Western Australia - Outback (South)	Employee	49896
+Western Australia - Outback (South)	Owner managers of incorporated enterprises	3089
+Western Australia - Outback (South)	Owner managers of unincorporated enterprises	3871
+Western Australia - Outback (South)	Status in employment not stated	637
+Migratory - Offshore - Shipping (WA)	Contributing family workers	5
+Migratory - Offshore - Shipping (WA)	Employee	1536
+Migratory - Offshore - Shipping (WA)	Owner managers of incorporated enterprises	22
+Migratory - Offshore - Shipping (WA)	Owner managers of unincorporated enterprises	23
+Migratory - Offshore - Shipping (WA)	Status in employment not stated	8
+No usual address (WA)	Contributing family workers	754
+No usual address (WA)	Employee	31862
+No usual address (WA)	Owner managers of incorporated enterprises	4660
+No usual address (WA)	Owner managers of unincorporated enterprises	16256
+No usual address (WA)	Status in employment not stated	848
+Hobart	Contributing family workers	983
+Hobart	Employee	86026
+Hobart	Owner managers of incorporated enterprises	4318
+Hobart	Owner managers of unincorporated enterprises	7088
+Hobart	Status in employment not stated	951
+Launceston and North East	Contributing family workers	1168
+Launceston and North East	Employee	45944
+Launceston and North East	Owner managers of incorporated enterprises	2885
+Launceston and North East	Owner managers of unincorporated enterprises	4516
+Launceston and North East	Status in employment not stated	617
+South East	Contributing family workers	510
+South East	Employee	6404
+South East	Owner managers of incorporated enterprises	567
+South East	Owner managers of unincorporated enterprises	1587
+South East	Status in employment not stated	195
+West and North West	Contributing family workers	936
+West and North West	Employee	35628
+West and North West	Owner managers of incorporated enterprises	2028
+West and North West	Owner managers of unincorporated enterprises	3194
+West and North West	Status in employment not stated	621
+Migratory - Offshore - Shipping (Tas.)	Employee	50
+Migratory - Offshore - Shipping (Tas.)	Owner managers of incorporated enterprises	3
+No usual address (Tas.)	Contributing family workers	126
+No usual address (Tas.)	Employee	5408
+No usual address (Tas.)	Owner managers of incorporated enterprises	613
+No usual address (Tas.)	Owner managers of unincorporated enterprises	2817
+No usual address (Tas.)	Status in employment not stated	170
+Darwin	Contributing family workers	575
+Darwin	Employee	64662
+Darwin	Owner managers of incorporated enterprises	3159
+Darwin	Owner managers of unincorporated enterprises	3025
+Darwin	Status in employment not stated	705
+Northern Territory - Outback	Contributing family workers	272
+Northern Territory - Outback	Employee	30812
+Northern Territory - Outback	Owner managers of incorporated enterprises	1242
+Northern Territory - Outback	Owner managers of unincorporated enterprises	1171
+Northern Territory - Outback	Status in employment not stated	361
+Migratory - Offshore - Shipping (NT)	Contributing family workers	4
+Migratory - Offshore - Shipping (NT)	Employee	88
+Migratory - Offshore - Shipping (NT)	Owner managers of incorporated enterprises	3
+Migratory - Offshore - Shipping (NT)	Owner managers of unincorporated enterprises	4
+No usual address (NT)	Contributing family workers	60
+No usual address (NT)	Employee	2493
+No usual address (NT)	Owner managers of incorporated enterprises	331
+No usual address (NT)	Owner managers of unincorporated enterprises	736
+No usual address (NT)	Status in employment not stated	61
+Australian Capital Territory	Contributing family workers	1301
+Australian Capital Territory	Employee	201286
+Australian Capital Territory	Owner managers of incorporated enterprises	9197
+Australian Capital Territory	Owner managers of unincorporated enterprises	7719
+Australian Capital Territory	Status in employment not stated	1151
+No usual address (ACT)	Contributing family workers	69
+No usual address (ACT)	Employee	4344
+No usual address (ACT)	Owner managers of incorporated enterprises	805
+No usual address (ACT)	Owner managers of unincorporated enterprises	1534
+No usual address (ACT)	Status in employment not stated	78
+Other Territories	Contributing family workers	49
+Other Territories	Employee	2215
+Other Territories	Owner managers of incorporated enterprises	93
+Other Territories	Owner managers of unincorporated enterprises	272
+Other Territories	Status in employment not stated	62
+No usual address (OT)	Contributing family workers	3
+No usual address (OT)	Employee	92
+No usual address (OT)	Owner managers of incorporated enterprises	13
+No usual address (OT)	Owner managers of unincorporated enterprises	11

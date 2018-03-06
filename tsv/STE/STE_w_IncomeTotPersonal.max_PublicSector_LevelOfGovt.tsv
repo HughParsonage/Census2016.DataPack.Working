@@ -1,0 +1,655 @@
+STE_NAME16	IncomeTotPersonal.max	PublicSector	LevelOfGovt	workers
+New South Wales				9049
+New South Wales		0		39535
+New South Wales		1	Local	513
+New South Wales		1	National	896
+New South Wales		1	State territory	2701
+New South Wales	0			1877
+New South Wales	0	0		21649
+New South Wales	0	1	Local	78
+New South Wales	0	1	National	295
+New South Wales	0	1	State territory	482
+New South Wales	7875			1797
+New South Wales	7875	0		100978
+New South Wales	7875	1	Local	349
+New South Wales	7875	1	National	1370
+New South Wales	7875	1	State territory	1569
+New South Wales	15750			2592
+New South Wales	15750	0		118273
+New South Wales	15750	1	Local	556
+New South Wales	15750	1	National	2160
+New South Wales	15750	1	State territory	3306
+New South Wales	21000			3222
+New South Wales	21000	0		134767
+New South Wales	21000	1	Local	748
+New South Wales	21000	1	National	1897
+New South Wales	21000	1	State territory	4440
+New South Wales	26250			3276
+New South Wales	26250	0		162267
+New South Wales	26250	1	Local	1093
+New South Wales	26250	1	National	2523
+New South Wales	26250	1	State territory	6161
+New South Wales	34125			4342
+New South Wales	34125	0		248285
+New South Wales	34125	1	Local	2130
+New South Wales	34125	1	National	4619
+New South Wales	34125	1	State territory	12405
+New South Wales	42000			4638
+New South Wales	42000	0		310004
+New South Wales	42000	1	Local	3735
+New South Wales	42000	1	National	6123
+New South Wales	42000	1	State territory	18863
+New South Wales	52500			4521
+New South Wales	52500	0		361590
+New South Wales	52500	1	Local	7487
+New South Wales	52500	1	National	9020
+New South Wales	52500	1	State territory	29919
+New South Wales	65625			3770
+New South Wales	65625	0		363516
+New South Wales	65625	1	Local	10177
+New South Wales	65625	1	National	14953
+New South Wales	65625	1	State territory	43617
+New South Wales	78750			2039
+New South Wales	78750	0		242590
+New South Wales	78750	1	Local	6978
+New South Wales	78750	1	National	16595
+New South Wales	78750	1	State territory	41210
+New South Wales	91875			1497
+New South Wales	91875	0		201309
+New South Wales	91875	1	Local	5399
+New South Wales	91875	1	National	15437
+New South Wales	91875	1	State territory	43435
+New South Wales	105000			932
+New South Wales	105000	0		137591
+New South Wales	105000	1	Local	3441
+New South Wales	105000	1	National	10951
+New South Wales	105000	1	State territory	41697
+New South Wales	157500			1087
+New South Wales	157500	0		229109
+New South Wales	157500	1	Local	3706
+New South Wales	157500	1	National	18229
+New South Wales	157500	1	State territory	47151
+New South Wales	Inf			952
+New South Wales	Inf	0		169955
+New South Wales	Inf	1	Local	1253
+New South Wales	Inf	1	National	7286
+New South Wales	Inf	1	State territory	14194
+Victoria				7754
+Victoria		0		36678
+Victoria		1	Local	487
+Victoria		1	National	820
+Victoria		1	State territory	2311
+Victoria	0			1578
+Victoria	0	0		19536
+Victoria	0	1	Local	69
+Victoria	0	1	National	302
+Victoria	0	1	State territory	439
+Victoria	7875			1691
+Victoria	7875	0		96864
+Victoria	7875	1	Local	605
+Victoria	7875	1	National	1175
+Victoria	7875	1	State territory	1410
+Victoria	15750			2120
+Victoria	15750	0		107894
+Victoria	15750	1	Local	1327
+Victoria	15750	1	National	2008
+Victoria	15750	1	State territory	3117
+Victoria	21000			2437
+Victoria	21000	0		114396
+Victoria	21000	1	Local	1280
+Victoria	21000	1	National	1804
+Victoria	21000	1	State territory	4416
+Victoria	26250			2629
+Victoria	26250	0		132936
+Victoria	26250	1	Local	1859
+Victoria	26250	1	National	2399
+Victoria	26250	1	State territory	6834
+Victoria	34125			3191
+Victoria	34125	0		200468
+Victoria	34125	1	Local	3119
+Victoria	34125	1	National	4433
+Victoria	34125	1	State territory	13678
+Victoria	42000			3660
+Victoria	42000	0		254960
+Victoria	42000	1	Local	3528
+Victoria	42000	1	National	5654
+Victoria	42000	1	State territory	17796
+Victoria	52500			3532
+Victoria	52500	0		305608
+Victoria	52500	1	Local	4596
+Victoria	52500	1	National	8100
+Victoria	52500	1	State territory	26135
+Victoria	65625			2720
+Victoria	65625	0		303399
+Victoria	65625	1	Local	6864
+Victoria	65625	1	National	12624
+Victoria	65625	1	State territory	39040
+Victoria	78750			1577
+Victoria	78750	0		201633
+Victoria	78750	1	Local	5035
+Victoria	78750	1	National	13505
+Victoria	78750	1	State territory	35605
+Victoria	91875			1022
+Victoria	91875	0		160796
+Victoria	91875	1	Local	4701
+Victoria	91875	1	National	13155
+Victoria	91875	1	State territory	32324
+Victoria	105000			666
+Victoria	105000	0		107709
+Victoria	105000	1	Local	2526
+Victoria	105000	1	National	8789
+Victoria	105000	1	State territory	24015
+Victoria	157500			735
+Victoria	157500	0		165053
+Victoria	157500	1	Local	2685
+Victoria	157500	1	National	14412
+Victoria	157500	1	State territory	23733
+Victoria	Inf			685
+Victoria	Inf	0		113107
+Victoria	Inf	1	Local	798
+Victoria	Inf	1	National	5433
+Victoria	Inf	1	State territory	8354
+Queensland				5414
+Queensland		0		25213
+Queensland		1	Local	398
+Queensland		1	National	521
+Queensland		1	State territory	2032
+Queensland	0			986
+Queensland	0	0		15612
+Queensland	0	1	Local	31
+Queensland	0	1	National	265
+Queensland	0	1	State territory	397
+Queensland	7875			1002
+Queensland	7875	0		71210
+Queensland	7875	1	Local	123
+Queensland	7875	1	National	972
+Queensland	7875	1	State territory	1415
+Queensland	15750			1334
+Queensland	15750	0		76888
+Queensland	15750	1	Local	301
+Queensland	15750	1	National	1418
+Queensland	15750	1	State territory	2793
+Queensland	21000			1597
+Queensland	21000	0		84282
+Queensland	21000	1	Local	406
+Queensland	21000	1	National	1222
+Queensland	21000	1	State territory	3748
+Queensland	26250			1719
+Queensland	26250	0		102208
+Queensland	26250	1	Local	620
+Queensland	26250	1	National	1576
+Queensland	26250	1	State territory	5515
+Queensland	34125			2169
+Queensland	34125	0		165294
+Queensland	34125	1	Local	1391
+Queensland	34125	1	National	2823
+Queensland	34125	1	State territory	11740
+Queensland	42000			2452
+Queensland	42000	0		213967
+Queensland	42000	1	Local	2524
+Queensland	42000	1	National	3447
+Queensland	42000	1	State territory	15528
+Queensland	52500			2421
+Queensland	52500	0		244387
+Queensland	52500	1	Local	5005
+Queensland	52500	1	National	5884
+Queensland	52500	1	State territory	21479
+Queensland	65625			1983
+Queensland	65625	0		232320
+Queensland	65625	1	Local	8193
+Queensland	65625	1	National	11085
+Queensland	65625	1	State territory	34869
+Queensland	78750			1068
+Queensland	78750	0		147977
+Queensland	78750	1	Local	5845
+Queensland	78750	1	National	12308
+Queensland	78750	1	State territory	33342
+Queensland	91875			723
+Queensland	91875	0		120762
+Queensland	91875	1	Local	4059
+Queensland	91875	1	National	10081
+Queensland	91875	1	State territory	37830
+Queensland	105000			450
+Queensland	105000	0		77454
+Queensland	105000	1	Local	2168
+Queensland	105000	1	National	6223
+Queensland	105000	1	State territory	25521
+Queensland	157500			507
+Queensland	157500	0		118845
+Queensland	157500	1	Local	2510
+Queensland	157500	1	National	9187
+Queensland	157500	1	State territory	28988
+Queensland	Inf			426
+Queensland	Inf	0		73705
+Queensland	Inf	1	Local	860
+Queensland	Inf	1	National	2776
+Queensland	Inf	1	State territory	7075
+South Australia				1422
+South Australia		0		8011
+South Australia		1	Local	86
+South Australia		1	National	218
+South Australia		1	State territory	594
+South Australia	0			319
+South Australia	0	0		4888
+South Australia	0	1	Local	10
+South Australia	0	1	National	98
+South Australia	0	1	State territory	112
+South Australia	7875			351
+South Australia	7875	0		26409
+South Australia	7875	1	Local	50
+South Australia	7875	1	National	312
+South Australia	7875	1	State territory	391
+South Australia	15750			518
+South Australia	15750	0		31010
+South Australia	15750	1	Local	91
+South Australia	15750	1	National	457
+South Australia	15750	1	State territory	891
+South Australia	21000			521
+South Australia	21000	0		32352
+South Australia	21000	1	Local	136
+South Australia	21000	1	National	417
+South Australia	21000	1	State territory	1240
+South Australia	26250			574
+South Australia	26250	0		40135
+South Australia	26250	1	Local	231
+South Australia	26250	1	National	564
+South Australia	26250	1	State territory	1958
+South Australia	34125			638
+South Australia	34125	0		62171
+South Australia	34125	1	Local	388
+South Australia	34125	1	National	1088
+South Australia	34125	1	State territory	3933
+South Australia	42000			694
+South Australia	42000	0		76523
+South Australia	42000	1	Local	555
+South Australia	42000	1	National	1226
+South Australia	42000	1	State territory	5259
+South Australia	52500			664
+South Australia	52500	0		89242
+South Australia	52500	1	Local	1122
+South Australia	52500	1	National	2154
+South Australia	52500	1	State territory	8112
+South Australia	65625			507
+South Australia	65625	0		84000
+South Australia	65625	1	Local	2362
+South Australia	65625	1	National	3988
+South Australia	65625	1	State territory	12088
+South Australia	78750			282
+South Australia	78750	0		50995
+South Australia	78750	1	Local	1611
+South Australia	78750	1	National	4491
+South Australia	78750	1	State territory	10299
+South Australia	91875			179
+South Australia	91875	0		39601
+South Australia	91875	1	Local	1159
+South Australia	91875	1	National	4320
+South Australia	91875	1	State territory	11058
+South Australia	105000			96
+South Australia	105000	0		25853
+South Australia	105000	1	Local	648
+South Australia	105000	1	National	2834
+South Australia	105000	1	State territory	8529
+South Australia	157500			100
+South Australia	157500	0		33568
+South Australia	157500	1	Local	634
+South Australia	157500	1	National	4137
+South Australia	157500	1	State territory	8546
+South Australia	Inf			118
+South Australia	Inf	0		18959
+South Australia	Inf	1	Local	173
+South Australia	Inf	1	National	1099
+South Australia	Inf	1	State territory	2438
+Western Australia				2569
+Western Australia		0		13203
+Western Australia		1	Local	163
+Western Australia		1	National	231
+Western Australia		1	State territory	1008
+Western Australia	0			474
+Western Australia	0	0		8059
+Western Australia	0	1	Local	25
+Western Australia	0	1	National	123
+Western Australia	0	1	State territory	232
+Western Australia	7875			555
+Western Australia	7875	0		38375
+Western Australia	7875	1	Local	222
+Western Australia	7875	1	National	359
+Western Australia	7875	1	State territory	806
+Western Australia	15750			608
+Western Australia	15750	0		41740
+Western Australia	15750	1	Local	331
+Western Australia	15750	1	National	593
+Western Australia	15750	1	State territory	1715
+Western Australia	21000			653
+Western Australia	21000	0		42890
+Western Australia	21000	1	Local	375
+Western Australia	21000	1	National	557
+Western Australia	21000	1	State territory	2244
+Western Australia	26250			711
+Western Australia	26250	0		49748
+Western Australia	26250	1	Local	487
+Western Australia	26250	1	National	715
+Western Australia	26250	1	State territory	3004
+Western Australia	34125			923
+Western Australia	34125	0		74040
+Western Australia	34125	1	Local	915
+Western Australia	34125	1	National	1333
+Western Australia	34125	1	State territory	5850
+Western Australia	42000			960
+Western Australia	42000	0		87305
+Western Australia	42000	1	Local	1133
+Western Australia	42000	1	National	1508
+Western Australia	42000	1	State territory	7758
+Western Australia	52500			1104
+Western Australia	52500	0		108294
+Western Australia	52500	1	Local	1964
+Western Australia	52500	1	National	2321
+Western Australia	52500	1	State territory	10332
+Western Australia	65625			1026
+Western Australia	65625	0		123050
+Western Australia	65625	1	Local	3545
+Western Australia	65625	1	National	4065
+Western Australia	65625	1	State territory	14802
+Western Australia	78750			619
+Western Australia	78750	0		88281
+Western Australia	78750	1	Local	2744
+Western Australia	78750	1	National	4436
+Western Australia	78750	1	State territory	14838
+Western Australia	91875			454
+Western Australia	91875	0		76665
+Western Australia	91875	1	Local	2149
+Western Australia	91875	1	National	3979
+Western Australia	91875	1	State territory	16777
+Western Australia	105000			324
+Western Australia	105000	0		56477
+Western Australia	105000	1	Local	1044
+Western Australia	105000	1	National	2899
+Western Australia	105000	1	State territory	15680
+Western Australia	157500			406
+Western Australia	157500	0		104883
+Western Australia	157500	1	Local	1226
+Western Australia	157500	1	National	4876
+Western Australia	157500	1	State territory	21187
+Western Australia	Inf			301
+Western Australia	Inf	0		74114
+Western Australia	Inf	1	Local	435
+Western Australia	Inf	1	National	1404
+Western Australia	Inf	1	State territory	5043
+Tasmania				414
+Tasmania		0		2313
+Tasmania		1	Local	23
+Tasmania		1	National	57
+Tasmania		1	State territory	184
+Tasmania	0			79
+Tasmania	0	0		1356
+Tasmania	0	1	Local	4
+Tasmania	0	1	National	18
+Tasmania	0	1	State territory	26
+Tasmania	7875			115
+Tasmania	7875	0		7568
+Tasmania	7875	1	Local	18
+Tasmania	7875	1	National	55
+Tasmania	7875	1	State territory	183
+Tasmania	15750			173
+Tasmania	15750	0		8977
+Tasmania	15750	1	Local	47
+Tasmania	15750	1	National	131
+Tasmania	15750	1	State territory	395
+Tasmania	21000			179
+Tasmania	21000	0		9952
+Tasmania	21000	1	Local	83
+Tasmania	21000	1	National	105
+Tasmania	21000	1	State territory	503
+Tasmania	26250			194
+Tasmania	26250	0		12581
+Tasmania	26250	1	Local	112
+Tasmania	26250	1	National	152
+Tasmania	26250	1	State territory	836
+Tasmania	34125			207
+Tasmania	34125	0		19663
+Tasmania	34125	1	Local	191
+Tasmania	34125	1	National	254
+Tasmania	34125	1	State territory	1618
+Tasmania	42000			226
+Tasmania	42000	0		23524
+Tasmania	42000	1	Local	335
+Tasmania	42000	1	National	328
+Tasmania	42000	1	State territory	1959
+Tasmania	52500			197
+Tasmania	52500	0		25274
+Tasmania	52500	1	Local	648
+Tasmania	52500	1	National	544
+Tasmania	52500	1	State territory	2755
+Tasmania	65625			131
+Tasmania	65625	0		22826
+Tasmania	65625	1	Local	842
+Tasmania	65625	1	National	1029
+Tasmania	65625	1	State territory	4511
+Tasmania	78750			71
+Tasmania	78750	0		13721
+Tasmania	78750	1	Local	456
+Tasmania	78750	1	National	1184
+Tasmania	78750	1	State territory	3751
+Tasmania	91875			47
+Tasmania	91875	0		10355
+Tasmania	91875	1	Local	242
+Tasmania	91875	1	National	841
+Tasmania	91875	1	State territory	4282
+Tasmania	105000			24
+Tasmania	105000	0		6293
+Tasmania	105000	1	Local	131
+Tasmania	105000	1	National	458
+Tasmania	105000	1	State territory	3378
+Tasmania	157500			30
+Tasmania	157500	0		7382
+Tasmania	157500	1	Local	153
+Tasmania	157500	1	National	603
+Tasmania	157500	1	State territory	3025
+Tasmania	Inf			45
+Tasmania	Inf	0		4030
+Tasmania	Inf	1	Local	50
+Tasmania	Inf	1	National	127
+Tasmania	Inf	1	State territory	783
+Northern Territory				444
+Northern Territory		0		1457
+Northern Territory		1	Local	79
+Northern Territory		1	National	94
+Northern Territory		1	State territory	169
+Northern Territory	0			68
+Northern Territory	0	0		574
+Northern Territory	0	1	Local	6
+Northern Territory	0	1	National	23
+Northern Territory	0	1	State territory	32
+Northern Territory	7875			87
+Northern Territory	7875	0		2013
+Northern Territory	7875	1	Local	40
+Northern Territory	7875	1	National	45
+Northern Territory	7875	1	State territory	84
+Northern Territory	15750			150
+Northern Territory	15750	0		2392
+Northern Territory	15750	1	Local	118
+Northern Territory	15750	1	National	86
+Northern Territory	15750	1	State territory	219
+Northern Territory	21000			77
+Northern Territory	21000	0		2347
+Northern Territory	21000	1	Local	99
+Northern Territory	21000	1	National	66
+Northern Territory	21000	1	State territory	197
+Northern Territory	26250			79
+Northern Territory	26250	0		2970
+Northern Territory	26250	1	Local	95
+Northern Territory	26250	1	National	70
+Northern Territory	26250	1	State territory	275
+Northern Territory	34125			100
+Northern Territory	34125	0		5174
+Northern Territory	34125	1	Local	203
+Northern Territory	34125	1	National	156
+Northern Territory	34125	1	State territory	440
+Northern Territory	42000			102
+Northern Territory	42000	0		7118
+Northern Territory	42000	1	Local	138
+Northern Territory	42000	1	National	268
+Northern Territory	42000	1	State territory	559
+Northern Territory	52500			133
+Northern Territory	52500	0		9360
+Northern Territory	52500	1	Local	190
+Northern Territory	52500	1	National	661
+Northern Territory	52500	1	State territory	1186
+Northern Territory	65625			127
+Northern Territory	65625	0		10762
+Northern Territory	65625	1	Local	303
+Northern Territory	65625	1	National	1508
+Northern Territory	65625	1	State territory	2302
+Northern Territory	78750			78
+Northern Territory	78750	0		8024
+Northern Territory	78750	1	Local	247
+Northern Territory	78750	1	National	1795
+Northern Territory	78750	1	State territory	2243
+Northern Territory	91875			66
+Northern Territory	91875	0		6614
+Northern Territory	91875	1	Local	190
+Northern Territory	91875	1	National	1580
+Northern Territory	91875	1	State territory	2655
+Northern Territory	105000			39
+Northern Territory	105000	0		5068
+Northern Territory	105000	1	Local	99
+Northern Territory	105000	1	National	1041
+Northern Territory	105000	1	State territory	2492
+Northern Territory	157500			69
+Northern Territory	157500	0		9333
+Northern Territory	157500	1	Local	132
+Northern Territory	157500	1	National	1395
+Northern Territory	157500	1	State territory	3379
+Northern Territory	Inf			33
+Northern Territory	Inf	0		6521
+Northern Territory	Inf	1	Local	46
+Northern Territory	Inf	1	National	292
+Northern Territory	Inf	1	State territory	1092
+Australian Capital Territory				384
+Australian Capital Territory		0		1379
+Australian Capital Territory		1	Local	5
+Australian Capital Territory		1	National	461
+Australian Capital Territory		1	State territory	155
+Australian Capital Territory	0			58
+Australian Capital Territory	0	0		800
+Australian Capital Territory	0	1	National	76
+Australian Capital Territory	0	1	State territory	41
+Australian Capital Territory	7875			82
+Australian Capital Territory	7875	0		6816
+Australian Capital Territory	7875	1	National	230
+Australian Capital Territory	7875	1	State territory	99
+Australian Capital Territory	15750			91
+Australian Capital Territory	15750	0		6245
+Australian Capital Territory	15750	1	National	349
+Australian Capital Territory	15750	1	State territory	161
+Australian Capital Territory	21000			86
+Australian Capital Territory	21000	0		5651
+Australian Capital Territory	21000	1	National	301
+Australian Capital Territory	21000	1	State territory	197
+Australian Capital Territory	26250			111
+Australian Capital Territory	26250	0		6655
+Australian Capital Territory	26250	1	National	413
+Australian Capital Territory	26250	1	State territory	268
+Australian Capital Territory	34125			131
+Australian Capital Territory	34125	0		9820
+Australian Capital Territory	34125	1	Local	4
+Australian Capital Territory	34125	1	National	1070
+Australian Capital Territory	34125	1	State territory	483
+Australian Capital Territory	42000			157
+Australian Capital Territory	42000	0		12150
+Australian Capital Territory	42000	1	Local	12
+Australian Capital Territory	42000	1	National	1580
+Australian Capital Territory	42000	1	State territory	903
+Australian Capital Territory	52500			179
+Australian Capital Territory	52500	0		15372
+Australian Capital Territory	52500	1	Local	14
+Australian Capital Territory	52500	1	National	2842
+Australian Capital Territory	52500	1	State territory	1598
+Australian Capital Territory	65625			215
+Australian Capital Territory	65625	0		16732
+Australian Capital Territory	65625	1	Local	36
+Australian Capital Territory	65625	1	National	6542
+Australian Capital Territory	65625	1	State territory	2996
+Australian Capital Territory	78750			123
+Australian Capital Territory	78750	0		12040
+Australian Capital Territory	78750	1	Local	36
+Australian Capital Territory	78750	1	National	10472
+Australian Capital Territory	78750	1	State territory	3531
+Australian Capital Territory	91875			134
+Australian Capital Territory	91875	0		9830
+Australian Capital Territory	91875	1	Local	58
+Australian Capital Territory	91875	1	National	12449
+Australian Capital Territory	91875	1	State territory	3502
+Australian Capital Territory	105000			88
+Australian Capital Territory	105000	0		6636
+Australian Capital Territory	105000	1	Local	23
+Australian Capital Territory	105000	1	National	8659
+Australian Capital Territory	105000	1	State territory	2610
+Australian Capital Territory	157500			104
+Australian Capital Territory	157500	0		11826
+Australian Capital Territory	157500	1	Local	65
+Australian Capital Territory	157500	1	National	21325
+Australian Capital Territory	157500	1	State territory	4015
+Australian Capital Territory	Inf			52
+Australian Capital Territory	Inf	0		8624
+Australian Capital Territory	Inf	1	Local	19
+Australian Capital Territory	Inf	1	National	6188
+Australian Capital Territory	Inf	1	State territory	1101
+Other Territories				11
+Other Territories		0		40
+Other Territories	0	0		22
+Other Territories	7875			3
+Other Territories	7875	0		52
+Other Territories	7875	1	State territory	3
+Other Territories	15750	0		75
+Other Territories	15750	1	State territory	6
+Other Territories	21000			3
+Other Territories	21000	0		108
+Other Territories	21000	1	Local	3
+Other Territories	21000	1	National	5
+Other Territories	21000	1	State territory	4
+Other Territories	26250			3
+Other Territories	26250	0		129
+Other Territories	26250	1	Local	3
+Other Territories	26250	1	National	3
+Other Territories	26250	1	State territory	4
+Other Territories	34125			4
+Other Territories	34125	0		214
+Other Territories	34125	1	Local	13
+Other Territories	34125	1	National	9
+Other Territories	34125	1	State territory	12
+Other Territories	42000			5
+Other Territories	42000	0		244
+Other Territories	42000	1	Local	21
+Other Territories	42000	1	National	22
+Other Territories	42000	1	State territory	13
+Other Territories	52500			3
+Other Territories	52500	0		239
+Other Territories	52500	1	Local	31
+Other Territories	52500	1	National	29
+Other Territories	52500	1	State territory	20
+Other Territories	65625			3
+Other Territories	65625	0		231
+Other Territories	65625	1	Local	13
+Other Territories	65625	1	National	57
+Other Territories	65625	1	State territory	21
+Other Territories	78750			3
+Other Territories	78750	0		174
+Other Territories	78750	1	Local	7
+Other Territories	78750	1	National	42
+Other Territories	78750	1	State territory	15
+Other Territories	91875	0		169
+Other Territories	91875	1	Local	14
+Other Territories	91875	1	National	40
+Other Territories	91875	1	State territory	12
+Other Territories	105000	0		132
+Other Territories	105000	1	Local	5
+Other Territories	105000	1	National	35
+Other Territories	105000	1	State territory	32
+Other Territories	157500	0		180
+Other Territories	157500	1	Local	10
+Other Territories	157500	1	National	57
+Other Territories	157500	1	State territory	30
+Other Territories	Inf	0		123
+Other Territories	Inf	1	Local	6
+Other Territories	Inf	1	National	13
+Other Territories	Inf	1	State territory	13

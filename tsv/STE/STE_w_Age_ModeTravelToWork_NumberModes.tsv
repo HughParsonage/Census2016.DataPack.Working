@@ -1,0 +1,1509 @@
+STE_NAME16	Age	ModeTravelToWork	NumberModes	workers
+New South Wales	15-24	Bicycle	1	2337
+New South Wales	15-24	Bus	1	23246
+New South Wales	15-24	Bus and car as driver	2	793
+New South Wales	15-24	Bus and car as passenger	2	1565
+New South Wales	15-24	Bus and ferry	2	96
+New South Wales	15-24	Bus and other	2	220
+New South Wales	15-24	Bus and tram includes light rail	2	73
+New South Wales	15-24	Bus and two other methods excludes train	3	198
+New South Wales	15-24	Car as driver	1	219057
+New South Wales	15-24	Car as passenger	1	54421
+New South Wales	15-24	Did not go to work		65998
+New South Wales	15-24	Ferry	1	411
+New South Wales	15-24	Method of travel not stated		6702
+New South Wales	15-24	Motorbike scooter	1	2656
+New South Wales	15-24	(Other)	1	2021
+New South Wales	15-24	Other three methods	3	99
+New South Wales	15-24	Other two methods	2	3108
+New South Wales	15-24	Taxi	1	579
+New South Wales	15-24	Train	1	36278
+New South Wales	15-24	Train and bus	2	10932
+New South Wales	15-24	Train and car as driver	2	3969
+New South Wales	15-24	Train and car as passenger	2	2202
+New South Wales	15-24	Train and ferry	2	128
+New South Wales	15-24	Train and other	2	349
+New South Wales	15-24	Train and tram includes light rail	2	244
+New South Wales	15-24	Train and two other methods	3	2965
+New South Wales	15-24	Tram includes light rail	1	352
+New South Wales	15-24	Truck	1	1787
+New South Wales	15-24	Walked only	1	23983
+New South Wales	15-24	Worked at home		4595
+New South Wales	25-34	Bicycle	1	6114
+New South Wales	25-34	Bus	1	42144
+New South Wales	25-34	Bus and car as driver	2	1310
+New South Wales	25-34	Bus and car as passenger	2	820
+New South Wales	25-34	Bus and ferry	2	359
+New South Wales	25-34	Bus and other	2	537
+New South Wales	25-34	Bus and tram includes light rail	2	160
+New South Wales	25-34	Bus and two other methods excludes train	3	330
+New South Wales	25-34	Car as driver	1	409765
+New South Wales	25-34	Car as passenger	1	28197
+New South Wales	25-34	Did not go to work		62759
+New South Wales	25-34	Ferry	1	2423
+New South Wales	25-34	Method of travel not stated		6915
+New South Wales	25-34	Motorbike scooter	1	5496
+New South Wales	25-34	(Other)	1	3662
+New South Wales	25-34	Other three methods	3	195
+New South Wales	25-34	Other two methods	2	4571
+New South Wales	25-34	Taxi	1	1645
+New South Wales	25-34	Train	1	95118
+New South Wales	25-34	Train and bus	2	21126
+New South Wales	25-34	Train and car as driver	2	8764
+New South Wales	25-34	Train and car as passenger	2	3033
+New South Wales	25-34	Train and ferry	2	608
+New South Wales	25-34	Train and other	2	1059
+New South Wales	25-34	Train and tram includes light rail	2	596
+New South Wales	25-34	Train and two other methods	3	4611
+New South Wales	25-34	Tram includes light rail	1	889
+New South Wales	25-34	Truck	1	5212
+New South Wales	25-34	Walked only	1	36894
+New South Wales	25-34	Worked at home		20242
+New South Wales	35-44	Bicycle	1	6399
+New South Wales	35-44	Bus	1	30600
+New South Wales	35-44	Bus and car as driver	2	1649
+New South Wales	35-44	Bus and car as passenger	2	534
+New South Wales	35-44	Bus and ferry	2	435
+New South Wales	35-44	Bus and other	2	419
+New South Wales	35-44	Bus and tram includes light rail	2	124
+New South Wales	35-44	Bus and two other methods excludes train	3	269
+New South Wales	35-44	Car as driver	1	451694
+New South Wales	35-44	Car as passenger	1	19176
+New South Wales	35-44	Did not go to work		54279
+New South Wales	35-44	Ferry	1	2431
+New South Wales	35-44	Method of travel not stated		5921
+New South Wales	35-44	Motorbike scooter	1	5048
+New South Wales	35-44	(Other)	1	3887
+New South Wales	35-44	Other three methods	3	231
+New South Wales	35-44	Other two methods	2	4316
+New South Wales	35-44	Taxi	1	1664
+New South Wales	35-44	Train	1	59357
+New South Wales	35-44	Train and bus	2	12704
+New South Wales	35-44	Train and car as driver	2	9085
+New South Wales	35-44	Train and car as passenger	2	1798
+New South Wales	35-44	Train and ferry	2	413
+New South Wales	35-44	Train and other	2	965
+New South Wales	35-44	Train and tram includes light rail	2	339
+New South Wales	35-44	Train and two other methods	3	3292
+New South Wales	35-44	Tram includes light rail	1	740
+New South Wales	35-44	Truck	1	7077
+New South Wales	35-44	Walked only	1	24149
+New South Wales	35-44	Worked at home		39000
+New South Wales	45-54	Bicycle	1	5387
+New South Wales	45-54	Bus	1	20997
+New South Wales	45-54	Bus and car as driver	2	1294
+New South Wales	45-54	Bus and car as passenger	2	477
+New South Wales	45-54	Bus and ferry	2	297
+New South Wales	45-54	Bus and other	2	269
+New South Wales	45-54	Bus and tram includes light rail	2	56
+New South Wales	45-54	Bus and two other methods excludes train	3	217
+New South Wales	45-54	Car as driver	1	466226
+New South Wales	45-54	Car as passenger	1	20948
+New South Wales	45-54	Did not go to work		45574
+New South Wales	45-54	Ferry	1	1534
+New South Wales	45-54	Method of travel not stated		6112
+New South Wales	45-54	Motorbike scooter	1	4410
+New South Wales	45-54	(Other)	1	4190
+New South Wales	45-54	Other three methods	3	234
+New South Wales	45-54	Other two methods	2	4086
+New South Wales	45-54	Taxi	1	1522
+New South Wales	45-54	Train	1	37436
+New South Wales	45-54	Train and bus	2	8455
+New South Wales	45-54	Train and car as driver	2	7463
+New South Wales	45-54	Train and car as passenger	2	1577
+New South Wales	45-54	Train and ferry	2	250
+New South Wales	45-54	Train and other	2	676
+New South Wales	45-54	Train and tram includes light rail	2	164
+New South Wales	45-54	Train and two other methods	3	2377
+New South Wales	45-54	Tram includes light rail	1	448
+New South Wales	45-54	Truck	1	8629
+New South Wales	45-54	Walked only	1	22088
+New South Wales	45-54	Worked at home		40293
+New South Wales	55-64	Bicycle	1	2623
+New South Wales	55-64	Bus	1	12339
+New South Wales	55-64	Bus and car as driver	2	633
+New South Wales	55-64	Bus and car as passenger	2	342
+New South Wales	55-64	Bus and ferry	2	159
+New South Wales	55-64	Bus and other	2	151
+New South Wales	55-64	Bus and tram includes light rail	2	36
+New South Wales	55-64	Bus and two other methods excludes train	3	114
+New South Wales	55-64	Car as driver	1	317898
+New South Wales	55-64	Car as passenger	1	16156
+New South Wales	55-64	Did not go to work		44657
+New South Wales	55-64	Ferry	1	731
+New South Wales	55-64	Method of travel not stated		4654
+New South Wales	55-64	Motorbike scooter	1	2759
+New South Wales	55-64	(Other)	1	3324
+New South Wales	55-64	Other three methods	3	134
+New South Wales	55-64	Other two methods	2	2440
+New South Wales	55-64	Taxi	1	972
+New South Wales	55-64	Train	1	20959
+New South Wales	55-64	Train and bus	2	5507
+New South Wales	55-64	Train and car as driver	2	4142
+New South Wales	55-64	Train and car as passenger	2	1118
+New South Wales	55-64	Train and ferry	2	176
+New South Wales	55-64	Train and other	2	368
+New South Wales	55-64	Train and tram includes light rail	2	117
+New South Wales	55-64	Train and two other methods	3	1549
+New South Wales	55-64	Tram includes light rail	1	211
+New South Wales	55-64	Truck	1	7139
+New South Wales	55-64	Walked only	1	17685
+New South Wales	55-64	Worked at home		34512
+New South Wales	65-74	Bicycle	1	305
+New South Wales	65-74	Bus	1	2864
+New South Wales	65-74	Bus and car as driver	2	130
+New South Wales	65-74	Bus and car as passenger	2	55
+New South Wales	65-74	Bus and ferry	2	55
+New South Wales	65-74	Bus and other	2	35
+New South Wales	65-74	Bus and tram includes light rail	2	4
+New South Wales	65-74	Bus and two other methods excludes train	3	23
+New South Wales	65-74	Car as driver	1	65949
+New South Wales	65-74	Car as passenger	1	3798
+New South Wales	65-74	Did not go to work		15184
+New South Wales	65-74	Ferry	1	204
+New South Wales	65-74	Method of travel not stated		2193
+New South Wales	65-74	Motorbike scooter	1	428
+New South Wales	65-74	(Other)	1	1349
+New South Wales	65-74	Other three methods	3	50
+New South Wales	65-74	Other two methods	2	536
+New South Wales	65-74	Taxi	1	305
+New South Wales	65-74	Train	1	3754
+New South Wales	65-74	Train and bus	2	1394
+New South Wales	65-74	Train and car as driver	2	716
+New South Wales	65-74	Train and car as passenger	2	163
+New South Wales	65-74	Train and ferry	2	54
+New South Wales	65-74	Train and other	2	52
+New South Wales	65-74	Train and tram includes light rail	2	22
+New South Wales	65-74	Train and two other methods	3	311
+New South Wales	65-74	Tram includes light rail	1	42
+New South Wales	65-74	Truck	1	2466
+New South Wales	65-74	Walked only	1	5270
+New South Wales	65-74	Worked at home		19377
+New South Wales	75+	Bicycle	1	40
+New South Wales	75+	Bus	1	263
+New South Wales	75+	Bus and car as driver	2	18
+New South Wales	75+	Bus and car as passenger	2	5
+New South Wales	75+	Bus and ferry	2	10
+New South Wales	75+	Bus and other	2	3
+New South Wales	75+	Bus and two other methods excludes train	3	7
+New South Wales	75+	Car as driver	1	6546
+New South Wales	75+	Car as passenger	1	555
+New South Wales	75+	Did not go to work		2144
+New South Wales	75+	Ferry	1	25
+New South Wales	75+	Method of travel not stated		1302
+New South Wales	75+	Motorbike scooter	1	72
+New South Wales	75+	(Other)	1	298
+New South Wales	75+	Other three methods	3	3
+New South Wales	75+	Other two methods	2	101
+New South Wales	75+	Taxi	1	51
+New South Wales	75+	Train	1	338
+New South Wales	75+	Train and bus	2	117
+New South Wales	75+	Train and car as driver	2	43
+New South Wales	75+	Train and car as passenger	2	16
+New South Wales	75+	Train and ferry	2	3
+New South Wales	75+	Train and other	2	6
+New South Wales	75+	Train and tram includes light rail	2	4
+New South Wales	75+	Train and two other methods	3	28
+New South Wales	75+	Tram includes light rail	1	5
+New South Wales	75+	Truck	1	448
+New South Wales	75+	Walked only	1	1011
+New South Wales	75+	Worked at home		5435
+Victoria	15-24	Bicycle	1	3697
+Victoria	15-24	Bus	1	8546
+Victoria	15-24	Bus and car as driver	2	293
+Victoria	15-24	Bus and car as passenger	2	1200
+Victoria	15-24	Bus and ferry	2	5
+Victoria	15-24	Bus and other	2	112
+Victoria	15-24	Bus and tram includes light rail	2	531
+Victoria	15-24	Bus and two other methods excludes train	3	189
+Victoria	15-24	Car as driver	1	180347
+Victoria	15-24	Car as passenger	1	48399
+Victoria	15-24	Did not go to work		60032
+Victoria	15-24	Ferry	1	92
+Victoria	15-24	Method of travel not stated		5167
+Victoria	15-24	Motorbike scooter	1	1074
+Victoria	15-24	(Other)	1	1224
+Victoria	15-24	Other three methods	3	132
+Victoria	15-24	Other two methods	2	3007
+Victoria	15-24	Taxi	1	500
+Victoria	15-24	Train	1	20538
+Victoria	15-24	Train and bus	2	4002
+Victoria	15-24	Train and car as driver	2	2770
+Victoria	15-24	Train and car as passenger	2	1233
+Victoria	15-24	Train and ferry	2	4
+Victoria	15-24	Train and other	2	334
+Victoria	15-24	Train and tram includes light rail	2	2594
+Victoria	15-24	Train and two other methods	3	3280
+Victoria	15-24	Tram includes light rail	1	8644
+Victoria	15-24	Truck	1	713
+Victoria	15-24	Walked only	1	18516
+Victoria	15-24	Worked at home		3477
+Victoria	25-34	Bicycle	1	10582
+Victoria	25-34	Bus	1	7371
+Victoria	25-34	Bus and car as driver	2	391
+Victoria	25-34	Bus and car as passenger	2	296
+Victoria	25-34	Bus and other	2	159
+Victoria	25-34	Bus and tram includes light rail	2	936
+Victoria	25-34	Bus and two other methods excludes train	3	205
+Victoria	25-34	Car as driver	1	381845
+Victoria	25-34	Car as passenger	1	21622
+Victoria	25-34	Did not go to work		55489
+Victoria	25-34	Ferry	1	195
+Victoria	25-34	Method of travel not stated		5396
+Victoria	25-34	Motorbike scooter	1	2493
+Victoria	25-34	(Other)	1	2853
+Victoria	25-34	Other three methods	3	289
+Victoria	25-34	Other two methods	2	4845
+Victoria	25-34	Taxi	1	1503
+Victoria	25-34	Train	1	55368
+Victoria	25-34	Train and bus	2	6840
+Victoria	25-34	Train and car as driver	2	7627
+Victoria	25-34	Train and car as passenger	2	2077
+Victoria	25-34	Train and ferry	2	12
+Victoria	25-34	Train and other	2	1026
+Victoria	25-34	Train and tram includes light rail	2	6908
+Victoria	25-34	Train and two other methods	3	6462
+Victoria	25-34	Tram includes light rail	1	22857
+Victoria	25-34	Truck	1	2712
+Victoria	25-34	Walked only	1	25569
+Victoria	25-34	Worked at home		16757
+Victoria	35-44	Bicycle	1	9127
+Victoria	35-44	Bus	1	4506
+Victoria	35-44	Bus and car as driver	2	340
+Victoria	35-44	Bus and car as passenger	2	186
+Victoria	35-44	Bus and other	2	92
+Victoria	35-44	Bus and tram includes light rail	2	536
+Victoria	35-44	Bus and two other methods excludes train	3	135
+Victoria	35-44	Car as driver	1	390918
+Victoria	35-44	Car as passenger	1	13332
+Victoria	35-44	Did not go to work		48156
+Victoria	35-44	Ferry	1	118
+Victoria	35-44	Method of travel not stated		4509
+Victoria	35-44	Motorbike scooter	1	2415
+Victoria	35-44	(Other)	1	3082
+Victoria	35-44	Other three methods	3	207
+Victoria	35-44	Other two methods	2	3743
+Victoria	35-44	Taxi	1	1135
+Victoria	35-44	Train	1	40107
+Victoria	35-44	Train and bus	2	4740
+Victoria	35-44	Train and car as driver	2	8348
+Victoria	35-44	Train and car as passenger	2	1219
+Victoria	35-44	Train and ferry	2	8
+Victoria	35-44	Train and other	2	929
+Victoria	35-44	Train and tram includes light rail	2	3404
+Victoria	35-44	Train and two other methods	3	4516
+Victoria	35-44	Tram includes light rail	1	9741
+Victoria	35-44	Truck	1	3500
+Victoria	35-44	Walked only	1	14209
+Victoria	35-44	Worked at home		30883
+Victoria	45-54	Bicycle	1	6666
+Victoria	45-54	Bus	1	3973
+Victoria	45-54	Bus and car as driver	2	364
+Victoria	45-54	Bus and car as passenger	2	161
+Victoria	45-54	Bus and ferry	2	3
+Victoria	45-54	Bus and other	2	66
+Victoria	45-54	Bus and tram includes light rail	2	386
+Victoria	45-54	Bus and two other methods excludes train	3	107
+Victoria	45-54	Car as driver	1	406919
+Victoria	45-54	Car as passenger	1	13572
+Victoria	45-54	Did not go to work		38609
+Victoria	45-54	Ferry	1	125
+Victoria	45-54	Method of travel not stated		4860
+Victoria	45-54	Motorbike scooter	1	2254
+Victoria	45-54	(Other)	1	3103
+Victoria	45-54	Other three methods	3	197
+Victoria	45-54	Other two methods	2	3464
+Victoria	45-54	Taxi	1	876
+Victoria	45-54	Train	1	25386
+Victoria	45-54	Train and bus	2	3058
+Victoria	45-54	Train and car as driver	2	5961
+Victoria	45-54	Train and car as passenger	2	846
+Victoria	45-54	Train and ferry	2	3
+Victoria	45-54	Train and other	2	631
+Victoria	45-54	Train and tram includes light rail	2	1976
+Victoria	45-54	Train and two other methods	3	2881
+Victoria	45-54	Tram includes light rail	1	5761
+Victoria	45-54	Truck	1	4475
+Victoria	45-54	Walked only	1	13588
+Victoria	45-54	Worked at home		31090
+Victoria	55-64	Bicycle	1	3309
+Victoria	55-64	Bus	1	2696
+Victoria	55-64	Bus and car as driver	2	208
+Victoria	55-64	Bus and car as passenger	2	88
+Victoria	55-64	Bus and ferry	2	3
+Victoria	55-64	Bus and other	2	45
+Victoria	55-64	Bus and tram includes light rail	2	301
+Victoria	55-64	Bus and two other methods excludes train	3	68
+Victoria	55-64	Car as driver	1	268958
+Victoria	55-64	Car as passenger	1	10225
+Victoria	55-64	Did not go to work		36222
+Victoria	55-64	Ferry	1	45
+Victoria	55-64	Method of travel not stated		3670
+Victoria	55-64	Motorbike scooter	1	1408
+Victoria	55-64	(Other)	1	2526
+Victoria	55-64	Other three methods	3	120
+Victoria	55-64	Other two methods	2	2009
+Victoria	55-64	Taxi	1	631
+Victoria	55-64	Train	1	13667
+Victoria	55-64	Train and bus	2	1895
+Victoria	55-64	Train and car as driver	2	3116
+Victoria	55-64	Train and car as passenger	2	561
+Victoria	55-64	Train and other	2	315
+Victoria	55-64	Train and tram includes light rail	2	1168
+Victoria	55-64	Train and two other methods	3	1769
+Victoria	55-64	Tram includes light rail	1	3277
+Victoria	55-64	Truck	1	3819
+Victoria	55-64	Walked only	1	11475
+Victoria	55-64	Worked at home		26401
+Victoria	65-74	Bicycle	1	431
+Victoria	65-74	Bus	1	602
+Victoria	65-74	Bus and car as driver	2	37
+Victoria	65-74	Bus and car as passenger	2	26
+Victoria	65-74	Bus and other	2	8
+Victoria	65-74	Bus and tram includes light rail	2	76
+Victoria	65-74	Bus and two other methods excludes train	3	12
+Victoria	65-74	Car as driver	1	55306
+Victoria	65-74	Car as passenger	1	2471
+Victoria	65-74	Did not go to work		12451
+Victoria	65-74	Ferry	1	11
+Victoria	65-74	Method of travel not stated		1765
+Victoria	65-74	Motorbike scooter	1	205
+Victoria	65-74	(Other)	1	950
+Victoria	65-74	Other three methods	3	31
+Victoria	65-74	Other two methods	2	454
+Victoria	65-74	Taxi	1	134
+Victoria	65-74	Train	1	2412
+Victoria	65-74	Train and bus	2	416
+Victoria	65-74	Train and car as driver	2	476
+Victoria	65-74	Train and car as passenger	2	99
+Victoria	65-74	Train and other	2	44
+Victoria	65-74	Train and tram includes light rail	2	284
+Victoria	65-74	Train and two other methods	3	349
+Victoria	65-74	Tram includes light rail	1	907
+Victoria	65-74	Truck	1	1219
+Victoria	65-74	Walked only	1	3556
+Victoria	65-74	Worked at home		14478
+Victoria	75+	Bicycle	1	52
+Victoria	75+	Bus	1	62
+Victoria	75+	Bus and car as driver	2	5
+Victoria	75+	Bus and car as passenger	2	3
+Victoria	75+	Bus and tram includes light rail	2	9
+Victoria	75+	Car as driver	1	5630
+Victoria	75+	Car as passenger	1	386
+Victoria	75+	Did not go to work		1739
+Victoria	75+	Ferry	1	9
+Victoria	75+	Method of travel not stated		984
+Victoria	75+	Motorbike scooter	1	48
+Victoria	75+	(Other)	1	200
+Victoria	75+	Other two methods	2	60
+Victoria	75+	Taxi	1	32
+Victoria	75+	Train	1	192
+Victoria	75+	Train and bus	2	35
+Victoria	75+	Train and car as driver	2	34
+Victoria	75+	Train and car as passenger	2	3
+Victoria	75+	Train and other	2	3
+Victoria	75+	Train and tram includes light rail	2	21
+Victoria	75+	Train and two other methods	3	35
+Victoria	75+	Tram includes light rail	1	120
+Victoria	75+	Truck	1	231
+Victoria	75+	Walked only	1	700
+Victoria	75+	Worked at home		3701
+Queensland	15-24	Bicycle	1	3124
+Queensland	15-24	Bus	1	14135
+Queensland	15-24	Bus and car as driver	2	743
+Queensland	15-24	Bus and car as passenger	2	1269
+Queensland	15-24	Bus and ferry	2	95
+Queensland	15-24	Bus and other	2	185
+Queensland	15-24	Bus and tram includes light rail	2	193
+Queensland	15-24	Bus and two other methods excludes train	3	372
+Queensland	15-24	Car as driver	1	177060
+Queensland	15-24	Car as passenger	1	46722
+Queensland	15-24	Did not go to work		46044
+Queensland	15-24	Ferry	1	391
+Queensland	15-24	Method of travel not stated		3681
+Queensland	15-24	Motorbike scooter	1	2182
+Queensland	15-24	(Other)	1	1344
+Queensland	15-24	Other three methods	3	117
+Queensland	15-24	Other two methods	2	2679
+Queensland	15-24	Taxi	1	655
+Queensland	15-24	Train	1	6815
+Queensland	15-24	Train and bus	2	1665
+Queensland	15-24	Train and car as driver	2	1263
+Queensland	15-24	Train and car as passenger	2	557
+Queensland	15-24	Train and ferry	2	14
+Queensland	15-24	Train and other	2	127
+Queensland	15-24	Train and tram includes light rail	2	7
+Queensland	15-24	Train and two other methods	3	893
+Queensland	15-24	Tram includes light rail	1	517
+Queensland	15-24	Truck	1	878
+Queensland	15-24	Walked only	1	15102
+Queensland	15-24	Worked at home		3458
+Queensland	25-34	Bicycle	1	5605
+Queensland	25-34	Bus	1	18277
+Queensland	25-34	Bus and car as driver	2	1182
+Queensland	25-34	Bus and car as passenger	2	665
+Queensland	25-34	Bus and ferry	2	226
+Queensland	25-34	Bus and other	2	345
+Queensland	25-34	Bus and tram includes light rail	2	169
+Queensland	25-34	Bus and two other methods excludes train	3	540
+Queensland	25-34	Car as driver	1	298153
+Queensland	25-34	Car as passenger	1	22963
+Queensland	25-34	Did not go to work		44933
+Queensland	25-34	Ferry	1	1015
+Queensland	25-34	Method of travel not stated		3504
+Queensland	25-34	Motorbike scooter	1	4651
+Queensland	25-34	(Other)	1	2917
+Queensland	25-34	Other three methods	3	229
+Queensland	25-34	Other two methods	2	3805
+Queensland	25-34	Taxi	1	872
+Queensland	25-34	Train	1	12373
+Queensland	25-34	Train and bus	2	2112
+Queensland	25-34	Train and car as driver	2	2702
+Queensland	25-34	Train and car as passenger	2	638
+Queensland	25-34	Train and ferry	2	21
+Queensland	25-34	Train and other	2	237
+Queensland	25-34	Train and tram includes light rail	2	20
+Queensland	25-34	Train and two other methods	3	994
+Queensland	25-34	Tram includes light rail	1	660
+Queensland	25-34	Truck	1	2908
+Queensland	25-34	Walked only	1	17559
+Queensland	25-34	Worked at home		14193
+Queensland	35-44	Bicycle	1	5478
+Queensland	35-44	Bus	1	12158
+Queensland	35-44	Bus and car as driver	2	1280
+Queensland	35-44	Bus and car as passenger	2	410
+Queensland	35-44	Bus and ferry	2	209
+Queensland	35-44	Bus and other	2	230
+Queensland	35-44	Bus and tram includes light rail	2	70
+Queensland	35-44	Bus and two other methods excludes train	3	490
+Queensland	35-44	Car as driver	1	320109
+Queensland	35-44	Car as passenger	1	14938
+Queensland	35-44	Did not go to work		38040
+Queensland	35-44	Ferry	1	653
+Queensland	35-44	Method of travel not stated		3364
+Queensland	35-44	Motorbike scooter	1	4528
+Queensland	35-44	(Other)	1	3079
+Queensland	35-44	Other three methods	3	212
+Queensland	35-44	Other two methods	2	3375
+Queensland	35-44	Taxi	1	667
+Queensland	35-44	Train	1	10118
+Queensland	35-44	Train and bus	2	1432
+Queensland	35-44	Train and car as driver	2	3336
+Queensland	35-44	Train and car as passenger	2	462
+Queensland	35-44	Train and ferry	2	9
+Queensland	35-44	Train and other	2	266
+Queensland	35-44	Train and tram includes light rail	2	7
+Queensland	35-44	Train and two other methods	3	778
+Queensland	35-44	Tram includes light rail	1	234
+Queensland	35-44	Truck	1	4225
+Queensland	35-44	Walked only	1	11473
+Queensland	35-44	Worked at home		25966
+Queensland	45-54	Bicycle	1	4822
+Queensland	45-54	Bus	1	9775
+Queensland	45-54	Bus and car as driver	2	972
+Queensland	45-54	Bus and car as passenger	2	360
+Queensland	45-54	Bus and ferry	2	173
+Queensland	45-54	Bus and other	2	146
+Queensland	45-54	Bus and tram includes light rail	2	77
+Queensland	45-54	Bus and two other methods excludes train	3	366
+Queensland	45-54	Car as driver	1	323364
+Queensland	45-54	Car as passenger	1	14848
+Queensland	45-54	Did not go to work		34940
+Queensland	45-54	Ferry	1	501
+Queensland	45-54	Method of travel not stated		3507
+Queensland	45-54	Motorbike scooter	1	4868
+Queensland	45-54	(Other)	1	3390
+Queensland	45-54	Other three methods	3	218
+Queensland	45-54	Other two methods	2	3199
+Queensland	45-54	Taxi	1	684
+Queensland	45-54	Train	1	7815
+Queensland	45-54	Train and bus	2	1087
+Queensland	45-54	Train and car as driver	2	2846
+Queensland	45-54	Train and car as passenger	2	424
+Queensland	45-54	Train and ferry	2	8
+Queensland	45-54	Train and other	2	203
+Queensland	45-54	Train and tram includes light rail	2	5
+Queensland	45-54	Train and two other methods	3	666
+Queensland	45-54	Tram includes light rail	1	202
+Queensland	45-54	Truck	1	5572
+Queensland	45-54	Walked only	1	12149
+Queensland	45-54	Worked at home		27935
+Queensland	55-64	Bicycle	1	2316
+Queensland	55-64	Bus	1	5845
+Queensland	55-64	Bus and car as driver	2	529
+Queensland	55-64	Bus and car as passenger	2	196
+Queensland	55-64	Bus and ferry	2	101
+Queensland	55-64	Bus and other	2	87
+Queensland	55-64	Bus and tram includes light rail	2	63
+Queensland	55-64	Bus and two other methods excludes train	3	163
+Queensland	55-64	Car as driver	1	207201
+Queensland	55-64	Car as passenger	1	10187
+Queensland	55-64	Did not go to work		31198
+Queensland	55-64	Ferry	1	308
+Queensland	55-64	Method of travel not stated		2692
+Queensland	55-64	Motorbike scooter	1	2992
+Queensland	55-64	(Other)	1	2664
+Queensland	55-64	Other three methods	3	126
+Queensland	55-64	Other two methods	2	2033
+Queensland	55-64	Taxi	1	449
+Queensland	55-64	Train	1	4341
+Queensland	55-64	Train and bus	2	702
+Queensland	55-64	Train and car as driver	2	1476
+Queensland	55-64	Train and car as passenger	2	237
+Queensland	55-64	Train and ferry	2	7
+Queensland	55-64	Train and other	2	123
+Queensland	55-64	Train and tram includes light rail	2	4
+Queensland	55-64	Train and two other methods	3	379
+Queensland	55-64	Tram includes light rail	1	151
+Queensland	55-64	Truck	1	4718
+Queensland	55-64	Walked only	1	10048
+Queensland	55-64	Worked at home		24654
+Queensland	65-74	Bicycle	1	281
+Queensland	65-74	Bus	1	1040
+Queensland	65-74	Bus and car as driver	2	87
+Queensland	65-74	Bus and car as passenger	2	47
+Queensland	65-74	Bus and ferry	2	8
+Queensland	65-74	Bus and other	2	11
+Queensland	65-74	Bus and tram includes light rail	2	18
+Queensland	65-74	Bus and two other methods excludes train	3	15
+Queensland	65-74	Car as driver	1	40769
+Queensland	65-74	Car as passenger	1	2323
+Queensland	65-74	Did not go to work		9486
+Queensland	65-74	Ferry	1	54
+Queensland	65-74	Method of travel not stated		1288
+Queensland	65-74	Motorbike scooter	1	380
+Queensland	65-74	(Other)	1	1001
+Queensland	65-74	Other three methods	3	29
+Queensland	65-74	Other two methods	2	384
+Queensland	65-74	Taxi	1	153
+Queensland	65-74	Train	1	608
+Queensland	65-74	Train and bus	2	126
+Queensland	65-74	Train and car as driver	2	222
+Queensland	65-74	Train and car as passenger	2	29
+Queensland	65-74	Train and other	2	20
+Queensland	65-74	Train and two other methods	3	59
+Queensland	65-74	Tram includes light rail	1	28
+Queensland	65-74	Truck	1	1452
+Queensland	65-74	Walked only	1	2869
+Queensland	65-74	Worked at home		12601
+Queensland	75+	Bicycle	1	24
+Queensland	75+	Bus	1	82
+Queensland	75+	Bus and car as driver	2	7
+Queensland	75+	Car as driver	1	3366
+Queensland	75+	Car as passenger	1	305
+Queensland	75+	Did not go to work		1136
+Queensland	75+	Ferry	1	4
+Queensland	75+	Method of travel not stated		791
+Queensland	75+	Motorbike scooter	1	53
+Queensland	75+	(Other)	1	195
+Queensland	75+	Other two methods	2	38
+Queensland	75+	Taxi	1	19
+Queensland	75+	Train	1	41
+Queensland	75+	Train and bus	2	10
+Queensland	75+	Train and car as driver	2	12
+Queensland	75+	Train and car as passenger	2	5
+Queensland	75+	Train and two other methods	3	3
+Queensland	75+	Tram includes light rail	1	3
+Queensland	75+	Truck	1	182
+Queensland	75+	Walked only	1	527
+Queensland	75+	Worked at home		3152
+South Australia	15-24	Bicycle	1	682
+South Australia	15-24	Bus	1	4877
+South Australia	15-24	Bus and car as driver	2	383
+South Australia	15-24	Bus and car as passenger	2	411
+South Australia	15-24	Bus and other	2	70
+South Australia	15-24	Bus and tram includes light rail	2	58
+South Australia	15-24	Bus and two other methods excludes train	3	118
+South Australia	15-24	Car as driver	1	58065
+South Australia	15-24	Car as passenger	1	11752
+South Australia	15-24	Did not go to work		17551
+South Australia	15-24	Ferry	1	21
+South Australia	15-24	Method of travel not stated		1262
+South Australia	15-24	Motorbike scooter	1	525
+South Australia	15-24	(Other)	1	338
+South Australia	15-24	Other three methods	3	30
+South Australia	15-24	Other two methods	2	837
+South Australia	15-24	Taxi	1	136
+South Australia	15-24	Train	1	1375
+South Australia	15-24	Train and bus	2	336
+South Australia	15-24	Train and car as driver	2	296
+South Australia	15-24	Train and car as passenger	2	91
+South Australia	15-24	Train and other	2	19
+South Australia	15-24	Train and tram includes light rail	2	42
+South Australia	15-24	Train and two other methods	3	195
+South Australia	15-24	Tram includes light rail	1	423
+South Australia	15-24	Truck	1	174
+South Australia	15-24	Walked only	1	3685
+South Australia	15-24	Worked at home		911
+South Australia	25-34	Bicycle	1	1675
+South Australia	25-34	Bus	1	8162
+South Australia	25-34	Bus and car as driver	2	690
+South Australia	25-34	Bus and car as passenger	2	331
+South Australia	25-34	Bus and other	2	98
+South Australia	25-34	Bus and tram includes light rail	2	98
+South Australia	25-34	Bus and two other methods excludes train	3	109
+South Australia	25-34	Car as driver	1	103230
+South Australia	25-34	Car as passenger	1	7134
+South Australia	25-34	Did not go to work		17039
+South Australia	25-34	Ferry	1	45
+South Australia	25-34	Method of travel not stated		1167
+South Australia	25-34	Motorbike scooter	1	742
+South Australia	25-34	(Other)	1	877
+South Australia	25-34	Other three methods	3	82
+South Australia	25-34	Other two methods	2	1356
+South Australia	25-34	Taxi	1	345
+South Australia	25-34	Train	1	2437
+South Australia	25-34	Train and bus	2	439
+South Australia	25-34	Train and car as driver	2	476
+South Australia	25-34	Train and car as passenger	2	78
+South Australia	25-34	Train and other	2	56
+South Australia	25-34	Train and tram includes light rail	2	53
+South Australia	25-34	Train and two other methods	3	211
+South Australia	25-34	Tram includes light rail	1	870
+South Australia	25-34	Truck	1	610
+South Australia	25-34	Walked only	1	4138
+South Australia	25-34	Worked at home		3614
+South Australia	35-44	Bicycle	1	1862
+South Australia	35-44	Bus	1	6160
+South Australia	35-44	Bus and car as driver	2	809
+South Australia	35-44	Bus and car as passenger	2	186
+South Australia	35-44	Bus and other	2	79
+South Australia	35-44	Bus and tram includes light rail	2	65
+South Australia	35-44	Bus and two other methods excludes train	3	92
+South Australia	35-44	Car as driver	1	108364
+South Australia	35-44	Car as passenger	1	4853
+South Australia	35-44	Did not go to work		14184
+South Australia	35-44	Ferry	1	34
+South Australia	35-44	Method of travel not stated		1121
+South Australia	35-44	Motorbike scooter	1	698
+South Australia	35-44	(Other)	1	941
+South Australia	35-44	Other three methods	3	68
+South Australia	35-44	Other two methods	2	1165
+South Australia	35-44	Taxi	1	313
+South Australia	35-44	Train	1	2054
+South Australia	35-44	Train and bus	2	270
+South Australia	35-44	Train and car as driver	2	446
+South Australia	35-44	Train and car as passenger	2	41
+South Australia	35-44	Train and other	2	50
+South Australia	35-44	Train and tram includes light rail	2	29
+South Australia	35-44	Train and two other methods	3	192
+South Australia	35-44	Tram includes light rail	1	641
+South Australia	35-44	Truck	1	818
+South Australia	35-44	Walked only	1	3385
+South Australia	35-44	Worked at home		6545
+South Australia	45-54	Bicycle	1	1908
+South Australia	45-54	Bus	1	5465
+South Australia	45-54	Bus and car as driver	2	687
+South Australia	45-54	Bus and car as passenger	2	155
+South Australia	45-54	Bus and other	2	60
+South Australia	45-54	Bus and tram includes light rail	2	46
+South Australia	45-54	Bus and two other methods excludes train	3	66
+South Australia	45-54	Car as driver	1	119299
+South Australia	45-54	Car as passenger	1	5196
+South Australia	45-54	Did not go to work		13337
+South Australia	45-54	Ferry	1	28
+South Australia	45-54	Method of travel not stated		1223
+South Australia	45-54	Motorbike scooter	1	834
+South Australia	45-54	(Other)	1	1210
+South Australia	45-54	Other three methods	3	73
+South Australia	45-54	Other two methods	2	1181
+South Australia	45-54	Taxi	1	280
+South Australia	45-54	Train	1	1765
+South Australia	45-54	Train and bus	2	260
+South Australia	45-54	Train and car as driver	2	389
+South Australia	45-54	Train and car as passenger	2	40
+South Australia	45-54	Train and other	2	44
+South Australia	45-54	Train and tram includes light rail	2	43
+South Australia	45-54	Train and two other methods	3	124
+South Australia	45-54	Tram includes light rail	1	454
+South Australia	45-54	Truck	1	1368
+South Australia	45-54	Walked only	1	4107
+South Australia	45-54	Worked at home		7913
+South Australia	55-64	Bicycle	1	1179
+South Australia	55-64	Bus	1	3810
+South Australia	55-64	Bus and car as driver	2	394
+South Australia	55-64	Bus and car as passenger	2	112
+South Australia	55-64	Bus and other	2	50
+South Australia	55-64	Bus and tram includes light rail	2	47
+South Australia	55-64	Bus and two other methods excludes train	3	31
+South Australia	55-64	Car as driver	1	84231
+South Australia	55-64	Car as passenger	1	3878
+South Australia	55-64	Did not go to work		12777
+South Australia	55-64	Ferry	1	13
+South Australia	55-64	Method of travel not stated		949
+South Australia	55-64	Motorbike scooter	1	562
+South Australia	55-64	(Other)	1	1068
+South Australia	55-64	Other three methods	3	42
+South Australia	55-64	Other two methods	2	824
+South Australia	55-64	Taxi	1	222
+South Australia	55-64	Train	1	1162
+South Australia	55-64	Train and bus	2	182
+South Australia	55-64	Train and car as driver	2	261
+South Australia	55-64	Train and car as passenger	2	31
+South Australia	55-64	Train and ferry	2	3
+South Australia	55-64	Train and other	2	25
+South Australia	55-64	Train and tram includes light rail	2	25
+South Australia	55-64	Train and two other methods	3	84
+South Australia	55-64	Tram includes light rail	1	307
+South Australia	55-64	Truck	1	1104
+South Australia	55-64	Walked only	1	3610
+South Australia	55-64	Worked at home		7832
+South Australia	65-74	Bicycle	1	128
+South Australia	65-74	Bus	1	665
+South Australia	65-74	Bus and car as driver	2	49
+South Australia	65-74	Bus and car as passenger	2	23
+South Australia	65-74	Bus and other	2	6
+South Australia	65-74	Bus and tram includes light rail	2	4
+South Australia	65-74	Bus and two other methods excludes train	3	5
+South Australia	65-74	Car as driver	1	16634
+South Australia	65-74	Car as passenger	1	860
+South Australia	65-74	Did not go to work		3993
+South Australia	65-74	Ferry	1	9
+South Australia	65-74	Method of travel not stated		498
+South Australia	65-74	Motorbike scooter	1	61
+South Australia	65-74	(Other)	1	365
+South Australia	65-74	Other three methods	3	12
+South Australia	65-74	Other two methods	2	148
+South Australia	65-74	Taxi	1	61
+South Australia	65-74	Train	1	175
+South Australia	65-74	Train and bus	2	32
+South Australia	65-74	Train and car as driver	2	26
+South Australia	65-74	Train and car as passenger	2	12
+South Australia	65-74	Train and other	2	3
+South Australia	65-74	Train and tram includes light rail	2	3
+South Australia	65-74	Train and two other methods	3	16
+South Australia	65-74	Tram includes light rail	1	47
+South Australia	65-74	Truck	1	379
+South Australia	65-74	Walked only	1	1151
+South Australia	65-74	Worked at home		4589
+South Australia	75+	Bicycle	1	10
+South Australia	75+	Bus	1	52
+South Australia	75+	Bus and car as driver	2	4
+South Australia	75+	Car as driver	1	1673
+South Australia	75+	Car as passenger	1	117
+South Australia	75+	Did not go to work		497
+South Australia	75+	Method of travel not stated		341
+South Australia	75+	Motorbike scooter	1	11
+South Australia	75+	(Other)	1	83
+South Australia	75+	Other two methods	2	20
+South Australia	75+	Taxi	1	12
+South Australia	75+	Train	1	9
+South Australia	75+	Train and bus	2	3
+South Australia	75+	Train and car as driver	2	3
+South Australia	75+	Tram includes light rail	1	5
+South Australia	75+	Truck	1	57
+South Australia	75+	Walked only	1	213
+South Australia	75+	Worked at home		1104
+Western Australia	15-24	Bicycle	1	1550
+Western Australia	15-24	Bus	1	6943
+Western Australia	15-24	Bus and car as driver	2	237
+Western Australia	15-24	Bus and car as passenger	2	650
+Western Australia	15-24	Bus and ferry	2	4
+Western Australia	15-24	Bus and other	2	97
+Western Australia	15-24	Bus and tram includes light rail	2	3
+Western Australia	15-24	Bus and two other methods excludes train	3	113
+Western Australia	15-24	Car as driver	1	86808
+Western Australia	15-24	Car as passenger	1	21186
+Western Australia	15-24	Did not go to work		23434
+Western Australia	15-24	Ferry	1	45
+Western Australia	15-24	Method of travel not stated		2176
+Western Australia	15-24	Motorbike scooter	1	941
+Western Australia	15-24	(Other)	1	1142
+Western Australia	15-24	Other three methods	3	44
+Western Australia	15-24	Other two methods	2	1185
+Western Australia	15-24	Taxi	1	299
+Western Australia	15-24	Train	1	3739
+Western Australia	15-24	Train and bus	2	2846
+Western Australia	15-24	Train and car as driver	2	960
+Western Australia	15-24	Train and car as passenger	2	350
+Western Australia	15-24	Train and ferry	2	4
+Western Australia	15-24	Train and other	2	73
+Western Australia	15-24	Train and tram includes light rail	2	4
+Western Australia	15-24	Train and two other methods	3	994
+Western Australia	15-24	Tram includes light rail	1	21
+Western Australia	15-24	Truck	1	416
+Western Australia	15-24	Walked only	1	6182
+Western Australia	15-24	Worked at home		1379
+Western Australia	25-34	Bicycle	1	2739
+Western Australia	25-34	Bus	1	15152
+Western Australia	25-34	Bus and car as driver	2	549
+Western Australia	25-34	Bus and car as passenger	2	325
+Western Australia	25-34	Bus and ferry	2	12
+Western Australia	25-34	Bus and other	2	279
+Western Australia	25-34	Bus and tram includes light rail	2	3
+Western Australia	25-34	Bus and two other methods excludes train	3	165
+Western Australia	25-34	Car as driver	1	169034
+Western Australia	25-34	Car as passenger	1	13143
+Western Australia	25-34	Did not go to work		27235
+Western Australia	25-34	Ferry	1	86
+Western Australia	25-34	Method of travel not stated		2965
+Western Australia	25-34	Motorbike scooter	1	1200
+Western Australia	25-34	(Other)	1	4625
+Western Australia	25-34	Other three methods	3	97
+Western Australia	25-34	Other two methods	2	1854
+Western Australia	25-34	Taxi	1	558
+Western Australia	25-34	Train	1	8163
+Western Australia	25-34	Train and bus	2	3903
+Western Australia	25-34	Train and car as driver	2	2698
+Western Australia	25-34	Train and car as passenger	2	492
+Western Australia	25-34	Train and ferry	2	3
+Western Australia	25-34	Train and other	2	215
+Western Australia	25-34	Train and two other methods	3	1311
+Western Australia	25-34	Tram includes light rail	1	23
+Western Australia	25-34	Truck	1	1488
+Western Australia	25-34	Walked only	1	7691
+Western Australia	25-34	Worked at home		6797
+Western Australia	35-44	Bicycle	1	2953
+Western Australia	35-44	Bus	1	10848
+Western Australia	35-44	Bus and car as driver	2	425
+Western Australia	35-44	Bus and car as passenger	2	193
+Western Australia	35-44	Bus and ferry	2	13
+Western Australia	35-44	Bus and other	2	174
+Western Australia	35-44	Bus and two other methods excludes train	3	129
+Western Australia	35-44	Car as driver	1	167117
+Western Australia	35-44	Car as passenger	1	8156
+Western Australia	35-44	Did not go to work		23354
+Western Australia	35-44	Ferry	1	55
+Western Australia	35-44	Method of travel not stated		2594
+Western Australia	35-44	Motorbike scooter	1	1200
+Western Australia	35-44	(Other)	1	4133
+Western Australia	35-44	Other three methods	3	80
+Western Australia	35-44	Other two methods	2	1457
+Western Australia	35-44	Taxi	1	441
+Western Australia	35-44	Train	1	6062
+Western Australia	35-44	Train and bus	2	3122
+Western Australia	35-44	Train and car as driver	2	2585
+Western Australia	35-44	Train and car as passenger	2	311
+Western Australia	35-44	Train and ferry	2	3
+Western Australia	35-44	Train and other	2	215
+Western Australia	35-44	Train and two other methods	3	997
+Western Australia	35-44	Tram includes light rail	1	26
+Western Australia	35-44	Truck	1	1778
+Western Australia	35-44	Walked only	1	5451
+Western Australia	35-44	Worked at home		11333
+Western Australia	45-54	Bicycle	1	2843
+Western Australia	45-54	Bus	1	8768
+Western Australia	45-54	Bus and car as driver	2	375
+Western Australia	45-54	Bus and car as passenger	2	128
+Western Australia	45-54	Bus and ferry	2	7
+Western Australia	45-54	Bus and other	2	138
+Western Australia	45-54	Bus and tram includes light rail	2	3
+Western Australia	45-54	Bus and two other methods excludes train	3	93
+Western Australia	45-54	Car as driver	1	170353
+Western Australia	45-54	Car as passenger	1	7695
+Western Australia	45-54	Did not go to work		20854
+Western Australia	45-54	Ferry	1	48
+Western Australia	45-54	Method of travel not stated		2637
+Western Australia	45-54	Motorbike scooter	1	1466
+Western Australia	45-54	(Other)	1	3988
+Western Australia	45-54	Other three methods	3	82
+Western Australia	45-54	Other two methods	2	1425
+Western Australia	45-54	Taxi	1	411
+Western Australia	45-54	Train	1	4677
+Western Australia	45-54	Train and bus	2	2435
+Western Australia	45-54	Train and car as driver	2	2103
+Western Australia	45-54	Train and car as passenger	2	268
+Western Australia	45-54	Train and other	2	178
+Western Australia	45-54	Train and two other methods	3	826
+Western Australia	45-54	Tram includes light rail	1	22
+Western Australia	45-54	Truck	1	2413
+Western Australia	45-54	Walked only	1	6073
+Western Australia	45-54	Worked at home		12340
+Western Australia	55-64	Bicycle	1	1432
+Western Australia	55-64	Bus	1	5032
+Western Australia	55-64	Bus and car as driver	2	222
+Western Australia	55-64	Bus and car as passenger	2	73
+Western Australia	55-64	Bus and ferry	2	5
+Western Australia	55-64	Bus and other	2	62
+Western Australia	55-64	Bus and two other methods excludes train	3	40
+Western Australia	55-64	Car as driver	1	113613
+Western Australia	55-64	Car as passenger	1	5231
+Western Australia	55-64	Did not go to work		18007
+Western Australia	55-64	Ferry	1	17
+Western Australia	55-64	Method of travel not stated		1804
+Western Australia	55-64	Motorbike scooter	1	798
+Western Australia	55-64	(Other)	1	2407
+Western Australia	55-64	Other three methods	3	47
+Western Australia	55-64	Other two methods	2	891
+Western Australia	55-64	Taxi	1	274
+Western Australia	55-64	Train	1	2654
+Western Australia	55-64	Train and bus	2	1546
+Western Australia	55-64	Train and car as driver	2	1104
+Western Australia	55-64	Train and car as passenger	2	187
+Western Australia	55-64	Train and other	2	85
+Western Australia	55-64	Train and two other methods	3	503
+Western Australia	55-64	Tram includes light rail	1	20
+Western Australia	55-64	Truck	1	1862
+Western Australia	55-64	Walked only	1	5082
+Western Australia	55-64	Worked at home		10540
+Western Australia	65-74	Bicycle	1	231
+Western Australia	65-74	Bus	1	771
+Western Australia	65-74	Bus and car as driver	2	37
+Western Australia	65-74	Bus and car as passenger	2	19
+Western Australia	65-74	Bus and other	2	17
+Western Australia	65-74	Car as driver	1	24410
+Western Australia	65-74	Car as passenger	1	1114
+Western Australia	65-74	Did not go to work		5660
+Western Australia	65-74	Ferry	1	12
+Western Australia	65-74	Method of travel not stated		727
+Western Australia	65-74	Motorbike scooter	1	132
+Western Australia	65-74	(Other)	1	621
+Western Australia	65-74	Other three methods	3	9
+Western Australia	65-74	Other two methods	2	187
+Western Australia	65-74	Taxi	1	71
+Western Australia	65-74	Train	1	436
+Western Australia	65-74	Train and bus	2	325
+Western Australia	65-74	Train and car as driver	2	143
+Western Australia	65-74	Train and car as passenger	2	27
+Western Australia	65-74	Train and other	2	19
+Western Australia	65-74	Train and two other methods	3	73
+Western Australia	65-74	Tram includes light rail	1	4
+Western Australia	65-74	Truck	1	574
+Western Australia	65-74	Walked only	1	1518
+Western Australia	65-74	Worked at home		5578
+Western Australia	75+	Bicycle	1	14
+Western Australia	75+	Bus	1	52
+Western Australia	75+	Bus and car as driver	2	8
+Western Australia	75+	Car as driver	1	2339
+Western Australia	75+	Car as passenger	1	170
+Western Australia	75+	Did not go to work		632
+Western Australia	75+	Ferry	1	4
+Western Australia	75+	Method of travel not stated		338
+Western Australia	75+	Motorbike scooter	1	28
+Western Australia	75+	(Other)	1	101
+Western Australia	75+	Other two methods	2	23
+Western Australia	75+	Taxi	1	11
+Western Australia	75+	Train	1	24
+Western Australia	75+	Train and bus	2	26
+Western Australia	75+	Train and car as driver	2	6
+Western Australia	75+	Train and car as passenger	2	3
+Western Australia	75+	Train and other	2	3
+Western Australia	75+	Train and two other methods	3	3
+Western Australia	75+	Truck	1	88
+Western Australia	75+	Walked only	1	248
+Western Australia	75+	Worked at home		1409
+Tasmania	15-24	Bicycle	1	166
+Tasmania	15-24	Bus	1	1342
+Tasmania	15-24	Bus and car as driver	2	53
+Tasmania	15-24	Bus and car as passenger	2	152
+Tasmania	15-24	Bus and other	2	17
+Tasmania	15-24	Bus and two other methods excludes train	3	23
+Tasmania	15-24	Car as driver	1	15520
+Tasmania	15-24	Car as passenger	1	4619
+Tasmania	15-24	Did not go to work		5260
+Tasmania	15-24	Ferry	1	7
+Tasmania	15-24	Method of travel not stated		415
+Tasmania	15-24	Motorbike scooter	1	385
+Tasmania	15-24	(Other)	1	102
+Tasmania	15-24	Other three methods	3	8
+Tasmania	15-24	Other two methods	2	227
+Tasmania	15-24	Taxi	1	109
+Tasmania	15-24	Train	1	10
+Tasmania	15-24	Train and car as driver	2	4
+Tasmania	15-24	Train and two other methods	3	3
+Tasmania	15-24	Tram includes light rail	1	6
+Tasmania	15-24	Truck	1	61
+Tasmania	15-24	Walked only	1	1889
+Tasmania	15-24	Worked at home		262
+Tasmania	25-34	Bicycle	1	360
+Tasmania	25-34	Bus	1	1068
+Tasmania	25-34	Bus and car as driver	2	72
+Tasmania	25-34	Bus and car as passenger	2	72
+Tasmania	25-34	Bus and other	2	31
+Tasmania	25-34	Bus and two other methods excludes train	3	24
+Tasmania	25-34	Car as driver	1	26837
+Tasmania	25-34	Car as passenger	1	2492
+Tasmania	25-34	Did not go to work		4825
+Tasmania	25-34	Ferry	1	10
+Tasmania	25-34	Method of travel not stated		343
+Tasmania	25-34	Motorbike scooter	1	253
+Tasmania	25-34	(Other)	1	195
+Tasmania	25-34	Other three methods	3	17
+Tasmania	25-34	Other two methods	2	317
+Tasmania	25-34	Taxi	1	122
+Tasmania	25-34	Train	1	35
+Tasmania	25-34	Train and bus	2	6
+Tasmania	25-34	Train and car as driver	2	4
+Tasmania	25-34	Train and car as passenger	2	3
+Tasmania	25-34	Train and other	2	3
+Tasmania	25-34	Train and two other methods	3	4
+Tasmania	25-34	Truck	1	221
+Tasmania	25-34	Walked only	1	2280
+Tasmania	25-34	Worked at home		1006
+Tasmania	35-44	Bicycle	1	449
+Tasmania	35-44	Bus	1	891
+Tasmania	35-44	Bus and car as driver	2	89
+Tasmania	35-44	Bus and car as passenger	2	45
+Tasmania	35-44	Bus and other	2	10
+Tasmania	35-44	Bus and two other methods excludes train	3	21
+Tasmania	35-44	Car as driver	1	31086
+Tasmania	35-44	Car as passenger	1	1713
+Tasmania	35-44	Did not go to work		4364
+Tasmania	35-44	Ferry	1	5
+Tasmania	35-44	Method of travel not stated		309
+Tasmania	35-44	Motorbike scooter	1	212
+Tasmania	35-44	(Other)	1	238
+Tasmania	35-44	Other three methods	3	17
+Tasmania	35-44	Other two methods	2	301
+Tasmania	35-44	Taxi	1	106
+Tasmania	35-44	Train	1	9
+Tasmania	35-44	Train and bus	2	3
+Tasmania	35-44	Train and car as driver	2	10
+Tasmania	35-44	Truck	1	328
+Tasmania	35-44	Walked only	1	1728
+Tasmania	35-44	Worked at home		1879
+Tasmania	45-54	Bicycle	1	442
+Tasmania	45-54	Bus	1	900
+Tasmania	45-54	Bus and car as driver	2	132
+Tasmania	45-54	Bus and car as passenger	2	46
+Tasmania	45-54	Bus and other	2	15
+Tasmania	45-54	Bus and two other methods excludes train	3	12
+Tasmania	45-54	Car as driver	1	36322
+Tasmania	45-54	Car as passenger	1	1979
+Tasmania	45-54	Did not go to work		4530
+Tasmania	45-54	Ferry	1	14
+Tasmania	45-54	Method of travel not stated		416
+Tasmania	45-54	Motorbike scooter	1	261
+Tasmania	45-54	(Other)	1	307
+Tasmania	45-54	Other three methods	3	20
+Tasmania	45-54	Other two methods	2	299
+Tasmania	45-54	Taxi	1	103
+Tasmania	45-54	Train	1	15
+Tasmania	45-54	Train and car as driver	2	13
+Tasmania	45-54	Train and two other methods	3	6
+Tasmania	45-54	Tram includes light rail	1	12
+Tasmania	45-54	Truck	1	454
+Tasmania	45-54	Walked only	1	2086
+Tasmania	45-54	Worked at home		2383
+Tasmania	55-64	Bicycle	1	190
+Tasmania	55-64	Bus	1	710
+Tasmania	55-64	Bus and car as driver	2	75
+Tasmania	55-64	Bus and car as passenger	2	21
+Tasmania	55-64	Bus and other	2	12
+Tasmania	55-64	Bus and two other methods excludes train	3	15
+Tasmania	55-64	Car as driver	1	26255
+Tasmania	55-64	Car as passenger	1	1428
+Tasmania	55-64	Did not go to work		4515
+Tasmania	55-64	Method of travel not stated		427
+Tasmania	55-64	Motorbike scooter	1	151
+Tasmania	55-64	(Other)	1	343
+Tasmania	55-64	Other three methods	3	18
+Tasmania	55-64	Other two methods	2	229
+Tasmania	55-64	Taxi	1	86
+Tasmania	55-64	Train	1	7
+Tasmania	55-64	Train and car as driver	2	3
+Tasmania	55-64	Train and two other methods	3	3
+Tasmania	55-64	Tram includes light rail	1	4
+Tasmania	55-64	Truck	1	432
+Tasmania	55-64	Walked only	1	1835
+Tasmania	55-64	Worked at home		2609
+Tasmania	65-74	Bicycle	1	19
+Tasmania	65-74	Bus	1	107
+Tasmania	65-74	Bus and car as driver	2	11
+Tasmania	65-74	Bus and car as passenger	2	7
+Tasmania	65-74	Bus and other	2	3
+Tasmania	65-74	Car as driver	1	4654
+Tasmania	65-74	Car as passenger	1	250
+Tasmania	65-74	Did not go to work		1295
+Tasmania	65-74	Ferry	1	3
+Tasmania	65-74	Method of travel not stated		200
+Tasmania	65-74	Motorbike scooter	1	20
+Tasmania	65-74	(Other)	1	107
+Tasmania	65-74	Other three methods	3	3
+Tasmania	65-74	Other two methods	2	35
+Tasmania	65-74	Taxi	1	33
+Tasmania	65-74	Train and car as driver	2	3
+Tasmania	65-74	Train and other	2	3
+Tasmania	65-74	Tram includes light rail	1	3
+Tasmania	65-74	Truck	1	140
+Tasmania	65-74	Walked only	1	437
+Tasmania	65-74	Worked at home		1506
+Tasmania	75+	Bicycle	1	4
+Tasmania	75+	Bus	1	12
+Tasmania	75+	Car as driver	1	459
+Tasmania	75+	Car as passenger	1	27
+Tasmania	75+	Did not go to work		165
+Tasmania	75+	Method of travel not stated		123
+Tasmania	75+	Motorbike scooter	1	6
+Tasmania	75+	(Other)	1	24
+Tasmania	75+	Other two methods	2	5
+Tasmania	75+	Taxi	1	6
+Tasmania	75+	Truck	1	31
+Tasmania	75+	Walked only	1	75
+Tasmania	75+	Worked at home		395
+Northern Territory	15-24	Bicycle	1	324
+Northern Territory	15-24	Bus	1	682
+Northern Territory	15-24	Bus and car as driver	2	55
+Northern Territory	15-24	Bus and car as passenger	2	53
+Northern Territory	15-24	Bus and other	2	20
+Northern Territory	15-24	Bus and two other methods excludes train	3	21
+Northern Territory	15-24	Car as driver	1	7163
+Northern Territory	15-24	Car as passenger	1	1916
+Northern Territory	15-24	Did not go to work		1368
+Northern Territory	15-24	Ferry	1	6
+Northern Territory	15-24	Method of travel not stated		308
+Northern Territory	15-24	Motorbike scooter	1	188
+Northern Territory	15-24	(Other)	1	203
+Northern Territory	15-24	Other three methods	3	8
+Northern Territory	15-24	Other two methods	2	140
+Northern Territory	15-24	Taxi	1	52
+Northern Territory	15-24	Train	1	9
+Northern Territory	15-24	Train and two other methods	3	3
+Northern Territory	15-24	Truck	1	29
+Northern Territory	15-24	Walked only	1	1613
+Northern Territory	15-24	Worked at home		139
+Northern Territory	25-34	Bicycle	1	852
+Northern Territory	25-34	Bus	1	2145
+Northern Territory	25-34	Bus and car as driver	2	409
+Northern Territory	25-34	Bus and car as passenger	2	70
+Northern Territory	25-34	Bus and other	2	96
+Northern Territory	25-34	Bus and two other methods excludes train	3	40
+Northern Territory	25-34	Car as driver	1	15996
+Northern Territory	25-34	Car as passenger	1	2029
+Northern Territory	25-34	Did not go to work		2295
+Northern Territory	25-34	Ferry	1	3
+Northern Territory	25-34	Method of travel not stated		419
+Northern Territory	25-34	Motorbike scooter	1	387
+Northern Territory	25-34	(Other)	1	492
+Northern Territory	25-34	Other three methods	3	19
+Northern Territory	25-34	Other two methods	2	286
+Northern Territory	25-34	Taxi	1	88
+Northern Territory	25-34	Train	1	13
+Northern Territory	25-34	Train and car as driver	2	5
+Northern Territory	25-34	Train and two other methods	3	8
+Northern Territory	25-34	Truck	1	122
+Northern Territory	25-34	Walked only	1	2745
+Northern Territory	25-34	Worked at home		452
+Northern Territory	35-44	Bicycle	1	565
+Northern Territory	35-44	Bus	1	1762
+Northern Territory	35-44	Bus and car as driver	2	266
+Northern Territory	35-44	Bus and car as passenger	2	46
+Northern Territory	35-44	Bus and other	2	45
+Northern Territory	35-44	Bus and two other methods excludes train	3	44
+Northern Territory	35-44	Car as driver	1	14886
+Northern Territory	35-44	Car as passenger	1	1389
+Northern Territory	35-44	Did not go to work		1787
+Northern Territory	35-44	Ferry	1	11
+Northern Territory	35-44	Method of travel not stated		297
+Northern Territory	35-44	Motorbike scooter	1	274
+Northern Territory	35-44	(Other)	1	387
+Northern Territory	35-44	Other three methods	3	24
+Northern Territory	35-44	Other two methods	2	210
+Northern Territory	35-44	Taxi	1	60
+Northern Territory	35-44	Train	1	9
+Northern Territory	35-44	Train and car as driver	2	9
+Northern Territory	35-44	Train and other	2	3
+Northern Territory	35-44	Train and two other methods	3	3
+Northern Territory	35-44	Tram includes light rail	1	7
+Northern Territory	35-44	Truck	1	135
+Northern Territory	35-44	Walked only	1	1704
+Northern Territory	35-44	Worked at home		663
+Northern Territory	45-54	Bicycle	1	533
+Northern Territory	45-54	Bus	1	1524
+Northern Territory	45-54	Bus and car as driver	2	154
+Northern Territory	45-54	Bus and car as passenger	2	28
+Northern Territory	45-54	Bus and other	2	35
+Northern Territory	45-54	Bus and two other methods excludes train	3	22
+Northern Territory	45-54	Car as driver	1	13840
+Northern Territory	45-54	Car as passenger	1	1219
+Northern Territory	45-54	Did not go to work		1579
+Northern Territory	45-54	Ferry	1	16
+Northern Territory	45-54	Method of travel not stated		280
+Northern Territory	45-54	Motorbike scooter	1	313
+Northern Territory	45-54	(Other)	1	392
+Northern Territory	45-54	Other three methods	3	16
+Northern Territory	45-54	Other two methods	2	208
+Northern Territory	45-54	Taxi	1	53
+Northern Territory	45-54	Train	1	9
+Northern Territory	45-54	Train and two other methods	3	6
+Northern Territory	45-54	Truck	1	165
+Northern Territory	45-54	Walked only	1	1705
+Northern Territory	45-54	Worked at home		668
+Northern Territory	55-64	Bicycle	1	316
+Northern Territory	55-64	Bus	1	881
+Northern Territory	55-64	Bus and car as driver	2	73
+Northern Territory	55-64	Bus and car as passenger	2	25
+Northern Territory	55-64	Bus and ferry	2	5
+Northern Territory	55-64	Bus and other	2	19
+Northern Territory	55-64	Bus and two other methods excludes train	3	7
+Northern Territory	55-64	Car as driver	1	8990
+Northern Territory	55-64	Car as passenger	1	818
+Northern Territory	55-64	Did not go to work		1369
+Northern Territory	55-64	Ferry	1	14
+Northern Territory	55-64	Method of travel not stated		198
+Northern Territory	55-64	Motorbike scooter	1	223
+Northern Territory	55-64	(Other)	1	250
+Northern Territory	55-64	Other three methods	3	14
+Northern Territory	55-64	Other two methods	2	138
+Northern Territory	55-64	Taxi	1	33
+Northern Territory	55-64	Truck	1	116
+Northern Territory	55-64	Walked only	1	1250
+Northern Territory	55-64	Worked at home		551
+Northern Territory	65-74	Bicycle	1	39
+Northern Territory	65-74	Bus	1	137
+Northern Territory	65-74	Bus and car as driver	2	12
+Northern Territory	65-74	Bus and car as passenger	2	3
+Northern Territory	65-74	Car as driver	1	1996
+Northern Territory	65-74	Car as passenger	1	156
+Northern Territory	65-74	Did not go to work		341
+Northern Territory	65-74	Method of travel not stated		61
+Northern Territory	65-74	Motorbike scooter	1	18
+Northern Territory	65-74	(Other)	1	56
+Northern Territory	65-74	Other three methods	3	3
+Northern Territory	65-74	Other two methods	2	14
+Northern Territory	65-74	Taxi	1	5
+Northern Territory	65-74	Truck	1	36
+Northern Territory	65-74	Walked only	1	287
+Northern Territory	65-74	Worked at home		278
+Northern Territory	75+	Bus	1	8
+Northern Territory	75+	Bus and car as driver	2	3
+Northern Territory	75+	Car as driver	1	163
+Northern Territory	75+	Car as passenger	1	8
+Northern Territory	75+	Did not go to work		36
+Northern Territory	75+	Method of travel not stated		22
+Northern Territory	75+	(Other)	1	5
+Northern Territory	75+	Other two methods	2	3
+Northern Territory	75+	Truck	1	3
+Northern Territory	75+	Walked only	1	28
+Northern Territory	75+	Worked at home		59
+Australian Capital Territory	15-24	Bicycle	1	662
+Australian Capital Territory	15-24	Bus	1	2345
+Australian Capital Territory	15-24	Bus and car as driver	2	99
+Australian Capital Territory	15-24	Bus and car as passenger	2	227
+Australian Capital Territory	15-24	Bus and other	2	47
+Australian Capital Territory	15-24	Bus and two other methods excludes train	3	44
+Australian Capital Territory	15-24	Car as driver	1	17815
+Australian Capital Territory	15-24	Car as passenger	1	3499
+Australian Capital Territory	15-24	Did not go to work		5303
+Australian Capital Territory	15-24	Ferry	1	5
+Australian Capital Territory	15-24	Method of travel not stated		294
+Australian Capital Territory	15-24	Motorbike scooter	1	220
+Australian Capital Territory	15-24	(Other)	1	200
+Australian Capital Territory	15-24	Other three methods	3	8
+Australian Capital Territory	15-24	Other two methods	2	247
+Australian Capital Territory	15-24	Taxi	1	44
+Australian Capital Territory	15-24	Train	1	12
+Australian Capital Territory	15-24	Train and car as driver	2	9
+Australian Capital Territory	15-24	Train and car as passenger	2	3
+Australian Capital Territory	15-24	Tram includes light rail	1	3
+Australian Capital Territory	15-24	Truck	1	41
+Australian Capital Territory	15-24	Walked only	1	2540
+Australian Capital Territory	15-24	Worked at home		332
+Australian Capital Territory	25-34	Bicycle	1	1435
+Australian Capital Territory	25-34	Bus	1	3874
+Australian Capital Territory	25-34	Bus and car as driver	2	239
+Australian Capital Territory	25-34	Bus and car as passenger	2	186
+Australian Capital Territory	25-34	Bus and other	2	106
+Australian Capital Territory	25-34	Bus and two other methods excludes train	3	46
+Australian Capital Territory	25-34	Car as driver	1	35252
+Australian Capital Territory	25-34	Car as passenger	1	3645
+Australian Capital Territory	25-34	Did not go to work		5541
+Australian Capital Territory	25-34	Ferry	1	9
+Australian Capital Territory	25-34	Method of travel not stated		303
+Australian Capital Territory	25-34	Motorbike scooter	1	520
+Australian Capital Territory	25-34	(Other)	1	261
+Australian Capital Territory	25-34	Other three methods	3	32
+Australian Capital Territory	25-34	Other two methods	2	506
+Australian Capital Territory	25-34	Taxi	1	102
+Australian Capital Territory	25-34	Train	1	42
+Australian Capital Territory	25-34	Train and bus	2	5
+Australian Capital Territory	25-34	Train and car as driver	2	19
+Australian Capital Territory	25-34	Train and other	2	3
+Australian Capital Territory	25-34	Train and two other methods	3	10
+Australian Capital Territory	25-34	Tram includes light rail	1	11
+Australian Capital Territory	25-34	Truck	1	178
+Australian Capital Territory	25-34	Walked only	1	3269
+Australian Capital Territory	25-34	Worked at home		957
+Australian Capital Territory	35-44	Bicycle	1	1466
+Australian Capital Territory	35-44	Bus	1	2571
+Australian Capital Territory	35-44	Bus and car as driver	2	262
+Australian Capital Territory	35-44	Bus and car as passenger	2	125
+Australian Capital Territory	35-44	Bus and other	2	69
+Australian Capital Territory	35-44	Bus and two other methods excludes train	3	42
+Australian Capital Territory	35-44	Car as driver	1	36941
+Australian Capital Territory	35-44	Car as passenger	1	2414
+Australian Capital Territory	35-44	Did not go to work		4397
+Australian Capital Territory	35-44	Ferry	1	8
+Australian Capital Territory	35-44	Method of travel not stated		272
+Australian Capital Territory	35-44	Motorbike scooter	1	551
+Australian Capital Territory	35-44	(Other)	1	235
+Australian Capital Territory	35-44	Other three methods	3	29
+Australian Capital Territory	35-44	Other two methods	2	456
+Australian Capital Territory	35-44	Taxi	1	88
+Australian Capital Territory	35-44	Train	1	33
+Australian Capital Territory	35-44	Train and bus	2	5
+Australian Capital Territory	35-44	Train and car as driver	2	14
+Australian Capital Territory	35-44	Train and other	2	4
+Australian Capital Territory	35-44	Train and two other methods	3	16
+Australian Capital Territory	35-44	Tram includes light rail	1	7
+Australian Capital Territory	35-44	Truck	1	231
+Australian Capital Territory	35-44	Walked only	1	1548
+Australian Capital Territory	35-44	Worked at home		1584
+Australian Capital Territory	45-54	Bicycle	1	1321
+Australian Capital Territory	45-54	Bus	1	2198
+Australian Capital Territory	45-54	Bus and car as driver	2	220
+Australian Capital Territory	45-54	Bus and car as passenger	2	106
+Australian Capital Territory	45-54	Bus and ferry	2	3
+Australian Capital Territory	45-54	Bus and other	2	52
+Australian Capital Territory	45-54	Bus and two other methods excludes train	3	33
+Australian Capital Territory	45-54	Car as driver	1	33820
+Australian Capital Territory	45-54	Car as passenger	1	2470
+Australian Capital Territory	45-54	Did not go to work		3217
+Australian Capital Territory	45-54	Ferry	1	8
+Australian Capital Territory	45-54	Method of travel not stated		250
+Australian Capital Territory	45-54	Motorbike scooter	1	625
+Australian Capital Territory	45-54	(Other)	1	243
+Australian Capital Territory	45-54	Other three methods	3	17
+Australian Capital Territory	45-54	Other two methods	2	368
+Australian Capital Territory	45-54	Taxi	1	87
+Australian Capital Territory	45-54	Train	1	33
+Australian Capital Territory	45-54	Train and bus	2	7
+Australian Capital Territory	45-54	Train and car as driver	2	27
+Australian Capital Territory	45-54	Train and car as passenger	2	3
+Australian Capital Territory	45-54	Train and other	2	3
+Australian Capital Territory	45-54	Train and two other methods	3	6
+Australian Capital Territory	45-54	Tram includes light rail	1	10
+Australian Capital Territory	45-54	Truck	1	266
+Australian Capital Territory	45-54	Walked only	1	1222
+Australian Capital Territory	45-54	Worked at home		1459
+Australian Capital Territory	55-64	Bicycle	1	587
+Australian Capital Territory	55-64	Bus	1	1430
+Australian Capital Territory	55-64	Bus and car as driver	2	127
+Australian Capital Territory	55-64	Bus and car as passenger	2	68
+Australian Capital Territory	55-64	Bus and other	2	19
+Australian Capital Territory	55-64	Bus and two other methods excludes train	3	14
+Australian Capital Territory	55-64	Car as driver	1	18817
+Australian Capital Territory	55-64	Car as passenger	1	1432
+Australian Capital Territory	55-64	Did not go to work		2701
+Australian Capital Territory	55-64	Ferry	1	4
+Australian Capital Territory	55-64	Method of travel not stated		166
+Australian Capital Territory	55-64	Motorbike scooter	1	270
+Australian Capital Territory	55-64	(Other)	1	149
+Australian Capital Territory	55-64	Other three methods	3	19
+Australian Capital Territory	55-64	Other two methods	2	193
+Australian Capital Territory	55-64	Taxi	1	39
+Australian Capital Territory	55-64	Train	1	10
+Australian Capital Territory	55-64	Train and bus	2	4
+Australian Capital Territory	55-64	Train and car as driver	2	14
+Australian Capital Territory	55-64	Train and other	2	3
+Australian Capital Territory	55-64	Train and two other methods	3	3
+Australian Capital Territory	55-64	Tram includes light rail	1	11
+Australian Capital Territory	55-64	Truck	1	200
+Australian Capital Territory	55-64	Walked only	1	811
+Australian Capital Territory	55-64	Worked at home		1292
+Australian Capital Territory	65-74	Bicycle	1	52
+Australian Capital Territory	65-74	Bus	1	239
+Australian Capital Territory	65-74	Bus and car as driver	2	22
+Australian Capital Territory	65-74	Bus and car as passenger	2	10
+Australian Capital Territory	65-74	Bus and other	2	4
+Australian Capital Territory	65-74	Car as driver	1	3670
+Australian Capital Territory	65-74	Car as passenger	1	247
+Australian Capital Territory	65-74	Did not go to work		877
+Australian Capital Territory	65-74	Method of travel not stated		73
+Australian Capital Territory	65-74	Motorbike scooter	1	24
+Australian Capital Territory	65-74	(Other)	1	62
+Australian Capital Territory	65-74	Other two methods	2	40
+Australian Capital Territory	65-74	Taxi	1	9
+Australian Capital Territory	65-74	Train	1	8
+Australian Capital Territory	65-74	Truck	1	110
+Australian Capital Territory	65-74	Walked only	1	164
+Australian Capital Territory	65-74	Worked at home		761
+Australian Capital Territory	75+	Bicycle	1	3
+Australian Capital Territory	75+	Bus	1	13
+Australian Capital Territory	75+	Bus and car as driver	2	3
+Australian Capital Territory	75+	Car as driver	1	291
+Australian Capital Territory	75+	Car as passenger	1	15
+Australian Capital Territory	75+	Did not go to work		116
+Australian Capital Territory	75+	Method of travel not stated		50
+Australian Capital Territory	75+	Motorbike scooter	1	3
+Australian Capital Territory	75+	(Other)	1	7
+Australian Capital Territory	75+	Truck	1	7
+Australian Capital Territory	75+	Walked only	1	16
+Australian Capital Territory	75+	Worked at home		166
+Other Territories	15-24	Bus	1	3
+Other Territories	15-24	Car as driver	1	119
+Other Territories	15-24	Car as passenger	1	19
+Other Territories	15-24	Did not go to work		15
+Other Territories	15-24	Ferry	1	6
+Other Territories	15-24	Method of travel not stated		7
+Other Territories	15-24	Motorbike scooter	1	16
+Other Territories	15-24	(Other)	1	14
+Other Territories	15-24	Other two methods	2	3
+Other Territories	15-24	Walked only	1	33
+Other Territories	15-24	Worked at home		3
+Other Territories	25-34	Bicycle	1	4
+Other Territories	25-34	Bus	1	18
+Other Territories	25-34	Bus and ferry	2	8
+Other Territories	25-34	Car as driver	1	233
+Other Territories	25-34	Car as passenger	1	40
+Other Territories	25-34	Did not go to work		65
+Other Territories	25-34	Ferry	1	7
+Other Territories	25-34	Method of travel not stated		13
+Other Territories	25-34	Motorbike scooter	1	6
+Other Territories	25-34	(Other)	1	22
+Other Territories	25-34	Other two methods	2	5
+Other Territories	25-34	Train	1	3
+Other Territories	25-34	Truck	1	3
+Other Territories	25-34	Walked only	1	59
+Other Territories	25-34	Worked at home		10
+Other Territories	35-44	Bicycle	1	8
+Other Territories	35-44	Bus	1	15
+Other Territories	35-44	Bus and ferry	2	8
+Other Territories	35-44	Bus and two other methods excludes train	3	3
+Other Territories	35-44	Car as driver	1	350
+Other Territories	35-44	Car as passenger	1	23
+Other Territories	35-44	Did not go to work		53
+Other Territories	35-44	Ferry	1	13
+Other Territories	35-44	Method of travel not stated		3
+Other Territories	35-44	Motorbike scooter	1	8
+Other Territories	35-44	(Other)	1	16
+Other Territories	35-44	Other three methods	3	3
+Other Territories	35-44	Other two methods	2	7
+Other Territories	35-44	Taxi	1	3
+Other Territories	35-44	Truck	1	12
+Other Territories	35-44	Walked only	1	36
+Other Territories	35-44	Worked at home		23
+Other Territories	45-54	Bicycle	1	5
+Other Territories	45-54	Bus	1	19
+Other Territories	45-54	Bus and ferry	2	6
+Other Territories	45-54	Car as driver	1	380
+Other Territories	45-54	Car as passenger	1	26
+Other Territories	45-54	Did not go to work		63
+Other Territories	45-54	Ferry	1	11
+Other Territories	45-54	Method of travel not stated		6
+Other Territories	45-54	Motorbike scooter	1	9
+Other Territories	45-54	(Other)	1	17
+Other Territories	45-54	Other two methods	2	9
+Other Territories	45-54	Truck	1	21
+Other Territories	45-54	Walked only	1	44
+Other Territories	45-54	Worked at home		27
+Other Territories	55-64	Bicycle	1	3
+Other Territories	55-64	Bus	1	19
+Other Territories	55-64	Bus and ferry	2	3
+Other Territories	55-64	Car as driver	1	313
+Other Territories	55-64	Car as passenger	1	15
+Other Territories	55-64	Did not go to work		76
+Other Territories	55-64	Ferry	1	6
+Other Territories	55-64	Method of travel not stated		11
+Other Territories	55-64	Motorbike scooter	1	5
+Other Territories	55-64	(Other)	1	15
+Other Territories	55-64	Other two methods	2	10
+Other Territories	55-64	Truck	1	22
+Other Territories	55-64	Walked only	1	37
+Other Territories	55-64	Worked at home		29
+Other Territories	65-74	Bus	1	3
+Other Territories	65-74	Car as driver	1	142
+Other Territories	65-74	Car as passenger	1	3
+Other Territories	65-74	Did not go to work		24
+Other Territories	65-74	Ferry	1	4
+Other Territories	65-74	Method of travel not stated		4
+Other Territories	65-74	Motorbike scooter	1	5
+Other Territories	65-74	Other two methods	2	3
+Other Territories	65-74	Truck	1	11
+Other Territories	65-74	Walked only	1	9
+Other Territories	65-74	Worked at home		12
+Other Territories	75+	Car as driver	1	18
+Other Territories	75+	Did not go to work		3
+Other Territories	75+	Truck	1	3
+Other Territories	75+	Walked only	1	3
+Other Territories	75+	Worked at home		9

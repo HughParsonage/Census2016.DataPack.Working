@@ -1,0 +1,618 @@
+STE_NAME16	EmploymentStatus	IncomeTotPersonal.max	workers
+New South Wales	Contributing family workers	0	9009
+New South Wales	Contributing family workers	7875	3736
+New South Wales	Contributing family workers	15750	5180
+New South Wales	Contributing family workers	21000	5132
+New South Wales	Contributing family workers	26250	4266
+New South Wales	Contributing family workers	34125	4751
+New South Wales	Contributing family workers	42000	3572
+New South Wales	Contributing family workers	52500	3263
+New South Wales	Contributing family workers	65625	2900
+New South Wales	Contributing family workers	78750	1643
+New South Wales	Contributing family workers	91875	1435
+New South Wales	Contributing family workers	105000	857
+New South Wales	Contributing family workers	157500	1236
+New South Wales	Contributing family workers	Inf	1601
+New South Wales	Employee	0	10032
+New South Wales	Employee	7875	92049
+New South Wales	Employee	15750	101179
+New South Wales	Employee	21000	112108
+New South Wales	Employee	26250	138685
+New South Wales	Employee	34125	217935
+New South Wales	Employee	42000	286948
+New South Wales	Employee	52500	349190
+New South Wales	Employee	65625	368511
+New South Wales	Employee	78750	262770
+New South Wales	Employee	91875	224377
+New South Wales	Employee	105000	168699
+New South Wales	Employee	157500	258327
+New South Wales	Employee	Inf	142558
+New South Wales	Owner managers of incorporated enterprises	0	1681
+New South Wales	Owner managers of incorporated enterprises	7875	1667
+New South Wales	Owner managers of incorporated enterprises	15750	3887
+New South Wales	Owner managers of incorporated enterprises	21000	6949
+New South Wales	Owner managers of incorporated enterprises	26250	8252
+New South Wales	Owner managers of incorporated enterprises	34125	15485
+New South Wales	Owner managers of incorporated enterprises	42000	19489
+New South Wales	Owner managers of incorporated enterprises	52500	24581
+New South Wales	Owner managers of incorporated enterprises	65625	30046
+New South Wales	Owner managers of incorporated enterprises	78750	22647
+New South Wales	Owner managers of incorporated enterprises	91875	24002
+New South Wales	Owner managers of incorporated enterprises	105000	14458
+New South Wales	Owner managers of incorporated enterprises	157500	25113
+New South Wales	Owner managers of incorporated enterprises	Inf	32865
+New South Wales	Owner managers of unincorporated enterprises	0	2953
+New South Wales	Owner managers of unincorporated enterprises	7875	7231
+New South Wales	Owner managers of unincorporated enterprises	15750	14685
+New South Wales	Owner managers of unincorporated enterprises	21000	18421
+New South Wales	Owner managers of unincorporated enterprises	26250	21335
+New South Wales	Owner managers of unincorporated enterprises	34125	30109
+New South Wales	Owner managers of unincorporated enterprises	42000	29633
+New South Wales	Owner managers of unincorporated enterprises	52500	31605
+New South Wales	Owner managers of unincorporated enterprises	65625	31146
+New South Wales	Owner managers of unincorporated enterprises	78750	20358
+New South Wales	Owner managers of unincorporated enterprises	91875	15718
+New South Wales	Owner managers of unincorporated enterprises	105000	9600
+New South Wales	Owner managers of unincorporated enterprises	157500	13345
+New South Wales	Owner managers of unincorporated enterprises	Inf	15502
+New South Wales	Status in employment not stated	0	707
+New South Wales	Status in employment not stated	7875	1386
+New South Wales	Status in employment not stated	15750	1965
+New South Wales	Status in employment not stated	21000	2456
+New South Wales	Status in employment not stated	26250	2786
+New South Wales	Status in employment not stated	34125	3506
+New South Wales	Status in employment not stated	42000	3716
+New South Wales	Status in employment not stated	52500	3900
+New South Wales	Status in employment not stated	65625	3422
+New South Wales	Status in employment not stated	78750	1996
+New South Wales	Status in employment not stated	91875	1551
+New South Wales	Status in employment not stated	105000	996
+New South Wales	Status in employment not stated	157500	1270
+New South Wales	Status in employment not stated	Inf	1114
+Victoria	Contributing family workers	0	8075
+Victoria	Contributing family workers	7875	3342
+Victoria	Contributing family workers	15750	4362
+Victoria	Contributing family workers	21000	4232
+Victoria	Contributing family workers	26250	3498
+Victoria	Contributing family workers	34125	3889
+Victoria	Contributing family workers	42000	3107
+Victoria	Contributing family workers	52500	2643
+Victoria	Contributing family workers	65625	2202
+Victoria	Contributing family workers	78750	1274
+Victoria	Contributing family workers	91875	1101
+Victoria	Contributing family workers	105000	679
+Victoria	Contributing family workers	157500	867
+Victoria	Contributing family workers	Inf	1222
+Victoria	Employee	0	9112
+Victoria	Employee	7875	89012
+Victoria	Employee	15750	94132
+Victoria	Employee	21000	96607
+Victoria	Employee	26250	116079
+Victoria	Employee	34125	181431
+Victoria	Employee	42000	239356
+Victoria	Employee	52500	296919
+Victoria	Employee	65625	311425
+Victoria	Employee	78750	220097
+Victoria	Employee	91875	178287
+Victoria	Employee	105000	123580
+Victoria	Employee	157500	175985
+Victoria	Employee	Inf	90715
+Victoria	Owner managers of incorporated enterprises	0	1665
+Victoria	Owner managers of incorporated enterprises	7875	1755
+Victoria	Owner managers of incorporated enterprises	15750	3806
+Victoria	Owner managers of incorporated enterprises	21000	6613
+Victoria	Owner managers of incorporated enterprises	26250	7929
+Victoria	Owner managers of incorporated enterprises	34125	13628
+Victoria	Owner managers of incorporated enterprises	42000	17355
+Victoria	Owner managers of incorporated enterprises	52500	20844
+Victoria	Owner managers of incorporated enterprises	65625	24700
+Victoria	Owner managers of incorporated enterprises	78750	18826
+Victoria	Owner managers of incorporated enterprises	91875	19804
+Victoria	Owner managers of incorporated enterprises	105000	11607
+Victoria	Owner managers of incorporated enterprises	157500	19407
+Victoria	Owner managers of incorporated enterprises	Inf	24698
+Victoria	Owner managers of unincorporated enterprises	0	2468
+Victoria	Owner managers of unincorporated enterprises	7875	6252
+Victoria	Owner managers of unincorporated enterprises	15750	12487
+Victoria	Owner managers of unincorporated enterprises	21000	14886
+Victoria	Owner managers of unincorporated enterprises	26250	16857
+Victoria	Owner managers of unincorporated enterprises	34125	23060
+Victoria	Owner managers of unincorporated enterprises	42000	22581
+Victoria	Owner managers of unincorporated enterprises	52500	24260
+Victoria	Owner managers of unincorporated enterprises	65625	23490
+Victoria	Owner managers of unincorporated enterprises	78750	15575
+Victoria	Owner managers of unincorporated enterprises	91875	11529
+Victoria	Owner managers of unincorporated enterprises	105000	7030
+Victoria	Owner managers of unincorporated enterprises	157500	9464
+Victoria	Owner managers of unincorporated enterprises	Inf	10851
+Victoria	Status in employment not stated	0	606
+Victoria	Status in employment not stated	7875	1389
+Victoria	Status in employment not stated	15750	1679
+Victoria	Status in employment not stated	21000	1996
+Victoria	Status in employment not stated	26250	2297
+Victoria	Status in employment not stated	34125	2871
+Victoria	Status in employment not stated	42000	3195
+Victoria	Status in employment not stated	52500	3313
+Victoria	Status in employment not stated	65625	2829
+Victoria	Status in employment not stated	78750	1586
+Victoria	Status in employment not stated	91875	1282
+Victoria	Status in employment not stated	105000	805
+Victoria	Status in employment not stated	157500	895
+Victoria	Status in employment not stated	Inf	886
+Queensland	Contributing family workers	0	7400
+Queensland	Contributing family workers	7875	2921
+Queensland	Contributing family workers	15750	3848
+Queensland	Contributing family workers	21000	3594
+Queensland	Contributing family workers	26250	2951
+Queensland	Contributing family workers	34125	3227
+Queensland	Contributing family workers	42000	2451
+Queensland	Contributing family workers	52500	2194
+Queensland	Contributing family workers	65625	2038
+Queensland	Contributing family workers	78750	1243
+Queensland	Contributing family workers	91875	1008
+Queensland	Contributing family workers	105000	616
+Queensland	Contributing family workers	157500	821
+Queensland	Contributing family workers	Inf	1137
+Queensland	Employee	0	6151
+Queensland	Employee	7875	64662
+Queensland	Employee	15750	65378
+Queensland	Employee	21000	69848
+Queensland	Employee	26250	88817
+Queensland	Employee	34125	150393
+Queensland	Employee	42000	203669
+Queensland	Employee	52500	241726
+Queensland	Employee	65625	247656
+Queensland	Employee	78750	171482
+Queensland	Employee	91875	145918
+Queensland	Employee	105000	96363
+Queensland	Employee	157500	136334
+Queensland	Employee	Inf	57950
+Queensland	Owner managers of incorporated enterprises	0	1144
+Queensland	Owner managers of incorporated enterprises	7875	1173
+Queensland	Owner managers of incorporated enterprises	15750	2411
+Queensland	Owner managers of incorporated enterprises	21000	4382
+Queensland	Owner managers of incorporated enterprises	26250	4985
+Queensland	Owner managers of incorporated enterprises	34125	9213
+Queensland	Owner managers of incorporated enterprises	42000	11460
+Queensland	Owner managers of incorporated enterprises	52500	14087
+Queensland	Owner managers of incorporated enterprises	65625	17859
+Queensland	Owner managers of incorporated enterprises	78750	14182
+Queensland	Owner managers of incorporated enterprises	91875	16072
+Queensland	Owner managers of incorporated enterprises	105000	8576
+Queensland	Owner managers of incorporated enterprises	157500	14798
+Queensland	Owner managers of incorporated enterprises	Inf	17535
+Queensland	Owner managers of unincorporated enterprises	0	2204
+Queensland	Owner managers of unincorporated enterprises	7875	5182
+Queensland	Owner managers of unincorporated enterprises	15750	9977
+Queensland	Owner managers of unincorporated enterprises	21000	11967
+Queensland	Owner managers of unincorporated enterprises	26250	13359
+Queensland	Owner managers of unincorporated enterprises	34125	18551
+Queensland	Owner managers of unincorporated enterprises	42000	18164
+Queensland	Owner managers of unincorporated enterprises	52500	19035
+Queensland	Owner managers of unincorporated enterprises	65625	19037
+Queensland	Owner managers of unincorporated enterprises	78750	12521
+Queensland	Owner managers of unincorporated enterprises	91875	9553
+Queensland	Owner managers of unincorporated enterprises	105000	5729
+Queensland	Owner managers of unincorporated enterprises	157500	7408
+Queensland	Owner managers of unincorporated enterprises	Inf	7609
+Queensland	Status in employment not stated	0	381
+Queensland	Status in employment not stated	7875	793
+Queensland	Status in employment not stated	15750	1113
+Queensland	Status in employment not stated	21000	1460
+Queensland	Status in employment not stated	26250	1536
+Queensland	Status in employment not stated	34125	2045
+Queensland	Status in employment not stated	42000	2170
+Queensland	Status in employment not stated	52500	2139
+Queensland	Status in employment not stated	65625	1861
+Queensland	Status in employment not stated	78750	1112
+Queensland	Status in employment not stated	91875	906
+Queensland	Status in employment not stated	105000	526
+Queensland	Status in employment not stated	157500	666
+Queensland	Status in employment not stated	Inf	603
+South Australia	Contributing family workers	0	2220
+South Australia	Contributing family workers	7875	946
+South Australia	Contributing family workers	15750	1375
+South Australia	Contributing family workers	21000	1276
+South Australia	Contributing family workers	26250	1127
+South Australia	Contributing family workers	34125	1201
+South Australia	Contributing family workers	42000	997
+South Australia	Contributing family workers	52500	860
+South Australia	Contributing family workers	65625	779
+South Australia	Contributing family workers	78750	438
+South Australia	Contributing family workers	91875	429
+South Australia	Contributing family workers	105000	230
+South Australia	Contributing family workers	157500	354
+South Australia	Contributing family workers	Inf	387
+South Australia	Employee	0	1987
+South Australia	Employee	7875	23924
+South Australia	Employee	15750	26225
+South Australia	Employee	21000	26844
+South Australia	Employee	26250	34500
+South Australia	Employee	34125	55676
+South Australia	Employee	42000	71338
+South Australia	Employee	52500	87347
+South Australia	Employee	65625	88373
+South Australia	Employee	78750	57977
+South Australia	Employee	91875	47581
+South Australia	Employee	105000	33138
+South Australia	Employee	157500	39510
+South Australia	Employee	Inf	14341
+South Australia	Owner managers of incorporated enterprises	0	328
+South Australia	Owner managers of incorporated enterprises	7875	405
+South Australia	Owner managers of incorporated enterprises	15750	840
+South Australia	Owner managers of incorporated enterprises	21000	1333
+South Australia	Owner managers of incorporated enterprises	26250	1694
+South Australia	Owner managers of incorporated enterprises	34125	2729
+South Australia	Owner managers of incorporated enterprises	42000	3545
+South Australia	Owner managers of incorporated enterprises	52500	4264
+South Australia	Owner managers of incorporated enterprises	65625	5368
+South Australia	Owner managers of incorporated enterprises	78750	4117
+South Australia	Owner managers of incorporated enterprises	91875	4344
+South Australia	Owner managers of incorporated enterprises	105000	2419
+South Australia	Owner managers of incorporated enterprises	157500	3971
+South Australia	Owner managers of incorporated enterprises	Inf	4753
+South Australia	Owner managers of unincorporated enterprises	0	737
+South Australia	Owner managers of unincorporated enterprises	7875	1863
+South Australia	Owner managers of unincorporated enterprises	15750	4004
+South Australia	Owner managers of unincorporated enterprises	21000	4631
+South Australia	Owner managers of unincorporated enterprises	26250	5417
+South Australia	Owner managers of unincorporated enterprises	34125	7809
+South Australia	Owner managers of unincorporated enterprises	42000	7513
+South Australia	Owner managers of unincorporated enterprises	52500	7917
+South Australia	Owner managers of unincorporated enterprises	65625	7664
+South Australia	Owner managers of unincorporated enterprises	78750	4731
+South Australia	Owner managers of unincorporated enterprises	91875	3621
+South Australia	Owner managers of unincorporated enterprises	105000	2001
+South Australia	Owner managers of unincorporated enterprises	157500	2931
+South Australia	Owner managers of unincorporated enterprises	Inf	3101
+South Australia	Status in employment not stated	0	155
+South Australia	Status in employment not stated	7875	373
+South Australia	Status in employment not stated	15750	520
+South Australia	Status in employment not stated	21000	589
+South Australia	Status in employment not stated	26250	724
+South Australia	Status in employment not stated	34125	809
+South Australia	Status in employment not stated	42000	858
+South Australia	Status in employment not stated	52500	898
+South Australia	Status in employment not stated	65625	772
+South Australia	Status in employment not stated	78750	418
+South Australia	Status in employment not stated	91875	343
+South Australia	Status in employment not stated	105000	170
+South Australia	Status in employment not stated	157500	220
+South Australia	Status in employment not stated	Inf	203
+Western Australia	Contributing family workers	0	3467
+Western Australia	Contributing family workers	7875	1305
+Western Australia	Contributing family workers	15750	1563
+Western Australia	Contributing family workers	21000	1413
+Western Australia	Contributing family workers	26250	1314
+Western Australia	Contributing family workers	34125	1607
+Western Australia	Contributing family workers	42000	1256
+Western Australia	Contributing family workers	52500	1149
+Western Australia	Contributing family workers	65625	1252
+Western Australia	Contributing family workers	78750	797
+Western Australia	Contributing family workers	91875	661
+Western Australia	Contributing family workers	105000	438
+Western Australia	Contributing family workers	157500	586
+Western Australia	Contributing family workers	Inf	685
+Western Australia	Employee	0	3615
+Western Australia	Employee	7875	35255
+Western Australia	Employee	15750	37025
+Western Australia	Employee	21000	37492
+Western Australia	Employee	26250	44682
+Western Australia	Employee	34125	68294
+Western Australia	Employee	42000	83366
+Western Australia	Employee	52500	105753
+Western Australia	Employee	65625	124811
+Western Australia	Employee	78750	94434
+Western Australia	Employee	91875	83723
+Western Australia	Employee	105000	66312
+Western Australia	Employee	157500	116359
+Western Australia	Employee	Inf	63047
+Western Australia	Owner managers of incorporated enterprises	0	559
+Western Australia	Owner managers of incorporated enterprises	7875	543
+Western Australia	Owner managers of incorporated enterprises	15750	1065
+Western Australia	Owner managers of incorporated enterprises	21000	1684
+Western Australia	Owner managers of incorporated enterprises	26250	1957
+Western Australia	Owner managers of incorporated enterprises	34125	3571
+Western Australia	Owner managers of incorporated enterprises	42000	4321
+Western Australia	Owner managers of incorporated enterprises	52500	5832
+Western Australia	Owner managers of incorporated enterprises	65625	8067
+Western Australia	Owner managers of incorporated enterprises	78750	6777
+Western Australia	Owner managers of incorporated enterprises	91875	8125
+Western Australia	Owner managers of incorporated enterprises	105000	5013
+Western Australia	Owner managers of incorporated enterprises	157500	9088
+Western Australia	Owner managers of incorporated enterprises	Inf	11489
+Western Australia	Owner managers of unincorporated enterprises	0	1057
+Western Australia	Owner managers of unincorporated enterprises	7875	2782
+Western Australia	Owner managers of unincorporated enterprises	15750	4858
+Western Australia	Owner managers of unincorporated enterprises	21000	5459
+Western Australia	Owner managers of unincorporated enterprises	26250	6053
+Western Australia	Owner managers of unincorporated enterprises	34125	8699
+Western Australia	Owner managers of unincorporated enterprises	42000	8771
+Western Australia	Owner managers of unincorporated enterprises	52500	10220
+Western Australia	Owner managers of unincorporated enterprises	65625	11324
+Western Australia	Owner managers of unincorporated enterprises	78750	8204
+Western Australia	Owner managers of unincorporated enterprises	91875	6973
+Western Australia	Owner managers of unincorporated enterprises	105000	4245
+Western Australia	Owner managers of unincorporated enterprises	157500	5975
+Western Australia	Owner managers of unincorporated enterprises	Inf	5646
+Western Australia	Status in employment not stated	0	213
+Western Australia	Status in employment not stated	7875	441
+Western Australia	Status in employment not stated	15750	481
+Western Australia	Status in employment not stated	21000	667
+Western Australia	Status in employment not stated	26250	658
+Western Australia	Status in employment not stated	34125	894
+Western Australia	Status in employment not stated	42000	950
+Western Australia	Status in employment not stated	52500	1059
+Western Australia	Status in employment not stated	65625	1035
+Western Australia	Status in employment not stated	78750	708
+Western Australia	Status in employment not stated	91875	545
+Western Australia	Status in employment not stated	105000	408
+Western Australia	Status in employment not stated	157500	568
+Western Australia	Status in employment not stated	Inf	435
+Tasmania	Contributing family workers	0	651
+Tasmania	Contributing family workers	7875	294
+Tasmania	Contributing family workers	15750	504
+Tasmania	Contributing family workers	21000	386
+Tasmania	Contributing family workers	26250	366
+Tasmania	Contributing family workers	34125	362
+Tasmania	Contributing family workers	42000	264
+Tasmania	Contributing family workers	52500	231
+Tasmania	Contributing family workers	65625	163
+Tasmania	Contributing family workers	78750	115
+Tasmania	Contributing family workers	91875	84
+Tasmania	Contributing family workers	105000	43
+Tasmania	Contributing family workers	157500	78
+Tasmania	Contributing family workers	Inf	85
+Tasmania	Employee	0	523
+Tasmania	Employee	7875	6892
+Tasmania	Employee	15750	7546
+Tasmania	Employee	21000	8259
+Tasmania	Employee	26250	11116
+Tasmania	Employee	34125	18179
+Tasmania	Employee	42000	22511
+Tasmania	Employee	52500	25645
+Tasmania	Employee	65625	25445
+Tasmania	Employee	78750	16504
+Tasmania	Employee	91875	13522
+Tasmania	Employee	105000	9025
+Tasmania	Employee	157500	9193
+Tasmania	Employee	Inf	2899
+Tasmania	Owner managers of incorporated enterprises	0	56
+Tasmania	Owner managers of incorporated enterprises	7875	100
+Tasmania	Owner managers of incorporated enterprises	15750	233
+Tasmania	Owner managers of incorporated enterprises	21000	368
+Tasmania	Owner managers of incorporated enterprises	26250	415
+Tasmania	Owner managers of incorporated enterprises	34125	742
+Tasmania	Owner managers of incorporated enterprises	42000	1006
+Tasmania	Owner managers of incorporated enterprises	52500	1080
+Tasmania	Owner managers of incorporated enterprises	65625	1346
+Tasmania	Owner managers of incorporated enterprises	78750	1045
+Tasmania	Owner managers of incorporated enterprises	91875	1074
+Tasmania	Owner managers of incorporated enterprises	105000	575
+Tasmania	Owner managers of incorporated enterprises	157500	1051
+Tasmania	Owner managers of incorporated enterprises	Inf	1179
+Tasmania	Owner managers of unincorporated enterprises	0	225
+Tasmania	Owner managers of unincorporated enterprises	7875	528
+Tasmania	Owner managers of unincorporated enterprises	15750	1264
+Tasmania	Owner managers of unincorporated enterprises	21000	1599
+Tasmania	Owner managers of unincorporated enterprises	26250	1736
+Tasmania	Owner managers of unincorporated enterprises	34125	2364
+Tasmania	Owner managers of unincorporated enterprises	42000	2289
+Tasmania	Owner managers of unincorporated enterprises	52500	2185
+Tasmania	Owner managers of unincorporated enterprises	65625	2143
+Tasmania	Owner managers of unincorporated enterprises	78750	1395
+Tasmania	Owner managers of unincorporated enterprises	91875	1001
+Tasmania	Owner managers of unincorporated enterprises	105000	579
+Tasmania	Owner managers of unincorporated enterprises	157500	801
+Tasmania	Owner managers of unincorporated enterprises	Inf	815
+Tasmania	Status in employment not stated	0	35
+Tasmania	Status in employment not stated	7875	133
+Tasmania	Status in employment not stated	15750	174
+Tasmania	Status in employment not stated	21000	207
+Tasmania	Status in employment not stated	26250	257
+Tasmania	Status in employment not stated	34125	292
+Tasmania	Status in employment not stated	42000	303
+Tasmania	Status in employment not stated	52500	268
+Tasmania	Status in employment not stated	65625	244
+Tasmania	Status in employment not stated	78750	134
+Tasmania	Status in employment not stated	91875	93
+Tasmania	Status in employment not stated	105000	74
+Tasmania	Status in employment not stated	157500	75
+Tasmania	Status in employment not stated	Inf	48
+Northern Territory	Contributing family workers	0	189
+Northern Territory	Contributing family workers	7875	46
+Northern Territory	Contributing family workers	15750	83
+Northern Territory	Contributing family workers	21000	67
+Northern Territory	Contributing family workers	26250	59
+Northern Territory	Contributing family workers	34125	63
+Northern Territory	Contributing family workers	42000	86
+Northern Territory	Contributing family workers	52500	66
+Northern Territory	Contributing family workers	65625	69
+Northern Territory	Contributing family workers	78750	52
+Northern Territory	Contributing family workers	91875	35
+Northern Territory	Contributing family workers	105000	14
+Northern Territory	Contributing family workers	157500	24
+Northern Territory	Contributing family workers	Inf	29
+Northern Territory	Employee	0	411
+Northern Territory	Employee	7875	2059
+Northern Territory	Employee	15750	2565
+Northern Territory	Employee	21000	2373
+Northern Territory	Employee	26250	3010
+Northern Territory	Employee	34125	5262
+Northern Territory	Employee	42000	7253
+Northern Territory	Employee	52500	10381
+Northern Territory	Employee	65625	13603
+Northern Territory	Employee	78750	11218
+Northern Territory	Employee	91875	9918
+Northern Territory	Employee	105000	7962
+Northern Territory	Employee	157500	13162
+Northern Territory	Employee	Inf	6988
+Northern Territory	Owner managers of incorporated enterprises	0	32
+Northern Territory	Owner managers of incorporated enterprises	7875	22
+Northern Territory	Owner managers of incorporated enterprises	15750	60
+Northern Territory	Owner managers of incorporated enterprises	21000	59
+Northern Territory	Owner managers of incorporated enterprises	26250	109
+Northern Territory	Owner managers of incorporated enterprises	34125	214
+Northern Territory	Owner managers of incorporated enterprises	42000	283
+Northern Territory	Owner managers of incorporated enterprises	52500	389
+Northern Territory	Owner managers of incorporated enterprises	65625	580
+Northern Territory	Owner managers of incorporated enterprises	78750	539
+Northern Territory	Owner managers of incorporated enterprises	91875	677
+Northern Territory	Owner managers of incorporated enterprises	105000	412
+Northern Territory	Owner managers of incorporated enterprises	157500	647
+Northern Territory	Owner managers of incorporated enterprises	Inf	633
+Northern Territory	Owner managers of unincorporated enterprises	0	56
+Northern Territory	Owner managers of unincorporated enterprises	7875	105
+Northern Territory	Owner managers of unincorporated enterprises	15750	211
+Northern Territory	Owner managers of unincorporated enterprises	21000	242
+Northern Territory	Owner managers of unincorporated enterprises	26250	260
+Northern Territory	Owner managers of unincorporated enterprises	34125	455
+Northern Territory	Owner managers of unincorporated enterprises	42000	458
+Northern Territory	Owner managers of unincorporated enterprises	52500	579
+Northern Territory	Owner managers of unincorporated enterprises	65625	604
+Northern Territory	Owner managers of unincorporated enterprises	78750	485
+Northern Territory	Owner managers of unincorporated enterprises	91875	396
+Northern Territory	Owner managers of unincorporated enterprises	105000	293
+Northern Territory	Owner managers of unincorporated enterprises	157500	389
+Northern Territory	Owner managers of unincorporated enterprises	Inf	296
+Northern Territory	Status in employment not stated	0	24
+Northern Territory	Status in employment not stated	7875	33
+Northern Territory	Status in employment not stated	15750	47
+Northern Territory	Status in employment not stated	21000	49
+Northern Territory	Status in employment not stated	26250	50
+Northern Territory	Status in employment not stated	34125	84
+Northern Territory	Status in employment not stated	42000	100
+Northern Territory	Status in employment not stated	52500	118
+Northern Territory	Status in employment not stated	65625	142
+Northern Territory	Status in employment not stated	78750	97
+Northern Territory	Status in employment not stated	91875	84
+Northern Territory	Status in employment not stated	105000	49
+Northern Territory	Status in employment not stated	157500	81
+Northern Territory	Status in employment not stated	Inf	46
+Australian Capital Territory	Contributing family workers	0	271
+Australian Capital Territory	Contributing family workers	7875	107
+Australian Capital Territory	Contributing family workers	15750	98
+Australian Capital Territory	Contributing family workers	21000	114
+Australian Capital Territory	Contributing family workers	26250	101
+Australian Capital Territory	Contributing family workers	34125	119
+Australian Capital Territory	Contributing family workers	42000	101
+Australian Capital Territory	Contributing family workers	52500	104
+Australian Capital Territory	Contributing family workers	65625	93
+Australian Capital Territory	Contributing family workers	78750	57
+Australian Capital Territory	Contributing family workers	91875	50
+Australian Capital Territory	Contributing family workers	105000	31
+Australian Capital Territory	Contributing family workers	157500	61
+Australian Capital Territory	Contributing family workers	Inf	41
+Australian Capital Territory	Employee	0	547
+Australian Capital Territory	Employee	7875	6678
+Australian Capital Territory	Employee	15750	6113
+Australian Capital Territory	Employee	21000	5366
+Australian Capital Territory	Employee	26250	6447
+Australian Capital Territory	Employee	34125	9984
+Australian Capital Territory	Employee	42000	13123
+Australian Capital Territory	Employee	52500	17936
+Australian Capital Territory	Employee	65625	24047
+Australian Capital Territory	Employee	78750	24351
+Australian Capital Territory	Employee	91875	24101
+Australian Capital Territory	Employee	105000	16809
+Australian Capital Territory	Employee	157500	35180
+Australian Capital Territory	Employee	Inf	12937
+Australian Capital Territory	Owner managers of incorporated enterprises	0	55
+Australian Capital Territory	Owner managers of incorporated enterprises	7875	59
+Australian Capital Territory	Owner managers of incorporated enterprises	15750	130
+Australian Capital Territory	Owner managers of incorporated enterprises	21000	178
+Australian Capital Territory	Owner managers of incorporated enterprises	26250	238
+Australian Capital Territory	Owner managers of incorporated enterprises	34125	461
+Australian Capital Territory	Owner managers of incorporated enterprises	42000	615
+Australian Capital Territory	Owner managers of incorporated enterprises	52500	813
+Australian Capital Territory	Owner managers of incorporated enterprises	65625	1136
+Australian Capital Territory	Owner managers of incorporated enterprises	78750	918
+Australian Capital Territory	Owner managers of incorporated enterprises	91875	1088
+Australian Capital Territory	Owner managers of incorporated enterprises	105000	699
+Australian Capital Territory	Owner managers of incorporated enterprises	157500	1375
+Australian Capital Territory	Owner managers of incorporated enterprises	Inf	2118
+Australian Capital Territory	Owner managers of unincorporated enterprises	0	92
+Australian Capital Territory	Owner managers of unincorporated enterprises	7875	330
+Australian Capital Territory	Owner managers of unincorporated enterprises	15750	466
+Australian Capital Territory	Owner managers of unincorporated enterprises	21000	518
+Australian Capital Territory	Owner managers of unincorporated enterprises	26250	576
+Australian Capital Territory	Owner managers of unincorporated enterprises	34125	835
+Australian Capital Territory	Owner managers of unincorporated enterprises	42000	846
+Australian Capital Territory	Owner managers of unincorporated enterprises	52500	1034
+Australian Capital Territory	Owner managers of unincorporated enterprises	65625	1115
+Australian Capital Territory	Owner managers of unincorporated enterprises	78750	788
+Australian Capital Territory	Owner managers of unincorporated enterprises	91875	656
+Australian Capital Territory	Owner managers of unincorporated enterprises	105000	420
+Australian Capital Territory	Owner managers of unincorporated enterprises	157500	647
+Australian Capital Territory	Owner managers of unincorporated enterprises	Inf	812
+Australian Capital Territory	Status in employment not stated	0	20
+Australian Capital Territory	Status in employment not stated	7875	54
+Australian Capital Territory	Status in employment not stated	15750	43
+Australian Capital Territory	Status in employment not stated	21000	55
+Australian Capital Territory	Status in employment not stated	26250	89
+Australian Capital Territory	Status in employment not stated	34125	107
+Australian Capital Territory	Status in employment not stated	42000	115
+Australian Capital Territory	Status in employment not stated	52500	124
+Australian Capital Territory	Status in employment not stated	65625	132
+Australian Capital Territory	Status in employment not stated	78750	94
+Australian Capital Territory	Status in employment not stated	91875	71
+Australian Capital Territory	Status in employment not stated	105000	57
+Australian Capital Territory	Status in employment not stated	157500	78
+Australian Capital Territory	Status in employment not stated	Inf	77
+Other Territories	Contributing family workers	0	6
+Other Territories	Contributing family workers	7875	5
+Other Territories	Contributing family workers	15750	3
+Other Territories	Contributing family workers	21000	6
+Other Territories	Contributing family workers	26250	4
+Other Territories	Contributing family workers	34125	3
+Other Territories	Contributing family workers	42000	3
+Other Territories	Contributing family workers	52500	5
+Other Territories	Contributing family workers	78750	4
+Other Territories	Employee	0	10
+Other Territories	Employee	7875	43
+Other Territories	Employee	15750	66
+Other Territories	Employee	21000	88
+Other Territories	Employee	26250	98
+Other Territories	Employee	34125	194
+Other Territories	Employee	42000	266
+Other Territories	Employee	52500	268
+Other Territories	Employee	65625	264
+Other Territories	Employee	78750	203
+Other Territories	Employee	91875	208
+Other Territories	Employee	105000	189
+Other Territories	Employee	157500	258
+Other Territories	Employee	Inf	122
+Other Territories	Owner managers of incorporated enterprises	15750	4
+Other Territories	Owner managers of incorporated enterprises	26250	4
+Other Territories	Owner managers of incorporated enterprises	34125	3
+Other Territories	Owner managers of incorporated enterprises	42000	6
+Other Territories	Owner managers of incorporated enterprises	52500	13
+Other Territories	Owner managers of incorporated enterprises	65625	17
+Other Territories	Owner managers of incorporated enterprises	78750	13
+Other Territories	Owner managers of incorporated enterprises	91875	7
+Other Territories	Owner managers of incorporated enterprises	105000	7
+Other Territories	Owner managers of incorporated enterprises	157500	6
+Other Territories	Owner managers of incorporated enterprises	Inf	16
+Other Territories	Owner managers of unincorporated enterprises	7875	3
+Other Territories	Owner managers of unincorporated enterprises	15750	10
+Other Territories	Owner managers of unincorporated enterprises	21000	28
+Other Territories	Owner managers of unincorporated enterprises	26250	31
+Other Territories	Owner managers of unincorporated enterprises	34125	37
+Other Territories	Owner managers of unincorporated enterprises	42000	22
+Other Territories	Owner managers of unincorporated enterprises	52500	32
+Other Territories	Owner managers of unincorporated enterprises	65625	39
+Other Territories	Owner managers of unincorporated enterprises	78750	17
+Other Territories	Owner managers of unincorporated enterprises	91875	10
+Other Territories	Owner managers of unincorporated enterprises	105000	10
+Other Territories	Owner managers of unincorporated enterprises	157500	13
+Other Territories	Owner managers of unincorporated enterprises	Inf	6
+Other Territories	Status in employment not stated	7875	3
+Other Territories	Status in employment not stated	21000	3
+Other Territories	Status in employment not stated	26250	8
+Other Territories	Status in employment not stated	34125	6
+Other Territories	Status in employment not stated	42000	9
+Other Territories	Status in employment not stated	52500	3
+Other Territories	Status in employment not stated	65625	10
+Other Territories	Status in employment not stated	78750	4
+Other Territories	Status in employment not stated	91875	3
+Other Territories	Status in employment not stated	157500	4

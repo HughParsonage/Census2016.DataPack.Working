@@ -1,0 +1,1300 @@
+STE_NAME16	Age	LabourForceStatus	NeedsAssistance	workers
+New South Wales	15-19			151
+New South Wales	15-19		0	4679
+New South Wales	15-19		1	44
+New South Wales	15-19	Employed (away from work)		56
+New South Wales	15-19	Employed (away from work)	0	6287
+New South Wales	15-19	Employed (away from work)	1	73
+New South Wales	15-19	Employed (full-time)		403
+New South Wales	15-19	Employed (full-time)	0	34555
+New South Wales	15-19	Employed (full-time)	1	226
+New South Wales	15-19	Employed (part-time)		952
+New South Wales	15-19	Employed (part-time)	0	112789
+New South Wales	15-19	Employed (part-time)	1	1052
+New South Wales	20-24			309
+New South Wales	20-24		0	8346
+New South Wales	20-24		1	77
+New South Wales	20-24	Employed (away from work)		95
+New South Wales	20-24	Employed (away from work)	0	8260
+New South Wales	20-24	Employed (away from work)	1	90
+New South Wales	20-24	Employed (full-time)		1500
+New South Wales	20-24	Employed (full-time)	0	156955
+New South Wales	20-24	Employed (full-time)	1	525
+New South Wales	20-24	Employed (part-time)		1138
+New South Wales	20-24	Employed (part-time)	0	131203
+New South Wales	20-24	Employed (part-time)	1	1611
+New South Wales	25-29			290
+New South Wales	25-29		0	7943
+New South Wales	25-29		1	59
+New South Wales	25-29	Employed (away from work)		119
+New South Wales	25-29	Employed (away from work)	0	11692
+New South Wales	25-29	Employed (away from work)	1	117
+New South Wales	25-29	Employed (full-time)		2252
+New South Wales	25-29	Employed (full-time)	0	262577
+New South Wales	25-29	Employed (full-time)	1	642
+New South Wales	25-29	Employed (part-time)		938
+New South Wales	25-29	Employed (part-time)	0	89987
+New South Wales	25-29	Employed (part-time)	1	1365
+New South Wales	30-34			307
+New South Wales	30-34		0	7293
+New South Wales	30-34		1	63
+New South Wales	30-34	Employed (away from work)		182
+New South Wales	30-34	Employed (away from work)	0	17082
+New South Wales	30-34	Employed (away from work)	1	177
+New South Wales	30-34	Employed (full-time)		2632
+New South Wales	30-34	Employed (full-time)	0	274533
+New South Wales	30-34	Employed (full-time)	1	707
+New South Wales	30-34	Employed (part-time)		1120
+New South Wales	30-34	Employed (part-time)	0	92275
+New South Wales	30-34	Employed (part-time)	1	1226
+New South Wales	35-39			264
+New South Wales	35-39		0	6194
+New South Wales	35-39		1	58
+New South Wales	35-39	Employed (away from work)		149
+New South Wales	35-39	Employed (away from work)	0	12245
+New South Wales	35-39	Employed (away from work)	1	146
+New South Wales	35-39	Employed (full-time)		2748
+New South Wales	35-39	Employed (full-time)	0	251046
+New South Wales	35-39	Employed (full-time)	1	749
+New South Wales	35-39	Employed (part-time)		1251
+New South Wales	35-39	Employed (part-time)	0	94791
+New South Wales	35-39	Employed (part-time)	1	1138
+New South Wales	40-44			279
+New South Wales	40-44		0	5746
+New South Wales	40-44		1	91
+New South Wales	40-44	Employed (away from work)		102
+New South Wales	40-44	Employed (away from work)	0	8057
+New South Wales	40-44	Employed (away from work)	1	237
+New South Wales	40-44	Employed (full-time)		3086
+New South Wales	40-44	Employed (full-time)	0	255655
+New South Wales	40-44	Employed (full-time)	1	1290
+New South Wales	40-44	Employed (part-time)		1385
+New South Wales	40-44	Employed (part-time)	0	99787
+New South Wales	40-44	Employed (part-time)	1	1501
+New South Wales	45-49			246
+New South Wales	45-49		0	5779
+New South Wales	45-49		1	91
+New South Wales	45-49	Employed (away from work)		96
+New South Wales	45-49	Employed (away from work)	0	7128
+New South Wales	45-49	Employed (away from work)	1	244
+New South Wales	45-49	Employed (full-time)		3061
+New South Wales	45-49	Employed (full-time)	0	249377
+New South Wales	45-49	Employed (full-time)	1	1234
+New South Wales	45-49	Employed (part-time)		1276
+New South Wales	45-49	Employed (part-time)	0	95186
+New South Wales	45-49	Employed (part-time)	1	1609
+New South Wales	50-54			225
+New South Wales	50-54		0	5421
+New South Wales	50-54		1	98
+New South Wales	50-54	Employed (away from work)		109
+New South Wales	50-54	Employed (away from work)	0	8313
+New South Wales	50-54	Employed (away from work)	1	278
+New South Wales	50-54	Employed (full-time)		2994
+New South Wales	50-54	Employed (full-time)	0	235101
+New South Wales	50-54	Employed (full-time)	1	1378
+New South Wales	50-54	Employed (part-time)		1246
+New South Wales	50-54	Employed (part-time)	0	91444
+New South Wales	50-54	Employed (part-time)	1	1731
+New South Wales	55-59			210
+New South Wales	55-59		0	4328
+New South Wales	55-59		1	104
+New South Wales	55-59	Employed (away from work)		143
+New South Wales	55-59	Employed (away from work)	0	9689
+New South Wales	55-59	Employed (away from work)	1	279
+New South Wales	55-59	Employed (full-time)		2508
+New South Wales	55-59	Employed (full-time)	0	194858
+New South Wales	55-59	Employed (full-time)	1	1229
+New South Wales	55-59	Employed (part-time)		1249
+New South Wales	55-59	Employed (part-time)	0	87117
+New South Wales	55-59	Employed (part-time)	1	1613
+New South Wales	60-64			140
+New South Wales	60-64		0	3125
+New South Wales	60-64		1	95
+New South Wales	60-64	Employed (away from work)		99
+New South Wales	60-64	Employed (away from work)	0	7771
+New South Wales	60-64	Employed (away from work)	1	296
+New South Wales	60-64	Employed (full-time)		1447
+New South Wales	60-64	Employed (full-time)	0	111880
+New South Wales	60-64	Employed (full-time)	1	792
+New South Wales	60-64	Employed (part-time)		987
+New South Wales	60-64	Employed (part-time)	0	72346
+New South Wales	60-64	Employed (part-time)	1	1312
+New South Wales	65-69			68
+New South Wales	65-69		0	1729
+New South Wales	65-69		1	79
+New South Wales	65-69	Employed (away from work)		70
+New South Wales	65-69	Employed (away from work)	0	4029
+New South Wales	65-69	Employed (away from work)	1	132
+New South Wales	65-69	Employed (full-time)		669
+New South Wales	65-69	Employed (full-time)	0	41440
+New South Wales	65-69	Employed (full-time)	1	386
+New South Wales	65-69	Employed (part-time)		635
+New South Wales	65-69	Employed (part-time)	0	42636
+New South Wales	65-69	Employed (part-time)	1	845
+New South Wales	70-74			60
+New South Wales	70-74		0	944
+New South Wales	70-74		1	74
+New South Wales	70-74	Employed (away from work)		30
+New South Wales	70-74	Employed (away from work)	0	1509
+New South Wales	70-74	Employed (away from work)	1	56
+New South Wales	70-74	Employed (full-time)		191
+New South Wales	70-74	Employed (full-time)	0	11854
+New South Wales	70-74	Employed (full-time)	1	145
+New South Wales	70-74	Employed (part-time)		322
+New South Wales	70-74	Employed (part-time)	0	18673
+New South Wales	70-74	Employed (part-time)	1	494
+New South Wales	75+			104
+New South Wales	75+		0	1245
+New South Wales	75+		1	218
+New South Wales	75+	Employed (away from work)		31
+New South Wales	75+	Employed (away from work)	0	839
+New South Wales	75+	Employed (away from work)	1	128
+New South Wales	75+	Employed (full-time)		124
+New South Wales	75+	Employed (full-time)	0	5603
+New South Wales	75+	Employed (full-time)	1	193
+New South Wales	75+	Employed (part-time)		191
+New South Wales	75+	Employed (part-time)	0	9597
+New South Wales	75+	Employed (part-time)	1	622
+Victoria	15-19			125
+Victoria	15-19		0	3572
+Victoria	15-19		1	36
+Victoria	15-19	Employed (away from work)		38
+Victoria	15-19	Employed (away from work)	0	4176
+Victoria	15-19	Employed (away from work)	1	52
+Victoria	15-19	Employed (full-time)		227
+Victoria	15-19	Employed (full-time)	0	19618
+Victoria	15-19	Employed (full-time)	1	118
+Victoria	15-19	Employed (part-time)		835
+Victoria	15-19	Employed (part-time)	0	94874
+Victoria	15-19	Employed (part-time)	1	883
+Victoria	20-24			266
+Victoria	20-24		0	6594
+Victoria	20-24		1	52
+Victoria	20-24	Employed (away from work)		63
+Victoria	20-24	Employed (away from work)	0	6805
+Victoria	20-24	Employed (away from work)	1	76
+Victoria	20-24	Employed (full-time)		1167
+Victoria	20-24	Employed (full-time)	0	117788
+Victoria	20-24	Employed (full-time)	1	367
+Victoria	20-24	Employed (part-time)		1064
+Victoria	20-24	Employed (part-time)	0	120644
+Victoria	20-24	Employed (part-time)	1	1189
+Victoria	25-29			249
+Victoria	25-29		0	6589
+Victoria	25-29		1	46
+Victoria	25-29	Employed (away from work)		94
+Victoria	25-29	Employed (away from work)	0	9598
+Victoria	25-29	Employed (away from work)	1	109
+Victoria	25-29	Employed (full-time)		2021
+Victoria	25-29	Employed (full-time)	0	218382
+Victoria	25-29	Employed (full-time)	1	485
+Victoria	25-29	Employed (part-time)		823
+Victoria	25-29	Employed (part-time)	0	79510
+Victoria	25-29	Employed (part-time)	1	941
+Victoria	30-34			216
+Victoria	30-34		0	5795
+Victoria	30-34		1	43
+Victoria	30-34	Employed (away from work)		172
+Victoria	30-34	Employed (away from work)	0	14900
+Victoria	30-34	Employed (away from work)	1	157
+Victoria	30-34	Employed (full-time)		2234
+Victoria	30-34	Employed (full-time)	0	226857
+Victoria	30-34	Employed (full-time)	1	511
+Victoria	30-34	Employed (part-time)		973
+Victoria	30-34	Employed (part-time)	0	78992
+Victoria	30-34	Employed (part-time)	1	995
+Victoria	35-39			201
+Victoria	35-39		0	4763
+Victoria	35-39		1	60
+Victoria	35-39	Employed (away from work)		130
+Victoria	35-39	Employed (away from work)	0	10910
+Victoria	35-39	Employed (away from work)	1	169
+Victoria	35-39	Employed (full-time)		2188
+Victoria	35-39	Employed (full-time)	0	198395
+Victoria	35-39	Employed (full-time)	1	588
+Victoria	35-39	Employed (part-time)		1061
+Victoria	35-39	Employed (part-time)	0	81746
+Victoria	35-39	Employed (part-time)	1	945
+Victoria	40-44			215
+Victoria	40-44		0	4605
+Victoria	40-44		1	64
+Victoria	40-44	Employed (away from work)		93
+Victoria	40-44	Employed (away from work)	0	7089
+Victoria	40-44	Employed (away from work)	1	174
+Victoria	40-44	Employed (full-time)		2361
+Victoria	40-44	Employed (full-time)	0	197829
+Victoria	40-44	Employed (full-time)	1	892
+Victoria	40-44	Employed (part-time)		1139
+Victoria	40-44	Employed (part-time)	0	87367
+Victoria	40-44	Employed (part-time)	1	1138
+Victoria	45-49			220
+Victoria	45-49		0	4634
+Victoria	45-49		1	69
+Victoria	45-49	Employed (away from work)		98
+Victoria	45-49	Employed (away from work)	0	6402
+Victoria	45-49	Employed (away from work)	1	231
+Victoria	45-49	Employed (full-time)		2472
+Victoria	45-49	Employed (full-time)	0	200209
+Victoria	45-49	Employed (full-time)	1	938
+Victoria	45-49	Employed (part-time)		1129
+Victoria	45-49	Employed (part-time)	0	86018
+Victoria	45-49	Employed (part-time)	1	1228
+Victoria	50-54			173
+Victoria	50-54		0	4238
+Victoria	50-54		1	82
+Victoria	50-54	Employed (away from work)		96
+Victoria	50-54	Employed (away from work)	0	7221
+Victoria	50-54	Employed (away from work)	1	264
+Victoria	50-54	Employed (full-time)		2332
+Victoria	50-54	Employed (full-time)	0	182913
+Victoria	50-54	Employed (full-time)	1	941
+Victoria	50-54	Employed (part-time)		1041
+Victoria	50-54	Employed (part-time)	0	77228
+Victoria	50-54	Employed (part-time)	1	1177
+Victoria	55-59			140
+Victoria	55-59		0	3511
+Victoria	55-59		1	57
+Victoria	55-59	Employed (away from work)		101
+Victoria	55-59	Employed (away from work)	0	7976
+Victoria	55-59	Employed (away from work)	1	275
+Victoria	55-59	Employed (full-time)		1946
+Victoria	55-59	Employed (full-time)	0	148922
+Victoria	55-59	Employed (full-time)	1	781
+Victoria	55-59	Employed (part-time)		1007
+Victoria	55-59	Employed (part-time)	0	72690
+Victoria	55-59	Employed (part-time)	1	1152
+Victoria	60-64			124
+Victoria	60-64		0	2499
+Victoria	60-64		1	67
+Victoria	60-64	Employed (away from work)		88
+Victoria	60-64	Employed (away from work)	0	7017
+Victoria	60-64	Employed (away from work)	1	270
+Victoria	60-64	Employed (full-time)		1179
+Victoria	60-64	Employed (full-time)	0	86941
+Victoria	60-64	Employed (full-time)	1	581
+Victoria	60-64	Employed (part-time)		828
+Victoria	60-64	Employed (part-time)	0	60902
+Victoria	60-64	Employed (part-time)	1	941
+Victoria	65-69			63
+Victoria	65-69		0	1371
+Victoria	65-69		1	54
+Victoria	65-69	Employed (away from work)		53
+Victoria	65-69	Employed (away from work)	0	3599
+Victoria	65-69	Employed (away from work)	1	117
+Victoria	65-69	Employed (full-time)		495
+Victoria	65-69	Employed (full-time)	0	30828
+Victoria	65-69	Employed (full-time)	1	249
+Victoria	65-69	Employed (part-time)		561
+Victoria	65-69	Employed (part-time)	0	35212
+Victoria	65-69	Employed (part-time)	1	628
+Victoria	70-74			42
+Victoria	70-74		0	818
+Victoria	70-74		1	40
+Victoria	70-74	Employed (away from work)		30
+Victoria	70-74	Employed (away from work)	0	1305
+Victoria	70-74	Employed (away from work)	1	52
+Victoria	70-74	Employed (full-time)		167
+Victoria	70-74	Employed (full-time)	0	8441
+Victoria	70-74	Employed (full-time)	1	124
+Victoria	70-74	Employed (part-time)		234
+Victoria	70-74	Employed (part-time)	0	14411
+Victoria	70-74	Employed (part-time)	1	335
+Victoria	75+			95
+Victoria	75+		0	961
+Victoria	75+		1	153
+Victoria	75+	Employed (away from work)		25
+Victoria	75+	Employed (away from work)	0	728
+Victoria	75+	Employed (away from work)	1	107
+Victoria	75+	Employed (full-time)		92
+Victoria	75+	Employed (full-time)	0	4100
+Victoria	75+	Employed (full-time)	1	142
+Victoria	75+	Employed (part-time)		157
+Victoria	75+	Employed (part-time)	0	7275
+Victoria	75+	Employed (part-time)	1	478
+Queensland	15-19			114
+Queensland	15-19		0	3155
+Queensland	15-19		1	37
+Queensland	15-19	Employed (away from work)		38
+Queensland	15-19	Employed (away from work)	0	3827
+Queensland	15-19	Employed (away from work)	1	60
+Queensland	15-19	Employed (full-time)		240
+Queensland	15-19	Employed (full-time)	0	26116
+Queensland	15-19	Employed (full-time)	1	154
+Queensland	15-19	Employed (part-time)		844
+Queensland	15-19	Employed (part-time)	0	90095
+Queensland	15-19	Employed (part-time)	1	1121
+Queensland	20-24			168
+Queensland	20-24		0	4489
+Queensland	20-24		1	37
+Queensland	20-24	Employed (away from work)		53
+Queensland	20-24	Employed (away from work)	0	5497
+Queensland	20-24	Employed (away from work)	1	74
+Queensland	20-24	Employed (full-time)		1038
+Queensland	20-24	Employed (full-time)	0	111371
+Queensland	20-24	Employed (full-time)	1	399
+Queensland	20-24	Employed (part-time)		675
+Queensland	20-24	Employed (part-time)	0	81602
+Queensland	20-24	Employed (part-time)	1	1066
+Queensland	25-29			166
+Queensland	25-29		0	4237
+Queensland	25-29		1	41
+Queensland	25-29	Employed (away from work)		84
+Queensland	25-29	Employed (away from work)	0	8379
+Queensland	25-29	Employed (away from work)	1	93
+Queensland	25-29	Employed (full-time)		1293
+Queensland	25-29	Employed (full-time)	0	153818
+Queensland	25-29	Employed (full-time)	1	436
+Queensland	25-29	Employed (part-time)		565
+Queensland	25-29	Employed (part-time)	0	57712
+Queensland	25-29	Employed (part-time)	1	834
+Queensland	30-34			150
+Queensland	30-34		0	3833
+Queensland	30-34		1	31
+Queensland	30-34	Employed (away from work)		126
+Queensland	30-34	Employed (away from work)	0	11080
+Queensland	30-34	Employed (away from work)	1	120
+Queensland	30-34	Employed (full-time)		1582
+Queensland	30-34	Employed (full-time)	0	158088
+Queensland	30-34	Employed (full-time)	1	513
+Queensland	30-34	Employed (part-time)		775
+Queensland	30-34	Employed (part-time)	0	59756
+Queensland	30-34	Employed (part-time)	1	741
+Queensland	35-39			146
+Queensland	35-39		0	3478
+Queensland	35-39		1	23
+Queensland	35-39	Employed (away from work)		93
+Queensland	35-39	Employed (away from work)	0	7588
+Queensland	35-39	Employed (away from work)	1	163
+Queensland	35-39	Employed (full-time)		1721
+Queensland	35-39	Employed (full-time)	0	148564
+Queensland	35-39	Employed (full-time)	1	523
+Queensland	35-39	Employed (part-time)		778
+Queensland	35-39	Employed (part-time)	0	61542
+Queensland	35-39	Employed (part-time)	1	709
+Queensland	40-44			175
+Queensland	40-44		0	3706
+Queensland	40-44		1	56
+Queensland	40-44	Employed (away from work)		85
+Queensland	40-44	Employed (away from work)	0	5659
+Queensland	40-44	Employed (away from work)	1	171
+Queensland	40-44	Employed (full-time)		1987
+Queensland	40-44	Employed (full-time)	0	162287
+Queensland	40-44	Employed (full-time)	1	789
+Queensland	40-44	Employed (part-time)		856
+Queensland	40-44	Employed (part-time)	0	65663
+Queensland	40-44	Employed (part-time)	1	857
+Queensland	45-49			184
+Queensland	45-49		0	3541
+Queensland	45-49		1	57
+Queensland	45-49	Employed (away from work)		91
+Queensland	45-49	Employed (away from work)	0	5531
+Queensland	45-49	Employed (away from work)	1	196
+Queensland	45-49	Employed (full-time)		2070
+Queensland	45-49	Employed (full-time)	0	164570
+Queensland	45-49	Employed (full-time)	1	828
+Queensland	45-49	Employed (part-time)		856
+Queensland	45-49	Employed (part-time)	0	63042
+Queensland	45-49	Employed (part-time)	1	973
+Queensland	50-54			147
+Queensland	50-54		0	2995
+Queensland	50-54		1	56
+Queensland	50-54	Employed (away from work)		86
+Queensland	50-54	Employed (away from work)	0	6316
+Queensland	50-54	Employed (away from work)	1	226
+Queensland	50-54	Employed (full-time)		1972
+Queensland	50-54	Employed (full-time)	0	150934
+Queensland	50-54	Employed (full-time)	1	915
+Queensland	50-54	Employed (part-time)		824
+Queensland	50-54	Employed (part-time)	0	57742
+Queensland	50-54	Employed (part-time)	1	966
+Queensland	55-59			129
+Queensland	55-59		0	2495
+Queensland	55-59		1	55
+Queensland	55-59	Employed (away from work)		81
+Queensland	55-59	Employed (away from work)	0	6802
+Queensland	55-59	Employed (away from work)	1	232
+Queensland	55-59	Employed (full-time)		1608
+Queensland	55-59	Employed (full-time)	0	122090
+Queensland	55-59	Employed (full-time)	1	759
+Queensland	55-59	Employed (part-time)		735
+Queensland	55-59	Employed (part-time)	0	53726
+Queensland	55-59	Employed (part-time)	1	962
+Queensland	60-64			78
+Queensland	60-64		0	1845
+Queensland	60-64		1	52
+Queensland	60-64	Employed (away from work)		54
+Queensland	60-64	Employed (away from work)	0	5401
+Queensland	60-64	Employed (away from work)	1	185
+Queensland	60-64	Employed (full-time)		994
+Queensland	60-64	Employed (full-time)	0	72291
+Queensland	60-64	Employed (full-time)	1	524
+Queensland	60-64	Employed (part-time)		655
+Queensland	60-64	Employed (part-time)	0	43509
+Queensland	60-64	Employed (part-time)	1	751
+Queensland	65-69			44
+Queensland	65-69		0	1048
+Queensland	65-69		1	42
+Queensland	65-69	Employed (away from work)		48
+Queensland	65-69	Employed (away from work)	0	2494
+Queensland	65-69	Employed (away from work)	1	69
+Queensland	65-69	Employed (full-time)		379
+Queensland	65-69	Employed (full-time)	0	25572
+Queensland	65-69	Employed (full-time)	1	241
+Queensland	65-69	Employed (part-time)		367
+Queensland	65-69	Employed (part-time)	0	24950
+Queensland	65-69	Employed (part-time)	1	517
+Queensland	70-74			37
+Queensland	70-74		0	570
+Queensland	70-74		1	35
+Queensland	70-74	Employed (away from work)		20
+Queensland	70-74	Employed (away from work)	0	831
+Queensland	70-74	Employed (away from work)	1	38
+Queensland	70-74	Employed (full-time)		122
+Queensland	70-74	Employed (full-time)	0	7087
+Queensland	70-74	Employed (full-time)	1	119
+Queensland	70-74	Employed (part-time)		194
+Queensland	70-74	Employed (part-time)	0	10279
+Queensland	70-74	Employed (part-time)	1	300
+Queensland	75+			58
+Queensland	75+		0	732
+Queensland	75+		1	150
+Queensland	75+	Employed (away from work)		11
+Queensland	75+	Employed (away from work)	0	411
+Queensland	75+	Employed (away from work)	1	70
+Queensland	75+	Employed (full-time)		66
+Queensland	75+	Employed (full-time)	0	3170
+Queensland	75+	Employed (full-time)	1	142
+Queensland	75+	Employed (part-time)		108
+Queensland	75+	Employed (part-time)	0	4718
+Queensland	75+	Employed (part-time)	1	350
+South Australia	15-19			30
+South Australia	15-19		0	877
+South Australia	15-19		1	7
+South Australia	15-19	Employed (away from work)		6
+South Australia	15-19	Employed (away from work)	0	1254
+South Australia	15-19	Employed (away from work)	1	20
+South Australia	15-19	Employed (full-time)		63
+South Australia	15-19	Employed (full-time)	0	5766
+South Australia	15-19	Employed (full-time)	1	33
+South Australia	15-19	Employed (part-time)		263
+South Australia	15-19	Employed (part-time)	0	28361
+South Australia	15-19	Employed (part-time)	1	288
+South Australia	20-24			50
+South Australia	20-24		0	1383
+South Australia	20-24		1	15
+South Australia	20-24	Employed (away from work)		18
+South Australia	20-24	Employed (away from work)	0	2170
+South Australia	20-24	Employed (away from work)	1	26
+South Australia	20-24	Employed (full-time)		329
+South Australia	20-24	Employed (full-time)	0	31026
+South Australia	20-24	Employed (full-time)	1	137
+South Australia	20-24	Employed (part-time)		300
+South Australia	20-24	Employed (part-time)	0	31808
+South Australia	20-24	Employed (part-time)	1	426
+South Australia	25-29			40
+South Australia	25-29		0	1315
+South Australia	25-29		1	19
+South Australia	25-29	Employed (away from work)		35
+South Australia	25-29	Employed (away from work)	0	3063
+South Australia	25-29	Employed (away from work)	1	35
+South Australia	25-29	Employed (full-time)		460
+South Australia	25-29	Employed (full-time)	0	48741
+South Australia	25-29	Employed (full-time)	1	162
+South Australia	25-29	Employed (part-time)		231
+South Australia	25-29	Employed (part-time)	0	21179
+South Australia	25-29	Employed (part-time)	1	388
+South Australia	30-34			34
+South Australia	30-34		0	1268
+South Australia	30-34		1	16
+South Australia	30-34	Employed (away from work)		62
+South Australia	30-34	Employed (away from work)	0	4193
+South Australia	30-34	Employed (away from work)	1	46
+South Australia	30-34	Employed (full-time)		562
+South Australia	30-34	Employed (full-time)	0	50363
+South Australia	30-34	Employed (full-time)	1	182
+South Australia	30-34	Employed (part-time)		284
+South Australia	30-34	Employed (part-time)	0	23143
+South Australia	30-34	Employed (part-time)	1	334
+South Australia	35-39			40
+South Australia	35-39		0	998
+South Australia	35-39		1	15
+South Australia	35-39	Employed (away from work)		32
+South Australia	35-39	Employed (away from work)	0	2882
+South Australia	35-39	Employed (away from work)	1	47
+South Australia	35-39	Employed (full-time)		575
+South Australia	35-39	Employed (full-time)	0	46341
+South Australia	35-39	Employed (full-time)	1	155
+South Australia	35-39	Employed (part-time)		323
+South Australia	35-39	Employed (part-time)	0	23581
+South Australia	35-39	Employed (part-time)	1	319
+South Australia	40-44			47
+South Australia	40-44		0	995
+South Australia	40-44		1	23
+South Australia	40-44	Employed (away from work)		35
+South Australia	40-44	Employed (away from work)	0	2089
+South Australia	40-44	Employed (away from work)	1	59
+South Australia	40-44	Employed (full-time)		696
+South Australia	40-44	Employed (full-time)	0	50364
+South Australia	40-44	Employed (full-time)	1	260
+South Australia	40-44	Employed (part-time)		378
+South Australia	40-44	Employed (part-time)	0	24813
+South Australia	40-44	Employed (part-time)	1	394
+South Australia	45-49			56
+South Australia	45-49		0	1104
+South Australia	45-49		1	16
+South Australia	45-49	Employed (away from work)		33
+South Australia	45-49	Employed (away from work)	0	2099
+South Australia	45-49	Employed (away from work)	1	57
+South Australia	45-49	Employed (full-time)		708
+South Australia	45-49	Employed (full-time)	0	54688
+South Australia	45-49	Employed (full-time)	1	292
+South Australia	45-49	Employed (part-time)		371
+South Australia	45-49	Employed (part-time)	0	25400
+South Australia	45-49	Employed (part-time)	1	422
+South Australia	50-54			58
+South Australia	50-54		0	960
+South Australia	50-54		1	23
+South Australia	50-54	Employed (away from work)		21
+South Australia	50-54	Employed (away from work)	0	2514
+South Australia	50-54	Employed (away from work)	1	87
+South Australia	50-54	Employed (full-time)		661
+South Australia	50-54	Employed (full-time)	0	52575
+South Australia	50-54	Employed (full-time)	1	299
+South Australia	50-54	Employed (part-time)		378
+South Australia	50-54	Employed (part-time)	0	24250
+South Australia	50-54	Employed (part-time)	1	473
+South Australia	55-59			36
+South Australia	55-59		0	799
+South Australia	55-59		1	17
+South Australia	55-59	Employed (away from work)		37
+South Australia	55-59	Employed (away from work)	0	2810
+South Australia	55-59	Employed (away from work)	1	96
+South Australia	55-59	Employed (full-time)		593
+South Australia	55-59	Employed (full-time)	0	45120
+South Australia	55-59	Employed (full-time)	1	268
+South Australia	55-59	Employed (part-time)		308
+South Australia	55-59	Employed (part-time)	0	23415
+South Australia	55-59	Employed (part-time)	1	439
+South Australia	60-64			36
+South Australia	60-64		0	610
+South Australia	60-64		1	32
+South Australia	60-64	Employed (away from work)		29
+South Australia	60-64	Employed (away from work)	0	2327
+South Australia	60-64	Employed (away from work)	1	74
+South Australia	60-64	Employed (full-time)		372
+South Australia	60-64	Employed (full-time)	0	27608
+South Australia	60-64	Employed (full-time)	1	144
+South Australia	60-64	Employed (part-time)		286
+South Australia	60-64	Employed (part-time)	0	19003
+South Australia	60-64	Employed (part-time)	1	363
+South Australia	65-69			27
+South Australia	65-69		0	364
+South Australia	65-69		1	15
+South Australia	65-69	Employed (away from work)		19
+South Australia	65-69	Employed (away from work)	0	1178
+South Australia	65-69	Employed (away from work)	1	21
+South Australia	65-69	Employed (full-time)		154
+South Australia	65-69	Employed (full-time)	0	9204
+South Australia	65-69	Employed (full-time)	1	92
+South Australia	65-69	Employed (part-time)		164
+South Australia	65-69	Employed (part-time)	0	10798
+South Australia	65-69	Employed (part-time)	1	194
+South Australia	70-74			13
+South Australia	70-74		0	227
+South Australia	70-74		1	16
+South Australia	70-74	Employed (away from work)		3
+South Australia	70-74	Employed (away from work)	0	379
+South Australia	70-74	Employed (away from work)	1	23
+South Australia	70-74	Employed (full-time)		32
+South Australia	70-74	Employed (full-time)	0	2384
+South Australia	70-74	Employed (full-time)	1	33
+South Australia	70-74	Employed (part-time)		82
+South Australia	70-74	Employed (part-time)	0	4435
+South Australia	70-74	Employed (part-time)	1	99
+South Australia	75+			30
+South Australia	75+		0	310
+South Australia	75+		1	43
+South Australia	75+	Employed (away from work)		9
+South Australia	75+	Employed (away from work)	0	231
+South Australia	75+	Employed (away from work)	1	28
+South Australia	75+	Employed (full-time)		27
+South Australia	75+	Employed (full-time)	0	1177
+South Australia	75+	Employed (full-time)	1	42
+South Australia	75+	Employed (part-time)		61
+South Australia	75+	Employed (part-time)	0	2153
+South Australia	75+	Employed (part-time)	1	129
+Western Australia	15-19			45
+Western Australia	15-19		0	1423
+Western Australia	15-19		1	13
+Western Australia	15-19	Employed (away from work)		15
+Western Australia	15-19	Employed (away from work)	0	1806
+Western Australia	15-19	Employed (away from work)	1	13
+Western Australia	15-19	Employed (full-time)		125
+Western Australia	15-19	Employed (full-time)	0	11852
+Western Australia	15-19	Employed (full-time)	1	50
+Western Australia	15-19	Employed (part-time)		344
+Western Australia	15-19	Employed (part-time)	0	42040
+Western Australia	15-19	Employed (part-time)	1	389
+Western Australia	20-24			74
+Western Australia	20-24		0	2453
+Western Australia	20-24		1	17
+Western Australia	20-24	Employed (away from work)		24
+Western Australia	20-24	Employed (away from work)	0	3253
+Western Australia	20-24	Employed (away from work)	1	35
+Western Australia	20-24	Employed (full-time)		475
+Western Australia	20-24	Employed (full-time)	0	54718
+Western Australia	20-24	Employed (full-time)	1	119
+Western Australia	20-24	Employed (part-time)		392
+Western Australia	20-24	Employed (part-time)	0	43527
+Western Australia	20-24	Employed (part-time)	1	605
+Western Australia	25-29			81
+Western Australia	25-29		0	2398
+Western Australia	25-29		1	18
+Western Australia	25-29	Employed (away from work)		48
+Western Australia	25-29	Employed (away from work)	0	5389
+Western Australia	25-29	Employed (away from work)	1	38
+Western Australia	25-29	Employed (full-time)		767
+Western Australia	25-29	Employed (full-time)	0	91117
+Western Australia	25-29	Employed (full-time)	1	191
+Western Australia	25-29	Employed (part-time)		311
+Western Australia	25-29	Employed (part-time)	0	31272
+Western Australia	25-29	Employed (part-time)	1	467
+Western Australia	30-34			81
+Western Australia	30-34		0	2281
+Western Australia	30-34		1	13
+Western Australia	30-34	Employed (away from work)		81
+Western Australia	30-34	Employed (away from work)	0	7130
+Western Australia	30-34	Employed (away from work)	1	56
+Western Australia	30-34	Employed (full-time)		936
+Western Australia	30-34	Employed (full-time)	0	95089
+Western Australia	30-34	Employed (full-time)	1	195
+Western Australia	30-34	Employed (part-time)		362
+Western Australia	30-34	Employed (part-time)	0	34058
+Western Australia	30-34	Employed (part-time)	1	396
+Western Australia	35-39			68
+Western Australia	35-39		0	1898
+Western Australia	35-39		1	15
+Western Australia	35-39	Employed (away from work)		53
+Western Australia	35-39	Employed (away from work)	0	5212
+Western Australia	35-39	Employed (away from work)	1	54
+Western Australia	35-39	Employed (full-time)		873
+Western Australia	35-39	Employed (full-time)	0	82671
+Western Australia	35-39	Employed (full-time)	1	183
+Western Australia	35-39	Employed (part-time)		394
+Western Australia	35-39	Employed (part-time)	0	34558
+Western Australia	35-39	Employed (part-time)	1	346
+Western Australia	40-44			71
+Western Australia	40-44		0	1894
+Western Australia	40-44		1	18
+Western Australia	40-44	Employed (away from work)		49
+Western Australia	40-44	Employed (away from work)	0	3895
+Western Australia	40-44	Employed (away from work)	1	78
+Western Australia	40-44	Employed (full-time)		974
+Western Australia	40-44	Employed (full-time)	0	84623
+Western Australia	40-44	Employed (full-time)	1	314
+Western Australia	40-44	Employed (part-time)		454
+Western Australia	40-44	Employed (part-time)	0	36069
+Western Australia	40-44	Employed (part-time)	1	449
+Western Australia	45-49			79
+Western Australia	45-49		0	1927
+Western Australia	45-49		1	11
+Western Australia	45-49	Employed (away from work)		42
+Western Australia	45-49	Employed (away from work)	0	4046
+Western Australia	45-49	Employed (away from work)	1	96
+Western Australia	45-49	Employed (full-time)		976
+Western Australia	45-49	Employed (full-time)	0	87966
+Western Australia	45-49	Employed (full-time)	1	333
+Western Australia	45-49	Employed (part-time)		417
+Western Australia	45-49	Employed (part-time)	0	35157
+Western Australia	45-49	Employed (part-time)	1	472
+Western Australia	50-54			69
+Western Australia	50-54		0	1658
+Western Australia	50-54		1	16
+Western Australia	50-54	Employed (away from work)		53
+Western Australia	50-54	Employed (away from work)	0	4397
+Western Australia	50-54	Employed (away from work)	1	81
+Western Australia	50-54	Employed (full-time)		941
+Western Australia	50-54	Employed (full-time)	0	81020
+Western Australia	50-54	Employed (full-time)	1	363
+Western Australia	50-54	Employed (part-time)		385
+Western Australia	50-54	Employed (part-time)	0	31685
+Western Australia	50-54	Employed (part-time)	1	450
+Western Australia	55-59			56
+Western Australia	55-59		0	1374
+Western Australia	55-59		1	13
+Western Australia	55-59	Employed (away from work)		49
+Western Australia	55-59	Employed (away from work)	0	4536
+Western Australia	55-59	Employed (away from work)	1	101
+Western Australia	55-59	Employed (full-time)		787
+Western Australia	55-59	Employed (full-time)	0	65291
+Western Australia	55-59	Employed (full-time)	1	309
+Western Australia	55-59	Employed (part-time)		367
+Western Australia	55-59	Employed (part-time)	0	29469
+Western Australia	55-59	Employed (part-time)	1	467
+Western Australia	60-64			43
+Western Australia	60-64		0	917
+Western Australia	60-64		1	18
+Western Australia	60-64	Employed (away from work)		54
+Western Australia	60-64	Employed (away from work)	0	3652
+Western Australia	60-64	Employed (away from work)	1	82
+Western Australia	60-64	Employed (full-time)		506
+Western Australia	60-64	Employed (full-time)	0	39024
+Western Australia	60-64	Employed (full-time)	1	199
+Western Australia	60-64	Employed (part-time)		337
+Western Australia	60-64	Employed (part-time)	0	25524
+Western Australia	60-64	Employed (part-time)	1	377
+Western Australia	65-69			20
+Western Australia	65-69		0	489
+Western Australia	65-69		1	16
+Western Australia	65-69	Employed (away from work)		22
+Western Australia	65-69	Employed (away from work)	0	1726
+Western Australia	65-69	Employed (away from work)	1	40
+Western Australia	65-69	Employed (full-time)		195
+Western Australia	65-69	Employed (full-time)	0	13753
+Western Australia	65-69	Employed (full-time)	1	110
+Western Australia	65-69	Employed (part-time)		200
+Western Australia	65-69	Employed (part-time)	0	15017
+Western Australia	65-69	Employed (part-time)	1	239
+Western Australia	70-74			12
+Western Australia	70-74		0	270
+Western Australia	70-74		1	27
+Western Australia	70-74	Employed (away from work)		12
+Western Australia	70-74	Employed (away from work)	0	592
+Western Australia	70-74	Employed (away from work)	1	23
+Western Australia	70-74	Employed (full-time)		60
+Western Australia	70-74	Employed (full-time)	0	3384
+Western Australia	70-74	Employed (full-time)	1	45
+Western Australia	70-74	Employed (part-time)		104
+Western Australia	70-74	Employed (part-time)	0	6219
+Western Australia	70-74	Employed (part-time)	1	137
+Western Australia	75+			21
+Western Australia	75+		0	306
+Western Australia	75+		1	30
+Western Australia	75+	Employed (away from work)		7
+Western Australia	75+	Employed (away from work)	0	287
+Western Australia	75+	Employed (away from work)	1	29
+Western Australia	75+	Employed (full-time)		32
+Western Australia	75+	Employed (full-time)	0	1453
+Western Australia	75+	Employed (full-time)	1	38
+Western Australia	75+	Employed (part-time)		62
+Western Australia	75+	Employed (part-time)	0	3075
+Western Australia	75+	Employed (part-time)	1	181
+Tasmania	15-19			12
+Tasmania	15-19		0	330
+Tasmania	15-19		1	3
+Tasmania	15-19	Employed (away from work)	0	487
+Tasmania	15-19	Employed (away from work)	1	6
+Tasmania	15-19	Employed (full-time)		30
+Tasmania	15-19	Employed (full-time)	0	2430
+Tasmania	15-19	Employed (full-time)	1	6
+Tasmania	15-19	Employed (part-time)		118
+Tasmania	15-19	Employed (part-time)	0	8420
+Tasmania	15-19	Employed (part-time)	1	76
+Tasmania	20-24			7
+Tasmania	20-24		0	359
+Tasmania	20-24	Employed (away from work)		10
+Tasmania	20-24	Employed (away from work)	0	690
+Tasmania	20-24	Employed (away from work)	1	8
+Tasmania	20-24	Employed (full-time)		115
+Tasmania	20-24	Employed (full-time)	0	9429
+Tasmania	20-24	Employed (full-time)	1	27
+Tasmania	20-24	Employed (part-time)		96
+Tasmania	20-24	Employed (part-time)	0	7866
+Tasmania	20-24	Employed (part-time)	1	119
+Tasmania	25-29			13
+Tasmania	25-29		0	327
+Tasmania	25-29		1	3
+Tasmania	25-29	Employed (away from work)		13
+Tasmania	25-29	Employed (away from work)	0	852
+Tasmania	25-29	Employed (away from work)	1	12
+Tasmania	25-29	Employed (full-time)		145
+Tasmania	25-29	Employed (full-time)	0	12256
+Tasmania	25-29	Employed (full-time)	1	36
+Tasmania	25-29	Employed (part-time)		73
+Tasmania	25-29	Employed (part-time)	0	5797
+Tasmania	25-29	Employed (part-time)	1	100
+Tasmania	30-34			17
+Tasmania	30-34		0	323
+Tasmania	30-34		1	6
+Tasmania	30-34	Employed (away from work)		18
+Tasmania	30-34	Employed (away from work)	0	1145
+Tasmania	30-34	Employed (away from work)	1	17
+Tasmania	30-34	Employed (full-time)		156
+Tasmania	30-34	Employed (full-time)	0	12522
+Tasmania	30-34	Employed (full-time)	1	44
+Tasmania	30-34	Employed (part-time)		110
+Tasmania	30-34	Employed (part-time)	0	6530
+Tasmania	30-34	Employed (part-time)	1	95
+Tasmania	35-39			12
+Tasmania	35-39		0	281
+Tasmania	35-39		1	3
+Tasmania	35-39	Employed (away from work)		16
+Tasmania	35-39	Employed (away from work)	0	822
+Tasmania	35-39	Employed (away from work)	1	17
+Tasmania	35-39	Employed (full-time)		174
+Tasmania	35-39	Employed (full-time)	0	11930
+Tasmania	35-39	Employed (full-time)	1	40
+Tasmania	35-39	Employed (part-time)		125
+Tasmania	35-39	Employed (part-time)	0	6987
+Tasmania	35-39	Employed (part-time)	1	89
+Tasmania	40-44			9
+Tasmania	40-44		0	309
+Tasmania	40-44		1	8
+Tasmania	40-44	Employed (away from work)		14
+Tasmania	40-44	Employed (away from work)	0	698
+Tasmania	40-44	Employed (away from work)	1	15
+Tasmania	40-44	Employed (full-time)		205
+Tasmania	40-44	Employed (full-time)	0	13960
+Tasmania	40-44	Employed (full-time)	1	55
+Tasmania	40-44	Employed (part-time)		126
+Tasmania	40-44	Employed (part-time)	0	7805
+Tasmania	40-44	Employed (part-time)	1	111
+Tasmania	45-49			27
+Tasmania	45-49		0	358
+Tasmania	45-49		1	10
+Tasmania	45-49	Employed (away from work)		13
+Tasmania	45-49	Employed (away from work)	0	749
+Tasmania	45-49	Employed (away from work)	1	26
+Tasmania	45-49	Employed (full-time)		270
+Tasmania	45-49	Employed (full-time)	0	15723
+Tasmania	45-49	Employed (full-time)	1	80
+Tasmania	45-49	Employed (part-time)		124
+Tasmania	45-49	Employed (part-time)	0	7907
+Tasmania	45-49	Employed (part-time)	1	152
+Tasmania	50-54			15
+Tasmania	50-54		0	331
+Tasmania	50-54		1	8
+Tasmania	50-54	Employed (away from work)		18
+Tasmania	50-54	Employed (away from work)	0	910
+Tasmania	50-54	Employed (away from work)	1	35
+Tasmania	50-54	Employed (full-time)		258
+Tasmania	50-54	Employed (full-time)	0	15626
+Tasmania	50-54	Employed (full-time)	1	98
+Tasmania	50-54	Employed (part-time)		125
+Tasmania	50-54	Employed (part-time)	0	7756
+Tasmania	50-54	Employed (part-time)	1	146
+Tasmania	55-59			17
+Tasmania	55-59		0	317
+Tasmania	55-59		1	7
+Tasmania	55-59	Employed (away from work)		17
+Tasmania	55-59	Employed (away from work)	0	1088
+Tasmania	55-59	Employed (away from work)	1	32
+Tasmania	55-59	Employed (full-time)		212
+Tasmania	55-59	Employed (full-time)	0	13683
+Tasmania	55-59	Employed (full-time)	1	76
+Tasmania	55-59	Employed (part-time)		130
+Tasmania	55-59	Employed (part-time)	0	7927
+Tasmania	55-59	Employed (part-time)	1	128
+Tasmania	60-64			11
+Tasmania	60-64		0	210
+Tasmania	60-64		1	16
+Tasmania	60-64	Employed (away from work)		14
+Tasmania	60-64	Employed (away from work)	0	873
+Tasmania	60-64	Employed (away from work)	1	16
+Tasmania	60-64	Employed (full-time)		121
+Tasmania	60-64	Employed (full-time)	0	7750
+Tasmania	60-64	Employed (full-time)	1	54
+Tasmania	60-64	Employed (part-time)		113
+Tasmania	60-64	Employed (part-time)	0	6451
+Tasmania	60-64	Employed (part-time)	1	109
+Tasmania	65-69			9
+Tasmania	65-69		0	135
+Tasmania	65-69		1	3
+Tasmania	65-69	Employed (away from work)		9
+Tasmania	65-69	Employed (away from work)	0	368
+Tasmania	65-69	Employed (away from work)	1	6
+Tasmania	65-69	Employed (full-time)		39
+Tasmania	65-69	Employed (full-time)	0	2453
+Tasmania	65-69	Employed (full-time)	1	22
+Tasmania	65-69	Employed (part-time)		60
+Tasmania	65-69	Employed (part-time)	0	3343
+Tasmania	65-69	Employed (part-time)	1	89
+Tasmania	70-74			6
+Tasmania	70-74		0	78
+Tasmania	70-74		1	11
+Tasmania	70-74	Employed (away from work)	0	115
+Tasmania	70-74	Employed (away from work)	1	13
+Tasmania	70-74	Employed (full-time)		3
+Tasmania	70-74	Employed (full-time)	0	656
+Tasmania	70-74	Employed (full-time)	1	16
+Tasmania	70-74	Employed (part-time)		19
+Tasmania	70-74	Employed (part-time)	0	1322
+Tasmania	70-74	Employed (part-time)	1	41
+Tasmania	75+			7
+Tasmania	75+		0	100
+Tasmania	75+		1	24
+Tasmania	75+	Employed (away from work)		3
+Tasmania	75+	Employed (away from work)	0	68
+Tasmania	75+	Employed (away from work)	1	6
+Tasmania	75+	Employed (full-time)		11
+Tasmania	75+	Employed (full-time)	0	316
+Tasmania	75+	Employed (full-time)	1	13
+Tasmania	75+	Employed (part-time)		21
+Tasmania	75+	Employed (part-time)	0	717
+Tasmania	75+	Employed (part-time)	1	43
+Northern Territory	15-19			18
+Northern Territory	15-19		0	202
+Northern Territory	15-19	Employed (away from work)		3
+Northern Territory	15-19	Employed (away from work)	0	159
+Northern Territory	15-19	Employed (full-time)		28
+Northern Territory	15-19	Employed (full-time)	0	1534
+Northern Territory	15-19	Employed (full-time)	1	3
+Northern Territory	15-19	Employed (part-time)		31
+Northern Territory	15-19	Employed (part-time)	0	2654
+Northern Territory	15-19	Employed (part-time)	1	30
+Northern Territory	20-24			32
+Northern Territory	20-24		0	331
+Northern Territory	20-24		1	3
+Northern Territory	20-24	Employed (away from work)		4
+Northern Territory	20-24	Employed (away from work)	0	372
+Northern Territory	20-24	Employed (away from work)	1	5
+Northern Territory	20-24	Employed (full-time)		81
+Northern Territory	20-24	Employed (full-time)	0	6550
+Northern Territory	20-24	Employed (full-time)	1	10
+Northern Territory	20-24	Employed (part-time)		31
+Northern Territory	20-24	Employed (part-time)	0	2181
+Northern Territory	20-24	Employed (part-time)	1	33
+Northern Territory	25-29			37
+Northern Territory	25-29		0	341
+Northern Territory	25-29	Employed (away from work)		11
+Northern Territory	25-29	Employed (away from work)	0	620
+Northern Territory	25-29	Employed (away from work)	1	5
+Northern Territory	25-29	Employed (full-time)		104
+Northern Territory	25-29	Employed (full-time)	0	10784
+Northern Territory	25-29	Employed (full-time)	1	18
+Northern Territory	25-29	Employed (part-time)		30
+Northern Territory	25-29	Employed (part-time)	0	2325
+Northern Territory	25-29	Employed (part-time)	1	34
+Northern Territory	30-34			26
+Northern Territory	30-34		0	325
+Northern Territory	30-34		1	7
+Northern Territory	30-34	Employed (away from work)		9
+Northern Territory	30-34	Employed (away from work)	0	777
+Northern Territory	30-34	Employed (away from work)	1	6
+Northern Territory	30-34	Employed (full-time)		149
+Northern Territory	30-34	Employed (full-time)	0	10757
+Northern Territory	30-34	Employed (full-time)	1	32
+Northern Territory	30-34	Employed (part-time)		48
+Northern Territory	30-34	Employed (part-time)	0	2507
+Northern Territory	30-34	Employed (part-time)	1	24
+Northern Territory	35-39			23
+Northern Territory	35-39		0	246
+Northern Territory	35-39	Employed (away from work)		15
+Northern Territory	35-39	Employed (away from work)	0	580
+Northern Territory	35-39	Employed (away from work)	1	6
+Northern Territory	35-39	Employed (full-time)		122
+Northern Territory	35-39	Employed (full-time)	0	9266
+Northern Territory	35-39	Employed (full-time)	1	18
+Northern Territory	35-39	Employed (part-time)		45
+Northern Territory	35-39	Employed (part-time)	0	2270
+Northern Territory	35-39	Employed (part-time)	1	21
+Northern Territory	40-44			17
+Northern Territory	40-44		0	223
+Northern Territory	40-44		1	9
+Northern Territory	40-44	Employed (away from work)		5
+Northern Territory	40-44	Employed (away from work)	0	453
+Northern Territory	40-44	Employed (away from work)	1	8
+Northern Territory	40-44	Employed (full-time)		115
+Northern Territory	40-44	Employed (full-time)	0	8997
+Northern Territory	40-44	Employed (full-time)	1	36
+Northern Territory	40-44	Employed (part-time)		52
+Northern Territory	40-44	Employed (part-time)	0	2049
+Northern Territory	40-44	Employed (part-time)	1	32
+Northern Territory	45-49			17
+Northern Territory	45-49		0	229
+Northern Territory	45-49	Employed (away from work)		8
+Northern Territory	45-49	Employed (away from work)	0	439
+Northern Territory	45-49	Employed (away from work)	1	6
+Northern Territory	45-49	Employed (full-time)		126
+Northern Territory	45-49	Employed (full-time)	0	9077
+Northern Territory	45-49	Employed (full-time)	1	62
+Northern Territory	45-49	Employed (part-time)		29
+Northern Territory	45-49	Employed (part-time)	0	1870
+Northern Territory	45-49	Employed (part-time)	1	42
+Northern Territory	50-54			19
+Northern Territory	50-54		0	226
+Northern Territory	50-54		1	3
+Northern Territory	50-54	Employed (away from work)		3
+Northern Territory	50-54	Employed (away from work)	0	505
+Northern Territory	50-54	Employed (away from work)	1	11
+Northern Territory	50-54	Employed (full-time)		130
+Northern Territory	50-54	Employed (full-time)	0	8266
+Northern Territory	50-54	Employed (full-time)	1	56
+Northern Territory	50-54	Employed (part-time)		30
+Northern Territory	50-54	Employed (part-time)	0	1584
+Northern Territory	50-54	Employed (part-time)	1	43
+Northern Territory	55-59			20
+Northern Territory	55-59		0	149
+Northern Territory	55-59		1	9
+Northern Territory	55-59	Employed (away from work)		10
+Northern Territory	55-59	Employed (away from work)	0	498
+Northern Territory	55-59	Employed (away from work)	1	18
+Northern Territory	55-59	Employed (full-time)		85
+Northern Territory	55-59	Employed (full-time)	0	6791
+Northern Territory	55-59	Employed (full-time)	1	55
+Northern Territory	55-59	Employed (part-time)		30
+Northern Territory	55-59	Employed (part-time)	0	1503
+Northern Territory	55-59	Employed (part-time)	1	44
+Northern Territory	60-64			5
+Northern Territory	60-64		0	116
+Northern Territory	60-64		1	3
+Northern Territory	60-64	Employed (away from work)		3
+Northern Territory	60-64	Employed (away from work)	0	312
+Northern Territory	60-64	Employed (away from work)	1	19
+Northern Territory	60-64	Employed (full-time)		69
+Northern Territory	60-64	Employed (full-time)	0	4276
+Northern Territory	60-64	Employed (full-time)	1	33
+Northern Territory	60-64	Employed (part-time)		16
+Northern Territory	60-64	Employed (part-time)	0	1221
+Northern Territory	60-64	Employed (part-time)	1	27
+Northern Territory	65-69		0	59
+Northern Territory	65-69		1	3
+Northern Territory	65-69	Employed (away from work)		3
+Northern Territory	65-69	Employed (away from work)	0	145
+Northern Territory	65-69	Employed (away from work)	1	3
+Northern Territory	65-69	Employed (full-time)		25
+Northern Territory	65-69	Employed (full-time)	0	1599
+Northern Territory	65-69	Employed (full-time)	1	25
+Northern Territory	65-69	Employed (part-time)		10
+Northern Territory	65-69	Employed (part-time)	0	760
+Northern Territory	65-69	Employed (part-time)	1	22
+Northern Territory	70-74			4
+Northern Territory	70-74		0	20
+Northern Territory	70-74		1	3
+Northern Territory	70-74	Employed (away from work)	0	41
+Northern Territory	70-74	Employed (away from work)	1	3
+Northern Territory	70-74	Employed (full-time)		3
+Northern Territory	70-74	Employed (full-time)	0	396
+Northern Territory	70-74	Employed (full-time)	1	5
+Northern Territory	70-74	Employed (part-time)		6
+Northern Territory	70-74	Employed (part-time)	0	286
+Northern Territory	70-74	Employed (part-time)	1	16
+Northern Territory	75+			3
+Northern Territory	75+		0	18
+Northern Territory	75+		1	11
+Northern Territory	75+	Employed (away from work)	0	18
+Northern Territory	75+	Employed (away from work)	1	6
+Northern Territory	75+	Employed (full-time)		5
+Northern Territory	75+	Employed (full-time)	0	143
+Northern Territory	75+	Employed (full-time)	1	3
+Northern Territory	75+	Employed (part-time)	0	136
+Northern Territory	75+	Employed (part-time)	1	9
+Australian Capital Territory	15-19			13
+Australian Capital Territory	15-19		0	372
+Australian Capital Territory	15-19		1	4
+Australian Capital Territory	15-19	Employed (away from work)		3
+Australian Capital Territory	15-19	Employed (away from work)	0	427
+Australian Capital Territory	15-19	Employed (away from work)	1	7
+Australian Capital Territory	15-19	Employed (full-time)		15
+Australian Capital Territory	15-19	Employed (full-time)	0	2170
+Australian Capital Territory	15-19	Employed (full-time)	1	14
+Australian Capital Territory	15-19	Employed (part-time)		63
+Australian Capital Territory	15-19	Employed (part-time)	0	8419
+Australian Capital Territory	15-19	Employed (part-time)	1	102
+Australian Capital Territory	20-24			12
+Australian Capital Territory	20-24		0	554
+Australian Capital Territory	20-24		1	4
+Australian Capital Territory	20-24	Employed (away from work)		4
+Australian Capital Territory	20-24	Employed (away from work)	0	706
+Australian Capital Territory	20-24	Employed (away from work)	1	3
+Australian Capital Territory	20-24	Employed (full-time)		110
+Australian Capital Territory	20-24	Employed (full-time)	0	11621
+Australian Capital Territory	20-24	Employed (full-time)	1	47
+Australian Capital Territory	20-24	Employed (part-time)		64
+Australian Capital Territory	20-24	Employed (part-time)	0	9179
+Australian Capital Territory	20-24	Employed (part-time)	1	105
+Australian Capital Territory	25-29			7
+Australian Capital Territory	25-29		0	391
+Australian Capital Territory	25-29	Employed (away from work)		4
+Australian Capital Territory	25-29	Employed (away from work)	0	1140
+Australian Capital Territory	25-29	Employed (away from work)	1	28
+Australian Capital Territory	25-29	Employed (full-time)		150
+Australian Capital Territory	25-29	Employed (full-time)	0	20100
+Australian Capital Territory	25-29	Employed (full-time)	1	73
+Australian Capital Territory	25-29	Employed (part-time)		37
+Australian Capital Territory	25-29	Employed (part-time)	0	5143
+Australian Capital Territory	25-29	Employed (part-time)	1	95
+Australian Capital Territory	30-34			8
+Australian Capital Territory	30-34		0	372
+Australian Capital Territory	30-34		1	3
+Australian Capital Territory	30-34	Employed (away from work)		15
+Australian Capital Territory	30-34	Employed (away from work)	0	1885
+Australian Capital Territory	30-34	Employed (away from work)	1	25
+Australian Capital Territory	30-34	Employed (full-time)		149
+Australian Capital Territory	30-34	Employed (full-time)	0	20702
+Australian Capital Territory	30-34	Employed (full-time)	1	87
+Australian Capital Territory	30-34	Employed (part-time)		56
+Australian Capital Territory	30-34	Employed (part-time)	0	5983
+Australian Capital Territory	30-34	Employed (part-time)	1	108
+Australian Capital Territory	35-39			9
+Australian Capital Territory	35-39		0	363
+Australian Capital Territory	35-39		1	3
+Australian Capital Territory	35-39	Employed (away from work)		12
+Australian Capital Territory	35-39	Employed (away from work)	0	1312
+Australian Capital Territory	35-39	Employed (away from work)	1	26
+Australian Capital Territory	35-39	Employed (full-time)		208
+Australian Capital Territory	35-39	Employed (full-time)	0	18759
+Australian Capital Territory	35-39	Employed (full-time)	1	93
+Australian Capital Territory	35-39	Employed (part-time)		66
+Australian Capital Territory	35-39	Employed (part-time)	0	6132
+Australian Capital Territory	35-39	Employed (part-time)	1	103
+Australian Capital Territory	40-44			11
+Australian Capital Territory	40-44		0	268
+Australian Capital Territory	40-44		1	5
+Australian Capital Territory	40-44	Employed (away from work)		5
+Australian Capital Territory	40-44	Employed (away from work)	0	781
+Australian Capital Territory	40-44	Employed (away from work)	1	34
+Australian Capital Territory	40-44	Employed (full-time)		193
+Australian Capital Territory	40-44	Employed (full-time)	0	19088
+Australian Capital Territory	40-44	Employed (full-time)	1	134
+Australian Capital Territory	40-44	Employed (part-time)		71
+Australian Capital Territory	40-44	Employed (part-time)	0	5598
+Australian Capital Territory	40-44	Employed (part-time)	1	95
+Australian Capital Territory	45-49			8
+Australian Capital Territory	45-49		0	276
+Australian Capital Territory	45-49		1	7
+Australian Capital Territory	45-49	Employed (away from work)		7
+Australian Capital Territory	45-49	Employed (away from work)	0	646
+Australian Capital Territory	45-49	Employed (away from work)	1	43
+Australian Capital Territory	45-49	Employed (full-time)		205
+Australian Capital Territory	45-49	Employed (full-time)	0	19070
+Australian Capital Territory	45-49	Employed (full-time)	1	152
+Australian Capital Territory	45-49	Employed (part-time)		50
+Australian Capital Territory	45-49	Employed (part-time)	0	4875
+Australian Capital Territory	45-49	Employed (part-time)	1	104
+Australian Capital Territory	50-54			16
+Australian Capital Territory	50-54		0	227
+Australian Capital Territory	50-54		1	5
+Australian Capital Territory	50-54	Employed (away from work)		13
+Australian Capital Territory	50-54	Employed (away from work)	0	804
+Australian Capital Territory	50-54	Employed (away from work)	1	38
+Australian Capital Territory	50-54	Employed (full-time)		187
+Australian Capital Territory	50-54	Employed (full-time)	0	16948
+Australian Capital Territory	50-54	Employed (full-time)	1	136
+Australian Capital Territory	50-54	Employed (part-time)		52
+Australian Capital Territory	50-54	Employed (part-time)	0	4096
+Australian Capital Territory	50-54	Employed (part-time)	1	105
+Australian Capital Territory	55-59			4
+Australian Capital Territory	55-59		0	196
+Australian Capital Territory	55-59		1	7
+Australian Capital Territory	55-59	Employed (away from work)		3
+Australian Capital Territory	55-59	Employed (away from work)	0	749
+Australian Capital Territory	55-59	Employed (away from work)	1	28
+Australian Capital Territory	55-59	Employed (full-time)		125
+Australian Capital Territory	55-59	Employed (full-time)	0	12544
+Australian Capital Territory	55-59	Employed (full-time)	1	108
+Australian Capital Territory	55-59	Employed (part-time)		40
+Australian Capital Territory	55-59	Employed (part-time)	0	3779
+Australian Capital Territory	55-59	Employed (part-time)	1	79
+Australian Capital Territory	60-64			6
+Australian Capital Territory	60-64		0	115
+Australian Capital Territory	60-64		1	3
+Australian Capital Territory	60-64	Employed (away from work)		7
+Australian Capital Territory	60-64	Employed (away from work)	0	527
+Australian Capital Territory	60-64	Employed (away from work)	1	14
+Australian Capital Territory	60-64	Employed (full-time)		88
+Australian Capital Territory	60-64	Employed (full-time)	0	6489
+Australian Capital Territory	60-64	Employed (full-time)	1	55
+Australian Capital Territory	60-64	Employed (part-time)		44
+Australian Capital Territory	60-64	Employed (part-time)	0	3299
+Australian Capital Territory	60-64	Employed (part-time)	1	73
+Australian Capital Territory	65-69			3
+Australian Capital Territory	65-69		0	67
+Australian Capital Territory	65-69	Employed (away from work)		3
+Australian Capital Territory	65-69	Employed (away from work)	0	269
+Australian Capital Territory	65-69	Employed (away from work)	1	11
+Australian Capital Territory	65-69	Employed (full-time)		34
+Australian Capital Territory	65-69	Employed (full-time)	0	2249
+Australian Capital Territory	65-69	Employed (full-time)	1	45
+Australian Capital Territory	65-69	Employed (part-time)		26
+Australian Capital Territory	65-69	Employed (part-time)	0	2135
+Australian Capital Territory	65-69	Employed (part-time)	1	42
+Australian Capital Territory	70-74			3
+Australian Capital Territory	70-74		0	35
+Australian Capital Territory	70-74		1	3
+Australian Capital Territory	70-74	Employed (away from work)	0	81
+Australian Capital Territory	70-74	Employed (away from work)	1	3
+Australian Capital Territory	70-74	Employed (full-time)		8
+Australian Capital Territory	70-74	Employed (full-time)	0	506
+Australian Capital Territory	70-74	Employed (full-time)	1	4
+Australian Capital Territory	70-74	Employed (part-time)		13
+Australian Capital Territory	70-74	Employed (part-time)	0	815
+Australian Capital Territory	70-74	Employed (part-time)	1	20
+Australian Capital Territory	75+			3
+Australian Capital Territory	75+		0	45
+Australian Capital Territory	75+		1	5
+Australian Capital Territory	75+	Employed (away from work)		3
+Australian Capital Territory	75+	Employed (away from work)	0	47
+Australian Capital Territory	75+	Employed (away from work)	1	8
+Australian Capital Territory	75+	Employed (full-time)		3
+Australian Capital Territory	75+	Employed (full-time)	0	166
+Australian Capital Territory	75+	Employed (full-time)	1	12
+Australian Capital Territory	75+	Employed (part-time)		13
+Australian Capital Territory	75+	Employed (part-time)	0	371
+Australian Capital Territory	75+	Employed (part-time)	1	30
+Other Territories	15-19		0	10
+Other Territories	15-19	Employed (away from work)	0	3
+Other Territories	15-19	Employed (full-time)	0	26
+Other Territories	15-19	Employed (part-time)	0	41
+Other Territories	20-24		0	3
+Other Territories	20-24	Employed (away from work)	0	12
+Other Territories	20-24	Employed (full-time)	0	107
+Other Territories	20-24	Employed (part-time)		3
+Other Territories	20-24	Employed (part-time)	0	38
+Other Territories	25-29		0	5
+Other Territories	25-29	Employed (away from work)	0	19
+Other Territories	25-29	Employed (full-time)		3
+Other Territories	25-29	Employed (full-time)	0	158
+Other Territories	25-29	Employed (part-time)	0	36
+Other Territories	30-34		0	3
+Other Territories	30-34	Employed (away from work)	0	23
+Other Territories	30-34	Employed (full-time)		3
+Other Territories	30-34	Employed (full-time)	0	175
+Other Territories	30-34	Employed (part-time)	0	62
+Other Territories	35-39		0	9
+Other Territories	35-39	Employed (away from work)	0	21
+Other Territories	35-39	Employed (full-time)		6
+Other Territories	35-39	Employed (full-time)	0	201
+Other Territories	35-39	Employed (part-time)	0	62
+Other Territories	40-44		0	6
+Other Territories	40-44	Employed (away from work)	0	24
+Other Territories	40-44	Employed (full-time)		3
+Other Territories	40-44	Employed (full-time)	0	192
+Other Territories	40-44	Employed (part-time)	0	54
+Other Territories	45-49		0	7
+Other Territories	45-49	Employed (away from work)	0	20
+Other Territories	45-49	Employed (full-time)		3
+Other Territories	45-49	Employed (full-time)	0	205
+Other Territories	45-49	Employed (full-time)	1	3
+Other Territories	45-49	Employed (part-time)	0	62
+Other Territories	50-54		0	10
+Other Territories	50-54	Employed (away from work)	0	16
+Other Territories	50-54	Employed (full-time)		3
+Other Territories	50-54	Employed (full-time)	0	240
+Other Territories	50-54	Employed (part-time)	0	78
+Other Territories	55-59		0	7
+Other Territories	55-59	Employed (away from work)	0	28
+Other Territories	55-59	Employed (full-time)		4
+Other Territories	55-59	Employed (full-time)	0	223
+Other Territories	55-59	Employed (part-time)		3
+Other Territories	55-59	Employed (part-time)	0	60
+Other Territories	60-64		0	6
+Other Territories	60-64	Employed (away from work)	0	20
+Other Territories	60-64	Employed (full-time)		5
+Other Territories	60-64	Employed (full-time)	0	140
+Other Territories	60-64	Employed (part-time)		3
+Other Territories	60-64	Employed (part-time)	0	62
+Other Territories	65-69		0	6
+Other Territories	65-69	Employed (away from work)	0	12
+Other Territories	65-69	Employed (full-time)		5
+Other Territories	65-69	Employed (full-time)	0	101
+Other Territories	65-69	Employed (part-time)		4
+Other Territories	65-69	Employed (part-time)	0	53
+Other Territories	70-74	Employed (full-time)		3
+Other Territories	70-74	Employed (full-time)	0	29
+Other Territories	70-74	Employed (part-time)	0	18
+Other Territories	75+		0	3
+Other Territories	75+	Employed (full-time)	0	6
+Other Territories	75+	Employed (full-time)	1	3
+Other Territories	75+	Employed (part-time)	0	16
+Other Territories	75+	Employed (part-time)	1	5

@@ -1,0 +1,576 @@
+STE_NAME16	Age	EmploymentStatus	workers
+New South Wales	15-19	Contributing family workers	1319
+New South Wales	15-19	Employee	155925
+New South Wales	15-19	Owner managers of incorporated enterprises	463
+New South Wales	15-19	Owner managers of unincorporated enterprises	1524
+New South Wales	15-19	Status in employment not stated	2021
+New South Wales	20-24	Contributing family workers	1421
+New South Wales	20-24	Employee	295779
+New South Wales	20-24	Owner managers of incorporated enterprises	2648
+New South Wales	20-24	Owner managers of unincorporated enterprises	7297
+New South Wales	20-24	Status in employment not stated	2962
+New South Wales	25-29	Contributing family workers	1928
+New South Wales	25-29	Employee	347003
+New South Wales	25-29	Owner managers of incorporated enterprises	10115
+New South Wales	25-29	Owner managers of unincorporated enterprises	15933
+New South Wales	25-29	Status in employment not stated	2998
+New South Wales	30-34	Contributing family workers	3244
+New South Wales	30-34	Employee	347553
+New South Wales	30-34	Owner managers of incorporated enterprises	20359
+New South Wales	30-34	Owner managers of unincorporated enterprises	23494
+New South Wales	30-34	Status in employment not stated	2936
+New South Wales	35-39	Contributing family workers	3869
+New South Wales	35-39	Employee	308896
+New South Wales	35-39	Owner managers of incorporated enterprises	27049
+New South Wales	35-39	Owner managers of unincorporated enterprises	28014
+New South Wales	35-39	Status in employment not stated	2947
+New South Wales	40-44	Contributing family workers	4700
+New South Wales	40-44	Employee	302619
+New South Wales	40-44	Owner managers of incorporated enterprises	33607
+New South Wales	40-44	Owner managers of unincorporated enterprises	32995
+New South Wales	40-44	Status in employment not stated	3300
+New South Wales	45-49	Contributing family workers	4948
+New South Wales	45-49	Employee	287247
+New South Wales	45-49	Owner managers of incorporated enterprises	35053
+New South Wales	45-49	Owner managers of unincorporated enterprises	34616
+New South Wales	45-49	Status in employment not stated	3467
+New South Wales	50-54	Contributing family workers	5462
+New South Wales	50-54	Employee	269582
+New South Wales	50-54	Owner managers of incorporated enterprises	34296
+New South Wales	50-54	Owner managers of unincorporated enterprises	35428
+New South Wales	50-54	Status in employment not stated	3579
+New South Wales	55-59	Contributing family workers	5625
+New South Wales	55-59	Employee	232977
+New South Wales	55-59	Owner managers of incorporated enterprises	28558
+New South Wales	55-59	Owner managers of unincorporated enterprises	32855
+New South Wales	55-59	Status in employment not stated	3311
+New South Wales	60-64	Contributing family workers	5490
+New South Wales	60-64	Employee	145101
+New South Wales	60-64	Owner managers of incorporated enterprises	20750
+New South Wales	60-64	Owner managers of unincorporated enterprises	26332
+New South Wales	60-64	Status in employment not stated	2618
+New South Wales	65-69	Contributing family workers	5039
+New South Wales	65-69	Employee	56994
+New South Wales	65-69	Owner managers of incorporated enterprises	13123
+New South Wales	65-69	Owner managers of unincorporated enterprises	15806
+New South Wales	65-69	Status in employment not stated	1758
+New South Wales	70-74	Contributing family workers	3567
+New South Wales	70-74	Employee	16600
+New South Wales	70-74	Owner managers of incorporated enterprises	5816
+New South Wales	70-74	Owner managers of unincorporated enterprises	7338
+New South Wales	70-74	Status in employment not stated	1027
+New South Wales	75+	Contributing family workers	3661
+New South Wales	75+	Employee	6238
+New South Wales	75+	Owner managers of incorporated enterprises	3092
+New South Wales	75+	Owner managers of unincorporated enterprises	4632
+New South Wales	75+	Status in employment not stated	1281
+Victoria	15-19	Contributing family workers	1136
+Victoria	15-19	Employee	120534
+Victoria	15-19	Owner managers of incorporated enterprises	392
+Victoria	15-19	Owner managers of unincorporated enterprises	939
+Victoria	15-19	Status in employment not stated	1563
+Victoria	20-24	Contributing family workers	1289
+Victoria	20-24	Employee	243918
+Victoria	20-24	Owner managers of incorporated enterprises	2049
+Victoria	20-24	Owner managers of unincorporated enterprises	6349
+Victoria	20-24	Status in employment not stated	2480
+Victoria	25-29	Contributing family workers	1828
+Victoria	25-29	Employee	291717
+Victoria	25-29	Owner managers of incorporated enterprises	8122
+Victoria	25-29	Owner managers of unincorporated enterprises	14542
+Victoria	25-29	Status in employment not stated	2647
+Victoria	30-34	Contributing family workers	2875
+Victoria	30-34	Employee	288915
+Victoria	30-34	Owner managers of incorporated enterprises	17075
+Victoria	30-34	Owner managers of unincorporated enterprises	20373
+Victoria	30-34	Status in employment not stated	2593
+Victoria	35-39	Contributing family workers	3680
+Victoria	35-39	Employee	250790
+Victoria	35-39	Owner managers of incorporated enterprises	22038
+Victoria	35-39	Owner managers of unincorporated enterprises	22099
+Victoria	35-39	Status in employment not stated	2552
+Victoria	40-44	Contributing family workers	4173
+Victoria	40-44	Employee	243576
+Victoria	40-44	Owner managers of incorporated enterprises	27252
+Victoria	40-44	Owner managers of unincorporated enterprises	25204
+Victoria	40-44	Status in employment not stated	2768
+Victoria	45-49	Contributing family workers	4545
+Victoria	45-49	Employee	239292
+Victoria	45-49	Owner managers of incorporated enterprises	30446
+Victoria	45-49	Owner managers of unincorporated enterprises	26439
+Victoria	45-49	Status in employment not stated	2928
+Victoria	50-54	Contributing family workers	4525
+Victoria	50-54	Employee	216450
+Victoria	50-54	Owner managers of incorporated enterprises	28588
+Victoria	50-54	Owner managers of unincorporated enterprises	25233
+Victoria	50-54	Status in employment not stated	2906
+Victoria	55-59	Contributing family workers	4628
+Victoria	55-59	Employee	182906
+Victoria	55-59	Owner managers of incorporated enterprises	24517
+Victoria	55-59	Owner managers of unincorporated enterprises	23853
+Victoria	55-59	Status in employment not stated	2655
+Victoria	60-64	Contributing family workers	4329
+Victoria	60-64	Employee	118092
+Victoria	60-64	Owner managers of incorporated enterprises	17759
+Victoria	60-64	Owner managers of unincorporated enterprises	19050
+Victoria	60-64	Status in employment not stated	2194
+Victoria	65-69	Contributing family workers	3864
+Victoria	65-69	Employee	45204
+Victoria	65-69	Owner managers of incorporated enterprises	10934
+Victoria	65-69	Owner managers of unincorporated enterprises	11807
+Victoria	65-69	Status in employment not stated	1407
+Victoria	70-74	Contributing family workers	2605
+Victoria	70-74	Employee	12510
+Victoria	70-74	Owner managers of incorporated enterprises	4733
+Victoria	70-74	Owner managers of unincorporated enterprises	5322
+Victoria	70-74	Status in employment not stated	830
+Victoria	75+	Contributing family workers	2503
+Victoria	75+	Employee	5024
+Victoria	75+	Owner managers of incorporated enterprises	2395
+Victoria	75+	Owner managers of unincorporated enterprises	3432
+Victoria	75+	Status in employment not stated	956
+Queensland	15-19	Contributing family workers	1017
+Queensland	15-19	Employee	122150
+Queensland	15-19	Owner managers of incorporated enterprises	297
+Queensland	15-19	Owner managers of unincorporated enterprises	1085
+Queensland	15-19	Status in employment not stated	1254
+Queensland	20-24	Contributing family workers	866
+Queensland	20-24	Employee	197808
+Queensland	20-24	Owner managers of incorporated enterprises	1537
+Queensland	20-24	Owner managers of unincorporated enterprises	4759
+Queensland	20-24	Status in employment not stated	1516
+Queensland	25-29	Contributing family workers	1305
+Queensland	25-29	Employee	209152
+Queensland	25-29	Owner managers of incorporated enterprises	5617
+Queensland	25-29	Owner managers of unincorporated enterprises	10155
+Queensland	25-29	Status in employment not stated	1431
+Queensland	30-34	Contributing family workers	2381
+Queensland	30-34	Employee	206566
+Queensland	30-34	Owner managers of incorporated enterprises	11741
+Queensland	30-34	Owner managers of unincorporated enterprises	14502
+Queensland	30-34	Status in employment not stated	1606
+Queensland	35-39	Contributing family workers	2933
+Queensland	35-39	Employee	188554
+Queensland	35-39	Owner managers of incorporated enterprises	15558
+Queensland	35-39	Owner managers of unincorporated enterprises	16652
+Queensland	35-39	Status in employment not stated	1630
+Queensland	40-44	Contributing family workers	3590
+Queensland	40-44	Employee	196488
+Queensland	40-44	Owner managers of incorporated enterprises	20409
+Queensland	40-44	Owner managers of unincorporated enterprises	19871
+Queensland	40-44	Status in employment not stated	1924
+Queensland	45-49	Contributing family workers	3965
+Queensland	45-49	Employee	192515
+Queensland	45-49	Owner managers of incorporated enterprises	21933
+Queensland	45-49	Owner managers of unincorporated enterprises	21496
+Queensland	45-49	Status in employment not stated	2020
+Queensland	50-54	Contributing family workers	4125
+Queensland	50-54	Employee	175275
+Queensland	50-54	Owner managers of incorporated enterprises	20450
+Queensland	50-54	Owner managers of unincorporated enterprises	21297
+Queensland	50-54	Status in employment not stated	2030
+Queensland	55-59	Contributing family workers	4291
+Queensland	55-59	Employee	145376
+Queensland	55-59	Owner managers of incorporated enterprises	17803
+Queensland	55-59	Owner managers of unincorporated enterprises	20277
+Queensland	55-59	Status in employment not stated	1919
+Queensland	60-64	Contributing family workers	4110
+Queensland	60-64	Employee	91200
+Queensland	60-64	Owner managers of incorporated enterprises	12867
+Queensland	60-64	Owner managers of unincorporated enterprises	16536
+Queensland	60-64	Status in employment not stated	1627
+Queensland	65-69	Contributing family workers	3676
+Queensland	65-69	Employee	33788
+Queensland	65-69	Owner managers of incorporated enterprises	7505
+Queensland	65-69	Owner managers of unincorporated enterprises	9796
+Queensland	65-69	Status in employment not stated	1002
+Queensland	70-74	Contributing family workers	2479
+Queensland	70-74	Employee	9104
+Queensland	70-74	Owner managers of incorporated enterprises	3109
+Queensland	70-74	Owner managers of unincorporated enterprises	4330
+Queensland	70-74	Status in employment not stated	613
+Queensland	75+	Contributing family workers	2133
+Queensland	75+	Employee	3165
+Queensland	75+	Owner managers of incorporated enterprises	1454
+Queensland	75+	Owner managers of unincorporated enterprises	2450
+Queensland	75+	Status in employment not stated	777
+South Australia	15-19	Contributing family workers	320
+South Australia	15-19	Employee	35764
+South Australia	15-19	Owner managers of incorporated enterprises	93
+South Australia	15-19	Owner managers of unincorporated enterprises	327
+South Australia	15-19	Status in employment not stated	460
+South Australia	20-24	Contributing family workers	351
+South Australia	20-24	Employee	64485
+South Australia	20-24	Owner managers of incorporated enterprises	459
+South Australia	20-24	Owner managers of unincorporated enterprises	1767
+South Australia	20-24	Status in employment not stated	624
+South Australia	25-29	Contributing family workers	456
+South Australia	25-29	Employee	69138
+South Australia	25-29	Owner managers of incorporated enterprises	1628
+South Australia	25-29	Owner managers of unincorporated enterprises	3823
+South Australia	25-29	Status in employment not stated	630
+South Australia	30-34	Contributing family workers	770
+South Australia	30-34	Employee	70660
+South Australia	30-34	Owner managers of incorporated enterprises	3145
+South Australia	30-34	Owner managers of unincorporated enterprises	5317
+South Australia	30-34	Status in employment not stated	596
+South Australia	35-39	Contributing family workers	953
+South Australia	35-39	Employee	63431
+South Australia	35-39	Owner managers of incorporated enterprises	4282
+South Australia	35-39	Owner managers of unincorporated enterprises	6030
+South Australia	35-39	Status in employment not stated	624
+South Australia	40-44	Contributing family workers	1186
+South Australia	40-44	Employee	65836
+South Australia	40-44	Owner managers of incorporated enterprises	5287
+South Australia	40-44	Owner managers of unincorporated enterprises	7132
+South Australia	40-44	Status in employment not stated	707
+South Australia	45-49	Contributing family workers	1311
+South Australia	45-49	Employee	68540
+South Australia	45-49	Owner managers of incorporated enterprises	6144
+South Australia	45-49	Owner managers of unincorporated enterprises	8406
+South Australia	45-49	Status in employment not stated	847
+South Australia	50-54	Contributing family workers	1438
+South Australia	50-54	Employee	65408
+South Australia	50-54	Owner managers of incorporated enterprises	5896
+South Australia	50-54	Owner managers of unincorporated enterprises	8752
+South Australia	50-54	Status in employment not stated	798
+South Australia	55-59	Contributing family workers	1467
+South Australia	55-59	Employee	57607
+South Australia	55-59	Owner managers of incorporated enterprises	5380
+South Australia	55-59	Owner managers of unincorporated enterprises	8713
+South Australia	55-59	Status in employment not stated	767
+South Australia	60-64	Contributing family workers	1498
+South Australia	60-64	Employee	37495
+South Australia	60-64	Owner managers of incorporated enterprises	4108
+South Australia	60-64	Owner managers of unincorporated enterprises	7067
+South Australia	60-64	Status in employment not stated	708
+South Australia	65-69	Contributing family workers	1413
+South Australia	65-69	Employee	13284
+South Australia	65-69	Owner managers of incorporated enterprises	2646
+South Australia	65-69	Owner managers of unincorporated enterprises	4505
+South Australia	65-69	Status in employment not stated	381
+South Australia	70-74	Contributing family workers	957
+South Australia	70-74	Employee	3425
+South Australia	70-74	Owner managers of incorporated enterprises	1089
+South Australia	70-74	Owner managers of unincorporated enterprises	2018
+South Australia	70-74	Status in employment not stated	240
+South Australia	75+	Contributing family workers	891
+South Australia	75+	Employee	1350
+South Australia	75+	Owner managers of incorporated enterprises	584
+South Australia	75+	Owner managers of unincorporated enterprises	1081
+South Australia	75+	Status in employment not stated	322
+Western Australia	15-19	Contributing family workers	473
+Western Australia	15-19	Employee	56419
+Western Australia	15-19	Owner managers of incorporated enterprises	130
+Western Australia	15-19	Owner managers of unincorporated enterprises	499
+Western Australia	15-19	Status in employment not stated	591
+Western Australia	20-24	Contributing family workers	462
+Western Australia	20-24	Employee	100920
+Western Australia	20-24	Owner managers of incorporated enterprises	758
+Western Australia	20-24	Owner managers of unincorporated enterprises	2722
+Western Australia	20-24	Status in employment not stated	835
+Western Australia	25-29	Contributing family workers	677
+Western Australia	25-29	Employee	121469
+Western Australia	25-29	Owner managers of incorporated enterprises	2900
+Western Australia	25-29	Owner managers of unincorporated enterprises	6206
+Western Australia	25-29	Status in employment not stated	848
+Western Australia	30-34	Contributing family workers	1346
+Western Australia	30-34	Employee	123680
+Western Australia	30-34	Owner managers of incorporated enterprises	6009
+Western Australia	30-34	Owner managers of unincorporated enterprises	8777
+Western Australia	30-34	Status in employment not stated	881
+Western Australia	35-39	Contributing family workers	1471
+Western Australia	35-39	Employee	106720
+Western Australia	35-39	Owner managers of incorporated enterprises	7788
+Western Australia	35-39	Owner managers of unincorporated enterprises	9446
+Western Australia	35-39	Status in employment not stated	883
+Western Australia	40-44	Contributing family workers	1757
+Western Australia	40-44	Employee	105892
+Western Australia	40-44	Owner managers of incorporated enterprises	9445
+Western Australia	40-44	Owner managers of unincorporated enterprises	10891
+Western Australia	40-44	Status in employment not stated	900
+Western Australia	45-49	Contributing family workers	1954
+Western Australia	45-49	Employee	105820
+Western Australia	45-49	Owner managers of incorporated enterprises	10604
+Western Australia	45-49	Owner managers of unincorporated enterprises	12073
+Western Australia	45-49	Status in employment not stated	1081
+Western Australia	50-54	Contributing family workers	2001
+Western Australia	50-54	Employee	95910
+Western Australia	50-54	Owner managers of incorporated enterprises	10066
+Western Australia	50-54	Owner managers of unincorporated enterprises	12094
+Western Australia	50-54	Status in employment not stated	1048
+Western Australia	55-59	Contributing family workers	1988
+Western Australia	55-59	Employee	80033
+Western Australia	55-59	Owner managers of incorporated enterprises	8726
+Western Australia	55-59	Owner managers of unincorporated enterprises	11073
+Western Australia	55-59	Status in employment not stated	992
+Western Australia	60-64	Contributing family workers	1952
+Western Australia	60-64	Employee	52411
+Western Australia	60-64	Owner managers of incorporated enterprises	6388
+Western Australia	60-64	Owner managers of unincorporated enterprises	9154
+Western Australia	60-64	Status in employment not stated	820
+Western Australia	65-69	Contributing family workers	1784
+Western Australia	65-69	Employee	20329
+Western Australia	65-69	Owner managers of incorporated enterprises	3859
+Western Australia	65-69	Owner managers of unincorporated enterprises	5320
+Western Australia	65-69	Status in employment not stated	544
+Western Australia	70-74	Contributing family workers	1210
+Western Australia	70-74	Employee	5551
+Western Australia	70-74	Owner managers of incorporated enterprises	1596
+Western Australia	70-74	Owner managers of unincorporated enterprises	2236
+Western Australia	70-74	Status in employment not stated	294
+Western Australia	75+	Contributing family workers	972
+Western Australia	75+	Employee	2120
+Western Australia	75+	Owner managers of incorporated enterprises	817
+Western Australia	75+	Owner managers of unincorporated enterprises	1313
+Western Australia	75+	Status in employment not stated	303
+Tasmania	15-19	Contributing family workers	84
+Tasmania	15-19	Employee	11572
+Tasmania	15-19	Owner managers of incorporated enterprises	25
+Tasmania	15-19	Owner managers of unincorporated enterprises	71
+Tasmania	15-19	Status in employment not stated	164
+Tasmania	20-24	Contributing family workers	65
+Tasmania	20-24	Employee	17986
+Tasmania	20-24	Owner managers of incorporated enterprises	82
+Tasmania	20-24	Owner managers of unincorporated enterprises	389
+Tasmania	20-24	Status in employment not stated	194
+Tasmania	25-29	Contributing family workers	95
+Tasmania	25-29	Employee	18084
+Tasmania	25-29	Owner managers of incorporated enterprises	334
+Tasmania	25-29	Owner managers of unincorporated enterprises	951
+Tasmania	25-29	Status in employment not stated	167
+Tasmania	30-34	Contributing family workers	217
+Tasmania	30-34	Employee	18381
+Tasmania	30-34	Owner managers of incorporated enterprises	696
+Tasmania	30-34	Owner managers of unincorporated enterprises	1504
+Tasmania	30-34	Status in employment not stated	181
+Tasmania	35-39	Contributing family workers	241
+Tasmania	35-39	Employee	17447
+Tasmania	35-39	Owner managers of incorporated enterprises	933
+Tasmania	35-39	Owner managers of unincorporated enterprises	1706
+Tasmania	35-39	Status in employment not stated	169
+Tasmania	40-44	Contributing family workers	286
+Tasmania	40-44	Employee	19326
+Tasmania	40-44	Owner managers of incorporated enterprises	1292
+Tasmania	40-44	Owner managers of unincorporated enterprises	2188
+Tasmania	40-44	Status in employment not stated	224
+Tasmania	45-49	Contributing family workers	344
+Tasmania	45-49	Employee	20740
+Tasmania	45-49	Owner managers of incorporated enterprises	1588
+Tasmania	45-49	Owner managers of unincorporated enterprises	2477
+Tasmania	45-49	Status in employment not stated	291
+Tasmania	50-54	Contributing family workers	416
+Tasmania	50-54	Employee	20442
+Tasmania	50-54	Owner managers of incorporated enterprises	1599
+Tasmania	50-54	Owner managers of unincorporated enterprises	2572
+Tasmania	50-54	Status in employment not stated	293
+Tasmania	55-59	Contributing family workers	520
+Tasmania	55-59	Employee	18581
+Tasmania	55-59	Owner managers of incorporated enterprises	1516
+Tasmania	55-59	Owner managers of unincorporated enterprises	2740
+Tasmania	55-59	Status in employment not stated	287
+Tasmania	60-64	Contributing family workers	488
+Tasmania	60-64	Employee	11579
+Tasmania	60-64	Owner managers of incorporated enterprises	1156
+Tasmania	60-64	Owner managers of unincorporated enterprises	2280
+Tasmania	60-64	Status in employment not stated	238
+Tasmania	65-69	Contributing family workers	427
+Tasmania	65-69	Employee	3867
+Tasmania	65-69	Owner managers of incorporated enterprises	743
+Tasmania	65-69	Owner managers of unincorporated enterprises	1357
+Tasmania	65-69	Status in employment not stated	142
+Tasmania	70-74	Contributing family workers	306
+Tasmania	70-74	Employee	1046
+Tasmania	70-74	Owner managers of incorporated enterprises	283
+Tasmania	70-74	Owner managers of unincorporated enterprises	577
+Tasmania	70-74	Status in employment not stated	76
+Tasmania	75+	Contributing family workers	252
+Tasmania	75+	Employee	406
+Tasmania	75+	Owner managers of incorporated enterprises	181
+Tasmania	75+	Owner managers of unincorporated enterprises	386
+Tasmania	75+	Status in employment not stated	113
+Northern Territory	15-19	Contributing family workers	39
+Northern Territory	15-19	Employee	4500
+Northern Territory	15-19	Owner managers of incorporated enterprises	13
+Northern Territory	15-19	Owner managers of unincorporated enterprises	28
+Northern Territory	15-19	Status in employment not stated	69
+Northern Territory	20-24	Contributing family workers	27
+Northern Territory	20-24	Employee	9353
+Northern Territory	20-24	Owner managers of incorporated enterprises	54
+Northern Territory	20-24	Owner managers of unincorporated enterprises	125
+Northern Territory	20-24	Status in employment not stated	93
+Northern Territory	25-29	Contributing family workers	43
+Northern Territory	25-29	Employee	13644
+Northern Territory	25-29	Owner managers of incorporated enterprises	190
+Northern Territory	25-29	Owner managers of unincorporated enterprises	326
+Northern Territory	25-29	Status in employment not stated	109
+Northern Territory	30-34	Contributing family workers	54
+Northern Territory	30-34	Employee	13611
+Northern Territory	30-34	Owner managers of incorporated enterprises	387
+Northern Territory	30-34	Owner managers of unincorporated enterprises	486
+Northern Territory	30-34	Status in employment not stated	122
+Northern Territory	35-39	Contributing family workers	81
+Northern Territory	35-39	Employee	11344
+Northern Territory	35-39	Owner managers of incorporated enterprises	529
+Northern Territory	35-39	Owner managers of unincorporated enterprises	539
+Northern Territory	35-39	Status in employment not stated	117
+Northern Territory	40-44	Contributing family workers	80
+Northern Territory	40-44	Employee	10529
+Northern Territory	40-44	Owner managers of incorporated enterprises	680
+Northern Territory	40-44	Owner managers of unincorporated enterprises	589
+Northern Territory	40-44	Status in employment not stated	118
+Northern Territory	45-49	Contributing family workers	87
+Northern Territory	45-49	Employee	10324
+Northern Territory	45-49	Owner managers of incorporated enterprises	723
+Northern Territory	45-49	Owner managers of unincorporated enterprises	668
+Northern Territory	45-49	Status in employment not stated	114
+Northern Territory	50-54	Contributing family workers	117
+Northern Territory	50-54	Employee	9255
+Northern Territory	50-54	Owner managers of incorporated enterprises	717
+Northern Territory	50-54	Owner managers of unincorporated enterprises	680
+Northern Territory	50-54	Status in employment not stated	120
+Northern Territory	55-59	Contributing family workers	93
+Northern Territory	55-59	Employee	7829
+Northern Territory	55-59	Owner managers of incorporated enterprises	610
+Northern Territory	55-59	Owner managers of unincorporated enterprises	572
+Northern Territory	55-59	Status in employment not stated	90
+Northern Territory	60-64	Contributing family workers	105
+Northern Territory	60-64	Employee	5001
+Northern Territory	60-64	Owner managers of incorporated enterprises	441
+Northern Territory	60-64	Owner managers of unincorporated enterprises	474
+Northern Territory	60-64	Status in employment not stated	84
+Northern Territory	65-69	Contributing family workers	81
+Northern Territory	65-69	Employee	2016
+Northern Territory	65-69	Owner managers of incorporated enterprises	245
+Northern Territory	65-69	Owner managers of unincorporated enterprises	268
+Northern Territory	65-69	Status in employment not stated	44
+Northern Territory	70-74	Contributing family workers	60
+Northern Territory	70-74	Employee	484
+Northern Territory	70-74	Owner managers of incorporated enterprises	101
+Northern Territory	70-74	Owner managers of unincorporated enterprises	112
+Northern Territory	70-74	Status in employment not stated	28
+Northern Territory	75+	Contributing family workers	42
+Northern Territory	75+	Employee	182
+Northern Territory	75+	Owner managers of incorporated enterprises	44
+Northern Territory	75+	Owner managers of unincorporated enterprises	59
+Northern Territory	75+	Status in employment not stated	22
+Australian Capital Territory	15-19	Contributing family workers	49
+Australian Capital Territory	15-19	Employee	11325
+Australian Capital Territory	15-19	Owner managers of incorporated enterprises	35
+Australian Capital Territory	15-19	Owner managers of unincorporated enterprises	103
+Australian Capital Territory	15-19	Status in employment not stated	81
+Australian Capital Territory	20-24	Contributing family workers	49
+Australian Capital Territory	20-24	Employee	21742
+Australian Capital Territory	20-24	Owner managers of incorporated enterprises	139
+Australian Capital Territory	20-24	Owner managers of unincorporated enterprises	374
+Australian Capital Territory	20-24	Status in employment not stated	108
+Australian Capital Territory	25-29	Contributing family workers	71
+Australian Capital Territory	25-29	Employee	25862
+Australian Capital Territory	25-29	Owner managers of incorporated enterprises	520
+Australian Capital Territory	25-29	Owner managers of unincorporated enterprises	617
+Australian Capital Territory	25-29	Status in employment not stated	106
+Australian Capital Territory	30-34	Contributing family workers	106
+Australian Capital Territory	30-34	Employee	27284
+Australian Capital Territory	30-34	Owner managers of incorporated enterprises	988
+Australian Capital Territory	30-34	Owner managers of unincorporated enterprises	898
+Australian Capital Territory	30-34	Status in employment not stated	111
+Australian Capital Territory	35-39	Contributing family workers	120
+Australian Capital Territory	35-39	Employee	24648
+Australian Capital Territory	35-39	Owner managers of incorporated enterprises	1224
+Australian Capital Territory	35-39	Owner managers of unincorporated enterprises	990
+Australian Capital Territory	35-39	Status in employment not stated	109
+Australian Capital Territory	40-44	Contributing family workers	123
+Australian Capital Territory	40-44	Employee	23557
+Australian Capital Territory	40-44	Owner managers of incorporated enterprises	1423
+Australian Capital Territory	40-44	Owner managers of unincorporated enterprises	1057
+Australian Capital Territory	40-44	Status in employment not stated	133
+Australian Capital Territory	45-49	Contributing family workers	155
+Australian Capital Territory	45-49	Employee	22469
+Australian Capital Territory	45-49	Owner managers of incorporated enterprises	1560
+Australian Capital Territory	45-49	Owner managers of unincorporated enterprises	1139
+Australian Capital Territory	45-49	Status in employment not stated	129
+Australian Capital Territory	50-54	Contributing family workers	140
+Australian Capital Territory	50-54	Employee	19882
+Australian Capital Territory	50-54	Owner managers of incorporated enterprises	1333
+Australian Capital Territory	50-54	Owner managers of unincorporated enterprises	1147
+Australian Capital Territory	50-54	Status in employment not stated	114
+Australian Capital Territory	55-59	Contributing family workers	137
+Australian Capital Territory	55-59	Employee	15267
+Australian Capital Territory	55-59	Owner managers of incorporated enterprises	1114
+Australian Capital Territory	55-59	Owner managers of unincorporated enterprises	1052
+Australian Capital Territory	55-59	Status in employment not stated	100
+Australian Capital Territory	60-64	Contributing family workers	122
+Australian Capital Territory	60-64	Employee	8802
+Australian Capital Territory	60-64	Owner managers of incorporated enterprises	814
+Australian Capital Territory	60-64	Owner managers of unincorporated enterprises	890
+Australian Capital Territory	60-64	Status in employment not stated	95
+Australian Capital Territory	65-69	Contributing family workers	127
+Australian Capital Territory	65-69	Employee	3534
+Australian Capital Territory	65-69	Owner managers of incorporated enterprises	526
+Australian Capital Territory	65-69	Owner managers of unincorporated enterprises	615
+Australian Capital Territory	65-69	Status in employment not stated	68
+Australian Capital Territory	70-74	Contributing family workers	77
+Australian Capital Territory	70-74	Employee	910
+Australian Capital Territory	70-74	Owner managers of incorporated enterprises	214
+Australian Capital Territory	70-74	Owner managers of unincorporated enterprises	252
+Australian Capital Territory	70-74	Status in employment not stated	38
+Australian Capital Territory	75+	Contributing family workers	84
+Australian Capital Territory	75+	Employee	339
+Australian Capital Territory	75+	Owner managers of incorporated enterprises	104
+Australian Capital Territory	75+	Owner managers of unincorporated enterprises	128
+Australian Capital Territory	75+	Status in employment not stated	42
+Other Territories	15-19	Employee	70
+Other Territories	20-24	Employee	163
+Other Territories	25-29	Contributing family workers	3
+Other Territories	25-29	Employee	210
+Other Territories	25-29	Owner managers of incorporated enterprises	3
+Other Territories	25-29	Owner managers of unincorporated enterprises	10
+Other Territories	25-29	Status in employment not stated	3
+Other Territories	30-34	Employee	233
+Other Territories	30-34	Owner managers of incorporated enterprises	3
+Other Territories	30-34	Owner managers of unincorporated enterprises	22
+Other Territories	30-34	Status in employment not stated	7
+Other Territories	35-39	Contributing family workers	3
+Other Territories	35-39	Employee	261
+Other Territories	35-39	Owner managers of incorporated enterprises	8
+Other Territories	35-39	Owner managers of unincorporated enterprises	17
+Other Territories	35-39	Status in employment not stated	8
+Other Territories	40-44	Employee	246
+Other Territories	40-44	Owner managers of incorporated enterprises	14
+Other Territories	40-44	Owner managers of unincorporated enterprises	21
+Other Territories	40-44	Status in employment not stated	11
+Other Territories	45-49	Contributing family workers	7
+Other Territories	45-49	Employee	243
+Other Territories	45-49	Owner managers of incorporated enterprises	15
+Other Territories	45-49	Owner managers of unincorporated enterprises	36
+Other Territories	45-49	Status in employment not stated	8
+Other Territories	50-54	Contributing family workers	3
+Other Territories	50-54	Employee	279
+Other Territories	50-54	Owner managers of incorporated enterprises	11
+Other Territories	50-54	Owner managers of unincorporated enterprises	39
+Other Territories	50-54	Status in employment not stated	11
+Other Territories	55-59	Contributing family workers	8
+Other Territories	55-59	Employee	249
+Other Territories	55-59	Owner managers of incorporated enterprises	21
+Other Territories	55-59	Owner managers of unincorporated enterprises	43
+Other Territories	55-59	Status in employment not stated	5
+Other Territories	60-64	Contributing family workers	10
+Other Territories	60-64	Employee	184
+Other Territories	60-64	Owner managers of incorporated enterprises	6
+Other Territories	60-64	Owner managers of unincorporated enterprises	31
+Other Territories	60-64	Status in employment not stated	3
+Other Territories	65-69	Contributing family workers	7
+Other Territories	65-69	Employee	127
+Other Territories	65-69	Owner managers of incorporated enterprises	12
+Other Territories	65-69	Owner managers of unincorporated enterprises	24
+Other Territories	65-69	Status in employment not stated	5
+Other Territories	70-74	Contributing family workers	3
+Other Territories	70-74	Employee	33
+Other Territories	70-74	Owner managers of incorporated enterprises	3
+Other Territories	70-74	Owner managers of unincorporated enterprises	17
+Other Territories	70-74	Status in employment not stated	3
+Other Territories	75+	Contributing family workers	3
+Other Territories	75+	Employee	10
+Other Territories	75+	Owner managers of incorporated enterprises	3
+Other Territories	75+	Owner managers of unincorporated enterprises	15
+Other Territories	75+	Status in employment not stated	3

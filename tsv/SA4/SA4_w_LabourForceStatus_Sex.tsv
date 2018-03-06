@@ -1,0 +1,823 @@
+SA4_NAME16	LabourForceStatus	Sex	workers
+Capital Region		F	658
+Capital Region		M	861
+Capital Region	Employed (away from work)	F	1518
+Capital Region	Employed (away from work)	M	1143
+Capital Region	Employed (full-time)	F	15683
+Capital Region	Employed (full-time)	M	26859
+Capital Region	Employed (part-time)	F	17687
+Capital Region	Employed (part-time)	M	8830
+Central Coast		F	880
+Central Coast		M	1032
+Central Coast	Employed (away from work)	F	2429
+Central Coast	Employed (away from work)	M	1307
+Central Coast	Employed (full-time)	F	23363
+Central Coast	Employed (full-time)	M	33966
+Central Coast	Employed (part-time)	F	29956
+Central Coast	Employed (part-time)	M	11791
+Central West		F	784
+Central West		M	977
+Central West	Employed (away from work)	F	1876
+Central West	Employed (away from work)	M	1307
+Central West	Employed (full-time)	F	18447
+Central West	Employed (full-time)	M	33234
+Central West	Employed (part-time)	F	19032
+Central West	Employed (part-time)	M	7542
+Coffs Harbour - Grafton		F	428
+Coffs Harbour - Grafton		M	528
+Coffs Harbour - Grafton	Employed (away from work)	F	1085
+Coffs Harbour - Grafton	Employed (away from work)	M	714
+Coffs Harbour - Grafton	Employed (full-time)	F	10297
+Coffs Harbour - Grafton	Employed (full-time)	M	15997
+Coffs Harbour - Grafton	Employed (part-time)	F	13257
+Coffs Harbour - Grafton	Employed (part-time)	M	6535
+Far West and Orana		F	472
+Far West and Orana		M	624
+Far West and Orana	Employed (away from work)	F	996
+Far West and Orana	Employed (away from work)	M	727
+Far West and Orana	Employed (full-time)	F	11633
+Far West and Orana	Employed (full-time)	M	18456
+Far West and Orana	Employed (part-time)	F	9160
+Far West and Orana	Employed (part-time)	M	3828
+Hunter Valley exc Newcastle		F	779
+Hunter Valley exc Newcastle		M	1083
+Hunter Valley exc Newcastle	Employed (away from work)	F	1999
+Hunter Valley exc Newcastle	Employed (away from work)	M	1655
+Hunter Valley exc Newcastle	Employed (full-time)	F	19212
+Hunter Valley exc Newcastle	Employed (full-time)	M	42026
+Hunter Valley exc Newcastle	Employed (part-time)	F	23500
+Hunter Valley exc Newcastle	Employed (part-time)	M	9851
+Illawarra		F	721
+Illawarra		M	957
+Illawarra	Employed (away from work)	F	2297
+Illawarra	Employed (away from work)	M	1424
+Illawarra	Employed (full-time)	F	21955
+Illawarra	Employed (full-time)	M	35341
+Illawarra	Employed (part-time)	F	27776
+Illawarra	Employed (part-time)	M	11556
+Mid North Coast		F	700
+Mid North Coast		M	869
+Mid North Coast	Employed (away from work)	F	1614
+Mid North Coast	Employed (away from work)	M	1196
+Mid North Coast	Employed (full-time)	F	14315
+Mid North Coast	Employed (full-time)	M	22140
+Mid North Coast	Employed (part-time)	F	18587
+Mid North Coast	Employed (part-time)	M	8940
+Murray		F	448
+Murray		M	588
+Murray	Employed (away from work)	F	1239
+Murray	Employed (away from work)	M	793
+Murray	Employed (full-time)	F	10388
+Murray	Employed (full-time)	M	18765
+Murray	Employed (part-time)	F	12207
+Murray	Employed (part-time)	M	4720
+New England and North West		F	766
+New England and North West		M	906
+New England and North West	Employed (away from work)	F	1643
+New England and North West	Employed (away from work)	M	1096
+New England and North West	Employed (full-time)	F	16994
+New England and North West	Employed (full-time)	M	28782
+New England and North West	Employed (part-time)	F	16285
+New England and North West	Employed (part-time)	M	7220
+Newcastle and Lake Macquarie		F	1122
+Newcastle and Lake Macquarie		M	1293
+Newcastle and Lake Macquarie	Employed (away from work)	F	3658
+Newcastle and Lake Macquarie	Employed (away from work)	M	2122
+Newcastle and Lake Macquarie	Employed (full-time)	F	35980
+Newcastle and Lake Macquarie	Employed (full-time)	M	55622
+Newcastle and Lake Macquarie	Employed (part-time)	F	39410
+Newcastle and Lake Macquarie	Employed (part-time)	M	16382
+Richmond - Tweed		F	857
+Richmond - Tweed		M	977
+Richmond - Tweed	Employed (away from work)	F	1721
+Richmond - Tweed	Employed (away from work)	M	1094
+Richmond - Tweed	Employed (full-time)	F	17785
+Richmond - Tweed	Employed (full-time)	M	26975
+Richmond - Tweed	Employed (part-time)	F	24107
+Richmond - Tweed	Employed (part-time)	M	12263
+Riverina		F	611
+Riverina		M	889
+Riverina	Employed (away from work)	F	1440
+Riverina	Employed (away from work)	M	1018
+Riverina	Employed (full-time)	F	15496
+Riverina	Employed (full-time)	M	27937
+Riverina	Employed (part-time)	F	14796
+Riverina	Employed (part-time)	M	5806
+Southern Highlands and Shoalhaven		F	464
+Southern Highlands and Shoalhaven		M	546
+Southern Highlands and Shoalhaven	Employed (away from work)	F	1108
+Southern Highlands and Shoalhaven	Employed (away from work)	M	721
+Southern Highlands and Shoalhaven	Employed (full-time)	F	10616
+Southern Highlands and Shoalhaven	Employed (full-time)	M	17601
+Southern Highlands and Shoalhaven	Employed (part-time)	F	14119
+Southern Highlands and Shoalhaven	Employed (part-time)	M	6385
+Sydney - Baulkham Hills and Hawkesbury		F	599
+Sydney - Baulkham Hills and Hawkesbury		M	818
+Sydney - Baulkham Hills and Hawkesbury	Employed (away from work)	F	1302
+Sydney - Baulkham Hills and Hawkesbury	Employed (away from work)	M	784
+Sydney - Baulkham Hills and Hawkesbury	Employed (full-time)	F	18805
+Sydney - Baulkham Hills and Hawkesbury	Employed (full-time)	M	29204
+Sydney - Baulkham Hills and Hawkesbury	Employed (part-time)	F	20031
+Sydney - Baulkham Hills and Hawkesbury	Employed (part-time)	M	8932
+Sydney - Blacktown		F	972
+Sydney - Blacktown		M	1530
+Sydney - Blacktown	Employed (away from work)	F	1570
+Sydney - Blacktown	Employed (away from work)	M	1228
+Sydney - Blacktown	Employed (full-time)	F	23807
+Sydney - Blacktown	Employed (full-time)	M	46763
+Sydney - Blacktown	Employed (part-time)	F	19282
+Sydney - Blacktown	Employed (part-time)	M	11243
+Sydney - City and Inner South		F	4282
+Sydney - City and Inner South		M	5678
+Sydney - City and Inner South	Employed (away from work)	F	10992
+Sydney - City and Inner South	Employed (away from work)	M	6163
+Sydney - City and Inner South	Employed (full-time)	F	173820
+Sydney - City and Inner South	Employed (full-time)	M	254314
+Sydney - City and Inner South	Employed (part-time)	F	75240
+Sydney - City and Inner South	Employed (part-time)	M	47858
+Sydney - Eastern Suburbs		F	850
+Sydney - Eastern Suburbs		M	908
+Sydney - Eastern Suburbs	Employed (away from work)	F	1736
+Sydney - Eastern Suburbs	Employed (away from work)	M	851
+Sydney - Eastern Suburbs	Employed (full-time)	F	24171
+Sydney - Eastern Suburbs	Employed (full-time)	M	28932
+Sydney - Eastern Suburbs	Employed (part-time)	F	22234
+Sydney - Eastern Suburbs	Employed (part-time)	M	12183
+Sydney - Inner South West		F	1464
+Sydney - Inner South West		M	2160
+Sydney - Inner South West	Employed (away from work)	F	2539
+Sydney - Inner South West	Employed (away from work)	M	1595
+Sydney - Inner South West	Employed (full-time)	F	33624
+Sydney - Inner South West	Employed (full-time)	M	55846
+Sydney - Inner South West	Employed (part-time)	F	32677
+Sydney - Inner South West	Employed (part-time)	M	18730
+Sydney - Inner West		F	898
+Sydney - Inner West		M	1279
+Sydney - Inner West	Employed (away from work)	F	1899
+Sydney - Inner West	Employed (away from work)	M	1090
+Sydney - Inner West	Employed (full-time)	F	27093
+Sydney - Inner West	Employed (full-time)	M	39706
+Sydney - Inner West	Employed (part-time)	F	22628
+Sydney - Inner West	Employed (part-time)	M	12635
+Sydney - North Sydney and Hornsby		F	1548
+Sydney - North Sydney and Hornsby		M	1872
+Sydney - North Sydney and Hornsby	Employed (away from work)	F	3862
+Sydney - North Sydney and Hornsby	Employed (away from work)	M	1958
+Sydney - North Sydney and Hornsby	Employed (full-time)	F	56610
+Sydney - North Sydney and Hornsby	Employed (full-time)	M	83269
+Sydney - North Sydney and Hornsby	Employed (part-time)	F	43010
+Sydney - North Sydney and Hornsby	Employed (part-time)	M	21510
+Sydney - Northern Beaches		F	649
+Sydney - Northern Beaches		M	777
+Sydney - Northern Beaches	Employed (away from work)	F	1415
+Sydney - Northern Beaches	Employed (away from work)	M	940
+Sydney - Northern Beaches	Employed (full-time)	F	19056
+Sydney - Northern Beaches	Employed (full-time)	M	30983
+Sydney - Northern Beaches	Employed (part-time)	F	23132
+Sydney - Northern Beaches	Employed (part-time)	M	11270
+Sydney - Outer South West		F	722
+Sydney - Outer South West		M	1009
+Sydney - Outer South West	Employed (away from work)	F	1418
+Sydney - Outer South West	Employed (away from work)	M	929
+Sydney - Outer South West	Employed (full-time)	F	17895
+Sydney - Outer South West	Employed (full-time)	M	30764
+Sydney - Outer South West	Employed (part-time)	F	18070
+Sydney - Outer South West	Employed (part-time)	M	7861
+Sydney - Outer West and Blue Mountains		F	885
+Sydney - Outer West and Blue Mountains		M	1085
+Sydney - Outer West and Blue Mountains	Employed (away from work)	F	1949
+Sydney - Outer West and Blue Mountains	Employed (away from work)	M	1166
+Sydney - Outer West and Blue Mountains	Employed (full-time)	F	23768
+Sydney - Outer West and Blue Mountains	Employed (full-time)	M	37142
+Sydney - Outer West and Blue Mountains	Employed (part-time)	F	25236
+Sydney - Outer West and Blue Mountains	Employed (part-time)	M	11028
+Sydney - Parramatta		F	1899
+Sydney - Parramatta		M	3003
+Sydney - Parramatta	Employed (away from work)	F	3900
+Sydney - Parramatta	Employed (away from work)	M	2288
+Sydney - Parramatta	Employed (full-time)	F	57415
+Sydney - Parramatta	Employed (full-time)	M	94061
+Sydney - Parramatta	Employed (part-time)	F	35335
+Sydney - Parramatta	Employed (part-time)	M	20460
+Sydney - Ryde		F	714
+Sydney - Ryde		M	1011
+Sydney - Ryde	Employed (away from work)	F	1724
+Sydney - Ryde	Employed (away from work)	M	916
+Sydney - Ryde	Employed (full-time)	F	27212
+Sydney - Ryde	Employed (full-time)	M	40989
+Sydney - Ryde	Employed (part-time)	F	17905
+Sydney - Ryde	Employed (part-time)	M	9127
+Sydney - South West		F	1277
+Sydney - South West		M	1960
+Sydney - South West	Employed (away from work)	F	1976
+Sydney - South West	Employed (away from work)	M	1282
+Sydney - South West	Employed (full-time)	F	29336
+Sydney - South West	Employed (full-time)	M	50510
+Sydney - South West	Employed (part-time)	F	24562
+Sydney - South West	Employed (part-time)	M	13579
+Sydney - Sutherland		F	507
+Sydney - Sutherland		M	595
+Sydney - Sutherland	Employed (away from work)	F	1214
+Sydney - Sutherland	Employed (away from work)	M	693
+Sydney - Sutherland	Employed (full-time)	F	13889
+Sydney - Sutherland	Employed (full-time)	M	22014
+Sydney - Sutherland	Employed (part-time)	F	19277
+Sydney - Sutherland	Employed (part-time)	M	8190
+Migratory - Offshore - Shipping (NSW)	Employed (away from work)	F	3
+Migratory - Offshore - Shipping (NSW)	Employed (away from work)	M	13
+Migratory - Offshore - Shipping (NSW)	Employed (full-time)	F	3
+Migratory - Offshore - Shipping (NSW)	Employed (full-time)	M	49
+Migratory - Offshore - Shipping (NSW)	Employed (part-time)	F	3
+Migratory - Offshore - Shipping (NSW)	Employed (part-time)	M	12
+No usual address (NSW)		F	1126
+No usual address (NSW)		M	2674
+No usual address (NSW)	Employed (away from work)	F	2149
+No usual address (NSW)	Employed (away from work)	M	3931
+No usual address (NSW)	Employed (full-time)	F	9445
+No usual address (NSW)	Employed (full-time)	M	72177
+No usual address (NSW)	Employed (part-time)	F	21410
+No usual address (NSW)	Employed (part-time)	M	30461
+Ballarat		F	535
+Ballarat		M	642
+Ballarat	Employed (away from work)	F	1582
+Ballarat	Employed (away from work)	M	889
+Ballarat	Employed (full-time)	F	12047
+Ballarat	Employed (full-time)	M	20759
+Ballarat	Employed (part-time)	F	16596
+Ballarat	Employed (part-time)	M	6827
+Bendigo		F	489
+Bendigo		M	579
+Bendigo	Employed (away from work)	F	1566
+Bendigo	Employed (away from work)	M	970
+Bendigo	Employed (full-time)	F	12141
+Bendigo	Employed (full-time)	M	21354
+Bendigo	Employed (part-time)	F	16295
+Bendigo	Employed (part-time)	M	7005
+Geelong		F	876
+Geelong		M	1025
+Geelong	Employed (away from work)	F	2661
+Geelong	Employed (away from work)	M	1457
+Geelong	Employed (full-time)	F	22193
+Geelong	Employed (full-time)	M	36688
+Geelong	Employed (part-time)	F	30197
+Geelong	Employed (part-time)	M	12378
+Hume		F	632
+Hume		M	788
+Hume	Employed (away from work)	F	1644
+Hume	Employed (away from work)	M	1249
+Hume	Employed (full-time)	F	13938
+Hume	Employed (full-time)	M	26178
+Hume	Employed (part-time)	F	16854
+Hume	Employed (part-time)	M	7244
+Latrobe - Gippsland		F	977
+Latrobe - Gippsland		M	1171
+Latrobe - Gippsland	Employed (away from work)	F	2716
+Latrobe - Gippsland	Employed (away from work)	M	1921
+Latrobe - Gippsland	Employed (full-time)	F	19077
+Latrobe - Gippsland	Employed (full-time)	M	35933
+Latrobe - Gippsland	Employed (part-time)	F	27430
+Latrobe - Gippsland	Employed (part-time)	M	10967
+Melbourne - Inner		F	5086
+Melbourne - Inner		M	6493
+Melbourne - Inner	Employed (away from work)	F	14056
+Melbourne - Inner	Employed (away from work)	M	7309
+Melbourne - Inner	Employed (full-time)	F	193279
+Melbourne - Inner	Employed (full-time)	M	283152
+Melbourne - Inner	Employed (part-time)	F	115097
+Melbourne - Inner	Employed (part-time)	M	61999
+Melbourne - Inner East		F	1096
+Melbourne - Inner East		M	1274
+Melbourne - Inner East	Employed (away from work)	F	2920
+Melbourne - Inner East	Employed (away from work)	M	1353
+Melbourne - Inner East	Employed (full-time)	F	34840
+Melbourne - Inner East	Employed (full-time)	M	45173
+Melbourne - Inner East	Employed (part-time)	F	38362
+Melbourne - Inner East	Employed (part-time)	M	17315
+Melbourne - Inner South		F	1202
+Melbourne - Inner South		M	1433
+Melbourne - Inner South	Employed (away from work)	F	2727
+Melbourne - Inner South	Employed (away from work)	M	1462
+Melbourne - Inner South	Employed (full-time)	F	33078
+Melbourne - Inner South	Employed (full-time)	M	52513
+Melbourne - Inner South	Employed (part-time)	F	40986
+Melbourne - Inner South	Employed (part-time)	M	19163
+Melbourne - North East		F	1268
+Melbourne - North East		M	1624
+Melbourne - North East	Employed (away from work)	F	3108
+Melbourne - North East	Employed (away from work)	M	1503
+Melbourne - North East	Employed (full-time)	F	30782
+Melbourne - North East	Employed (full-time)	M	48434
+Melbourne - North East	Employed (part-time)	F	39341
+Melbourne - North East	Employed (part-time)	M	17139
+Melbourne - North West		F	1184
+Melbourne - North West		M	1962
+Melbourne - North West	Employed (away from work)	F	2252
+Melbourne - North West	Employed (away from work)	M	1859
+Melbourne - North West	Employed (full-time)	F	26207
+Melbourne - North West	Employed (full-time)	M	62019
+Melbourne - North West	Employed (part-time)	F	26956
+Melbourne - North West	Employed (part-time)	M	16002
+Melbourne - Outer East		F	1348
+Melbourne - Outer East		M	1643
+Melbourne - Outer East	Employed (away from work)	F	3263
+Melbourne - Outer East	Employed (away from work)	M	2068
+Melbourne - Outer East	Employed (full-time)	F	34005
+Melbourne - Outer East	Employed (full-time)	M	63908
+Melbourne - Outer East	Employed (part-time)	F	46547
+Melbourne - Outer East	Employed (part-time)	M	20372
+Melbourne - South East		F	2443
+Melbourne - South East		M	3490
+Melbourne - South East	Employed (away from work)	F	5163
+Melbourne - South East	Employed (away from work)	M	3168
+Melbourne - South East	Employed (full-time)	F	65088
+Melbourne - South East	Employed (full-time)	M	124805
+Melbourne - South East	Employed (part-time)	F	63087
+Melbourne - South East	Employed (part-time)	M	31912
+Melbourne - West		F	1975
+Melbourne - West		M	2958
+Melbourne - West	Employed (away from work)	F	3669
+Melbourne - West	Employed (away from work)	M	2615
+Melbourne - West	Employed (full-time)	F	45355
+Melbourne - West	Employed (full-time)	M	88026
+Melbourne - West	Employed (part-time)	F	48427
+Melbourne - West	Employed (part-time)	M	25436
+Mornington Peninsula		F	857
+Mornington Peninsula		M	919
+Mornington Peninsula	Employed (away from work)	F	2079
+Mornington Peninsula	Employed (away from work)	M	1126
+Mornington Peninsula	Employed (full-time)	F	18735
+Mornington Peninsula	Employed (full-time)	M	30068
+Mornington Peninsula	Employed (part-time)	F	27726
+Mornington Peninsula	Employed (part-time)	M	10889
+North West		F	602
+North West		M	837
+North West	Employed (away from work)	F	1504
+North West	Employed (away from work)	M	1044
+North West	Employed (full-time)	F	12639
+North West	Employed (full-time)	M	23691
+North West	Employed (part-time)	F	15001
+North West	Employed (part-time)	M	6082
+Shepparton		F	530
+Shepparton		M	707
+Shepparton	Employed (away from work)	F	1379
+Shepparton	Employed (away from work)	M	1003
+Shepparton	Employed (full-time)	F	11393
+Shepparton	Employed (full-time)	M	20649
+Shepparton	Employed (part-time)	F	13061
+Shepparton	Employed (part-time)	M	5075
+Warrnambool and South West		F	510
+Warrnambool and South West		M	644
+Warrnambool and South West	Employed (away from work)	F	1383
+Warrnambool and South West	Employed (away from work)	M	1004
+Warrnambool and South West	Employed (full-time)	F	10113
+Warrnambool and South West	Employed (full-time)	M	20052
+Warrnambool and South West	Employed (part-time)	F	13814
+Warrnambool and South West	Employed (part-time)	M	5802
+Migratory - Offshore - Shipping (Vic.)		M	7
+Migratory - Offshore - Shipping (Vic.)	Employed (away from work)	M	22
+Migratory - Offshore - Shipping (Vic.)	Employed (full-time)	F	3
+Migratory - Offshore - Shipping (Vic.)	Employed (full-time)	M	102
+Migratory - Offshore - Shipping (Vic.)	Employed (part-time)	F	5
+Migratory - Offshore - Shipping (Vic.)	Employed (part-time)	M	16
+No usual address (Vic.)		F	957
+No usual address (Vic.)		M	2167
+No usual address (Vic.)	Employed (away from work)	F	1876
+No usual address (Vic.)	Employed (away from work)	M	3291
+No usual address (Vic.)	Employed (full-time)	F	7233
+No usual address (Vic.)	Employed (full-time)	M	61169
+No usual address (Vic.)	Employed (part-time)	F	18437
+No usual address (Vic.)	Employed (part-time)	M	23903
+Brisbane - East		F	583
+Brisbane - East		M	769
+Brisbane - East	Employed (away from work)	F	1348
+Brisbane - East	Employed (away from work)	M	1011
+Brisbane - East	Employed (full-time)	F	17589
+Brisbane - East	Employed (full-time)	M	31940
+Brisbane - East	Employed (part-time)	F	18404
+Brisbane - East	Employed (part-time)	M	8908
+Brisbane - North		F	738
+Brisbane - North		M	1021
+Brisbane - North	Employed (away from work)	F	2063
+Brisbane - North	Employed (away from work)	M	1568
+Brisbane - North	Employed (full-time)	F	25274
+Brisbane - North	Employed (full-time)	M	47835
+Brisbane - North	Employed (part-time)	F	22438
+Brisbane - North	Employed (part-time)	M	11573
+Brisbane - South		F	1091
+Brisbane - South		M	1519
+Brisbane - South	Employed (away from work)	F	2919
+Brisbane - South	Employed (away from work)	M	1825
+Brisbane - South	Employed (full-time)	F	37144
+Brisbane - South	Employed (full-time)	M	60913
+Brisbane - South	Employed (part-time)	F	33128
+Brisbane - South	Employed (part-time)	M	17188
+Brisbane - West		F	426
+Brisbane - West		M	488
+Brisbane - West	Employed (away from work)	F	1245
+Brisbane - West	Employed (away from work)	M	809
+Brisbane - West	Employed (full-time)	F	13288
+Brisbane - West	Employed (full-time)	M	19051
+Brisbane - West	Employed (part-time)	F	16378
+Brisbane - West	Employed (part-time)	M	7961
+Brisbane Inner City		F	1972
+Brisbane Inner City		M	2410
+Brisbane Inner City	Employed (away from work)	F	7193
+Brisbane Inner City	Employed (away from work)	M	3353
+Brisbane Inner City	Employed (full-time)	F	94671
+Brisbane Inner City	Employed (full-time)	M	122912
+Brisbane Inner City	Employed (part-time)	F	54127
+Brisbane Inner City	Employed (part-time)	M	25429
+Cairns		F	897
+Cairns		M	1114
+Cairns	Employed (away from work)	F	2017
+Cairns	Employed (away from work)	M	1347
+Cairns	Employed (full-time)	F	25369
+Cairns	Employed (full-time)	M	35242
+Cairns	Employed (part-time)	F	22776
+Cairns	Employed (part-time)	M	10540
+Darling Downs - Maranoa		F	517
+Darling Downs - Maranoa		M	746
+Darling Downs - Maranoa	Employed (away from work)	F	1072
+Darling Downs - Maranoa	Employed (away from work)	M	1121
+Darling Downs - Maranoa	Employed (full-time)	F	11729
+Darling Downs - Maranoa	Employed (full-time)	M	24942
+Darling Downs - Maranoa	Employed (part-time)	F	10948
+Darling Downs - Maranoa	Employed (part-time)	M	4870
+Central Queensland		F	725
+Central Queensland		M	1045
+Central Queensland	Employed (away from work)	F	2020
+Central Queensland	Employed (away from work)	M	1917
+Central Queensland	Employed (full-time)	F	21754
+Central Queensland	Employed (full-time)	M	41360
+Central Queensland	Employed (part-time)	F	20062
+Central Queensland	Employed (part-time)	M	7683
+Gold Coast		F	2022
+Gold Coast		M	2269
+Gold Coast	Employed (away from work)	F	4204
+Gold Coast	Employed (away from work)	M	2463
+Gold Coast	Employed (full-time)	F	56396
+Gold Coast	Employed (full-time)	M	84653
+Gold Coast	Employed (part-time)	F	59195
+Gold Coast	Employed (part-time)	M	28068
+Ipswich		F	860
+Ipswich		M	1208
+Ipswich	Employed (away from work)	F	2015
+Ipswich	Employed (away from work)	M	1412
+Ipswich	Employed (full-time)	F	24852
+Ipswich	Employed (full-time)	M	44260
+Ipswich	Employed (part-time)	F	22437
+Ipswich	Employed (part-time)	M	10866
+Logan - Beaudesert		F	844
+Logan - Beaudesert		M	1070
+Logan - Beaudesert	Employed (away from work)	F	1800
+Logan - Beaudesert	Employed (away from work)	M	1066
+Logan - Beaudesert	Employed (full-time)	F	22466
+Logan - Beaudesert	Employed (full-time)	M	34476
+Logan - Beaudesert	Employed (part-time)	F	22461
+Logan - Beaudesert	Employed (part-time)	M	10072
+Mackay - Isaac - Whitsunday		F	673
+Mackay - Isaac - Whitsunday		M	983
+Mackay - Isaac - Whitsunday	Employed (away from work)	F	1576
+Mackay - Isaac - Whitsunday	Employed (away from work)	M	1819
+Mackay - Isaac - Whitsunday	Employed (full-time)	F	17829
+Mackay - Isaac - Whitsunday	Employed (full-time)	M	36795
+Mackay - Isaac - Whitsunday	Employed (part-time)	F	15332
+Mackay - Isaac - Whitsunday	Employed (part-time)	M	5832
+Moreton Bay - North		F	609
+Moreton Bay - North		M	659
+Moreton Bay - North	Employed (away from work)	F	1391
+Moreton Bay - North	Employed (away from work)	M	795
+Moreton Bay - North	Employed (full-time)	F	14750
+Moreton Bay - North	Employed (full-time)	M	21336
+Moreton Bay - North	Employed (part-time)	F	18196
+Moreton Bay - North	Employed (part-time)	M	7505
+Moreton Bay - South		F	370
+Moreton Bay - South		M	477
+Moreton Bay - South	Employed (away from work)	F	897
+Moreton Bay - South	Employed (away from work)	M	536
+Moreton Bay - South	Employed (full-time)	F	10784
+Moreton Bay - South	Employed (full-time)	M	17489
+Moreton Bay - South	Employed (part-time)	F	13622
+Moreton Bay - South	Employed (part-time)	M	5856
+Queensland - Outback		F	429
+Queensland - Outback		M	586
+Queensland - Outback	Employed (away from work)	F	700
+Queensland - Outback	Employed (away from work)	M	880
+Queensland - Outback	Employed (full-time)	F	9735
+Queensland - Outback	Employed (full-time)	M	17005
+Queensland - Outback	Employed (part-time)	F	4973
+Queensland - Outback	Employed (part-time)	M	2470
+Sunshine Coast		F	1018
+Sunshine Coast		M	1154
+Sunshine Coast	Employed (away from work)	F	2513
+Sunshine Coast	Employed (away from work)	M	1486
+Sunshine Coast	Employed (full-time)	F	28790
+Sunshine Coast	Employed (full-time)	M	42489
+Sunshine Coast	Employed (part-time)	F	37583
+Sunshine Coast	Employed (part-time)	M	15952
+Toowoomba		F	436
+Toowoomba		M	579
+Toowoomba	Employed (away from work)	F	1449
+Toowoomba	Employed (away from work)	M	866
+Toowoomba	Employed (full-time)	F	15642
+Toowoomba	Employed (full-time)	M	23561
+Toowoomba	Employed (part-time)	F	15437
+Toowoomba	Employed (part-time)	M	6098
+Townsville		F	728
+Townsville		M	1014
+Townsville	Employed (away from work)	F	2229
+Townsville	Employed (away from work)	M	1449
+Townsville	Employed (full-time)	F	25198
+Townsville	Employed (full-time)	M	37390
+Townsville	Employed (part-time)	F	21199
+Townsville	Employed (part-time)	M	9065
+Wide Bay		F	871
+Wide Bay		M	1090
+Wide Bay	Employed (away from work)	F	1914
+Wide Bay	Employed (away from work)	M	1298
+Wide Bay	Employed (full-time)	F	20708
+Wide Bay	Employed (full-time)	M	31743
+Wide Bay	Employed (part-time)	F	23661
+Wide Bay	Employed (part-time)	M	10634
+Migratory - Offshore - Shipping (Qld)		M	11
+Migratory - Offshore - Shipping (Qld)	Employed (away from work)	M	25
+Migratory - Offshore - Shipping (Qld)	Employed (full-time)	F	18
+Migratory - Offshore - Shipping (Qld)	Employed (full-time)	M	137
+Migratory - Offshore - Shipping (Qld)	Employed (part-time)	M	15
+No usual address (Qld)		F	760
+No usual address (Qld)		M	1643
+No usual address (Qld)	Employed (away from work)	F	1648
+No usual address (Qld)	Employed (away from work)	M	3137
+No usual address (Qld)	Employed (full-time)	F	6982
+No usual address (Qld)	Employed (full-time)	M	50886
+No usual address (Qld)	Employed (part-time)	F	14638
+No usual address (Qld)	Employed (part-time)	M	19143
+Adelaide - Central and Hills		F	1465
+Adelaide - Central and Hills		M	1518
+Adelaide - Central and Hills	Employed (away from work)	F	5542
+Adelaide - Central and Hills	Employed (away from work)	M	2472
+Adelaide - Central and Hills	Employed (full-time)	F	56734
+Adelaide - Central and Hills	Employed (full-time)	M	70827
+Adelaide - Central and Hills	Employed (part-time)	F	53920
+Adelaide - Central and Hills	Employed (part-time)	M	22197
+Adelaide - North		F	909
+Adelaide - North		M	1215
+Adelaide - North	Employed (away from work)	F	2449
+Adelaide - North	Employed (away from work)	M	1724
+Adelaide - North	Employed (full-time)	F	24241
+Adelaide - North	Employed (full-time)	M	48411
+Adelaide - North	Employed (part-time)	F	30285
+Adelaide - North	Employed (part-time)	M	14878
+Adelaide - South		F	687
+Adelaide - South		M	711
+Adelaide - South	Employed (away from work)	F	2551
+Adelaide - South	Employed (away from work)	M	1274
+Adelaide - South	Employed (full-time)	F	20124
+Adelaide - South	Employed (full-time)	M	30036
+Adelaide - South	Employed (part-time)	F	30299
+Adelaide - South	Employed (part-time)	M	13558
+Adelaide - West		F	731
+Adelaide - West		M	1135
+Adelaide - West	Employed (away from work)	F	2023
+Adelaide - West	Employed (away from work)	M	1919
+Adelaide - West	Employed (full-time)	F	22813
+Adelaide - West	Employed (full-time)	M	55752
+Adelaide - West	Employed (part-time)	F	23898
+Adelaide - West	Employed (part-time)	M	14017
+Barossa - Yorke - Mid North		F	350
+Barossa - Yorke - Mid North		M	448
+Barossa - Yorke - Mid North	Employed (away from work)	F	959
+Barossa - Yorke - Mid North	Employed (away from work)	M	707
+Barossa - Yorke - Mid North	Employed (full-time)	F	7434
+Barossa - Yorke - Mid North	Employed (full-time)	M	15721
+Barossa - Yorke - Mid North	Employed (part-time)	F	10844
+Barossa - Yorke - Mid North	Employed (part-time)	M	4500
+South Australia - Outback		F	328
+South Australia - Outback		M	467
+South Australia - Outback	Employed (away from work)	F	815
+South Australia - Outback	Employed (away from work)	M	925
+South Australia - Outback	Employed (full-time)	F	7206
+South Australia - Outback	Employed (full-time)	M	15513
+South Australia - Outback	Employed (part-time)	F	7925
+South Australia - Outback	Employed (part-time)	M	3400
+South Australia - South East		F	559
+South Australia - South East		M	737
+South Australia - South East	Employed (away from work)	F	1664
+South Australia - South East	Employed (away from work)	M	1307
+South Australia - South East	Employed (full-time)	F	13306
+South Australia - South East	Employed (full-time)	M	26565
+South Australia - South East	Employed (part-time)	F	18559
+South Australia - South East	Employed (part-time)	M	7902
+Migratory - Offshore - Shipping (SA)	Employed (away from work)	M	14
+Migratory - Offshore - Shipping (SA)	Employed (full-time)	F	3
+Migratory - Offshore - Shipping (SA)	Employed (full-time)	M	39
+Migratory - Offshore - Shipping (SA)	Employed (part-time)	M	11
+No usual address (SA)		F	206
+No usual address (SA)		M	498
+No usual address (SA)	Employed (away from work)	F	691
+No usual address (SA)	Employed (away from work)	M	1123
+No usual address (SA)	Employed (full-time)	F	2131
+No usual address (SA)	Employed (full-time)	M	15840
+No usual address (SA)	Employed (part-time)	F	6144
+No usual address (SA)	Employed (part-time)	M	7690
+Bunbury		F	574
+Bunbury		M	728
+Bunbury	Employed (away from work)	F	1636
+Bunbury	Employed (away from work)	M	1482
+Bunbury	Employed (full-time)	F	13718
+Bunbury	Employed (full-time)	M	25846
+Bunbury	Employed (part-time)	F	19366
+Bunbury	Employed (part-time)	M	7072
+Mandurah		F	218
+Mandurah		M	274
+Mandurah	Employed (away from work)	F	604
+Mandurah	Employed (away from work)	M	381
+Mandurah	Employed (full-time)	F	5736
+Mandurah	Employed (full-time)	M	7694
+Mandurah	Employed (part-time)	F	8412
+Mandurah	Employed (part-time)	M	3059
+Perth - Inner		F	1475
+Perth - Inner		M	1634
+Perth - Inner	Employed (away from work)	F	5687
+Perth - Inner	Employed (away from work)	M	2977
+Perth - Inner	Employed (full-time)	F	65443
+Perth - Inner	Employed (full-time)	M	84942
+Perth - Inner	Employed (part-time)	F	46357
+Perth - Inner	Employed (part-time)	M	18869
+Perth - North East		F	612
+Perth - North East		M	915
+Perth - North East	Employed (away from work)	F	1422
+Perth - North East	Employed (away from work)	M	1292
+Perth - North East	Employed (full-time)	F	17704
+Perth - North East	Employed (full-time)	M	36396
+Perth - North East	Employed (part-time)	F	20411
+Perth - North East	Employed (part-time)	M	10059
+Perth - North West		F	1213
+Perth - North West		M	1413
+Perth - North West	Employed (away from work)	F	3087
+Perth - North West	Employed (away from work)	M	1897
+Perth - North West	Employed (full-time)	F	34433
+Perth - North West	Employed (full-time)	M	54261
+Perth - North West	Employed (part-time)	F	44754
+Perth - North West	Employed (part-time)	M	19587
+Perth - South East		F	1370
+Perth - South East		M	1985
+Perth - South East	Employed (away from work)	F	3367
+Perth - South East	Employed (away from work)	M	2968
+Perth - South East	Employed (full-time)	F	39933
+Perth - South East	Employed (full-time)	M	82652
+Perth - South East	Employed (part-time)	F	41393
+Perth - South East	Employed (part-time)	M	22126
+Perth - South West		F	1098
+Perth - South West		M	1361
+Perth - South West	Employed (away from work)	F	3046
+Perth - South West	Employed (away from work)	M	2224
+Perth - South West	Employed (full-time)	F	32442
+Perth - South West	Employed (full-time)	M	56438
+Perth - South West	Employed (part-time)	F	38221
+Perth - South West	Employed (part-time)	M	16321
+Western Australia - Wheat Belt		F	498
+Western Australia - Wheat Belt		M	633
+Western Australia - Wheat Belt	Employed (away from work)	F	1300
+Western Australia - Wheat Belt	Employed (away from work)	M	1341
+Western Australia - Wheat Belt	Employed (full-time)	F	11285
+Western Australia - Wheat Belt	Employed (full-time)	M	23039
+Western Australia - Wheat Belt	Employed (part-time)	F	12643
+Western Australia - Wheat Belt	Employed (part-time)	M	5498
+Western Australia - Outback (North)		F	517
+Western Australia - Outback (North)		M	1154
+Western Australia - Outback (North)	Employed (away from work)	F	1439
+Western Australia - Outback (North)	Employed (away from work)	M	4295
+Western Australia - Outback (North)	Employed (full-time)	F	13696
+Western Australia - Outback (North)	Employed (full-time)	M	44245
+Western Australia - Outback (North)	Employed (part-time)	F	5354
+Western Australia - Outback (North)	Employed (part-time)	M	3912
+Western Australia - Outback (South)		F	482
+Western Australia - Outback (South)		M	806
+Western Australia - Outback (South)	Employed (away from work)	F	1283
+Western Australia - Outback (South)	Employed (away from work)	M	1787
+Western Australia - Outback (South)	Employed (full-time)	F	12551
+Western Australia - Outback (South)	Employed (full-time)	M	27481
+Western Australia - Outback (South)	Employed (part-time)	F	10182
+Western Australia - Outback (South)	Employed (part-time)	M	4270
+Migratory - Offshore - Shipping (WA)		F	8
+Migratory - Offshore - Shipping (WA)		M	27
+Migratory - Offshore - Shipping (WA)	Employed (away from work)	F	3
+Migratory - Offshore - Shipping (WA)	Employed (away from work)	M	158
+Migratory - Offshore - Shipping (WA)	Employed (full-time)	F	78
+Migratory - Offshore - Shipping (WA)	Employed (full-time)	M	1242
+Migratory - Offshore - Shipping (WA)	Employed (part-time)	F	3
+Migratory - Offshore - Shipping (WA)	Employed (part-time)	M	73
+No usual address (WA)		F	362
+No usual address (WA)		M	888
+No usual address (WA)	Employed (away from work)	F	978
+No usual address (WA)	Employed (away from work)	M	2510
+No usual address (WA)	Employed (full-time)	F	3738
+No usual address (WA)	Employed (full-time)	M	27086
+No usual address (WA)	Employed (part-time)	F	8236
+No usual address (WA)	Employed (part-time)	M	10581
+Hobart		F	649
+Hobart		M	812
+Hobart	Employed (away from work)	F	2561
+Hobart	Employed (away from work)	M	1476
+Hobart	Employed (full-time)	F	21990
+Hobart	Employed (full-time)	M	34625
+Hobart	Employed (part-time)	F	25589
+Hobart	Employed (part-time)	M	11663
+Launceston and North East		F	432
+Launceston and North East		M	540
+Launceston and North East	Employed (away from work)	F	1392
+Launceston and North East	Employed (away from work)	M	887
+Launceston and North East	Employed (full-time)	F	11062
+Launceston and North East	Employed (full-time)	M	19734
+Launceston and North East	Employed (part-time)	F	14634
+Launceston and North East	Employed (part-time)	M	6445
+South East		F	88
+South East		M	138
+South East	Employed (away from work)	F	215
+South East	Employed (away from work)	M	189
+South East	Employed (full-time)	F	1512
+South East	Employed (full-time)	M	3328
+South East	Employed (part-time)	F	2408
+South East	Employed (part-time)	M	1380
+West and North West		F	366
+West and North West		M	448
+West and North West	Employed (away from work)	F	1105
+West and North West	Employed (away from work)	M	868
+West and North West	Employed (full-time)	F	8264
+West and North West	Employed (full-time)	M	15673
+West and North West	Employed (part-time)	F	11173
+West and North West	Employed (part-time)	M	4519
+Migratory - Offshore - Shipping (Tas.)	Employed (away from work)	M	5
+Migratory - Offshore - Shipping (Tas.)	Employed (full-time)	F	4
+Migratory - Offshore - Shipping (Tas.)	Employed (full-time)	M	41
+Migratory - Offshore - Shipping (Tas.)	Employed (part-time)	M	11
+No usual address (Tas.)		F	77
+No usual address (Tas.)		M	172
+No usual address (Tas.)	Employed (away from work)	F	178
+No usual address (Tas.)	Employed (away from work)	M	341
+No usual address (Tas.)	Employed (full-time)	F	484
+No usual address (Tas.)	Employed (full-time)	M	4337
+No usual address (Tas.)	Employed (part-time)	F	1611
+No usual address (Tas.)	Employed (part-time)	M	1930
+Darwin		F	627
+Darwin		M	946
+Darwin	Employed (away from work)	F	1553
+Darwin	Employed (away from work)	M	1567
+Darwin	Employed (full-time)	F	20802
+Darwin	Employed (full-time)	M	32113
+Darwin	Employed (part-time)	F	9380
+Darwin	Employed (part-time)	M	5134
+Northern Territory - Outback		F	505
+Northern Territory - Outback		M	565
+Northern Territory - Outback	Employed (away from work)	F	788
+Northern Territory - Outback	Employed (away from work)	M	837
+Northern Territory - Outback	Employed (full-time)	F	10285
+Northern Territory - Outback	Employed (full-time)	M	14137
+Northern Territory - Outback	Employed (part-time)	F	4087
+Northern Territory - Outback	Employed (part-time)	M	2652
+Migratory - Offshore - Shipping (NT)		M	3
+Migratory - Offshore - Shipping (NT)	Employed (away from work)	F	5
+Migratory - Offshore - Shipping (NT)	Employed (away from work)	M	4
+Migratory - Offshore - Shipping (NT)	Employed (full-time)	F	5
+Migratory - Offshore - Shipping (NT)	Employed (full-time)	M	68
+Migratory - Offshore - Shipping (NT)	Employed (part-time)	M	5
+No usual address (NT)		F	33
+No usual address (NT)		M	77
+No usual address (NT)	Employed (away from work)	F	111
+No usual address (NT)	Employed (away from work)	M	228
+No usual address (NT)	Employed (full-time)	F	356
+No usual address (NT)	Employed (full-time)	M	2060
+No usual address (NT)	Employed (part-time)	F	352
+No usual address (NT)	Employed (part-time)	M	468
+Australian Capital Territory		F	1480
+Australian Capital Territory		M	1789
+Australian Capital Territory	Employed (away from work)	F	6146
+Australian Capital Territory	Employed (away from work)	M	3259
+Australian Capital Territory	Employed (full-time)	F	64272
+Australian Capital Territory	Employed (full-time)	M	84460
+Australian Capital Territory	Employed (part-time)	F	38905
+Australian Capital Territory	Employed (part-time)	M	20340
+No usual address (ACT)		F	61
+No usual address (ACT)		M	100
+No usual address (ACT)	Employed (away from work)	F	157
+No usual address (ACT)	Employed (away from work)	M	162
+No usual address (ACT)	Employed (full-time)	F	499
+No usual address (ACT)	Employed (full-time)	M	3600
+No usual address (ACT)	Employed (part-time)	F	972
+No usual address (ACT)	Employed (part-time)	M	1270
+Other Territories		F	37
+Other Territories		M	37
+Other Territories	Employed (away from work)	F	72
+Other Territories	Employed (away from work)	M	98
+Other Territories	Employed (full-time)	F	632
+Other Territories	Employed (full-time)	M	1167
+Other Territories	Employed (part-time)	F	406
+Other Territories	Employed (part-time)	M	245
+No usual address (OT)		M	3
+No usual address (OT)	Employed (away from work)	F	6
+No usual address (OT)	Employed (away from work)	M	19
+No usual address (OT)	Employed (full-time)	F	11
+No usual address (OT)	Employed (full-time)	M	44
+No usual address (OT)	Employed (part-time)	F	5
+No usual address (OT)	Employed (part-time)	M	17

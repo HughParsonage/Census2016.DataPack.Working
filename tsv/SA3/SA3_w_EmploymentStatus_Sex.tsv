@@ -1,0 +1,3506 @@
+SA3_NAME16	EmploymentStatus	Sex	workers
+Queanbeyan		F	61
+Queanbeyan		M	91
+Queanbeyan	Contributing family workers	F	196
+Queanbeyan	Contributing family workers	M	195
+Queanbeyan	Employee	F	5145
+Queanbeyan	Employee	M	6562
+Queanbeyan	Owner managers of incorporated enterprises	F	355
+Queanbeyan	Owner managers of incorporated enterprises	M	1006
+Queanbeyan	Owner managers of unincorporated enterprises	F	527
+Queanbeyan	Owner managers of unincorporated enterprises	M	807
+Snowy Mountains		F	51
+Snowy Mountains		M	64
+Snowy Mountains	Contributing family workers	F	180
+Snowy Mountains	Contributing family workers	M	200
+Snowy Mountains	Employee	F	3784
+Snowy Mountains	Employee	M	3683
+Snowy Mountains	Owner managers of incorporated enterprises	F	259
+Snowy Mountains	Owner managers of incorporated enterprises	M	392
+Snowy Mountains	Owner managers of unincorporated enterprises	F	399
+Snowy Mountains	Owner managers of unincorporated enterprises	M	646
+South Coast		F	160
+South Coast		M	202
+South Coast	Contributing family workers	F	365
+South Coast	Contributing family workers	M	278
+South Coast	Employee	F	10193
+South Coast	Employee	M	7976
+South Coast	Owner managers of incorporated enterprises	F	586
+South Coast	Owner managers of incorporated enterprises	M	1140
+South Coast	Owner managers of unincorporated enterprises	F	1180
+South Coast	Owner managers of unincorporated enterprises	M	1904
+Goulburn - Mulwaree		F	80
+Goulburn - Mulwaree		M	92
+Goulburn - Mulwaree	Contributing family workers	F	217
+Goulburn - Mulwaree	Contributing family workers	M	286
+Goulburn - Mulwaree	Employee	F	5659
+Goulburn - Mulwaree	Employee	M	5029
+Goulburn - Mulwaree	Owner managers of incorporated enterprises	F	217
+Goulburn - Mulwaree	Owner managers of incorporated enterprises	M	522
+Goulburn - Mulwaree	Owner managers of unincorporated enterprises	F	426
+Goulburn - Mulwaree	Owner managers of unincorporated enterprises	M	847
+Young - Yass		F	85
+Young - Yass		M	101
+Young - Yass	Contributing family workers	F	382
+Young - Yass	Contributing family workers	M	403
+Young - Yass	Employee	F	4139
+Young - Yass	Employee	M	3671
+Young - Yass	Owner managers of incorporated enterprises	F	281
+Young - Yass	Owner managers of incorporated enterprises	M	602
+Young - Yass	Owner managers of unincorporated enterprises	F	619
+Young - Yass	Owner managers of unincorporated enterprises	M	1001
+Gosford		F	304
+Gosford		M	321
+Gosford	Contributing family workers	F	491
+Gosford	Contributing family workers	M	373
+Gosford	Employee	F	27703
+Gosford	Employee	M	20034
+Gosford	Owner managers of incorporated enterprises	F	1450
+Gosford	Owner managers of incorporated enterprises	M	2843
+Gosford	Owner managers of unincorporated enterprises	F	2276
+Gosford	Owner managers of unincorporated enterprises	M	2983
+Wyong		F	240
+Wyong		M	246
+Wyong	Contributing family workers	F	370
+Wyong	Contributing family workers	M	270
+Wyong	Employee	F	21395
+Wyong	Employee	M	16878
+Wyong	Owner managers of incorporated enterprises	F	980
+Wyong	Owner managers of incorporated enterprises	M	2033
+Wyong	Owner managers of unincorporated enterprises	F	1410
+Wyong	Owner managers of unincorporated enterprises	M	2129
+Bathurst		F	109
+Bathurst		M	132
+Bathurst	Contributing family workers	F	230
+Bathurst	Contributing family workers	M	262
+Bathurst	Employee	F	8518
+Bathurst	Employee	M	7693
+Bathurst	Owner managers of incorporated enterprises	F	364
+Bathurst	Owner managers of incorporated enterprises	M	733
+Bathurst	Owner managers of unincorporated enterprises	F	613
+Bathurst	Owner managers of unincorporated enterprises	M	965
+Lachlan Valley		F	158
+Lachlan Valley		M	248
+Lachlan Valley	Contributing family workers	F	543
+Lachlan Valley	Contributing family workers	M	716
+Lachlan Valley	Employee	F	7790
+Lachlan Valley	Employee	M	7260
+Lachlan Valley	Owner managers of incorporated enterprises	F	368
+Lachlan Valley	Owner managers of incorporated enterprises	M	835
+Lachlan Valley	Owner managers of unincorporated enterprises	F	1118
+Lachlan Valley	Owner managers of unincorporated enterprises	M	2093
+Lithgow - Mudgee		F	116
+Lithgow - Mudgee		M	135
+Lithgow - Mudgee	Contributing family workers	F	290
+Lithgow - Mudgee	Contributing family workers	M	323
+Lithgow - Mudgee	Employee	F	6569
+Lithgow - Mudgee	Employee	M	7403
+Lithgow - Mudgee	Owner managers of incorporated enterprises	F	350
+Lithgow - Mudgee	Owner managers of incorporated enterprises	M	601
+Lithgow - Mudgee	Owner managers of unincorporated enterprises	F	667
+Lithgow - Mudgee	Owner managers of unincorporated enterprises	M	913
+Orange		F	149
+Orange		M	186
+Orange	Contributing family workers	F	321
+Orange	Contributing family workers	M	336
+Orange	Employee	F	10610
+Orange	Employee	M	10010
+Orange	Owner managers of incorporated enterprises	F	426
+Orange	Owner managers of incorporated enterprises	M	952
+Orange	Owner managers of unincorporated enterprises	F	828
+Orange	Owner managers of unincorporated enterprises	M	1269
+Clarence Valley		F	126
+Clarence Valley		M	147
+Clarence Valley	Contributing family workers	F	235
+Clarence Valley	Contributing family workers	M	268
+Clarence Valley	Employee	F	6753
+Clarence Valley	Employee	M	6031
+Clarence Valley	Owner managers of incorporated enterprises	F	320
+Clarence Valley	Owner managers of incorporated enterprises	M	584
+Clarence Valley	Owner managers of unincorporated enterprises	F	727
+Clarence Valley	Owner managers of unincorporated enterprises	M	1036
+Coffs Harbour		F	200
+Coffs Harbour		M	206
+Coffs Harbour	Contributing family workers	F	381
+Coffs Harbour	Contributing family workers	M	396
+Coffs Harbour	Employee	F	14301
+Coffs Harbour	Employee	M	11861
+Coffs Harbour	Owner managers of incorporated enterprises	F	606
+Coffs Harbour	Owner managers of incorporated enterprises	M	1280
+Coffs Harbour	Owner managers of unincorporated enterprises	F	1414
+Coffs Harbour	Owner managers of unincorporated enterprises	M	1964
+Bourke - Cobar - Coonamble		F	83
+Bourke - Cobar - Coonamble		M	130
+Bourke - Cobar - Coonamble	Contributing family workers	F	321
+Bourke - Cobar - Coonamble	Contributing family workers	M	403
+Bourke - Cobar - Coonamble	Employee	F	3388
+Bourke - Cobar - Coonamble	Employee	M	3610
+Bourke - Cobar - Coonamble	Owner managers of incorporated enterprises	F	141
+Bourke - Cobar - Coonamble	Owner managers of incorporated enterprises	M	357
+Bourke - Cobar - Coonamble	Owner managers of unincorporated enterprises	F	385
+Bourke - Cobar - Coonamble	Owner managers of unincorporated enterprises	M	819
+Broken Hill and Far West		F	66
+Broken Hill and Far West		M	88
+Broken Hill and Far West	Contributing family workers	F	107
+Broken Hill and Far West	Contributing family workers	M	112
+Broken Hill and Far West	Employee	F	3293
+Broken Hill and Far West	Employee	M	3281
+Broken Hill and Far West	Owner managers of incorporated enterprises	F	128
+Broken Hill and Far West	Owner managers of incorporated enterprises	M	220
+Broken Hill and Far West	Owner managers of unincorporated enterprises	F	222
+Broken Hill and Far West	Owner managers of unincorporated enterprises	M	358
+Dubbo		F	166
+Dubbo		M	259
+Dubbo	Contributing family workers	F	462
+Dubbo	Contributing family workers	M	624
+Dubbo	Employee	F	11945
+Dubbo	Employee	M	10381
+Dubbo	Owner managers of incorporated enterprises	F	486
+Dubbo	Owner managers of incorporated enterprises	M	1072
+Dubbo	Owner managers of unincorporated enterprises	F	1078
+Dubbo	Owner managers of unincorporated enterprises	M	1923
+Lower Hunter		F	160
+Lower Hunter		M	211
+Lower Hunter	Contributing family workers	F	355
+Lower Hunter	Contributing family workers	M	343
+Lower Hunter	Employee	F	12289
+Lower Hunter	Employee	M	15616
+Lower Hunter	Owner managers of incorporated enterprises	F	557
+Lower Hunter	Owner managers of incorporated enterprises	M	1064
+Lower Hunter	Owner managers of unincorporated enterprises	F	841
+Lower Hunter	Owner managers of unincorporated enterprises	M	1090
+Maitland		F	119
+Maitland		M	100
+Maitland	Contributing family workers	F	207
+Maitland	Contributing family workers	M	141
+Maitland	Employee	F	12442
+Maitland	Employee	M	10325
+Maitland	Owner managers of incorporated enterprises	F	483
+Maitland	Owner managers of incorporated enterprises	M	1062
+Maitland	Owner managers of unincorporated enterprises	F	763
+Maitland	Owner managers of unincorporated enterprises	M	804
+Port Stephens		F	115
+Port Stephens		M	153
+Port Stephens	Contributing family workers	F	200
+Port Stephens	Contributing family workers	M	194
+Port Stephens	Employee	F	9496
+Port Stephens	Employee	M	13020
+Port Stephens	Owner managers of incorporated enterprises	F	511
+Port Stephens	Owner managers of incorporated enterprises	M	1049
+Port Stephens	Owner managers of unincorporated enterprises	F	848
+Port Stephens	Owner managers of unincorporated enterprises	M	1032
+Upper Hunter		F	79
+Upper Hunter		M	104
+Upper Hunter	Contributing family workers	F	203
+Upper Hunter	Contributing family workers	M	191
+Upper Hunter	Employee	F	5250
+Upper Hunter	Employee	M	7164
+Upper Hunter	Owner managers of incorporated enterprises	F	181
+Upper Hunter	Owner managers of incorporated enterprises	M	376
+Upper Hunter	Owner managers of unincorporated enterprises	F	411
+Upper Hunter	Owner managers of unincorporated enterprises	M	576
+Dapto - Port Kembla		F	104
+Dapto - Port Kembla		M	154
+Dapto - Port Kembla	Contributing family workers	F	149
+Dapto - Port Kembla	Contributing family workers	M	97
+Dapto - Port Kembla	Employee	F	9392
+Dapto - Port Kembla	Employee	M	14826
+Dapto - Port Kembla	Owner managers of incorporated enterprises	F	328
+Dapto - Port Kembla	Owner managers of incorporated enterprises	M	1000
+Dapto - Port Kembla	Owner managers of unincorporated enterprises	F	575
+Dapto - Port Kembla	Owner managers of unincorporated enterprises	M	880
+Illawarra Catchment Reserve	Employee	F	15
+Illawarra Catchment Reserve	Employee	M	43
+Kiama - Shellharbour		F	122
+Kiama - Shellharbour		M	141
+Kiama - Shellharbour	Contributing family workers	F	233
+Kiama - Shellharbour	Contributing family workers	M	184
+Kiama - Shellharbour	Employee	F	10717
+Kiama - Shellharbour	Employee	M	7602
+Kiama - Shellharbour	Owner managers of incorporated enterprises	F	520
+Kiama - Shellharbour	Owner managers of incorporated enterprises	M	1098
+Kiama - Shellharbour	Owner managers of unincorporated enterprises	F	985
+Kiama - Shellharbour	Owner managers of unincorporated enterprises	M	1198
+Wollongong		F	229
+Wollongong		M	233
+Wollongong	Contributing family workers	F	264
+Wollongong	Contributing family workers	M	231
+Wollongong	Employee	F	26692
+Wollongong	Employee	M	17730
+Wollongong	Owner managers of incorporated enterprises	F	872
+Wollongong	Owner managers of incorporated enterprises	M	2032
+Wollongong	Owner managers of unincorporated enterprises	F	1553
+Wollongong	Owner managers of unincorporated enterprises	M	1828
+Great Lakes		F	82
+Great Lakes		M	89
+Great Lakes	Contributing family workers	F	122
+Great Lakes	Contributing family workers	M	130
+Great Lakes	Employee	F	3905
+Great Lakes	Employee	M	2970
+Great Lakes	Owner managers of incorporated enterprises	F	209
+Great Lakes	Owner managers of incorporated enterprises	M	387
+Great Lakes	Owner managers of unincorporated enterprises	F	429
+Great Lakes	Owner managers of unincorporated enterprises	M	678
+Kempsey - Nambucca		F	126
+Kempsey - Nambucca		M	146
+Kempsey - Nambucca	Contributing family workers	F	240
+Kempsey - Nambucca	Contributing family workers	M	279
+Kempsey - Nambucca	Employee	F	6109
+Kempsey - Nambucca	Employee	M	5529
+Kempsey - Nambucca	Owner managers of incorporated enterprises	F	260
+Kempsey - Nambucca	Owner managers of incorporated enterprises	M	450
+Kempsey - Nambucca	Owner managers of unincorporated enterprises	F	666
+Kempsey - Nambucca	Owner managers of unincorporated enterprises	M	1057
+Lord Howe Island		F	3
+Lord Howe Island	Contributing family workers	F	4
+Lord Howe Island	Contributing family workers	M	3
+Lord Howe Island	Employee	F	73
+Lord Howe Island	Employee	M	81
+Lord Howe Island	Owner managers of incorporated enterprises	F	12
+Lord Howe Island	Owner managers of incorporated enterprises	M	17
+Lord Howe Island	Owner managers of unincorporated enterprises	F	10
+Lord Howe Island	Owner managers of unincorporated enterprises	M	20
+Port Macquarie		F	156
+Port Macquarie		M	175
+Port Macquarie	Contributing family workers	F	309
+Port Macquarie	Contributing family workers	M	282
+Port Macquarie	Employee	F	12137
+Port Macquarie	Employee	M	9778
+Port Macquarie	Owner managers of incorporated enterprises	F	598
+Port Macquarie	Owner managers of incorporated enterprises	M	1190
+Port Macquarie	Owner managers of unincorporated enterprises	F	1132
+Port Macquarie	Owner managers of unincorporated enterprises	M	1757
+Taree - Gloucester		F	147
+Taree - Gloucester		M	173
+Taree - Gloucester	Contributing family workers	F	289
+Taree - Gloucester	Contributing family workers	M	263
+Taree - Gloucester	Employee	F	7250
+Taree - Gloucester	Employee	M	5966
+Taree - Gloucester	Owner managers of incorporated enterprises	F	303
+Taree - Gloucester	Owner managers of incorporated enterprises	M	613
+Taree - Gloucester	Owner managers of unincorporated enterprises	F	659
+Taree - Gloucester	Owner managers of unincorporated enterprises	M	1113
+Albury		F	130
+Albury		M	139
+Albury	Contributing family workers	F	293
+Albury	Contributing family workers	M	298
+Albury	Employee	F	12947
+Albury	Employee	M	10363
+Albury	Owner managers of incorporated enterprises	F	556
+Albury	Owner managers of incorporated enterprises	M	1174
+Albury	Owner managers of unincorporated enterprises	F	883
+Albury	Owner managers of unincorporated enterprises	M	1278
+Lower Murray		F	39
+Lower Murray		M	57
+Lower Murray	Contributing family workers	F	141
+Lower Murray	Contributing family workers	M	193
+Lower Murray	Employee	F	1674
+Lower Murray	Employee	M	2042
+Lower Murray	Owner managers of incorporated enterprises	F	119
+Lower Murray	Owner managers of incorporated enterprises	M	261
+Lower Murray	Owner managers of unincorporated enterprises	F	209
+Lower Murray	Owner managers of unincorporated enterprises	M	388
+Upper Murray exc. Albury		F	121
+Upper Murray exc. Albury		M	183
+Upper Murray exc. Albury	Contributing family workers	F	385
+Upper Murray exc. Albury	Contributing family workers	M	490
+Upper Murray exc. Albury	Employee	F	5794
+Upper Murray exc. Albury	Employee	M	5857
+Upper Murray exc. Albury	Owner managers of incorporated enterprises	F	411
+Upper Murray exc. Albury	Owner managers of incorporated enterprises	M	949
+Upper Murray exc. Albury	Owner managers of unincorporated enterprises	F	580
+Upper Murray exc. Albury	Owner managers of unincorporated enterprises	M	1181
+Armidale		F	80
+Armidale		M	100
+Armidale	Contributing family workers	F	319
+Armidale	Contributing family workers	M	345
+Armidale	Employee	F	6483
+Armidale	Employee	M	5628
+Armidale	Owner managers of incorporated enterprises	F	275
+Armidale	Owner managers of incorporated enterprises	M	597
+Armidale	Owner managers of unincorporated enterprises	F	606
+Armidale	Owner managers of unincorporated enterprises	M	1133
+Inverell - Tenterfield		F	124
+Inverell - Tenterfield		M	161
+Inverell - Tenterfield	Contributing family workers	F	493
+Inverell - Tenterfield	Contributing family workers	M	556
+Inverell - Tenterfield	Employee	F	4902
+Inverell - Tenterfield	Employee	M	4455
+Inverell - Tenterfield	Owner managers of incorporated enterprises	F	241
+Inverell - Tenterfield	Owner managers of incorporated enterprises	M	449
+Inverell - Tenterfield	Owner managers of unincorporated enterprises	F	721
+Inverell - Tenterfield	Owner managers of unincorporated enterprises	M	1243
+Moree - Narrabri		F	78
+Moree - Narrabri		M	119
+Moree - Narrabri	Contributing family workers	F	247
+Moree - Narrabri	Contributing family workers	M	261
+Moree - Narrabri	Employee	F	4028
+Moree - Narrabri	Employee	M	4235
+Moree - Narrabri	Owner managers of incorporated enterprises	F	261
+Moree - Narrabri	Owner managers of incorporated enterprises	M	549
+Moree - Narrabri	Owner managers of unincorporated enterprises	F	459
+Moree - Narrabri	Owner managers of unincorporated enterprises	M	778
+Tamworth - Gunnedah		F	210
+Tamworth - Gunnedah		M	275
+Tamworth - Gunnedah	Contributing family workers	F	508
+Tamworth - Gunnedah	Contributing family workers	M	561
+Tamworth - Gunnedah	Employee	F	13903
+Tamworth - Gunnedah	Employee	M	13454
+Tamworth - Gunnedah	Owner managers of incorporated enterprises	F	561
+Tamworth - Gunnedah	Owner managers of incorporated enterprises	M	1234
+Tamworth - Gunnedah	Owner managers of unincorporated enterprises	F	1183
+Tamworth - Gunnedah	Owner managers of unincorporated enterprises	M	1873
+Lake Macquarie - East		F	158
+Lake Macquarie - East		M	175
+Lake Macquarie - East	Contributing family workers	F	250
+Lake Macquarie - East	Contributing family workers	M	211
+Lake Macquarie - East	Employee	F	18935
+Lake Macquarie - East	Employee	M	14804
+Lake Macquarie - East	Owner managers of incorporated enterprises	F	835
+Lake Macquarie - East	Owner managers of incorporated enterprises	M	1891
+Lake Macquarie - East	Owner managers of unincorporated enterprises	F	1246
+Lake Macquarie - East	Owner managers of unincorporated enterprises	M	1577
+Lake Macquarie - West		F	91
+Lake Macquarie - West		M	92
+Lake Macquarie - West	Contributing family workers	F	165
+Lake Macquarie - West	Contributing family workers	M	145
+Lake Macquarie - West	Employee	F	7535
+Lake Macquarie - West	Employee	M	6778
+Lake Macquarie - West	Owner managers of incorporated enterprises	F	403
+Lake Macquarie - West	Owner managers of incorporated enterprises	M	828
+Lake Macquarie - West	Owner managers of unincorporated enterprises	F	694
+Lake Macquarie - West	Owner managers of unincorporated enterprises	M	869
+Newcastle		F	323
+Newcastle		M	385
+Newcastle	Contributing family workers	F	365
+Newcastle	Contributing family workers	M	306
+Newcastle	Employee	F	45943
+Newcastle	Employee	M	41706
+Newcastle	Owner managers of incorporated enterprises	F	1305
+Newcastle	Owner managers of incorporated enterprises	M	3061
+Newcastle	Owner managers of unincorporated enterprises	F	1930
+Newcastle	Owner managers of unincorporated enterprises	M	2605
+Richmond Valley - Coastal		F	220
+Richmond Valley - Coastal		M	244
+Richmond Valley - Coastal	Contributing family workers	F	405
+Richmond Valley - Coastal	Contributing family workers	M	338
+Richmond Valley - Coastal	Employee	F	11386
+Richmond Valley - Coastal	Employee	M	9343
+Richmond Valley - Coastal	Owner managers of incorporated enterprises	F	856
+Richmond Valley - Coastal	Owner managers of incorporated enterprises	M	1577
+Richmond Valley - Coastal	Owner managers of unincorporated enterprises	F	2004
+Richmond Valley - Coastal	Owner managers of unincorporated enterprises	M	2628
+Richmond Valley - Hinterland		F	169
+Richmond Valley - Hinterland		M	219
+Richmond Valley - Hinterland	Contributing family workers	F	357
+Richmond Valley - Hinterland	Contributing family workers	M	426
+Richmond Valley - Hinterland	Employee	F	12456
+Richmond Valley - Hinterland	Employee	M	10716
+Richmond Valley - Hinterland	Owner managers of incorporated enterprises	F	376
+Richmond Valley - Hinterland	Owner managers of incorporated enterprises	M	842
+Richmond Valley - Hinterland	Owner managers of unincorporated enterprises	F	1147
+Richmond Valley - Hinterland	Owner managers of unincorporated enterprises	M	1910
+Tweed Valley		F	185
+Tweed Valley		M	208
+Tweed Valley	Contributing family workers	F	357
+Tweed Valley	Contributing family workers	M	287
+Tweed Valley	Employee	F	12466
+Tweed Valley	Employee	M	9389
+Tweed Valley	Owner managers of incorporated enterprises	F	732
+Tweed Valley	Owner managers of incorporated enterprises	M	1321
+Tweed Valley	Owner managers of unincorporated enterprises	F	1369
+Tweed Valley	Owner managers of unincorporated enterprises	M	1868
+Griffith - Murrumbidgee (West)		F	120
+Griffith - Murrumbidgee (West)		M	187
+Griffith - Murrumbidgee (West)	Contributing family workers	F	333
+Griffith - Murrumbidgee (West)	Contributing family workers	M	495
+Griffith - Murrumbidgee (West)	Employee	F	8227
+Griffith - Murrumbidgee (West)	Employee	M	8477
+Griffith - Murrumbidgee (West)	Owner managers of incorporated enterprises	F	443
+Griffith - Murrumbidgee (West)	Owner managers of incorporated enterprises	M	1042
+Griffith - Murrumbidgee (West)	Owner managers of unincorporated enterprises	F	654
+Griffith - Murrumbidgee (West)	Owner managers of unincorporated enterprises	M	1222
+Tumut - Tumbarumba		F	56
+Tumut - Tumbarumba		M	67
+Tumut - Tumbarumba	Contributing family workers	F	110
+Tumut - Tumbarumba	Contributing family workers	M	145
+Tumut - Tumbarumba	Employee	F	2106
+Tumut - Tumbarumba	Employee	M	2452
+Tumut - Tumbarumba	Owner managers of incorporated enterprises	F	113
+Tumut - Tumbarumba	Owner managers of incorporated enterprises	M	219
+Tumut - Tumbarumba	Owner managers of unincorporated enterprises	F	232
+Tumut - Tumbarumba	Owner managers of unincorporated enterprises	M	406
+Wagga Wagga		F	231
+Wagga Wagga		M	257
+Wagga Wagga	Contributing family workers	F	531
+Wagga Wagga	Contributing family workers	M	636
+Wagga Wagga	Employee	F	17215
+Wagga Wagga	Employee	M	16254
+Wagga Wagga	Owner managers of incorporated enterprises	F	641
+Wagga Wagga	Owner managers of incorporated enterprises	M	1466
+Wagga Wagga	Owner managers of unincorporated enterprises	F	1315
+Wagga Wagga	Owner managers of unincorporated enterprises	M	2324
+Shoalhaven		F	236
+Shoalhaven		M	246
+Shoalhaven	Contributing family workers	F	381
+Shoalhaven	Contributing family workers	M	296
+Shoalhaven	Employee	F	14125
+Shoalhaven	Employee	M	12686
+Shoalhaven	Owner managers of incorporated enterprises	F	771
+Shoalhaven	Owner managers of incorporated enterprises	M	1409
+Shoalhaven	Owner managers of unincorporated enterprises	F	1399
+Shoalhaven	Owner managers of unincorporated enterprises	M	2066
+Southern Highlands		F	93
+Southern Highlands		M	142
+Southern Highlands	Contributing family workers	F	265
+Southern Highlands	Contributing family workers	M	230
+Southern Highlands	Employee	F	7416
+Southern Highlands	Employee	M	5832
+Southern Highlands	Owner managers of incorporated enterprises	F	673
+Southern Highlands	Owner managers of incorporated enterprises	M	1080
+Southern Highlands	Owner managers of unincorporated enterprises	F	958
+Southern Highlands	Owner managers of unincorporated enterprises	M	1261
+Baulkham Hills		F	184
+Baulkham Hills		M	207
+Baulkham Hills	Contributing family workers	F	352
+Baulkham Hills	Contributing family workers	M	295
+Baulkham Hills	Employee	F	25024
+Baulkham Hills	Employee	M	20742
+Baulkham Hills	Owner managers of incorporated enterprises	F	1660
+Baulkham Hills	Owner managers of incorporated enterprises	M	3524
+Baulkham Hills	Owner managers of unincorporated enterprises	F	1504
+Baulkham Hills	Owner managers of unincorporated enterprises	M	1927
+Dural - Wisemans Ferry		F	32
+Dural - Wisemans Ferry		M	56
+Dural - Wisemans Ferry	Contributing family workers	F	176
+Dural - Wisemans Ferry	Contributing family workers	M	127
+Dural - Wisemans Ferry	Employee	F	3690
+Dural - Wisemans Ferry	Employee	M	3440
+Dural - Wisemans Ferry	Owner managers of incorporated enterprises	F	525
+Dural - Wisemans Ferry	Owner managers of incorporated enterprises	M	965
+Dural - Wisemans Ferry	Owner managers of unincorporated enterprises	F	435
+Dural - Wisemans Ferry	Owner managers of unincorporated enterprises	M	678
+Hawkesbury		F	34
+Hawkesbury		M	42
+Hawkesbury	Contributing family workers	F	124
+Hawkesbury	Contributing family workers	M	79
+Hawkesbury	Employee	F	1210
+Hawkesbury	Employee	M	1181
+Hawkesbury	Owner managers of incorporated enterprises	F	237
+Hawkesbury	Owner managers of incorporated enterprises	M	436
+Hawkesbury	Owner managers of unincorporated enterprises	F	283
+Hawkesbury	Owner managers of unincorporated enterprises	M	492
+Rouse Hill - McGraths Hill		F	32
+Rouse Hill - McGraths Hill		M	52
+Rouse Hill - McGraths Hill	Contributing family workers	F	119
+Rouse Hill - McGraths Hill	Contributing family workers	M	88
+Rouse Hill - McGraths Hill	Employee	F	4355
+Rouse Hill - McGraths Hill	Employee	M	4046
+Rouse Hill - McGraths Hill	Owner managers of incorporated enterprises	F	399
+Rouse Hill - McGraths Hill	Owner managers of incorporated enterprises	M	859
+Rouse Hill - McGraths Hill	Owner managers of unincorporated enterprises	F	354
+Rouse Hill - McGraths Hill	Owner managers of unincorporated enterprises	M	504
+Blacktown		F	170
+Blacktown		M	245
+Blacktown	Contributing family workers	F	230
+Blacktown	Contributing family workers	M	236
+Blacktown	Employee	F	19072
+Blacktown	Employee	M	20776
+Blacktown	Owner managers of incorporated enterprises	F	788
+Blacktown	Owner managers of incorporated enterprises	M	2507
+Blacktown	Owner managers of unincorporated enterprises	F	820
+Blacktown	Owner managers of unincorporated enterprises	M	1713
+Blacktown - North		F	53
+Blacktown - North		M	68
+Blacktown - North	Contributing family workers	F	143
+Blacktown - North	Contributing family workers	M	127
+Blacktown - North	Employee	F	5879
+Blacktown - North	Employee	M	5426
+Blacktown - North	Owner managers of incorporated enterprises	F	394
+Blacktown - North	Owner managers of incorporated enterprises	M	1080
+Blacktown - North	Owner managers of unincorporated enterprises	F	661
+Blacktown - North	Owner managers of unincorporated enterprises	M	969
+Mount Druitt		F	179
+Mount Druitt		M	296
+Mount Druitt	Contributing family workers	F	130
+Mount Druitt	Contributing family workers	M	141
+Mount Druitt	Employee	F	16157
+Mount Druitt	Employee	M	24586
+Mount Druitt	Owner managers of incorporated enterprises	F	416
+Mount Druitt	Owner managers of incorporated enterprises	M	1497
+Mount Druitt	Owner managers of unincorporated enterprises	F	552
+Mount Druitt	Owner managers of unincorporated enterprises	M	1083
+Botany		F	175
+Botany		M	338
+Botany	Contributing family workers	F	117
+Botany	Contributing family workers	M	136
+Botany	Employee	F	20768
+Botany	Employee	M	33772
+Botany	Owner managers of incorporated enterprises	F	490
+Botany	Owner managers of incorporated enterprises	M	1946
+Botany	Owner managers of unincorporated enterprises	F	433
+Botany	Owner managers of unincorporated enterprises	M	1133
+Marrickville - Sydenham - Petersham		F	90
+Marrickville - Sydenham - Petersham		M	150
+Marrickville - Sydenham - Petersham	Contributing family workers	F	142
+Marrickville - Sydenham - Petersham	Contributing family workers	M	158
+Marrickville - Sydenham - Petersham	Employee	F	8386
+Marrickville - Sydenham - Petersham	Employee	M	10684
+Marrickville - Sydenham - Petersham	Owner managers of incorporated enterprises	F	621
+Marrickville - Sydenham - Petersham	Owner managers of incorporated enterprises	M	1614
+Marrickville - Sydenham - Petersham	Owner managers of unincorporated enterprises	F	840
+Marrickville - Sydenham - Petersham	Owner managers of unincorporated enterprises	M	1376
+Sydney Inner City		F	1420
+Sydney Inner City		M	1769
+Sydney Inner City	Contributing family workers	F	885
+Sydney Inner City	Contributing family workers	M	1052
+Sydney Inner City	Employee	F	218470
+Sydney Inner City	Employee	M	231875
+Sydney Inner City	Owner managers of incorporated enterprises	F	5884
+Sydney Inner City	Owner managers of incorporated enterprises	M	17098
+Sydney Inner City	Owner managers of unincorporated enterprises	F	5609
+Sydney Inner City	Owner managers of unincorporated enterprises	M	10917
+Eastern Suburbs - North		F	212
+Eastern Suburbs - North		M	244
+Eastern Suburbs - North	Contributing family workers	F	499
+Eastern Suburbs - North	Contributing family workers	M	368
+Eastern Suburbs - North	Employee	F	20905
+Eastern Suburbs - North	Employee	M	16951
+Eastern Suburbs - North	Owner managers of incorporated enterprises	F	2069
+Eastern Suburbs - North	Owner managers of incorporated enterprises	M	3740
+Eastern Suburbs - North	Owner managers of unincorporated enterprises	F	2668
+Eastern Suburbs - North	Owner managers of unincorporated enterprises	M	2730
+Eastern Suburbs - South		F	170
+Eastern Suburbs - South		M	179
+Eastern Suburbs - South	Contributing family workers	F	231
+Eastern Suburbs - South	Contributing family workers	M	205
+Eastern Suburbs - South	Employee	F	19793
+Eastern Suburbs - South	Employee	M	14634
+Eastern Suburbs - South	Owner managers of incorporated enterprises	F	977
+Eastern Suburbs - South	Owner managers of incorporated enterprises	M	2006
+Eastern Suburbs - South	Owner managers of unincorporated enterprises	F	1464
+Eastern Suburbs - South	Owner managers of unincorporated enterprises	M	1831
+Bankstown		F	253
+Bankstown		M	432
+Bankstown	Contributing family workers	F	346
+Bankstown	Contributing family workers	M	331
+Bankstown	Employee	F	22744
+Bankstown	Employee	M	26974
+Bankstown	Owner managers of incorporated enterprises	F	1090
+Bankstown	Owner managers of incorporated enterprises	M	3599
+Bankstown	Owner managers of unincorporated enterprises	F	1325
+Bankstown	Owner managers of unincorporated enterprises	M	2585
+Canterbury		F	164
+Canterbury		M	246
+Canterbury	Contributing family workers	F	258
+Canterbury	Contributing family workers	M	261
+Canterbury	Employee	F	11032
+Canterbury	Employee	M	10790
+Canterbury	Owner managers of incorporated enterprises	F	708
+Canterbury	Owner managers of incorporated enterprises	M	2120
+Canterbury	Owner managers of unincorporated enterprises	F	868
+Canterbury	Owner managers of unincorporated enterprises	M	2027
+Hurstville		F	125
+Hurstville		M	137
+Hurstville	Contributing family workers	F	250
+Hurstville	Contributing family workers	M	266
+Hurstville	Employee	F	12047
+Hurstville	Employee	M	9164
+Hurstville	Owner managers of incorporated enterprises	F	896
+Hurstville	Owner managers of incorporated enterprises	M	2066
+Hurstville	Owner managers of unincorporated enterprises	F	975
+Hurstville	Owner managers of unincorporated enterprises	M	1498
+Kogarah - Rockdale		F	158
+Kogarah - Rockdale		M	182
+Kogarah - Rockdale	Contributing family workers	F	238
+Kogarah - Rockdale	Contributing family workers	M	220
+Kogarah - Rockdale	Employee	F	15077
+Kogarah - Rockdale	Employee	M	11555
+Kogarah - Rockdale	Owner managers of incorporated enterprises	F	746
+Kogarah - Rockdale	Owner managers of incorporated enterprises	M	2070
+Kogarah - Rockdale	Owner managers of unincorporated enterprises	F	1010
+Kogarah - Rockdale	Owner managers of unincorporated enterprises	M	1814
+Canada Bay		F	138
+Canada Bay		M	166
+Canada Bay	Contributing family workers	F	200
+Canada Bay	Contributing family workers	M	170
+Canada Bay	Employee	F	14370
+Canada Bay	Employee	M	13610
+Canada Bay	Owner managers of incorporated enterprises	F	803
+Canada Bay	Owner managers of incorporated enterprises	M	1788
+Canada Bay	Owner managers of unincorporated enterprises	F	945
+Canada Bay	Owner managers of unincorporated enterprises	M	1268
+Leichhardt		F	76
+Leichhardt		M	102
+Leichhardt	Contributing family workers	F	158
+Leichhardt	Contributing family workers	M	151
+Leichhardt	Employee	F	8224
+Leichhardt	Employee	M	7685
+Leichhardt	Owner managers of incorporated enterprises	F	855
+Leichhardt	Owner managers of incorporated enterprises	M	1642
+Leichhardt	Owner managers of unincorporated enterprises	F	1094
+Leichhardt	Owner managers of unincorporated enterprises	M	1160
+Strathfield - Burwood - Ashfield		F	200
+Strathfield - Burwood - Ashfield		M	306
+Strathfield - Burwood - Ashfield	Contributing family workers	F	335
+Strathfield - Burwood - Ashfield	Contributing family workers	M	335
+Strathfield - Burwood - Ashfield	Employee	F	22402
+Strathfield - Burwood - Ashfield	Employee	M	21002
+Strathfield - Burwood - Ashfield	Owner managers of incorporated enterprises	F	1217
+Strathfield - Burwood - Ashfield	Owner managers of incorporated enterprises	M	2971
+Strathfield - Burwood - Ashfield	Owner managers of unincorporated enterprises	F	1494
+Strathfield - Burwood - Ashfield	Owner managers of unincorporated enterprises	M	2348
+Chatswood - Lane Cove		F	233
+Chatswood - Lane Cove		M	276
+Chatswood - Lane Cove	Contributing family workers	F	368
+Chatswood - Lane Cove	Contributing family workers	M	344
+Chatswood - Lane Cove	Employee	F	34606
+Chatswood - Lane Cove	Employee	M	34063
+Chatswood - Lane Cove	Owner managers of incorporated enterprises	F	1748
+Chatswood - Lane Cove	Owner managers of incorporated enterprises	M	4094
+Chatswood - Lane Cove	Owner managers of unincorporated enterprises	F	1665
+Chatswood - Lane Cove	Owner managers of unincorporated enterprises	M	2243
+Hornsby		F	93
+Hornsby		M	132
+Hornsby	Contributing family workers	F	189
+Hornsby	Contributing family workers	M	179
+Hornsby	Employee	F	11542
+Hornsby	Employee	M	10456
+Hornsby	Owner managers of incorporated enterprises	F	680
+Hornsby	Owner managers of incorporated enterprises	M	1606
+Hornsby	Owner managers of unincorporated enterprises	F	898
+Hornsby	Owner managers of unincorporated enterprises	M	1207
+Ku-ring-gai		F	109
+Ku-ring-gai		M	103
+Ku-ring-gai	Contributing family workers	F	313
+Ku-ring-gai	Contributing family workers	M	301
+Ku-ring-gai	Employee	F	14257
+Ku-ring-gai	Employee	M	8361
+Ku-ring-gai	Owner managers of incorporated enterprises	F	1329
+Ku-ring-gai	Owner managers of incorporated enterprises	M	2451
+Ku-ring-gai	Owner managers of unincorporated enterprises	F	1531
+Ku-ring-gai	Owner managers of unincorporated enterprises	M	1529
+North Sydney - Mosman		F	219
+North Sydney - Mosman		M	283
+North Sydney - Mosman	Contributing family workers	F	343
+North Sydney - Mosman	Contributing family workers	M	374
+North Sydney - Mosman	Employee	F	31386
+North Sydney - Mosman	Employee	M	34113
+North Sydney - Mosman	Owner managers of incorporated enterprises	F	1839
+North Sydney - Mosman	Owner managers of incorporated enterprises	M	4383
+North Sydney - Mosman	Owner managers of unincorporated enterprises	F	1685
+North Sydney - Mosman	Owner managers of unincorporated enterprises	M	2104
+Manly		F	62
+Manly		M	56
+Manly	Contributing family workers	F	146
+Manly	Contributing family workers	M	121
+Manly	Employee	F	5875
+Manly	Employee	M	4090
+Manly	Owner managers of incorporated enterprises	F	622
+Manly	Owner managers of incorporated enterprises	M	1224
+Manly	Owner managers of unincorporated enterprises	F	745
+Manly	Owner managers of unincorporated enterprises	M	795
+Pittwater		F	94
+Pittwater		M	94
+Pittwater	Contributing family workers	F	288
+Pittwater	Contributing family workers	M	196
+Pittwater	Employee	F	8154
+Pittwater	Employee	M	6408
+Pittwater	Owner managers of incorporated enterprises	F	1123
+Pittwater	Owner managers of incorporated enterprises	M	2132
+Pittwater	Owner managers of unincorporated enterprises	F	1251
+Pittwater	Owner managers of unincorporated enterprises	M	1420
+Warringah		F	181
+Warringah		M	220
+Warringah	Contributing family workers	F	387
+Warringah	Contributing family workers	M	302
+Warringah	Employee	F	21433
+Warringah	Employee	M	20137
+Warringah	Owner managers of incorporated enterprises	F	1740
+Warringah	Owner managers of incorporated enterprises	M	4082
+Warringah	Owner managers of unincorporated enterprises	F	2165
+Warringah	Owner managers of unincorporated enterprises	M	2682
+Camden		F	90
+Camden		M	126
+Camden	Contributing family workers	F	136
+Camden	Contributing family workers	M	85
+Camden	Employee	F	8278
+Camden	Employee	M	8346
+Camden	Owner managers of incorporated enterprises	F	549
+Camden	Owner managers of incorporated enterprises	M	1340
+Camden	Owner managers of unincorporated enterprises	F	631
+Camden	Owner managers of unincorporated enterprises	M	779
+Campbelltown (NSW)		F	241
+Campbelltown (NSW)		M	276
+Campbelltown (NSW)	Contributing family workers	F	240
+Campbelltown (NSW)	Contributing family workers	M	221
+Campbelltown (NSW)	Employee	F	21995
+Campbelltown (NSW)	Employee	M	19817
+Campbelltown (NSW)	Owner managers of incorporated enterprises	F	742
+Campbelltown (NSW)	Owner managers of incorporated enterprises	M	2113
+Campbelltown (NSW)	Owner managers of unincorporated enterprises	F	950
+Campbelltown (NSW)	Owner managers of unincorporated enterprises	M	1632
+Wollondilly		F	56
+Wollondilly		M	87
+Wollondilly	Contributing family workers	F	154
+Wollondilly	Contributing family workers	M	99
+Wollondilly	Employee	F	3268
+Wollondilly	Employee	M	4366
+Wollondilly	Owner managers of incorporated enterprises	F	342
+Wollondilly	Owner managers of incorporated enterprises	M	658
+Wollondilly	Owner managers of unincorporated enterprises	F	424
+Wollondilly	Owner managers of unincorporated enterprises	M	621
+Blue Mountains		F	90
+Blue Mountains		M	79
+Blue Mountains	Contributing family workers	F	193
+Blue Mountains	Contributing family workers	M	180
+Blue Mountains	Employee	F	8353
+Blue Mountains	Employee	M	5332
+Blue Mountains	Owner managers of incorporated enterprises	F	537
+Blue Mountains	Owner managers of incorporated enterprises	M	942
+Blue Mountains	Owner managers of unincorporated enterprises	F	1239
+Blue Mountains	Owner managers of unincorporated enterprises	M	1416
+Blue Mountains - South		M	3
+Blue Mountains - South	Employee	F	6
+Blue Mountains - South	Employee	M	7
+Penrith		F	190
+Penrith		M	188
+Penrith	Contributing family workers	F	273
+Penrith	Contributing family workers	M	208
+Penrith	Employee	F	23338
+Penrith	Employee	M	18063
+Penrith	Owner managers of incorporated enterprises	F	991
+Penrith	Owner managers of incorporated enterprises	M	2275
+Penrith	Owner managers of unincorporated enterprises	F	1224
+Penrith	Owner managers of unincorporated enterprises	M	1820
+Richmond - Windsor		F	74
+Richmond - Windsor		M	83
+Richmond - Windsor	Contributing family workers	F	143
+Richmond - Windsor	Contributing family workers	M	100
+Richmond - Windsor	Employee	F	7298
+Richmond - Windsor	Employee	M	7028
+Richmond - Windsor	Owner managers of incorporated enterprises	F	354
+Richmond - Windsor	Owner managers of incorporated enterprises	M	797
+Richmond - Windsor	Owner managers of unincorporated enterprises	F	513
+Richmond - Windsor	Owner managers of unincorporated enterprises	M	687
+St Marys		F	78
+St Marys		M	110
+St Marys	Contributing family workers	F	85
+St Marys	Contributing family workers	M	71
+St Marys	Employee	F	6293
+St Marys	Employee	M	9548
+St Marys	Owner managers of incorporated enterprises	F	252
+St Marys	Owner managers of incorporated enterprises	M	835
+St Marys	Owner managers of unincorporated enterprises	F	332
+St Marys	Owner managers of unincorporated enterprises	M	651
+Auburn		F	184
+Auburn		M	339
+Auburn	Contributing family workers	F	166
+Auburn	Contributing family workers	M	258
+Auburn	Employee	F	18704
+Auburn	Employee	M	29270
+Auburn	Owner managers of incorporated enterprises	F	749
+Auburn	Owner managers of incorporated enterprises	M	2536
+Auburn	Owner managers of unincorporated enterprises	F	664
+Auburn	Owner managers of unincorporated enterprises	M	1493
+Carlingford		F	56
+Carlingford		M	89
+Carlingford	Contributing family workers	F	119
+Carlingford	Contributing family workers	M	128
+Carlingford	Employee	F	7372
+Carlingford	Employee	M	9077
+Carlingford	Owner managers of incorporated enterprises	F	430
+Carlingford	Owner managers of incorporated enterprises	M	1128
+Carlingford	Owner managers of unincorporated enterprises	F	532
+Carlingford	Owner managers of unincorporated enterprises	M	874
+Merrylands - Guildford		F	260
+Merrylands - Guildford		M	392
+Merrylands - Guildford	Contributing family workers	F	234
+Merrylands - Guildford	Contributing family workers	M	299
+Merrylands - Guildford	Employee	F	16946
+Merrylands - Guildford	Employee	M	25615
+Merrylands - Guildford	Owner managers of incorporated enterprises	F	822
+Merrylands - Guildford	Owner managers of incorporated enterprises	M	2867
+Merrylands - Guildford	Owner managers of unincorporated enterprises	F	951
+Merrylands - Guildford	Owner managers of unincorporated enterprises	M	2016
+Parramatta		F	329
+Parramatta		M	391
+Parramatta	Contributing family workers	F	300
+Parramatta	Contributing family workers	M	270
+Parramatta	Employee	F	47468
+Parramatta	Employee	M	37568
+Parramatta	Owner managers of incorporated enterprises	F	1068
+Parramatta	Owner managers of incorporated enterprises	M	3215
+Parramatta	Owner managers of unincorporated enterprises	F	1202
+Parramatta	Owner managers of unincorporated enterprises	M	1984
+Pennant Hills - Epping		F	33
+Pennant Hills - Epping		M	46
+Pennant Hills - Epping	Contributing family workers	F	92
+Pennant Hills - Epping	Contributing family workers	M	87
+Pennant Hills - Epping	Employee	F	4735
+Pennant Hills - Epping	Employee	M	3370
+Pennant Hills - Epping	Owner managers of incorporated enterprises	F	397
+Pennant Hills - Epping	Owner managers of incorporated enterprises	M	752
+Pennant Hills - Epping	Owner managers of unincorporated enterprises	F	484
+Pennant Hills - Epping	Owner managers of unincorporated enterprises	M	569
+Ryde - Hunters Hill		F	230
+Ryde - Hunters Hill		M	295
+Ryde - Hunters Hill	Contributing family workers	F	338
+Ryde - Hunters Hill	Contributing family workers	M	315
+Ryde - Hunters Hill	Employee	F	38565
+Ryde - Hunters Hill	Employee	M	41566
+Ryde - Hunters Hill	Owner managers of incorporated enterprises	F	1268
+Ryde - Hunters Hill	Owner managers of incorporated enterprises	M	3036
+Ryde - Hunters Hill	Owner managers of unincorporated enterprises	F	1414
+Ryde - Hunters Hill	Owner managers of unincorporated enterprises	M	2010
+Bringelly - Green Valley		F	86
+Bringelly - Green Valley		M	132
+Bringelly - Green Valley	Contributing family workers	F	173
+Bringelly - Green Valley	Contributing family workers	M	154
+Bringelly - Green Valley	Employee	F	6549
+Bringelly - Green Valley	Employee	M	5455
+Bringelly - Green Valley	Owner managers of incorporated enterprises	F	503
+Bringelly - Green Valley	Owner managers of incorporated enterprises	M	1227
+Bringelly - Green Valley	Owner managers of unincorporated enterprises	F	702
+Bringelly - Green Valley	Owner managers of unincorporated enterprises	M	996
+Fairfield		F	266
+Fairfield		M	417
+Fairfield	Contributing family workers	F	346
+Fairfield	Contributing family workers	M	359
+Fairfield	Employee	F	20175
+Fairfield	Employee	M	23187
+Fairfield	Owner managers of incorporated enterprises	F	1097
+Fairfield	Owner managers of incorporated enterprises	M	3244
+Fairfield	Owner managers of unincorporated enterprises	F	1288
+Fairfield	Owner managers of unincorporated enterprises	M	2241
+Liverpool		F	246
+Liverpool		M	369
+Liverpool	Contributing family workers	F	255
+Liverpool	Contributing family workers	M	245
+Liverpool	Employee	F	23808
+Liverpool	Employee	M	25127
+Liverpool	Owner managers of incorporated enterprises	F	797
+Liverpool	Owner managers of incorporated enterprises	M	2611
+Liverpool	Owner managers of unincorporated enterprises	F	855
+Liverpool	Owner managers of unincorporated enterprises	M	1549
+Cronulla - Miranda - Caringbah		F	162
+Cronulla - Miranda - Caringbah		M	188
+Cronulla - Miranda - Caringbah	Contributing family workers	F	310
+Cronulla - Miranda - Caringbah	Contributing family workers	M	257
+Cronulla - Miranda - Caringbah	Employee	F	18058
+Cronulla - Miranda - Caringbah	Employee	M	13699
+Cronulla - Miranda - Caringbah	Owner managers of incorporated enterprises	F	1308
+Cronulla - Miranda - Caringbah	Owner managers of incorporated enterprises	M	2887
+Cronulla - Miranda - Caringbah	Owner managers of unincorporated enterprises	F	1359
+Cronulla - Miranda - Caringbah	Owner managers of unincorporated enterprises	M	1842
+Sutherland - Menai - Heathcote		F	101
+Sutherland - Menai - Heathcote		M	131
+Sutherland - Menai - Heathcote	Contributing family workers	F	190
+Sutherland - Menai - Heathcote	Contributing family workers	M	135
+Sutherland - Menai - Heathcote	Employee	F	11554
+Sutherland - Menai - Heathcote	Employee	M	9241
+Sutherland - Menai - Heathcote	Owner managers of incorporated enterprises	F	751
+Sutherland - Menai - Heathcote	Owner managers of incorporated enterprises	M	1782
+Sutherland - Menai - Heathcote	Owner managers of unincorporated enterprises	F	1084
+Sutherland - Menai - Heathcote	Owner managers of unincorporated enterprises	M	1320
+Migratory - Offshore - Shipping (NSW)		M	3
+Migratory - Offshore - Shipping (NSW)	Employee	F	10
+Migratory - Offshore - Shipping (NSW)	Employee	M	52
+Migratory - Offshore - Shipping (NSW)	Owner managers of incorporated enterprises	M	7
+Migratory - Offshore - Shipping (NSW)	Owner managers of unincorporated enterprises	F	3
+Migratory - Offshore - Shipping (NSW)	Owner managers of unincorporated enterprises	M	11
+No usual address (NSW)		F	621
+No usual address (NSW)		M	1965
+No usual address (NSW)	Contributing family workers	F	704
+No usual address (NSW)	Contributing family workers	M	1293
+No usual address (NSW)	Employee	F	22874
+No usual address (NSW)	Employee	M	56761
+No usual address (NSW)	Owner managers of incorporated enterprises	F	1637
+No usual address (NSW)	Owner managers of incorporated enterprises	M	15555
+No usual address (NSW)	Owner managers of unincorporated enterprises	F	8290
+No usual address (NSW)	Owner managers of unincorporated enterprises	M	33664
+Ballarat		F	246
+Ballarat		M	266
+Ballarat	Contributing family workers	F	317
+Ballarat	Contributing family workers	M	247
+Ballarat	Employee	F	21435
+Ballarat	Employee	M	18046
+Ballarat	Owner managers of incorporated enterprises	F	811
+Ballarat	Owner managers of incorporated enterprises	M	1861
+Ballarat	Owner managers of unincorporated enterprises	F	998
+Ballarat	Owner managers of unincorporated enterprises	M	1491
+Creswick - Daylesford - Ballan		F	63
+Creswick - Daylesford - Ballan		M	82
+Creswick - Daylesford - Ballan	Contributing family workers	F	230
+Creswick - Daylesford - Ballan	Contributing family workers	M	245
+Creswick - Daylesford - Ballan	Employee	F	2674
+Creswick - Daylesford - Ballan	Employee	M	2038
+Creswick - Daylesford - Ballan	Owner managers of incorporated enterprises	F	238
+Creswick - Daylesford - Ballan	Owner managers of incorporated enterprises	M	524
+Creswick - Daylesford - Ballan	Owner managers of unincorporated enterprises	F	490
+Creswick - Daylesford - Ballan	Owner managers of unincorporated enterprises	M	742
+Maryborough - Pyrenees		F	54
+Maryborough - Pyrenees		M	74
+Maryborough - Pyrenees	Contributing family workers	F	169
+Maryborough - Pyrenees	Contributing family workers	M	253
+Maryborough - Pyrenees	Employee	F	2606
+Maryborough - Pyrenees	Employee	M	2352
+Maryborough - Pyrenees	Owner managers of incorporated enterprises	F	150
+Maryborough - Pyrenees	Owner managers of incorporated enterprises	M	326
+Maryborough - Pyrenees	Owner managers of unincorporated enterprises	F	277
+Maryborough - Pyrenees	Owner managers of unincorporated enterprises	M	564
+Bendigo		F	211
+Bendigo		M	230
+Bendigo	Contributing family workers	F	245
+Bendigo	Contributing family workers	M	205
+Bendigo	Employee	F	19563
+Bendigo	Employee	M	16001
+Bendigo	Owner managers of incorporated enterprises	F	673
+Bendigo	Owner managers of incorporated enterprises	M	1616
+Bendigo	Owner managers of unincorporated enterprises	F	912
+Bendigo	Owner managers of unincorporated enterprises	M	1370
+Heathcote - Castlemaine - Kyneton		F	100
+Heathcote - Castlemaine - Kyneton		M	124
+Heathcote - Castlemaine - Kyneton	Contributing family workers	F	267
+Heathcote - Castlemaine - Kyneton	Contributing family workers	M	280
+Heathcote - Castlemaine - Kyneton	Employee	F	5882
+Heathcote - Castlemaine - Kyneton	Employee	M	5705
+Heathcote - Castlemaine - Kyneton	Owner managers of incorporated enterprises	F	389
+Heathcote - Castlemaine - Kyneton	Owner managers of incorporated enterprises	M	754
+Heathcote - Castlemaine - Kyneton	Owner managers of unincorporated enterprises	F	806
+Heathcote - Castlemaine - Kyneton	Owner managers of unincorporated enterprises	M	1153
+Loddon - Elmore		F	30
+Loddon - Elmore		M	47
+Loddon - Elmore	Contributing family workers	F	151
+Loddon - Elmore	Contributing family workers	M	210
+Loddon - Elmore	Employee	F	940
+Loddon - Elmore	Employee	M	1500
+Loddon - Elmore	Owner managers of incorporated enterprises	F	101
+Loddon - Elmore	Owner managers of incorporated enterprises	M	244
+Loddon - Elmore	Owner managers of unincorporated enterprises	F	210
+Loddon - Elmore	Owner managers of unincorporated enterprises	M	467
+Barwon - West		F	23
+Barwon - West		M	39
+Barwon - West	Contributing family workers	F	125
+Barwon - West	Contributing family workers	M	146
+Barwon - West	Employee	F	1280
+Barwon - West	Employee	M	1129
+Barwon - West	Owner managers of incorporated enterprises	F	175
+Barwon - West	Owner managers of incorporated enterprises	M	325
+Barwon - West	Owner managers of unincorporated enterprises	F	220
+Barwon - West	Owner managers of unincorporated enterprises	M	385
+Geelong		F	386
+Geelong		M	415
+Geelong	Contributing family workers	F	519
+Geelong	Contributing family workers	M	403
+Geelong	Employee	F	40768
+Geelong	Employee	M	34350
+Geelong	Owner managers of incorporated enterprises	F	1386
+Geelong	Owner managers of incorporated enterprises	M	3451
+Geelong	Owner managers of unincorporated enterprises	F	1932
+Geelong	Owner managers of unincorporated enterprises	M	2858
+Surf Coast - Bellarine Peninsula		F	99
+Surf Coast - Bellarine Peninsula		M	101
+Surf Coast - Bellarine Peninsula	Contributing family workers	F	330
+Surf Coast - Bellarine Peninsula	Contributing family workers	M	223
+Surf Coast - Bellarine Peninsula	Employee	F	7056
+Surf Coast - Bellarine Peninsula	Employee	M	5147
+Surf Coast - Bellarine Peninsula	Owner managers of incorporated enterprises	F	611
+Surf Coast - Bellarine Peninsula	Owner managers of incorporated enterprises	M	1263
+Surf Coast - Bellarine Peninsula	Owner managers of unincorporated enterprises	F	1008
+Surf Coast - Bellarine Peninsula	Owner managers of unincorporated enterprises	M	1306
+Upper Goulburn Valley		F	149
+Upper Goulburn Valley		M	203
+Upper Goulburn Valley	Contributing family workers	F	428
+Upper Goulburn Valley	Contributing family workers	M	454
+Upper Goulburn Valley	Employee	F	7804
+Upper Goulburn Valley	Employee	M	6972
+Upper Goulburn Valley	Owner managers of incorporated enterprises	F	477
+Upper Goulburn Valley	Owner managers of incorporated enterprises	M	974
+Upper Goulburn Valley	Owner managers of unincorporated enterprises	F	772
+Upper Goulburn Valley	Owner managers of unincorporated enterprises	M	1376
+Wangaratta - Benalla		F	143
+Wangaratta - Benalla		M	152
+Wangaratta - Benalla	Contributing family workers	F	302
+Wangaratta - Benalla	Contributing family workers	M	348
+Wangaratta - Benalla	Employee	F	8056
+Wangaratta - Benalla	Employee	M	6894
+Wangaratta - Benalla	Owner managers of incorporated enterprises	F	405
+Wangaratta - Benalla	Owner managers of incorporated enterprises	M	841
+Wangaratta - Benalla	Owner managers of unincorporated enterprises	F	709
+Wangaratta - Benalla	Owner managers of unincorporated enterprises	M	1147
+Wodonga - Alpine		F	155
+Wodonga - Alpine		M	202
+Wodonga - Alpine	Contributing family workers	F	374
+Wodonga - Alpine	Contributing family workers	M	417
+Wodonga - Alpine	Employee	F	11645
+Wodonga - Alpine	Employee	M	12613
+Wodonga - Alpine	Owner managers of incorporated enterprises	F	642
+Wodonga - Alpine	Owner managers of incorporated enterprises	M	1262
+Wodonga - Alpine	Owner managers of unincorporated enterprises	F	998
+Wodonga - Alpine	Owner managers of unincorporated enterprises	M	1595
+Baw Baw		F	120
+Baw Baw		M	161
+Baw Baw	Contributing family workers	F	293
+Baw Baw	Contributing family workers	M	253
+Baw Baw	Employee	F	6756
+Baw Baw	Employee	M	5113
+Baw Baw	Owner managers of incorporated enterprises	F	398
+Baw Baw	Owner managers of incorporated enterprises	M	880
+Baw Baw	Owner managers of unincorporated enterprises	F	727
+Baw Baw	Owner managers of unincorporated enterprises	M	1164
+Gippsland - East		F	139
+Gippsland - East		M	160
+Gippsland - East	Contributing family workers	F	282
+Gippsland - East	Contributing family workers	M	303
+Gippsland - East	Employee	F	6617
+Gippsland - East	Employee	M	5381
+Gippsland - East	Owner managers of incorporated enterprises	F	336
+Gippsland - East	Owner managers of incorporated enterprises	M	726
+Gippsland - East	Owner managers of unincorporated enterprises	F	696
+Gippsland - East	Owner managers of unincorporated enterprises	M	1095
+Gippsland - South West		F	163
+Gippsland - South West		M	197
+Gippsland - South West	Contributing family workers	F	478
+Gippsland - South West	Contributing family workers	M	446
+Gippsland - South West	Employee	F	8200
+Gippsland - South West	Employee	M	6680
+Gippsland - South West	Owner managers of incorporated enterprises	F	559
+Gippsland - South West	Owner managers of incorporated enterprises	M	1064
+Gippsland - South West	Owner managers of unincorporated enterprises	F	1236
+Gippsland - South West	Owner managers of unincorporated enterprises	M	1977
+Latrobe Valley		F	173
+Latrobe Valley		M	187
+Latrobe Valley	Contributing family workers	F	170
+Latrobe Valley	Contributing family workers	M	165
+Latrobe Valley	Employee	F	13918
+Latrobe Valley	Employee	M	13091
+Latrobe Valley	Owner managers of incorporated enterprises	F	399
+Latrobe Valley	Owner managers of incorporated enterprises	M	994
+Latrobe Valley	Owner managers of unincorporated enterprises	F	570
+Latrobe Valley	Owner managers of unincorporated enterprises	M	901
+Wellington		F	99
+Wellington		M	133
+Wellington	Contributing family workers	F	282
+Wellington	Contributing family workers	M	287
+Wellington	Employee	F	6573
+Wellington	Employee	M	6949
+Wellington	Owner managers of incorporated enterprises	F	290
+Wellington	Owner managers of incorporated enterprises	M	603
+Wellington	Owner managers of unincorporated enterprises	F	733
+Wellington	Owner managers of unincorporated enterprises	M	1082
+Brunswick - Coburg		F	101
+Brunswick - Coburg		M	145
+Brunswick - Coburg	Contributing family workers	F	198
+Brunswick - Coburg	Contributing family workers	M	198
+Brunswick - Coburg	Employee	F	10255
+Brunswick - Coburg	Employee	M	8458
+Brunswick - Coburg	Owner managers of incorporated enterprises	F	609
+Brunswick - Coburg	Owner managers of incorporated enterprises	M	1529
+Brunswick - Coburg	Owner managers of unincorporated enterprises	F	1077
+Brunswick - Coburg	Owner managers of unincorporated enterprises	M	1593
+Darebin - South		F	77
+Darebin - South		M	85
+Darebin - South	Contributing family workers	F	113
+Darebin - South	Contributing family workers	M	111
+Darebin - South	Employee	F	5615
+Darebin - South	Employee	M	5018
+Darebin - South	Owner managers of incorporated enterprises	F	420
+Darebin - South	Owner managers of incorporated enterprises	M	1002
+Darebin - South	Owner managers of unincorporated enterprises	F	863
+Darebin - South	Owner managers of unincorporated enterprises	M	954
+Essendon		F	109
+Essendon		M	109
+Essendon	Contributing family workers	F	188
+Essendon	Contributing family workers	M	140
+Essendon	Employee	F	9685
+Essendon	Employee	M	6589
+Essendon	Owner managers of incorporated enterprises	F	606
+Essendon	Owner managers of incorporated enterprises	M	1335
+Essendon	Owner managers of unincorporated enterprises	F	751
+Essendon	Owner managers of unincorporated enterprises	M	944
+Melbourne City		F	1228
+Melbourne City		M	1479
+Melbourne City	Contributing family workers	F	696
+Melbourne City	Contributing family workers	M	787
+Melbourne City	Employee	F	192194
+Melbourne City	Employee	M	202283
+Melbourne City	Owner managers of incorporated enterprises	F	3370
+Melbourne City	Owner managers of incorporated enterprises	M	10247
+Melbourne City	Owner managers of unincorporated enterprises	F	3456
+Melbourne City	Owner managers of unincorporated enterprises	M	6718
+Port Phillip		F	272
+Port Phillip		M	405
+Port Phillip	Contributing family workers	F	359
+Port Phillip	Contributing family workers	M	397
+Port Phillip	Employee	F	33163
+Port Phillip	Employee	M	43941
+Port Phillip	Owner managers of incorporated enterprises	F	1896
+Port Phillip	Owner managers of incorporated enterprises	M	5145
+Port Phillip	Owner managers of unincorporated enterprises	F	1893
+Port Phillip	Owner managers of unincorporated enterprises	M	2609
+Stonnington - West		F	135
+Stonnington - West		M	151
+Stonnington - West	Contributing family workers	F	274
+Stonnington - West	Contributing family workers	M	249
+Stonnington - West	Employee	F	15000
+Stonnington - West	Employee	M	11588
+Stonnington - West	Owner managers of incorporated enterprises	F	1202
+Stonnington - West	Owner managers of incorporated enterprises	M	2409
+Stonnington - West	Owner managers of unincorporated enterprises	F	1169
+Stonnington - West	Owner managers of unincorporated enterprises	M	1487
+Yarra		F	303
+Yarra		M	340
+Yarra	Contributing family workers	F	317
+Yarra	Contributing family workers	M	351
+Yarra	Employee	F	36270
+Yarra	Employee	M	33331
+Yarra	Owner managers of incorporated enterprises	F	1642
+Yarra	Owner managers of incorporated enterprises	M	4128
+Yarra	Owner managers of unincorporated enterprises	F	2004
+Yarra	Owner managers of unincorporated enterprises	M	2711
+Boroondara		F	257
+Boroondara		M	283
+Boroondara	Contributing family workers	F	617
+Boroondara	Contributing family workers	M	536
+Boroondara	Employee	F	32978
+Boroondara	Employee	M	24743
+Boroondara	Owner managers of incorporated enterprises	F	2307
+Boroondara	Owner managers of incorporated enterprises	M	4658
+Boroondara	Owner managers of unincorporated enterprises	F	2253
+Boroondara	Owner managers of unincorporated enterprises	M	2747
+Manningham - West		F	94
+Manningham - West		M	105
+Manningham - West	Contributing family workers	F	243
+Manningham - West	Contributing family workers	M	221
+Manningham - West	Employee	F	11338
+Manningham - West	Employee	M	8007
+Manningham - West	Owner managers of incorporated enterprises	F	761
+Manningham - West	Owner managers of incorporated enterprises	M	1629
+Manningham - West	Owner managers of unincorporated enterprises	F	765
+Manningham - West	Owner managers of unincorporated enterprises	M	1163
+Whitehorse - West		F	150
+Whitehorse - West		M	179
+Whitehorse - West	Contributing family workers	F	297
+Whitehorse - West	Contributing family workers	M	262
+Whitehorse - West	Employee	F	23103
+Whitehorse - West	Employee	M	17004
+Whitehorse - West	Owner managers of incorporated enterprises	F	968
+Whitehorse - West	Owner managers of incorporated enterprises	M	2135
+Whitehorse - West	Owner managers of unincorporated enterprises	F	1073
+Whitehorse - West	Owner managers of unincorporated enterprises	M	1447
+Bayside		F	116
+Bayside		M	136
+Bayside	Contributing family workers	F	353
+Bayside	Contributing family workers	M	259
+Bayside	Employee	F	12634
+Bayside	Employee	M	9010
+Bayside	Owner managers of incorporated enterprises	F	1304
+Bayside	Owner managers of incorporated enterprises	M	2505
+Bayside	Owner managers of unincorporated enterprises	F	1559
+Bayside	Owner managers of unincorporated enterprises	M	1661
+Glen Eira		F	136
+Glen Eira		M	177
+Glen Eira	Contributing family workers	F	368
+Glen Eira	Contributing family workers	M	298
+Glen Eira	Employee	F	17642
+Glen Eira	Employee	M	11899
+Glen Eira	Owner managers of incorporated enterprises	F	1319
+Glen Eira	Owner managers of incorporated enterprises	M	2704
+Glen Eira	Owner managers of unincorporated enterprises	F	1885
+Glen Eira	Owner managers of unincorporated enterprises	M	2183
+Kingston		F	229
+Kingston		M	361
+Kingston	Contributing family workers	F	411
+Kingston	Contributing family workers	M	393
+Kingston	Employee	F	24432
+Kingston	Employee	M	28186
+Kingston	Owner managers of incorporated enterprises	F	1419
+Kingston	Owner managers of incorporated enterprises	M	3983
+Kingston	Owner managers of unincorporated enterprises	F	1449
+Kingston	Owner managers of unincorporated enterprises	M	2250
+Stonnington - East		F	89
+Stonnington - East		M	91
+Stonnington - East	Contributing family workers	F	168
+Stonnington - East	Contributing family workers	M	120
+Stonnington - East	Employee	F	11268
+Stonnington - East	Employee	M	6532
+Stonnington - East	Owner managers of incorporated enterprises	F	587
+Stonnington - East	Owner managers of incorporated enterprises	M	1069
+Stonnington - East	Owner managers of unincorporated enterprises	F	625
+Stonnington - East	Owner managers of unincorporated enterprises	M	762
+Banyule		F	179
+Banyule		M	204
+Banyule	Contributing family workers	F	266
+Banyule	Contributing family workers	M	232
+Banyule	Employee	F	20395
+Banyule	Employee	M	12962
+Banyule	Owner managers of incorporated enterprises	F	971
+Banyule	Owner managers of incorporated enterprises	M	2258
+Banyule	Owner managers of unincorporated enterprises	F	1256
+Banyule	Owner managers of unincorporated enterprises	M	1628
+Darebin - North		F	179
+Darebin - North		M	203
+Darebin - North	Contributing family workers	F	209
+Darebin - North	Contributing family workers	M	186
+Darebin - North	Employee	F	15272
+Darebin - North	Employee	M	13294
+Darebin - North	Owner managers of incorporated enterprises	F	566
+Darebin - North	Owner managers of incorporated enterprises	M	1549
+Darebin - North	Owner managers of unincorporated enterprises	F	737
+Darebin - North	Owner managers of unincorporated enterprises	M	1231
+Nillumbik - Kinglake		F	66
+Nillumbik - Kinglake		M	68
+Nillumbik - Kinglake	Contributing family workers	F	218
+Nillumbik - Kinglake	Contributing family workers	M	144
+Nillumbik - Kinglake	Employee	F	5634
+Nillumbik - Kinglake	Employee	M	4070
+Nillumbik - Kinglake	Owner managers of incorporated enterprises	F	667
+Nillumbik - Kinglake	Owner managers of incorporated enterprises	M	1335
+Nillumbik - Kinglake	Owner managers of unincorporated enterprises	F	822
+Nillumbik - Kinglake	Owner managers of unincorporated enterprises	M	983
+Whittlesea - Wallan		F	276
+Whittlesea - Wallan		M	438
+Whittlesea - Wallan	Contributing family workers	F	393
+Whittlesea - Wallan	Contributing family workers	M	327
+Whittlesea - Wallan	Employee	F	23931
+Whittlesea - Wallan	Employee	M	22036
+Whittlesea - Wallan	Owner managers of incorporated enterprises	F	1168
+Whittlesea - Wallan	Owner managers of incorporated enterprises	M	3364
+Whittlesea - Wallan	Owner managers of unincorporated enterprises	F	1299
+Whittlesea - Wallan	Owner managers of unincorporated enterprises	M	2185
+Keilor		F	136
+Keilor		M	234
+Keilor	Contributing family workers	F	183
+Keilor	Contributing family workers	M	194
+Keilor	Employee	F	11561
+Keilor	Employee	M	16523
+Keilor	Owner managers of incorporated enterprises	F	642
+Keilor	Owner managers of incorporated enterprises	M	2029
+Keilor	Owner managers of unincorporated enterprises	F	512
+Keilor	Owner managers of unincorporated enterprises	M	1029
+Macedon Ranges		F	34
+Macedon Ranges		M	40
+Macedon Ranges	Contributing family workers	F	122
+Macedon Ranges	Contributing family workers	M	107
+Macedon Ranges	Employee	F	2895
+Macedon Ranges	Employee	M	1951
+Macedon Ranges	Owner managers of incorporated enterprises	F	268
+Macedon Ranges	Owner managers of incorporated enterprises	M	538
+Macedon Ranges	Owner managers of unincorporated enterprises	F	402
+Macedon Ranges	Owner managers of unincorporated enterprises	M	471
+Moreland - North		F	88
+Moreland - North		M	130
+Moreland - North	Contributing family workers	F	113
+Moreland - North	Contributing family workers	M	101
+Moreland - North	Employee	F	5742
+Moreland - North	Employee	M	5546
+Moreland - North	Owner managers of incorporated enterprises	F	325
+Moreland - North	Owner managers of incorporated enterprises	M	1032
+Moreland - North	Owner managers of unincorporated enterprises	F	546
+Moreland - North	Owner managers of unincorporated enterprises	M	936
+Sunbury		F	48
+Sunbury		M	39
+Sunbury	Contributing family workers	F	97
+Sunbury	Contributing family workers	M	66
+Sunbury	Employee	F	3833
+Sunbury	Employee	M	2254
+Sunbury	Owner managers of incorporated enterprises	F	216
+Sunbury	Owner managers of incorporated enterprises	M	486
+Sunbury	Owner managers of unincorporated enterprises	F	368
+Sunbury	Owner managers of unincorporated enterprises	M	412
+Tullamarine - Broadmeadows		F	330
+Tullamarine - Broadmeadows		M	615
+Tullamarine - Broadmeadows	Contributing family workers	F	314
+Tullamarine - Broadmeadows	Contributing family workers	M	359
+Tullamarine - Broadmeadows	Employee	F	25722
+Tullamarine - Broadmeadows	Employee	M	40911
+Tullamarine - Broadmeadows	Owner managers of incorporated enterprises	F	1028
+Tullamarine - Broadmeadows	Owner managers of incorporated enterprises	M	3613
+Tullamarine - Broadmeadows	Owner managers of unincorporated enterprises	F	1058
+Tullamarine - Broadmeadows	Owner managers of unincorporated enterprises	M	2219
+Knox		F	212
+Knox		M	303
+Knox	Contributing family workers	F	426
+Knox	Contributing family workers	M	361
+Knox	Employee	F	26746
+Knox	Employee	M	27402
+Knox	Owner managers of incorporated enterprises	F	1371
+Knox	Owner managers of incorporated enterprises	M	3539
+Knox	Owner managers of unincorporated enterprises	F	1482
+Knox	Owner managers of unincorporated enterprises	M	2388
+Manningham - East		F	17
+Manningham - East		M	24
+Manningham - East	Contributing family workers	F	81
+Manningham - East	Contributing family workers	M	72
+Manningham - East	Employee	F	1849
+Manningham - East	Employee	M	1156
+Manningham - East	Owner managers of incorporated enterprises	F	266
+Manningham - East	Owner managers of incorporated enterprises	M	529
+Manningham - East	Owner managers of unincorporated enterprises	F	283
+Manningham - East	Owner managers of unincorporated enterprises	M	327
+Maroondah		F	149
+Maroondah		M	197
+Maroondah	Contributing family workers	F	299
+Maroondah	Contributing family workers	M	259
+Maroondah	Employee	F	18496
+Maroondah	Employee	M	16623
+Maroondah	Owner managers of incorporated enterprises	F	930
+Maroondah	Owner managers of incorporated enterprises	M	2443
+Maroondah	Owner managers of unincorporated enterprises	F	1137
+Maroondah	Owner managers of unincorporated enterprises	M	1699
+Whitehorse - East		F	76
+Whitehorse - East		M	90
+Whitehorse - East	Contributing family workers	F	169
+Whitehorse - East	Contributing family workers	M	147
+Whitehorse - East	Employee	F	9628
+Whitehorse - East	Employee	M	9191
+Whitehorse - East	Owner managers of incorporated enterprises	F	541
+Whitehorse - East	Owner managers of incorporated enterprises	M	1302
+Whitehorse - East	Owner managers of unincorporated enterprises	F	636
+Whitehorse - East	Owner managers of unincorporated enterprises	M	853
+Yarra Ranges		F	202
+Yarra Ranges		M	257
+Yarra Ranges	Contributing family workers	F	569
+Yarra Ranges	Contributing family workers	M	423
+Yarra Ranges	Employee	F	16507
+Yarra Ranges	Employee	M	13326
+Yarra Ranges	Owner managers of incorporated enterprises	F	1246
+Yarra Ranges	Owner managers of incorporated enterprises	M	2536
+Yarra Ranges	Owner managers of unincorporated enterprises	F	1839
+Yarra Ranges	Owner managers of unincorporated enterprises	M	2548
+Cardinia		F	131
+Cardinia		M	172
+Cardinia	Contributing family workers	F	333
+Cardinia	Contributing family workers	M	240
+Cardinia	Employee	F	9616
+Cardinia	Employee	M	8036
+Cardinia	Owner managers of incorporated enterprises	F	739
+Cardinia	Owner managers of incorporated enterprises	M	1568
+Cardinia	Owner managers of unincorporated enterprises	F	987
+Cardinia	Owner managers of unincorporated enterprises	M	1337
+Casey - North		F	170
+Casey - North		M	189
+Casey - North	Contributing family workers	F	281
+Casey - North	Contributing family workers	M	261
+Casey - North	Employee	F	18221
+Casey - North	Employee	M	14164
+Casey - North	Owner managers of incorporated enterprises	F	918
+Casey - North	Owner managers of incorporated enterprises	M	2292
+Casey - North	Owner managers of unincorporated enterprises	F	1119
+Casey - North	Owner managers of unincorporated enterprises	M	1675
+Casey - South		F	119
+Casey - South		M	153
+Casey - South	Contributing family workers	F	288
+Casey - South	Contributing family workers	M	247
+Casey - South	Employee	F	11303
+Casey - South	Employee	M	7949
+Casey - South	Owner managers of incorporated enterprises	F	658
+Casey - South	Owner managers of incorporated enterprises	M	1528
+Casey - South	Owner managers of unincorporated enterprises	F	1153
+Casey - South	Owner managers of unincorporated enterprises	M	1544
+Dandenong		F	414
+Dandenong		M	715
+Dandenong	Contributing family workers	F	472
+Dandenong	Contributing family workers	M	567
+Dandenong	Employee	F	37179
+Dandenong	Employee	M	56673
+Dandenong	Owner managers of incorporated enterprises	F	1578
+Dandenong	Owner managers of incorporated enterprises	M	5221
+Dandenong	Owner managers of unincorporated enterprises	F	1398
+Dandenong	Owner managers of unincorporated enterprises	M	3200
+Monash		F	292
+Monash		M	450
+Monash	Contributing family workers	F	517
+Monash	Contributing family workers	M	492
+Monash	Employee	F	44732
+Monash	Employee	M	47540
+Monash	Owner managers of incorporated enterprises	F	1637
+Monash	Owner managers of incorporated enterprises	M	4380
+Monash	Owner managers of unincorporated enterprises	F	1529
+Monash	Owner managers of unincorporated enterprises	M	2780
+Brimbank		F	276
+Brimbank		M	408
+Brimbank	Contributing family workers	F	308
+Brimbank	Contributing family workers	M	340
+Brimbank	Employee	F	21970
+Brimbank	Employee	M	25049
+Brimbank	Owner managers of incorporated enterprises	F	866
+Brimbank	Owner managers of incorporated enterprises	M	2562
+Brimbank	Owner managers of unincorporated enterprises	F	956
+Brimbank	Owner managers of unincorporated enterprises	M	1901
+Hobsons Bay		F	128
+Hobsons Bay		M	226
+Hobsons Bay	Contributing family workers	F	210
+Hobsons Bay	Contributing family workers	M	160
+Hobsons Bay	Employee	F	10684
+Hobsons Bay	Employee	M	17493
+Hobsons Bay	Owner managers of incorporated enterprises	F	618
+Hobsons Bay	Owner managers of incorporated enterprises	M	1678
+Hobsons Bay	Owner managers of unincorporated enterprises	F	832
+Hobsons Bay	Owner managers of unincorporated enterprises	M	1212
+Maribyrnong		F	174
+Maribyrnong		M	222
+Maribyrnong	Contributing family workers	F	194
+Maribyrnong	Contributing family workers	M	190
+Maribyrnong	Employee	F	17102
+Maribyrnong	Employee	M	14885
+Maribyrnong	Owner managers of incorporated enterprises	F	618
+Maribyrnong	Owner managers of incorporated enterprises	M	1636
+Maribyrnong	Owner managers of unincorporated enterprises	F	923
+Maribyrnong	Owner managers of unincorporated enterprises	M	1318
+Melton - Bacchus Marsh		F	150
+Melton - Bacchus Marsh		M	209
+Melton - Bacchus Marsh	Contributing family workers	F	322
+Melton - Bacchus Marsh	Contributing family workers	M	225
+Melton - Bacchus Marsh	Employee	F	13296
+Melton - Bacchus Marsh	Employee	M	10672
+Melton - Bacchus Marsh	Owner managers of incorporated enterprises	F	667
+Melton - Bacchus Marsh	Owner managers of incorporated enterprises	M	1823
+Melton - Bacchus Marsh	Owner managers of unincorporated enterprises	F	914
+Melton - Bacchus Marsh	Owner managers of unincorporated enterprises	M	1392
+Wyndham		F	270
+Wyndham		M	437
+Wyndham	Contributing family workers	F	439
+Wyndham	Contributing family workers	M	369
+Wyndham	Employee	F	24589
+Wyndham	Employee	M	29392
+Wyndham	Owner managers of incorporated enterprises	F	1145
+Wyndham	Owner managers of incorporated enterprises	M	3059
+Wyndham	Owner managers of unincorporated enterprises	F	1777
+Wyndham	Owner managers of unincorporated enterprises	M	2157
+Frankston		F	207
+Frankston		M	241
+Frankston	Contributing family workers	F	343
+Frankston	Contributing family workers	M	302
+Frankston	Employee	F	20296
+Frankston	Employee	M	14708
+Frankston	Owner managers of incorporated enterprises	F	1026
+Frankston	Owner managers of incorporated enterprises	M	2535
+Frankston	Owner managers of unincorporated enterprises	F	1282
+Frankston	Owner managers of unincorporated enterprises	M	1979
+Mornington Peninsula		F	262
+Mornington Peninsula		M	313
+Mornington Peninsula	Contributing family workers	F	652
+Mornington Peninsula	Contributing family workers	M	430
+Mornington Peninsula	Employee	F	21451
+Mornington Peninsula	Employee	M	16087
+Mornington Peninsula	Owner managers of incorporated enterprises	F	1703
+Mornington Peninsula	Owner managers of incorporated enterprises	M	3361
+Mornington Peninsula	Owner managers of unincorporated enterprises	F	2173
+Mornington Peninsula	Owner managers of unincorporated enterprises	M	3056
+Grampians		F	149
+Grampians		M	190
+Grampians	Contributing family workers	F	549
+Grampians	Contributing family workers	M	923
+Grampians	Employee	F	9702
+Grampians	Employee	M	8836
+Grampians	Owner managers of incorporated enterprises	F	564
+Grampians	Owner managers of incorporated enterprises	M	1256
+Grampians	Owner managers of unincorporated enterprises	F	925
+Grampians	Owner managers of unincorporated enterprises	M	1770
+Mildura		F	142
+Mildura		M	187
+Mildura	Contributing family workers	F	295
+Mildura	Contributing family workers	M	410
+Mildura	Employee	F	9334
+Mildura	Employee	M	8002
+Mildura	Owner managers of incorporated enterprises	F	442
+Mildura	Owner managers of incorporated enterprises	M	967
+Mildura	Owner managers of unincorporated enterprises	F	575
+Mildura	Owner managers of unincorporated enterprises	M	993
+Murray River - Swan Hill		F	133
+Murray River - Swan Hill		M	170
+Murray River - Swan Hill	Contributing family workers	F	359
+Murray River - Swan Hill	Contributing family workers	M	590
+Murray River - Swan Hill	Employee	F	5592
+Murray River - Swan Hill	Employee	M	5340
+Murray River - Swan Hill	Owner managers of incorporated enterprises	F	432
+Murray River - Swan Hill	Owner managers of incorporated enterprises	M	993
+Murray River - Swan Hill	Owner managers of unincorporated enterprises	F	554
+Murray River - Swan Hill	Owner managers of unincorporated enterprises	M	1017
+Campaspe		F	111
+Campaspe		M	150
+Campaspe	Contributing family workers	F	272
+Campaspe	Contributing family workers	M	332
+Campaspe	Employee	F	6121
+Campaspe	Employee	M	5565
+Campaspe	Owner managers of incorporated enterprises	F	376
+Campaspe	Owner managers of incorporated enterprises	M	799
+Campaspe	Owner managers of unincorporated enterprises	F	642
+Campaspe	Owner managers of unincorporated enterprises	M	990
+Moira		F	67
+Moira		M	103
+Moira	Contributing family workers	F	240
+Moira	Contributing family workers	M	277
+Moira	Employee	F	4032
+Moira	Employee	M	3753
+Moira	Owner managers of incorporated enterprises	F	289
+Moira	Owner managers of incorporated enterprises	M	612
+Moira	Owner managers of unincorporated enterprises	F	389
+Moira	Owner managers of unincorporated enterprises	M	768
+Shepparton		F	164
+Shepparton		M	199
+Shepparton	Contributing family workers	F	293
+Shepparton	Contributing family workers	M	321
+Shepparton	Employee	F	12132
+Shepparton	Employee	M	11088
+Shepparton	Owner managers of incorporated enterprises	F	614
+Shepparton	Owner managers of incorporated enterprises	M	1366
+Shepparton	Owner managers of unincorporated enterprises	F	631
+Shepparton	Owner managers of unincorporated enterprises	M	1127
+Glenelg - Southern Grampians		F	115
+Glenelg - Southern Grampians		M	126
+Glenelg - Southern Grampians	Contributing family workers	F	326
+Glenelg - Southern Grampians	Contributing family workers	M	406
+Glenelg - Southern Grampians	Employee	F	5840
+Glenelg - Southern Grampians	Employee	M	5492
+Glenelg - Southern Grampians	Owner managers of incorporated enterprises	F	266
+Glenelg - Southern Grampians	Owner managers of incorporated enterprises	M	557
+Glenelg - Southern Grampians	Owner managers of unincorporated enterprises	F	669
+Glenelg - Southern Grampians	Owner managers of unincorporated enterprises	M	1171
+Colac - Corangamite		F	124
+Colac - Corangamite		M	179
+Colac - Corangamite	Contributing family workers	F	372
+Colac - Corangamite	Contributing family workers	M	382
+Colac - Corangamite	Employee	F	6022
+Colac - Corangamite	Employee	M	5967
+Colac - Corangamite	Owner managers of incorporated enterprises	F	359
+Colac - Corangamite	Owner managers of incorporated enterprises	M	738
+Colac - Corangamite	Owner managers of unincorporated enterprises	F	856
+Colac - Corangamite	Owner managers of unincorporated enterprises	M	1466
+Warrnambool		F	143
+Warrnambool		M	170
+Warrnambool	Contributing family workers	F	300
+Warrnambool	Contributing family workers	M	309
+Warrnambool	Employee	F	9220
+Warrnambool	Employee	M	8238
+Warrnambool	Owner managers of incorporated enterprises	F	410
+Warrnambool	Owner managers of incorporated enterprises	M	883
+Warrnambool	Owner managers of unincorporated enterprises	F	801
+Warrnambool	Owner managers of unincorporated enterprises	M	1418
+Migratory - Offshore - Shipping (Vic.)		M	3
+Migratory - Offshore - Shipping (Vic.)	Contributing family workers	M	3
+Migratory - Offshore - Shipping (Vic.)	Employee	F	8
+Migratory - Offshore - Shipping (Vic.)	Employee	M	131
+Migratory - Offshore - Shipping (Vic.)	Owner managers of incorporated enterprises	M	4
+Migratory - Offshore - Shipping (Vic.)	Owner managers of unincorporated enterprises	M	4
+No usual address (Vic.)		F	530
+No usual address (Vic.)		M	1711
+No usual address (Vic.)	Contributing family workers	F	569
+No usual address (Vic.)	Contributing family workers	M	1043
+No usual address (Vic.)	Employee	F	19561
+No usual address (Vic.)	Employee	M	46461
+No usual address (Vic.)	Owner managers of incorporated enterprises	F	1319
+No usual address (Vic.)	Owner managers of incorporated enterprises	M	13848
+No usual address (Vic.)	Owner managers of unincorporated enterprises	F	6522
+No usual address (Vic.)	Owner managers of unincorporated enterprises	M	27461
+Capalaba		F	81
+Capalaba		M	80
+Capalaba	Contributing family workers	F	197
+Capalaba	Contributing family workers	M	151
+Capalaba	Employee	F	8156
+Capalaba	Employee	M	6474
+Capalaba	Owner managers of incorporated enterprises	F	718
+Capalaba	Owner managers of incorporated enterprises	M	1347
+Capalaba	Owner managers of unincorporated enterprises	F	699
+Capalaba	Owner managers of unincorporated enterprises	M	951
+Cleveland - Stradbroke		F	106
+Cleveland - Stradbroke		M	104
+Cleveland - Stradbroke	Contributing family workers	F	263
+Cleveland - Stradbroke	Contributing family workers	M	230
+Cleveland - Stradbroke	Employee	F	11151
+Cleveland - Stradbroke	Employee	M	7357
+Cleveland - Stradbroke	Owner managers of incorporated enterprises	F	790
+Cleveland - Stradbroke	Owner managers of incorporated enterprises	M	1327
+Cleveland - Stradbroke	Owner managers of unincorporated enterprises	F	915
+Cleveland - Stradbroke	Owner managers of unincorporated enterprises	M	1128
+Wynnum - Manly		F	105
+Wynnum - Manly		M	183
+Wynnum - Manly	Contributing family workers	F	158
+Wynnum - Manly	Contributing family workers	M	155
+Wynnum - Manly	Employee	F	13115
+Wynnum - Manly	Employee	M	20286
+Wynnum - Manly	Owner managers of incorporated enterprises	F	678
+Wynnum - Manly	Owner managers of incorporated enterprises	M	1728
+Wynnum - Manly	Owner managers of unincorporated enterprises	F	798
+Wynnum - Manly	Owner managers of unincorporated enterprises	M	1124
+Bald Hills - Everton Park		F	30
+Bald Hills - Everton Park		M	34
+Bald Hills - Everton Park	Contributing family workers	F	74
+Bald Hills - Everton Park	Contributing family workers	M	56
+Bald Hills - Everton Park	Employee	F	3789
+Bald Hills - Everton Park	Employee	M	2183
+Bald Hills - Everton Park	Owner managers of incorporated enterprises	F	261
+Bald Hills - Everton Park	Owner managers of incorporated enterprises	M	455
+Bald Hills - Everton Park	Owner managers of unincorporated enterprises	F	343
+Bald Hills - Everton Park	Owner managers of unincorporated enterprises	M	408
+Chermside		F	108
+Chermside		M	107
+Chermside	Contributing family workers	F	146
+Chermside	Contributing family workers	M	116
+Chermside	Employee	F	17659
+Chermside	Employee	M	14196
+Chermside	Owner managers of incorporated enterprises	F	632
+Chermside	Owner managers of incorporated enterprises	M	1397
+Chermside	Owner managers of unincorporated enterprises	F	770
+Chermside	Owner managers of unincorporated enterprises	M	1037
+Nundah		F	146
+Nundah		M	239
+Nundah	Contributing family workers	F	129
+Nundah	Contributing family workers	M	115
+Nundah	Employee	F	19021
+Nundah	Employee	M	34185
+Nundah	Owner managers of incorporated enterprises	F	457
+Nundah	Owner managers of incorporated enterprises	M	1587
+Nundah	Owner managers of unincorporated enterprises	F	453
+Nundah	Owner managers of unincorporated enterprises	M	1049
+Sandgate		F	54
+Sandgate		M	46
+Sandgate	Contributing family workers	F	94
+Sandgate	Contributing family workers	M	51
+Sandgate	Employee	F	5550
+Sandgate	Employee	M	3601
+Sandgate	Owner managers of incorporated enterprises	F	265
+Sandgate	Owner managers of incorporated enterprises	M	535
+Sandgate	Owner managers of unincorporated enterprises	F	531
+Sandgate	Owner managers of unincorporated enterprises	M	600
+Carindale		F	47
+Carindale		M	48
+Carindale	Contributing family workers	F	110
+Carindale	Contributing family workers	M	62
+Carindale	Employee	F	7671
+Carindale	Employee	M	5529
+Carindale	Owner managers of incorporated enterprises	F	414
+Carindale	Owner managers of incorporated enterprises	M	746
+Carindale	Owner managers of unincorporated enterprises	F	540
+Carindale	Owner managers of unincorporated enterprises	M	602
+Holland Park - Yeronga		F	118
+Holland Park - Yeronga		M	123
+Holland Park - Yeronga	Contributing family workers	F	162
+Holland Park - Yeronga	Contributing family workers	M	172
+Holland Park - Yeronga	Employee	F	20261
+Holland Park - Yeronga	Employee	M	14079
+Holland Park - Yeronga	Owner managers of incorporated enterprises	F	748
+Holland Park - Yeronga	Owner managers of incorporated enterprises	M	1614
+Holland Park - Yeronga	Owner managers of unincorporated enterprises	F	912
+Holland Park - Yeronga	Owner managers of unincorporated enterprises	M	1252
+Mt Gravatt		F	119
+Mt Gravatt		M	120
+Mt Gravatt	Contributing family workers	F	209
+Mt Gravatt	Contributing family workers	M	212
+Mt Gravatt	Employee	F	16626
+Mt Gravatt	Employee	M	12731
+Mt Gravatt	Owner managers of incorporated enterprises	F	568
+Mt Gravatt	Owner managers of incorporated enterprises	M	1352
+Mt Gravatt	Owner managers of unincorporated enterprises	F	665
+Mt Gravatt	Owner managers of unincorporated enterprises	M	964
+Nathan		F	63
+Nathan		M	88
+Nathan	Contributing family workers	F	102
+Nathan	Contributing family workers	M	137
+Nathan	Employee	F	8000
+Nathan	Employee	M	9888
+Nathan	Owner managers of incorporated enterprises	F	407
+Nathan	Owner managers of incorporated enterprises	M	1151
+Nathan	Owner managers of unincorporated enterprises	F	472
+Nathan	Owner managers of unincorporated enterprises	M	719
+Rocklea - Acacia Ridge		F	106
+Rocklea - Acacia Ridge		M	213
+Rocklea - Acacia Ridge	Contributing family workers	F	156
+Rocklea - Acacia Ridge	Contributing family workers	M	205
+Rocklea - Acacia Ridge	Employee	F	10059
+Rocklea - Acacia Ridge	Employee	M	23279
+Rocklea - Acacia Ridge	Owner managers of incorporated enterprises	F	568
+Rocklea - Acacia Ridge	Owner managers of incorporated enterprises	M	1608
+Rocklea - Acacia Ridge	Owner managers of unincorporated enterprises	F	499
+Rocklea - Acacia Ridge	Owner managers of unincorporated enterprises	M	1031
+Sunnybank		F	32
+Sunnybank		M	31
+Sunnybank	Contributing family workers	F	104
+Sunnybank	Contributing family workers	M	110
+Sunnybank	Employee	F	3901
+Sunnybank	Employee	M	2254
+Sunnybank	Owner managers of incorporated enterprises	F	285
+Sunnybank	Owner managers of incorporated enterprises	M	544
+Sunnybank	Owner managers of unincorporated enterprises	F	352
+Sunnybank	Owner managers of unincorporated enterprises	M	559
+Centenary		F	27
+Centenary		M	30
+Centenary	Contributing family workers	F	88
+Centenary	Contributing family workers	M	70
+Centenary	Employee	F	4049
+Centenary	Employee	M	2827
+Centenary	Owner managers of incorporated enterprises	F	259
+Centenary	Owner managers of incorporated enterprises	M	580
+Centenary	Owner managers of unincorporated enterprises	F	350
+Centenary	Owner managers of unincorporated enterprises	M	458
+Kenmore - Brookfield - Moggill		F	35
+Kenmore - Brookfield - Moggill		M	32
+Kenmore - Brookfield - Moggill	Contributing family workers	F	134
+Kenmore - Brookfield - Moggill	Contributing family workers	M	99
+Kenmore - Brookfield - Moggill	Employee	F	3663
+Kenmore - Brookfield - Moggill	Employee	M	2183
+Kenmore - Brookfield - Moggill	Owner managers of incorporated enterprises	F	443
+Kenmore - Brookfield - Moggill	Owner managers of incorporated enterprises	M	766
+Kenmore - Brookfield - Moggill	Owner managers of unincorporated enterprises	F	486
+Kenmore - Brookfield - Moggill	Owner managers of unincorporated enterprises	M	551
+Sherwood - Indooroopilly		F	82
+Sherwood - Indooroopilly		M	49
+Sherwood - Indooroopilly	Contributing family workers	F	114
+Sherwood - Indooroopilly	Contributing family workers	M	110
+Sherwood - Indooroopilly	Employee	F	13043
+Sherwood - Indooroopilly	Employee	M	9162
+Sherwood - Indooroopilly	Owner managers of incorporated enterprises	F	423
+Sherwood - Indooroopilly	Owner managers of incorporated enterprises	M	777
+Sherwood - Indooroopilly	Owner managers of unincorporated enterprises	F	571
+Sherwood - Indooroopilly	Owner managers of unincorporated enterprises	M	681
+The Gap - Enoggera		F	40
+The Gap - Enoggera		M	45
+The Gap - Enoggera	Contributing family workers	F	77
+The Gap - Enoggera	Contributing family workers	M	69
+The Gap - Enoggera	Employee	F	6628
+The Gap - Enoggera	Employee	M	8588
+The Gap - Enoggera	Owner managers of incorporated enterprises	F	318
+The Gap - Enoggera	Owner managers of incorporated enterprises	M	638
+The Gap - Enoggera	Owner managers of unincorporated enterprises	F	511
+The Gap - Enoggera	Owner managers of unincorporated enterprises	M	606
+Brisbane Inner		F	501
+Brisbane Inner		M	530
+Brisbane Inner	Contributing family workers	F	353
+Brisbane Inner	Contributing family workers	M	365
+Brisbane Inner	Employee	F	97649
+Brisbane Inner	Employee	M	87727
+Brisbane Inner	Owner managers of incorporated enterprises	F	1849
+Brisbane Inner	Owner managers of incorporated enterprises	M	5112
+Brisbane Inner	Owner managers of unincorporated enterprises	F	1758
+Brisbane Inner	Owner managers of unincorporated enterprises	M	3332
+Brisbane Inner - East		F	29
+Brisbane Inner - East		M	50
+Brisbane Inner - East	Contributing family workers	F	122
+Brisbane Inner - East	Contributing family workers	M	90
+Brisbane Inner - East	Employee	F	5185
+Brisbane Inner - East	Employee	M	6204
+Brisbane Inner - East	Owner managers of incorporated enterprises	F	490
+Brisbane Inner - East	Owner managers of incorporated enterprises	M	1031
+Brisbane Inner - East	Owner managers of unincorporated enterprises	F	504
+Brisbane Inner - East	Owner managers of unincorporated enterprises	M	571
+Brisbane Inner - North		F	158
+Brisbane Inner - North		M	181
+Brisbane Inner - North	Contributing family workers	F	287
+Brisbane Inner - North	Contributing family workers	M	262
+Brisbane Inner - North	Employee	F	28414
+Brisbane Inner - North	Employee	M	26858
+Brisbane Inner - North	Owner managers of incorporated enterprises	F	1129
+Brisbane Inner - North	Owner managers of incorporated enterprises	M	2513
+Brisbane Inner - North	Owner managers of unincorporated enterprises	F	1198
+Brisbane Inner - North	Owner managers of unincorporated enterprises	M	1682
+Brisbane Inner - West		F	92
+Brisbane Inner - West		M	97
+Brisbane Inner - West	Contributing family workers	F	173
+Brisbane Inner - West	Contributing family workers	M	146
+Brisbane Inner - West	Employee	F	16130
+Brisbane Inner - West	Employee	M	14347
+Brisbane Inner - West	Owner managers of incorporated enterprises	F	904
+Brisbane Inner - West	Owner managers of incorporated enterprises	M	1838
+Brisbane Inner - West	Owner managers of unincorporated enterprises	F	1034
+Brisbane Inner - West	Owner managers of unincorporated enterprises	M	1145
+Cairns - North		F	66
+Cairns - North		M	69
+Cairns - North	Contributing family workers	F	138
+Cairns - North	Contributing family workers	M	101
+Cairns - North	Employee	F	5796
+Cairns - North	Employee	M	5239
+Cairns - North	Owner managers of incorporated enterprises	F	330
+Cairns - North	Owner managers of incorporated enterprises	M	580
+Cairns - North	Owner managers of unincorporated enterprises	F	654
+Cairns - North	Owner managers of unincorporated enterprises	M	830
+Cairns - South		F	242
+Cairns - South		M	262
+Cairns - South	Contributing family workers	F	310
+Cairns - South	Contributing family workers	M	307
+Cairns - South	Employee	F	24723
+Cairns - South	Employee	M	20593
+Cairns - South	Owner managers of incorporated enterprises	F	1038
+Cairns - South	Owner managers of incorporated enterprises	M	2041
+Cairns - South	Owner managers of unincorporated enterprises	F	1276
+Cairns - South	Owner managers of unincorporated enterprises	M	1914
+Innisfail - Cassowary Coast		F	84
+Innisfail - Cassowary Coast		M	134
+Innisfail - Cassowary Coast	Contributing family workers	F	253
+Innisfail - Cassowary Coast	Contributing family workers	M	298
+Innisfail - Cassowary Coast	Employee	F	5102
+Innisfail - Cassowary Coast	Employee	M	4930
+Innisfail - Cassowary Coast	Owner managers of incorporated enterprises	F	294
+Innisfail - Cassowary Coast	Owner managers of incorporated enterprises	M	555
+Innisfail - Cassowary Coast	Owner managers of unincorporated enterprises	F	475
+Innisfail - Cassowary Coast	Owner managers of unincorporated enterprises	M	786
+Port Douglas - Daintree		F	35
+Port Douglas - Daintree		M	39
+Port Douglas - Daintree	Contributing family workers	F	81
+Port Douglas - Daintree	Contributing family workers	M	86
+Port Douglas - Daintree	Employee	F	2200
+Port Douglas - Daintree	Employee	M	2090
+Port Douglas - Daintree	Owner managers of incorporated enterprises	F	184
+Port Douglas - Daintree	Owner managers of incorporated enterprises	M	243
+Port Douglas - Daintree	Owner managers of unincorporated enterprises	F	286
+Port Douglas - Daintree	Owner managers of unincorporated enterprises	M	339
+Tablelands (East) - Kuranda		F	112
+Tablelands (East) - Kuranda		M	123
+Tablelands (East) - Kuranda	Contributing family workers	F	300
+Tablelands (East) - Kuranda	Contributing family workers	M	307
+Tablelands (East) - Kuranda	Employee	F	5978
+Tablelands (East) - Kuranda	Employee	M	4802
+Tablelands (East) - Kuranda	Owner managers of incorporated enterprises	F	361
+Tablelands (East) - Kuranda	Owner managers of incorporated enterprises	M	579
+Tablelands (East) - Kuranda	Owner managers of unincorporated enterprises	F	738
+Tablelands (East) - Kuranda	Owner managers of unincorporated enterprises	M	996
+Darling Downs (West) - Maranoa		F	155
+Darling Downs (West) - Maranoa		M	178
+Darling Downs (West) - Maranoa	Contributing family workers	F	694
+Darling Downs (West) - Maranoa	Contributing family workers	M	854
+Darling Downs (West) - Maranoa	Employee	F	7193
+Darling Downs (West) - Maranoa	Employee	M	9417
+Darling Downs (West) - Maranoa	Owner managers of incorporated enterprises	F	545
+Darling Downs (West) - Maranoa	Owner managers of incorporated enterprises	M	1083
+Darling Downs (West) - Maranoa	Owner managers of unincorporated enterprises	F	867
+Darling Downs (West) - Maranoa	Owner managers of unincorporated enterprises	M	1476
+Darling Downs - East		F	101
+Darling Downs - East		M	163
+Darling Downs - East	Contributing family workers	F	461
+Darling Downs - East	Contributing family workers	M	540
+Darling Downs - East	Employee	F	6060
+Darling Downs - East	Employee	M	8291
+Darling Downs - East	Owner managers of incorporated enterprises	F	384
+Darling Downs - East	Owner managers of incorporated enterprises	M	781
+Darling Downs - East	Owner managers of unincorporated enterprises	F	677
+Darling Downs - East	Owner managers of unincorporated enterprises	M	1290
+Granite Belt		F	87
+Granite Belt		M	146
+Granite Belt	Contributing family workers	F	356
+Granite Belt	Contributing family workers	M	447
+Granite Belt	Employee	F	5705
+Granite Belt	Employee	M	5259
+Granite Belt	Owner managers of incorporated enterprises	F	352
+Granite Belt	Owner managers of incorporated enterprises	M	654
+Granite Belt	Owner managers of unincorporated enterprises	F	631
+Granite Belt	Owner managers of unincorporated enterprises	M	1107
+Central Highlands (Qld)		F	87
+Central Highlands (Qld)		M	125
+Central Highlands (Qld)	Contributing family workers	F	242
+Central Highlands (Qld)	Contributing family workers	M	220
+Central Highlands (Qld)	Employee	F	5034
+Central Highlands (Qld)	Employee	M	8852
+Central Highlands (Qld)	Owner managers of incorporated enterprises	F	294
+Central Highlands (Qld)	Owner managers of incorporated enterprises	M	562
+Central Highlands (Qld)	Owner managers of unincorporated enterprises	F	419
+Central Highlands (Qld)	Owner managers of unincorporated enterprises	M	529
+Rockhampton		F	215
+Rockhampton		M	229
+Rockhampton	Contributing family workers	F	478
+Rockhampton	Contributing family workers	M	388
+Rockhampton	Employee	F	21053
+Rockhampton	Employee	M	17997
+Rockhampton	Owner managers of incorporated enterprises	F	769
+Rockhampton	Owner managers of incorporated enterprises	M	1348
+Rockhampton	Owner managers of unincorporated enterprises	F	1214
+Rockhampton	Owner managers of unincorporated enterprises	M	1783
+Biloela		F	48
+Biloela		M	71
+Biloela	Contributing family workers	F	239
+Biloela	Contributing family workers	M	237
+Biloela	Employee	F	2509
+Biloela	Employee	M	3883
+Biloela	Owner managers of incorporated enterprises	F	122
+Biloela	Owner managers of incorporated enterprises	M	259
+Biloela	Owner managers of unincorporated enterprises	F	299
+Biloela	Owner managers of unincorporated enterprises	M	487
+Gladstone		F	87
+Gladstone		M	121
+Gladstone	Contributing family workers	F	253
+Gladstone	Contributing family workers	M	215
+Gladstone	Employee	F	10149
+Gladstone	Employee	M	13430
+Gladstone	Owner managers of incorporated enterprises	F	388
+Gladstone	Owner managers of incorporated enterprises	M	632
+Gladstone	Owner managers of unincorporated enterprises	F	677
+Gladstone	Owner managers of unincorporated enterprises	M	637
+Broadbeach - Burleigh		F	134
+Broadbeach - Burleigh		M	171
+Broadbeach - Burleigh	Contributing family workers	F	303
+Broadbeach - Burleigh	Contributing family workers	M	235
+Broadbeach - Burleigh	Employee	F	14196
+Broadbeach - Burleigh	Employee	M	12105
+Broadbeach - Burleigh	Owner managers of incorporated enterprises	F	1135
+Broadbeach - Burleigh	Owner managers of incorporated enterprises	M	2283
+Broadbeach - Burleigh	Owner managers of unincorporated enterprises	F	1098
+Broadbeach - Burleigh	Owner managers of unincorporated enterprises	M	1573
+Coolangatta		F	106
+Coolangatta		M	94
+Coolangatta	Contributing family workers	F	184
+Coolangatta	Contributing family workers	M	115
+Coolangatta	Employee	F	8387
+Coolangatta	Employee	M	5763
+Coolangatta	Owner managers of incorporated enterprises	F	547
+Coolangatta	Owner managers of incorporated enterprises	M	1023
+Coolangatta	Owner managers of unincorporated enterprises	F	773
+Coolangatta	Owner managers of unincorporated enterprises	M	1046
+Gold Coast - North		F	76
+Gold Coast - North		M	109
+Gold Coast - North	Contributing family workers	F	232
+Gold Coast - North	Contributing family workers	M	173
+Gold Coast - North	Employee	F	7960
+Gold Coast - North	Employee	M	6148
+Gold Coast - North	Owner managers of incorporated enterprises	F	695
+Gold Coast - North	Owner managers of incorporated enterprises	M	1321
+Gold Coast - North	Owner managers of unincorporated enterprises	F	713
+Gold Coast - North	Owner managers of unincorporated enterprises	M	1025
+Gold Coast Hinterland		F	33
+Gold Coast Hinterland		M	37
+Gold Coast Hinterland	Contributing family workers	F	107
+Gold Coast Hinterland	Contributing family workers	M	89
+Gold Coast Hinterland	Employee	F	1648
+Gold Coast Hinterland	Employee	M	1310
+Gold Coast Hinterland	Owner managers of incorporated enterprises	F	209
+Gold Coast Hinterland	Owner managers of incorporated enterprises	M	284
+Gold Coast Hinterland	Owner managers of unincorporated enterprises	F	364
+Gold Coast Hinterland	Owner managers of unincorporated enterprises	M	413
+Mudgeeraba - Tallebudgera		F	34
+Mudgeeraba - Tallebudgera		M	36
+Mudgeeraba - Tallebudgera	Contributing family workers	F	135
+Mudgeeraba - Tallebudgera	Contributing family workers	M	90
+Mudgeeraba - Tallebudgera	Employee	F	2828
+Mudgeeraba - Tallebudgera	Employee	M	1563
+Mudgeeraba - Tallebudgera	Owner managers of incorporated enterprises	F	326
+Mudgeeraba - Tallebudgera	Owner managers of incorporated enterprises	M	536
+Mudgeeraba - Tallebudgera	Owner managers of unincorporated enterprises	F	476
+Mudgeeraba - Tallebudgera	Owner managers of unincorporated enterprises	M	535
+Nerang		F	75
+Nerang		M	91
+Nerang	Contributing family workers	F	247
+Nerang	Contributing family workers	M	174
+Nerang	Employee	F	6833
+Nerang	Employee	M	7265
+Nerang	Owner managers of incorporated enterprises	F	656
+Nerang	Owner managers of incorporated enterprises	M	1359
+Nerang	Owner managers of unincorporated enterprises	F	811
+Nerang	Owner managers of unincorporated enterprises	M	1104
+Ormeau - Oxenford		F	142
+Ormeau - Oxenford		M	271
+Ormeau - Oxenford	Contributing family workers	F	437
+Ormeau - Oxenford	Contributing family workers	M	326
+Ormeau - Oxenford	Employee	F	16667
+Ormeau - Oxenford	Employee	M	22047
+Ormeau - Oxenford	Owner managers of incorporated enterprises	F	1232
+Ormeau - Oxenford	Owner managers of incorporated enterprises	M	2840
+Ormeau - Oxenford	Owner managers of unincorporated enterprises	F	1347
+Ormeau - Oxenford	Owner managers of unincorporated enterprises	M	1919
+Robina		F	83
+Robina		M	89
+Robina	Contributing family workers	F	179
+Robina	Contributing family workers	M	119
+Robina	Employee	F	12386
+Robina	Employee	M	7702
+Robina	Owner managers of incorporated enterprises	F	613
+Robina	Owner managers of incorporated enterprises	M	1075
+Robina	Owner managers of unincorporated enterprises	F	643
+Robina	Owner managers of unincorporated enterprises	M	807
+Southport		F	177
+Southport		M	177
+Southport	Contributing family workers	F	253
+Southport	Contributing family workers	M	224
+Southport	Employee	F	20313
+Southport	Employee	M	16370
+Southport	Owner managers of incorporated enterprises	F	929
+Southport	Owner managers of incorporated enterprises	M	2237
+Southport	Owner managers of unincorporated enterprises	F	822
+Southport	Owner managers of unincorporated enterprises	M	1571
+Surfers Paradise		F	120
+Surfers Paradise		M	108
+Surfers Paradise	Contributing family workers	F	190
+Surfers Paradise	Contributing family workers	M	205
+Surfers Paradise	Employee	F	12341
+Surfers Paradise	Employee	M	8786
+Surfers Paradise	Owner managers of incorporated enterprises	F	861
+Surfers Paradise	Owner managers of incorporated enterprises	M	1477
+Surfers Paradise	Owner managers of unincorporated enterprises	F	736
+Surfers Paradise	Owner managers of unincorporated enterprises	M	1044
+Forest Lake - Oxley		F	127
+Forest Lake - Oxley		M	161
+Forest Lake - Oxley	Contributing family workers	F	125
+Forest Lake - Oxley	Contributing family workers	M	146
+Forest Lake - Oxley	Employee	F	11475
+Forest Lake - Oxley	Employee	M	18154
+Forest Lake - Oxley	Owner managers of incorporated enterprises	F	413
+Forest Lake - Oxley	Owner managers of incorporated enterprises	M	1170
+Forest Lake - Oxley	Owner managers of unincorporated enterprises	F	599
+Forest Lake - Oxley	Owner managers of unincorporated enterprises	M	929
+Ipswich Hinterland		F	112
+Ipswich Hinterland		M	139
+Ipswich Hinterland	Contributing family workers	F	348
+Ipswich Hinterland	Contributing family workers	M	399
+Ipswich Hinterland	Employee	F	6681
+Ipswich Hinterland	Employee	M	7946
+Ipswich Hinterland	Owner managers of incorporated enterprises	F	392
+Ipswich Hinterland	Owner managers of incorporated enterprises	M	686
+Ipswich Hinterland	Owner managers of unincorporated enterprises	F	765
+Ipswich Hinterland	Owner managers of unincorporated enterprises	M	1046
+Ipswich Inner		F	137
+Ipswich Inner		M	159
+Ipswich Inner	Contributing family workers	F	209
+Ipswich Inner	Contributing family workers	M	176
+Ipswich Inner	Employee	F	17239
+Ipswich Inner	Employee	M	13695
+Ipswich Inner	Owner managers of incorporated enterprises	F	495
+Ipswich Inner	Owner managers of incorporated enterprises	M	1055
+Ipswich Inner	Owner managers of unincorporated enterprises	F	887
+Ipswich Inner	Owner managers of unincorporated enterprises	M	1071
+Springfield - Redbank		F	80
+Springfield - Redbank		M	81
+Springfield - Redbank	Contributing family workers	F	111
+Springfield - Redbank	Contributing family workers	M	104
+Springfield - Redbank	Employee	F	9023
+Springfield - Redbank	Employee	M	9192
+Springfield - Redbank	Owner managers of incorporated enterprises	F	325
+Springfield - Redbank	Owner managers of incorporated enterprises	M	703
+Springfield - Redbank	Owner managers of unincorporated enterprises	F	626
+Springfield - Redbank	Owner managers of unincorporated enterprises	M	731
+Beaudesert		F	37
+Beaudesert		M	48
+Beaudesert	Contributing family workers	F	105
+Beaudesert	Contributing family workers	M	109
+Beaudesert	Employee	F	2197
+Beaudesert	Employee	M	1819
+Beaudesert	Owner managers of incorporated enterprises	F	140
+Beaudesert	Owner managers of incorporated enterprises	M	232
+Beaudesert	Owner managers of unincorporated enterprises	F	197
+Beaudesert	Owner managers of unincorporated enterprises	M	261
+Beenleigh		F	44
+Beenleigh		M	48
+Beenleigh	Contributing family workers	F	85
+Beenleigh	Contributing family workers	M	52
+Beenleigh	Employee	F	4820
+Beenleigh	Employee	M	3786
+Beenleigh	Owner managers of incorporated enterprises	F	206
+Beenleigh	Owner managers of incorporated enterprises	M	438
+Beenleigh	Owner managers of unincorporated enterprises	F	363
+Beenleigh	Owner managers of unincorporated enterprises	M	451
+Browns Plains		F	89
+Browns Plains		M	105
+Browns Plains	Contributing family workers	F	179
+Browns Plains	Contributing family workers	M	157
+Browns Plains	Employee	F	7897
+Browns Plains	Employee	M	7539
+Browns Plains	Owner managers of incorporated enterprises	F	386
+Browns Plains	Owner managers of incorporated enterprises	M	881
+Browns Plains	Owner managers of unincorporated enterprises	F	587
+Browns Plains	Owner managers of unincorporated enterprises	M	840
+Jimboomba		F	35
+Jimboomba		M	42
+Jimboomba	Contributing family workers	F	183
+Jimboomba	Contributing family workers	M	96
+Jimboomba	Employee	F	2485
+Jimboomba	Employee	M	2041
+Jimboomba	Owner managers of incorporated enterprises	F	311
+Jimboomba	Owner managers of incorporated enterprises	M	573
+Jimboomba	Owner managers of unincorporated enterprises	F	458
+Jimboomba	Owner managers of unincorporated enterprises	M	614
+Loganlea - Carbrook		F	85
+Loganlea - Carbrook		M	105
+Loganlea - Carbrook	Contributing family workers	F	162
+Loganlea - Carbrook	Contributing family workers	M	124
+Loganlea - Carbrook	Employee	F	10698
+Loganlea - Carbrook	Employee	M	8795
+Loganlea - Carbrook	Owner managers of incorporated enterprises	F	516
+Loganlea - Carbrook	Owner managers of incorporated enterprises	M	1059
+Loganlea - Carbrook	Owner managers of unincorporated enterprises	F	520
+Loganlea - Carbrook	Owner managers of unincorporated enterprises	M	821
+Springwood - Kingston		F	125
+Springwood - Kingston		M	148
+Springwood - Kingston	Contributing family workers	F	225
+Springwood - Kingston	Contributing family workers	M	189
+Springwood - Kingston	Employee	F	13011
+Springwood - Kingston	Employee	M	12584
+Springwood - Kingston	Owner managers of incorporated enterprises	F	675
+Springwood - Kingston	Owner managers of incorporated enterprises	M	1545
+Springwood - Kingston	Owner managers of unincorporated enterprises	F	740
+Springwood - Kingston	Owner managers of unincorporated enterprises	M	1181
+Bowen Basin - North		F	92
+Bowen Basin - North		M	171
+Bowen Basin - North	Contributing family workers	F	271
+Bowen Basin - North	Contributing family workers	M	225
+Bowen Basin - North	Employee	F	6554
+Bowen Basin - North	Employee	M	16620
+Bowen Basin - North	Owner managers of incorporated enterprises	F	258
+Bowen Basin - North	Owner managers of incorporated enterprises	M	691
+Bowen Basin - North	Owner managers of unincorporated enterprises	F	434
+Bowen Basin - North	Owner managers of unincorporated enterprises	M	531
+Mackay		F	231
+Mackay		M	284
+Mackay	Contributing family workers	F	499
+Mackay	Contributing family workers	M	464
+Mackay	Employee	F	20148
+Mackay	Employee	M	18676
+Mackay	Owner managers of incorporated enterprises	F	896
+Mackay	Owner managers of incorporated enterprises	M	1744
+Mackay	Owner managers of unincorporated enterprises	F	1280
+Mackay	Owner managers of unincorporated enterprises	M	1476
+Whitsunday		F	56
+Whitsunday		M	58
+Whitsunday	Contributing family workers	F	122
+Whitsunday	Contributing family workers	M	125
+Whitsunday	Employee	F	3928
+Whitsunday	Employee	M	3488
+Whitsunday	Owner managers of incorporated enterprises	F	259
+Whitsunday	Owner managers of incorporated enterprises	M	438
+Whitsunday	Owner managers of unincorporated enterprises	F	378
+Whitsunday	Owner managers of unincorporated enterprises	M	438
+Bribie - Beachmere		F	47
+Bribie - Beachmere		M	34
+Bribie - Beachmere	Contributing family workers	F	90
+Bribie - Beachmere	Contributing family workers	M	59
+Bribie - Beachmere	Employee	F	2395
+Bribie - Beachmere	Employee	M	1531
+Bribie - Beachmere	Owner managers of incorporated enterprises	F	171
+Bribie - Beachmere	Owner managers of incorporated enterprises	M	265
+Bribie - Beachmere	Owner managers of unincorporated enterprises	F	320
+Bribie - Beachmere	Owner managers of unincorporated enterprises	M	420
+Caboolture		F	103
+Caboolture		M	116
+Caboolture	Contributing family workers	F	198
+Caboolture	Contributing family workers	M	129
+Caboolture	Employee	F	11870
+Caboolture	Employee	M	8243
+Caboolture	Owner managers of incorporated enterprises	F	420
+Caboolture	Owner managers of incorporated enterprises	M	820
+Caboolture	Owner managers of unincorporated enterprises	F	612
+Caboolture	Owner managers of unincorporated enterprises	M	880
+Caboolture Hinterland		F	33
+Caboolture Hinterland		M	37
+Caboolture Hinterland	Contributing family workers	F	88
+Caboolture Hinterland	Contributing family workers	M	81
+Caboolture Hinterland	Employee	F	1418
+Caboolture Hinterland	Employee	M	1616
+Caboolture Hinterland	Owner managers of incorporated enterprises	F	98
+Caboolture Hinterland	Owner managers of incorporated enterprises	M	138
+Caboolture Hinterland	Owner managers of unincorporated enterprises	F	162
+Caboolture Hinterland	Owner managers of unincorporated enterprises	M	278
+Narangba - Burpengary		F	49
+Narangba - Burpengary		M	67
+Narangba - Burpengary	Contributing family workers	F	156
+Narangba - Burpengary	Contributing family workers	M	102
+Narangba - Burpengary	Employee	F	5049
+Narangba - Burpengary	Employee	M	5775
+Narangba - Burpengary	Owner managers of incorporated enterprises	F	372
+Narangba - Burpengary	Owner managers of incorporated enterprises	M	779
+Narangba - Burpengary	Owner managers of unincorporated enterprises	F	475
+Narangba - Burpengary	Owner managers of unincorporated enterprises	M	721
+Redcliffe		F	76
+Redcliffe		M	106
+Redcliffe	Contributing family workers	F	180
+Redcliffe	Contributing family workers	M	135
+Redcliffe	Employee	F	9518
+Redcliffe	Employee	M	6299
+Redcliffe	Owner managers of incorporated enterprises	F	401
+Redcliffe	Owner managers of incorporated enterprises	M	874
+Redcliffe	Owner managers of unincorporated enterprises	F	629
+Redcliffe	Owner managers of unincorporated enterprises	M	811
+The Hills District		F	64
+The Hills District		M	65
+The Hills District	Contributing family workers	F	258
+The Hills District	Contributing family workers	M	177
+The Hills District	Employee	F	5576
+The Hills District	Employee	M	3902
+The Hills District	Owner managers of incorporated enterprises	F	712
+The Hills District	Owner managers of incorporated enterprises	M	1263
+The Hills District	Owner managers of unincorporated enterprises	F	1001
+The Hills District	Owner managers of unincorporated enterprises	M	1052
+North Lakes		F	52
+North Lakes		M	48
+North Lakes	Contributing family workers	F	147
+North Lakes	Contributing family workers	M	93
+North Lakes	Employee	F	8031
+North Lakes	Employee	M	4884
+North Lakes	Owner managers of incorporated enterprises	F	347
+North Lakes	Owner managers of incorporated enterprises	M	654
+North Lakes	Owner managers of unincorporated enterprises	F	565
+North Lakes	Owner managers of unincorporated enterprises	M	660
+Strathpine		F	58
+Strathpine		M	80
+Strathpine	Contributing family workers	F	110
+Strathpine	Contributing family workers	M	89
+Strathpine	Employee	F	7957
+Strathpine	Employee	M	9675
+Strathpine	Owner managers of incorporated enterprises	F	388
+Strathpine	Owner managers of incorporated enterprises	M	1033
+Strathpine	Owner managers of unincorporated enterprises	F	402
+Strathpine	Owner managers of unincorporated enterprises	M	670
+Far North		F	57
+Far North		M	81
+Far North	Contributing family workers	F	158
+Far North	Contributing family workers	M	214
+Far North	Employee	F	4286
+Far North	Employee	M	5205
+Far North	Owner managers of incorporated enterprises	F	139
+Far North	Owner managers of incorporated enterprises	M	299
+Far North	Owner managers of unincorporated enterprises	F	260
+Far North	Owner managers of unincorporated enterprises	M	473
+Outback - North		F	64
+Outback - North		M	111
+Outback - North	Contributing family workers	F	158
+Outback - North	Contributing family workers	M	140
+Outback - North	Employee	F	5878
+Outback - North	Employee	M	9013
+Outback - North	Owner managers of incorporated enterprises	F	226
+Outback - North	Owner managers of incorporated enterprises	M	411
+Outback - North	Owner managers of unincorporated enterprises	F	282
+Outback - North	Owner managers of unincorporated enterprises	M	394
+Outback - South		F	66
+Outback - South		M	74
+Outback - South	Contributing family workers	F	329
+Outback - South	Contributing family workers	M	393
+Outback - South	Employee	F	3313
+Outback - South	Employee	M	3085
+Outback - South	Owner managers of incorporated enterprises	F	203
+Outback - South	Owner managers of incorporated enterprises	M	354
+Outback - South	Owner managers of unincorporated enterprises	F	419
+Outback - South	Owner managers of unincorporated enterprises	M	688
+Buderim		F	65
+Buderim		M	76
+Buderim	Contributing family workers	F	220
+Buderim	Contributing family workers	M	144
+Buderim	Employee	F	7493
+Buderim	Employee	M	6602
+Buderim	Owner managers of incorporated enterprises	F	609
+Buderim	Owner managers of incorporated enterprises	M	1184
+Buderim	Owner managers of unincorporated enterprises	F	807
+Buderim	Owner managers of unincorporated enterprises	M	942
+Caloundra		F	127
+Caloundra		M	149
+Caloundra	Contributing family workers	F	316
+Caloundra	Contributing family workers	M	226
+Caloundra	Employee	F	12959
+Caloundra	Employee	M	10320
+Caloundra	Owner managers of incorporated enterprises	F	925
+Caloundra	Owner managers of incorporated enterprises	M	1775
+Caloundra	Owner managers of unincorporated enterprises	F	1137
+Caloundra	Owner managers of unincorporated enterprises	M	1438
+Maroochy		F	121
+Maroochy		M	143
+Maroochy	Contributing family workers	F	262
+Maroochy	Contributing family workers	M	183
+Maroochy	Employee	F	13478
+Maroochy	Employee	M	9763
+Maroochy	Owner managers of incorporated enterprises	F	895
+Maroochy	Owner managers of incorporated enterprises	M	1645
+Maroochy	Owner managers of unincorporated enterprises	F	1069
+Maroochy	Owner managers of unincorporated enterprises	M	1299
+Noosa		F	84
+Noosa		M	76
+Noosa	Contributing family workers	F	218
+Noosa	Contributing family workers	M	164
+Noosa	Employee	F	7558
+Noosa	Employee	M	5077
+Noosa	Owner managers of incorporated enterprises	F	768
+Noosa	Owner managers of incorporated enterprises	M	1228
+Noosa	Owner managers of unincorporated enterprises	F	936
+Noosa	Owner managers of unincorporated enterprises	M	1074
+Sunshine Coast Hinterland		F	67
+Sunshine Coast Hinterland		M	95
+Sunshine Coast Hinterland	Contributing family workers	F	330
+Sunshine Coast Hinterland	Contributing family workers	M	247
+Sunshine Coast Hinterland	Employee	F	4839
+Sunshine Coast Hinterland	Employee	M	3899
+Sunshine Coast Hinterland	Owner managers of incorporated enterprises	F	480
+Sunshine Coast Hinterland	Owner managers of incorporated enterprises	M	808
+Sunshine Coast Hinterland	Owner managers of unincorporated enterprises	F	909
+Sunshine Coast Hinterland	Owner managers of unincorporated enterprises	M	1149
+Nambour		F	78
+Nambour		M	93
+Nambour	Contributing family workers	F	205
+Nambour	Contributing family workers	M	175
+Nambour	Employee	F	9341
+Nambour	Employee	M	6757
+Nambour	Owner managers of incorporated enterprises	F	404
+Nambour	Owner managers of incorporated enterprises	M	880
+Nambour	Owner managers of unincorporated enterprises	F	738
+Nambour	Owner managers of unincorporated enterprises	M	970
+Noosa Hinterland		F	30
+Noosa Hinterland		M	36
+Noosa Hinterland	Contributing family workers	F	121
+Noosa Hinterland	Contributing family workers	M	89
+Noosa Hinterland	Employee	F	1657
+Noosa Hinterland	Employee	M	1454
+Noosa Hinterland	Owner managers of incorporated enterprises	F	255
+Noosa Hinterland	Owner managers of incorporated enterprises	M	385
+Noosa Hinterland	Owner managers of unincorporated enterprises	F	409
+Noosa Hinterland	Owner managers of unincorporated enterprises	M	531
+Toowoomba		F	296
+Toowoomba		M	284
+Toowoomba	Contributing family workers	F	599
+Toowoomba	Contributing family workers	M	469
+Toowoomba	Employee	F	29308
+Toowoomba	Employee	M	25712
+Toowoomba	Owner managers of incorporated enterprises	F	1179
+Toowoomba	Owner managers of incorporated enterprises	M	2487
+Toowoomba	Owner managers of unincorporated enterprises	F	1576
+Toowoomba	Owner managers of unincorporated enterprises	M	2145
+Charters Towers - Ayr - Ingham		F	116
+Charters Towers - Ayr - Ingham		M	160
+Charters Towers - Ayr - Ingham	Contributing family workers	F	345
+Charters Towers - Ayr - Ingham	Contributing family workers	M	400
+Charters Towers - Ayr - Ingham	Employee	F	6548
+Charters Towers - Ayr - Ingham	Employee	M	6421
+Charters Towers - Ayr - Ingham	Owner managers of incorporated enterprises	F	341
+Charters Towers - Ayr - Ingham	Owner managers of incorporated enterprises	M	721
+Charters Towers - Ayr - Ingham	Owner managers of unincorporated enterprises	F	566
+Charters Towers - Ayr - Ingham	Owner managers of unincorporated enterprises	M	935
+Townsville		F	272
+Townsville		M	312
+Townsville	Contributing family workers	F	451
+Townsville	Contributing family workers	M	398
+Townsville	Employee	F	37651
+Townsville	Employee	M	34590
+Townsville	Owner managers of incorporated enterprises	F	1226
+Townsville	Owner managers of incorporated enterprises	M	2491
+Townsville	Owner managers of unincorporated enterprises	F	1835
+Townsville	Owner managers of unincorporated enterprises	M	2485
+Bundaberg		F	139
+Bundaberg		M	149
+Bundaberg	Contributing family workers	F	400
+Bundaberg	Contributing family workers	M	351
+Bundaberg	Employee	F	13315
+Bundaberg	Employee	M	11692
+Bundaberg	Owner managers of incorporated enterprises	F	618
+Bundaberg	Owner managers of incorporated enterprises	M	1065
+Bundaberg	Owner managers of unincorporated enterprises	F	919
+Bundaberg	Owner managers of unincorporated enterprises	M	1380
+Burnett		F	119
+Burnett		M	176
+Burnett	Contributing family workers	F	501
+Burnett	Contributing family workers	M	610
+Burnett	Employee	F	6573
+Burnett	Employee	M	6199
+Burnett	Owner managers of incorporated enterprises	F	326
+Burnett	Owner managers of incorporated enterprises	M	538
+Burnett	Owner managers of unincorporated enterprises	F	753
+Burnett	Owner managers of unincorporated enterprises	M	1238
+Gympie - Cooloola		F	92
+Gympie - Cooloola		M	95
+Gympie - Cooloola	Contributing family workers	F	341
+Gympie - Cooloola	Contributing family workers	M	328
+Gympie - Cooloola	Employee	F	6502
+Gympie - Cooloola	Employee	M	5583
+Gympie - Cooloola	Owner managers of incorporated enterprises	F	336
+Gympie - Cooloola	Owner managers of incorporated enterprises	M	584
+Gympie - Cooloola	Owner managers of unincorporated enterprises	F	723
+Gympie - Cooloola	Owner managers of unincorporated enterprises	M	1096
+Hervey Bay		F	93
+Hervey Bay		M	93
+Hervey Bay	Contributing family workers	F	167
+Hervey Bay	Contributing family workers	M	162
+Hervey Bay	Employee	F	7932
+Hervey Bay	Employee	M	5433
+Hervey Bay	Owner managers of incorporated enterprises	F	356
+Hervey Bay	Owner managers of incorporated enterprises	M	624
+Hervey Bay	Owner managers of unincorporated enterprises	F	522
+Hervey Bay	Owner managers of unincorporated enterprises	M	768
+Maryborough		F	92
+Maryborough		M	100
+Maryborough	Contributing family workers	F	183
+Maryborough	Contributing family workers	M	182
+Maryborough	Employee	F	5480
+Maryborough	Employee	M	5225
+Maryborough	Owner managers of incorporated enterprises	F	226
+Maryborough	Owner managers of incorporated enterprises	M	423
+Maryborough	Owner managers of unincorporated enterprises	F	438
+Maryborough	Owner managers of unincorporated enterprises	M	655
+Migratory - Offshore - Shipping (Qld)	Contributing family workers	F	3
+Migratory - Offshore - Shipping (Qld)	Contributing family workers	M	4
+Migratory - Offshore - Shipping (Qld)	Employee	F	21
+Migratory - Offshore - Shipping (Qld)	Employee	M	152
+Migratory - Offshore - Shipping (Qld)	Owner managers of incorporated enterprises	M	12
+Migratory - Offshore - Shipping (Qld)	Owner managers of unincorporated enterprises	F	3
+Migratory - Offshore - Shipping (Qld)	Owner managers of unincorporated enterprises	M	12
+No usual address (Qld)		F	422
+No usual address (Qld)		M	1146
+No usual address (Qld)	Contributing family workers	F	586
+No usual address (Qld)	Contributing family workers	M	938
+No usual address (Qld)	Employee	F	15661
+No usual address (Qld)	Employee	M	42380
+No usual address (Qld)	Owner managers of incorporated enterprises	F	1128
+No usual address (Qld)	Owner managers of incorporated enterprises	M	9225
+No usual address (Qld)	Owner managers of unincorporated enterprises	F	6236
+No usual address (Qld)	Owner managers of unincorporated enterprises	M	21109
+Adelaide City		F	404
+Adelaide City		M	384
+Adelaide City	Contributing family workers	F	293
+Adelaide City	Contributing family workers	M	255
+Adelaide City	Employee	F	62171
+Adelaide City	Employee	M	47011
+Adelaide City	Owner managers of incorporated enterprises	F	1008
+Adelaide City	Owner managers of incorporated enterprises	M	2737
+Adelaide City	Owner managers of unincorporated enterprises	F	1104
+Adelaide City	Owner managers of unincorporated enterprises	M	2239
+Adelaide Hills		F	120
+Adelaide Hills		M	141
+Adelaide Hills	Contributing family workers	F	320
+Adelaide Hills	Contributing family workers	M	291
+Adelaide Hills	Employee	F	8073
+Adelaide Hills	Employee	M	6859
+Adelaide Hills	Owner managers of incorporated enterprises	F	562
+Adelaide Hills	Owner managers of incorporated enterprises	M	1119
+Adelaide Hills	Owner managers of unincorporated enterprises	F	1217
+Adelaide Hills	Owner managers of unincorporated enterprises	M	1582
+Burnside		F	59
+Burnside		M	73
+Burnside	Contributing family workers	F	136
+Burnside	Contributing family workers	M	118
+Burnside	Employee	F	8404
+Burnside	Employee	M	5132
+Burnside	Owner managers of incorporated enterprises	F	462
+Burnside	Owner managers of incorporated enterprises	M	906
+Burnside	Owner managers of unincorporated enterprises	F	629
+Burnside	Owner managers of unincorporated enterprises	M	830
+Campbelltown (SA)		F	42
+Campbelltown (SA)		M	41
+Campbelltown (SA)	Contributing family workers	F	90
+Campbelltown (SA)	Contributing family workers	M	88
+Campbelltown (SA)	Employee	F	4366
+Campbelltown (SA)	Employee	M	3021
+Campbelltown (SA)	Owner managers of incorporated enterprises	F	209
+Campbelltown (SA)	Owner managers of incorporated enterprises	M	535
+Campbelltown (SA)	Owner managers of unincorporated enterprises	F	444
+Campbelltown (SA)	Owner managers of unincorporated enterprises	M	673
+Norwood - Payneham - St Peters		F	96
+Norwood - Payneham - St Peters		M	114
+Norwood - Payneham - St Peters	Contributing family workers	F	145
+Norwood - Payneham - St Peters	Contributing family workers	M	145
+Norwood - Payneham - St Peters	Employee	F	10609
+Norwood - Payneham - St Peters	Employee	M	8303
+Norwood - Payneham - St Peters	Owner managers of incorporated enterprises	F	553
+Norwood - Payneham - St Peters	Owner managers of incorporated enterprises	M	1361
+Norwood - Payneham - St Peters	Owner managers of unincorporated enterprises	F	730
+Norwood - Payneham - St Peters	Owner managers of unincorporated enterprises	M	1004
+Prospect - Walkerville		F	37
+Prospect - Walkerville		M	35
+Prospect - Walkerville	Contributing family workers	F	87
+Prospect - Walkerville	Contributing family workers	M	54
+Prospect - Walkerville	Employee	F	3764
+Prospect - Walkerville	Employee	M	2613
+Prospect - Walkerville	Owner managers of incorporated enterprises	F	223
+Prospect - Walkerville	Owner managers of incorporated enterprises	M	497
+Prospect - Walkerville	Owner managers of unincorporated enterprises	F	304
+Prospect - Walkerville	Owner managers of unincorporated enterprises	M	484
+Unley		F	57
+Unley		M	66
+Unley	Contributing family workers	F	132
+Unley	Contributing family workers	M	115
+Unley	Employee	F	9719
+Unley	Employee	M	6356
+Unley	Owner managers of incorporated enterprises	F	458
+Unley	Owner managers of incorporated enterprises	M	1013
+Unley	Owner managers of unincorporated enterprises	F	647
+Unley	Owner managers of unincorporated enterprises	M	820
+Gawler - Two Wells		F	52
+Gawler - Two Wells		M	59
+Gawler - Two Wells	Contributing family workers	F	101
+Gawler - Two Wells	Contributing family workers	M	87
+Gawler - Two Wells	Employee	F	4286
+Gawler - Two Wells	Employee	M	3382
+Gawler - Two Wells	Owner managers of incorporated enterprises	F	190
+Gawler - Two Wells	Owner managers of incorporated enterprises	M	326
+Gawler - Two Wells	Owner managers of unincorporated enterprises	F	397
+Gawler - Two Wells	Owner managers of unincorporated enterprises	M	567
+Playford		F	125
+Playford		M	148
+Playford	Contributing family workers	F	200
+Playford	Contributing family workers	M	219
+Playford	Employee	F	12298
+Playford	Employee	M	9228
+Playford	Owner managers of incorporated enterprises	F	277
+Playford	Owner managers of incorporated enterprises	M	572
+Playford	Owner managers of unincorporated enterprises	F	606
+Playford	Owner managers of unincorporated enterprises	M	1030
+Port Adelaide - East		F	82
+Port Adelaide - East		M	117
+Port Adelaide - East	Contributing family workers	F	129
+Port Adelaide - East	Contributing family workers	M	107
+Port Adelaide - East	Employee	F	8795
+Port Adelaide - East	Employee	M	11720
+Port Adelaide - East	Owner managers of incorporated enterprises	F	267
+Port Adelaide - East	Owner managers of incorporated enterprises	M	832
+Port Adelaide - East	Owner managers of unincorporated enterprises	F	539
+Port Adelaide - East	Owner managers of unincorporated enterprises	M	933
+Salisbury		F	162
+Salisbury		M	256
+Salisbury	Contributing family workers	F	220
+Salisbury	Contributing family workers	M	235
+Salisbury	Employee	F	15610
+Salisbury	Employee	M	23814
+Salisbury	Owner managers of incorporated enterprises	F	533
+Salisbury	Owner managers of incorporated enterprises	M	1460
+Salisbury	Owner managers of unincorporated enterprises	F	923
+Salisbury	Owner managers of unincorporated enterprises	M	1686
+Tea Tree Gully		F	85
+Tea Tree Gully		M	86
+Tea Tree Gully	Contributing family workers	F	193
+Tea Tree Gully	Contributing family workers	M	116
+Tea Tree Gully	Employee	F	10688
+Tea Tree Gully	Employee	M	7083
+Tea Tree Gully	Owner managers of incorporated enterprises	F	386
+Tea Tree Gully	Owner managers of incorporated enterprises	M	887
+Tea Tree Gully	Owner managers of unincorporated enterprises	F	749
+Tea Tree Gully	Owner managers of unincorporated enterprises	M	1251
+Holdfast Bay		F	56
+Holdfast Bay		M	65
+Holdfast Bay	Contributing family workers	F	102
+Holdfast Bay	Contributing family workers	M	99
+Holdfast Bay	Employee	F	5876
+Holdfast Bay	Employee	M	3839
+Holdfast Bay	Owner managers of incorporated enterprises	F	363
+Holdfast Bay	Owner managers of incorporated enterprises	M	618
+Holdfast Bay	Owner managers of unincorporated enterprises	F	497
+Holdfast Bay	Owner managers of unincorporated enterprises	M	665
+Marion		F	90
+Marion		M	101
+Marion	Contributing family workers	F	154
+Marion	Contributing family workers	M	127
+Marion	Employee	F	9851
+Marion	Employee	M	8310
+Marion	Owner managers of incorporated enterprises	F	337
+Marion	Owner managers of incorporated enterprises	M	879
+Marion	Owner managers of unincorporated enterprises	F	760
+Marion	Owner managers of unincorporated enterprises	M	1238
+Mitcham		F	112
+Mitcham		M	94
+Mitcham	Contributing family workers	F	151
+Mitcham	Contributing family workers	M	142
+Mitcham	Employee	F	14483
+Mitcham	Employee	M	9324
+Mitcham	Owner managers of incorporated enterprises	F	400
+Mitcham	Owner managers of incorporated enterprises	M	821
+Mitcham	Owner managers of unincorporated enterprises	F	769
+Mitcham	Owner managers of unincorporated enterprises	M	1061
+Onkaparinga		F	176
+Onkaparinga		M	204
+Onkaparinga	Contributing family workers	F	400
+Onkaparinga	Contributing family workers	M	313
+Onkaparinga	Employee	F	16822
+Onkaparinga	Employee	M	13584
+Onkaparinga	Owner managers of incorporated enterprises	F	670
+Onkaparinga	Owner managers of incorporated enterprises	M	1590
+Onkaparinga	Owner managers of unincorporated enterprises	F	1594
+Onkaparinga	Owner managers of unincorporated enterprises	M	2504
+Charles Sturt		F	171
+Charles Sturt		M	212
+Charles Sturt	Contributing family workers	F	215
+Charles Sturt	Contributing family workers	M	207
+Charles Sturt	Employee	F	16591
+Charles Sturt	Employee	M	16687
+Charles Sturt	Owner managers of incorporated enterprises	F	651
+Charles Sturt	Owner managers of incorporated enterprises	M	1757
+Charles Sturt	Owner managers of unincorporated enterprises	F	1021
+Charles Sturt	Owner managers of unincorporated enterprises	M	1863
+Port Adelaide - West		F	122
+Port Adelaide - West		M	252
+Port Adelaide - West	Contributing family workers	F	146
+Port Adelaide - West	Contributing family workers	M	157
+Port Adelaide - West	Employee	F	11349
+Port Adelaide - West	Employee	M	24086
+Port Adelaide - West	Owner managers of incorporated enterprises	F	404
+Port Adelaide - West	Owner managers of incorporated enterprises	M	1283
+Port Adelaide - West	Owner managers of unincorporated enterprises	F	548
+Port Adelaide - West	Owner managers of unincorporated enterprises	M	1137
+West Torrens		F	155
+West Torrens		M	214
+West Torrens	Contributing family workers	F	120
+West Torrens	Contributing family workers	M	152
+West Torrens	Employee	F	16893
+West Torrens	Employee	M	21861
+West Torrens	Owner managers of incorporated enterprises	F	467
+West Torrens	Owner managers of incorporated enterprises	M	1531
+West Torrens	Owner managers of unincorporated enterprises	F	615
+West Torrens	Owner managers of unincorporated enterprises	M	1416
+Barossa		F	91
+Barossa		M	91
+Barossa	Contributing family workers	F	232
+Barossa	Contributing family workers	M	260
+Barossa	Employee	F	5388
+Barossa	Employee	M	5568
+Barossa	Owner managers of incorporated enterprises	F	305
+Barossa	Owner managers of incorporated enterprises	M	564
+Barossa	Owner managers of unincorporated enterprises	F	587
+Barossa	Owner managers of unincorporated enterprises	M	859
+Lower North		F	57
+Lower North		M	90
+Lower North	Contributing family workers	F	237
+Lower North	Contributing family workers	M	332
+Lower North	Employee	F	3082
+Lower North	Employee	M	3016
+Lower North	Owner managers of incorporated enterprises	F	200
+Lower North	Owner managers of incorporated enterprises	M	475
+Lower North	Owner managers of unincorporated enterprises	F	471
+Lower North	Owner managers of unincorporated enterprises	M	901
+Mid North		F	76
+Mid North		M	71
+Mid North	Contributing family workers	F	197
+Mid North	Contributing family workers	M	289
+Mid North	Employee	F	4074
+Mid North	Employee	M	3747
+Mid North	Owner managers of incorporated enterprises	F	146
+Mid North	Owner managers of incorporated enterprises	M	390
+Mid North	Owner managers of unincorporated enterprises	F	362
+Mid North	Owner managers of unincorporated enterprises	M	688
+Yorke Peninsula		F	83
+Yorke Peninsula		M	102
+Yorke Peninsula	Contributing family workers	F	193
+Yorke Peninsula	Contributing family workers	M	235
+Yorke Peninsula	Employee	F	3132
+Yorke Peninsula	Employee	M	2468
+Yorke Peninsula	Owner managers of incorporated enterprises	F	196
+Yorke Peninsula	Owner managers of incorporated enterprises	M	414
+Yorke Peninsula	Owner managers of unincorporated enterprises	F	471
+Yorke Peninsula	Owner managers of unincorporated enterprises	M	815
+Eyre Peninsula and South West		F	139
+Eyre Peninsula and South West		M	204
+Eyre Peninsula and South West	Contributing family workers	F	388
+Eyre Peninsula and South West	Contributing family workers	M	482
+Eyre Peninsula and South West	Employee	F	9158
+Eyre Peninsula and South West	Employee	M	8628
+Eyre Peninsula and South West	Owner managers of incorporated enterprises	F	404
+Eyre Peninsula and South West	Owner managers of incorporated enterprises	M	903
+Eyre Peninsula and South West	Owner managers of unincorporated enterprises	F	800
+Eyre Peninsula and South West	Owner managers of unincorporated enterprises	M	1483
+Outback - North and East		F	74
+Outback - North and East		M	95
+Outback - North and East	Contributing family workers	F	75
+Outback - North and East	Contributing family workers	M	96
+Outback - North and East	Employee	F	4895
+Outback - North and East	Employee	M	7790
+Outback - North and East	Owner managers of incorporated enterprises	F	132
+Outback - North and East	Owner managers of incorporated enterprises	M	250
+Outback - North and East	Owner managers of unincorporated enterprises	F	204
+Outback - North and East	Owner managers of unincorporated enterprises	M	367
+Fleurieu - Kangaroo Island		F	95
+Fleurieu - Kangaroo Island		M	109
+Fleurieu - Kangaroo Island	Contributing family workers	F	329
+Fleurieu - Kangaroo Island	Contributing family workers	M	341
+Fleurieu - Kangaroo Island	Employee	F	5831
+Fleurieu - Kangaroo Island	Employee	M	4324
+Fleurieu - Kangaroo Island	Owner managers of incorporated enterprises	F	357
+Fleurieu - Kangaroo Island	Owner managers of incorporated enterprises	M	655
+Fleurieu - Kangaroo Island	Owner managers of unincorporated enterprises	F	866
+Fleurieu - Kangaroo Island	Owner managers of unincorporated enterprises	M	1483
+Limestone Coast		F	182
+Limestone Coast		M	232
+Limestone Coast	Contributing family workers	F	526
+Limestone Coast	Contributing family workers	M	687
+Limestone Coast	Employee	F	11140
+Limestone Coast	Employee	M	10982
+Limestone Coast	Owner managers of incorporated enterprises	F	599
+Limestone Coast	Owner managers of incorporated enterprises	M	1198
+Limestone Coast	Owner managers of unincorporated enterprises	F	1103
+Limestone Coast	Owner managers of unincorporated enterprises	M	1861
+Murray and Mallee		F	203
+Murray and Mallee		M	270
+Murray and Mallee	Contributing family workers	F	531
+Murray and Mallee	Contributing family workers	M	731
+Murray and Mallee	Employee	F	10871
+Murray and Mallee	Employee	M	10588
+Murray and Mallee	Owner managers of incorporated enterprises	F	480
+Murray and Mallee	Owner managers of incorporated enterprises	M	1076
+Murray and Mallee	Owner managers of unincorporated enterprises	F	965
+Murray and Mallee	Owner managers of unincorporated enterprises	M	1973
+Migratory - Offshore - Shipping (SA)	Employee	F	3
+Migratory - Offshore - Shipping (SA)	Employee	M	54
+Migratory - Offshore - Shipping (SA)	Owner managers of unincorporated enterprises	M	4
+No usual address (SA)		F	134
+No usual address (SA)		M	440
+No usual address (SA)	Contributing family workers	F	186
+No usual address (SA)	Contributing family workers	M	301
+No usual address (SA)	Employee	F	6452
+No usual address (SA)	Employee	M	12361
+No usual address (SA)	Owner managers of incorporated enterprises	F	270
+No usual address (SA)	Owner managers of incorporated enterprises	M	2567
+No usual address (SA)	Owner managers of unincorporated enterprises	F	2125
+No usual address (SA)	Owner managers of unincorporated enterprises	M	9472
+Augusta - Margaret River - Busselton		F	122
+Augusta - Margaret River - Busselton		M	120
+Augusta - Margaret River - Busselton	Contributing family workers	F	373
+Augusta - Margaret River - Busselton	Contributing family workers	M	301
+Augusta - Margaret River - Busselton	Employee	F	8193
+Augusta - Margaret River - Busselton	Employee	M	6083
+Augusta - Margaret River - Busselton	Owner managers of incorporated enterprises	F	568
+Augusta - Margaret River - Busselton	Owner managers of incorporated enterprises	M	970
+Augusta - Margaret River - Busselton	Owner managers of unincorporated enterprises	F	1133
+Augusta - Margaret River - Busselton	Owner managers of unincorporated enterprises	M	1602
+Bunbury		F	184
+Bunbury		M	251
+Bunbury	Contributing family workers	F	385
+Bunbury	Contributing family workers	M	379
+Bunbury	Employee	F	18294
+Bunbury	Employee	M	18134
+Bunbury	Owner managers of incorporated enterprises	F	653
+Bunbury	Owner managers of incorporated enterprises	M	1258
+Bunbury	Owner managers of unincorporated enterprises	F	1176
+Bunbury	Owner managers of unincorporated enterprises	M	1676
+Manjimup		F	66
+Manjimup		M	90
+Manjimup	Contributing family workers	F	291
+Manjimup	Contributing family workers	M	352
+Manjimup	Employee	F	3151
+Manjimup	Employee	M	2743
+Manjimup	Owner managers of incorporated enterprises	F	205
+Manjimup	Owner managers of incorporated enterprises	M	375
+Manjimup	Owner managers of unincorporated enterprises	F	501
+Manjimup	Owner managers of unincorporated enterprises	M	794
+Mandurah		F	115
+Mandurah		M	130
+Mandurah	Contributing family workers	F	305
+Mandurah	Contributing family workers	M	192
+Mandurah	Employee	F	12925
+Mandurah	Employee	M	8781
+Mandurah	Owner managers of incorporated enterprises	F	610
+Mandurah	Owner managers of incorporated enterprises	M	967
+Mandurah	Owner managers of unincorporated enterprises	F	1014
+Mandurah	Owner managers of unincorporated enterprises	M	1336
+Cottesloe - Claremont		F	124
+Cottesloe - Claremont		M	109
+Cottesloe - Claremont	Contributing family workers	F	276
+Cottesloe - Claremont	Contributing family workers	M	222
+Cottesloe - Claremont	Employee	F	21425
+Cottesloe - Claremont	Employee	M	12785
+Cottesloe - Claremont	Owner managers of incorporated enterprises	F	899
+Cottesloe - Claremont	Owner managers of incorporated enterprises	M	1614
+Cottesloe - Claremont	Owner managers of unincorporated enterprises	F	1114
+Cottesloe - Claremont	Owner managers of unincorporated enterprises	M	1353
+Perth City		F	498
+Perth City		M	540
+Perth City	Contributing family workers	F	510
+Perth City	Contributing family workers	M	479
+Perth City	Employee	F	89418
+Perth City	Employee	M	81068
+Perth City	Owner managers of incorporated enterprises	F	2273
+Perth City	Owner managers of incorporated enterprises	M	6206
+Perth City	Owner managers of unincorporated enterprises	F	2426
+Perth City	Owner managers of unincorporated enterprises	M	4030
+Bayswater - Bassendean		F	116
+Bayswater - Bassendean		M	138
+Bayswater - Bassendean	Contributing family workers	F	193
+Bayswater - Bassendean	Contributing family workers	M	171
+Bayswater - Bassendean	Employee	F	10103
+Bayswater - Bassendean	Employee	M	10444
+Bayswater - Bassendean	Owner managers of incorporated enterprises	F	555
+Bayswater - Bassendean	Owner managers of incorporated enterprises	M	1378
+Bayswater - Bassendean	Owner managers of unincorporated enterprises	F	838
+Bayswater - Bassendean	Owner managers of unincorporated enterprises	M	1510
+Mundaring		F	31
+Mundaring		M	44
+Mundaring	Contributing family workers	F	134
+Mundaring	Contributing family workers	M	111
+Mundaring	Employee	F	3645
+Mundaring	Employee	M	3251
+Mundaring	Owner managers of incorporated enterprises	F	268
+Mundaring	Owner managers of incorporated enterprises	M	524
+Mundaring	Owner managers of unincorporated enterprises	F	528
+Mundaring	Owner managers of unincorporated enterprises	M	673
+Swan		F	174
+Swan		M	259
+Swan	Contributing family workers	F	449
+Swan	Contributing family workers	M	378
+Swan	Employee	F	20678
+Swan	Employee	M	25158
+Swan	Owner managers of incorporated enterprises	F	1013
+Swan	Owner managers of incorporated enterprises	M	2465
+Swan	Owner managers of unincorporated enterprises	F	1418
+Swan	Owner managers of unincorporated enterprises	M	2162
+Joondalup		F	181
+Joondalup		M	152
+Joondalup	Contributing family workers	F	409
+Joondalup	Contributing family workers	M	266
+Joondalup	Employee	F	24990
+Joondalup	Employee	M	12583
+Joondalup	Owner managers of incorporated enterprises	F	1110
+Joondalup	Owner managers of incorporated enterprises	M	2049
+Joondalup	Owner managers of unincorporated enterprises	F	1924
+Joondalup	Owner managers of unincorporated enterprises	M	2435
+Stirling		F	229
+Stirling		M	340
+Stirling	Contributing family workers	F	411
+Stirling	Contributing family workers	M	374
+Stirling	Employee	F	30462
+Stirling	Employee	M	28606
+Stirling	Owner managers of incorporated enterprises	F	1454
+Stirling	Owner managers of incorporated enterprises	M	3577
+Stirling	Owner managers of unincorporated enterprises	F	1970
+Stirling	Owner managers of unincorporated enterprises	M	3145
+Wanneroo		F	152
+Wanneroo		M	226
+Wanneroo	Contributing family workers	F	472
+Wanneroo	Contributing family workers	M	339
+Wanneroo	Employee	F	16755
+Wanneroo	Employee	M	17411
+Wanneroo	Owner managers of incorporated enterprises	F	1063
+Wanneroo	Owner managers of incorporated enterprises	M	2621
+Wanneroo	Owner managers of unincorporated enterprises	F	1921
+Wanneroo	Owner managers of unincorporated enterprises	M	3028
+Armadale		F	73
+Armadale		M	66
+Armadale	Contributing family workers	F	168
+Armadale	Contributing family workers	M	124
+Armadale	Employee	F	8698
+Armadale	Employee	M	5688
+Armadale	Owner managers of incorporated enterprises	F	347
+Armadale	Owner managers of incorporated enterprises	M	786
+Armadale	Owner managers of unincorporated enterprises	F	655
+Armadale	Owner managers of unincorporated enterprises	M	1012
+Belmont - Victoria Park		F	156
+Belmont - Victoria Park		M	253
+Belmont - Victoria Park	Contributing family workers	F	194
+Belmont - Victoria Park	Contributing family workers	M	179
+Belmont - Victoria Park	Employee	F	20817
+Belmont - Victoria Park	Employee	M	31115
+Belmont - Victoria Park	Owner managers of incorporated enterprises	F	629
+Belmont - Victoria Park	Owner managers of incorporated enterprises	M	1925
+Belmont - Victoria Park	Owner managers of unincorporated enterprises	F	732
+Belmont - Victoria Park	Owner managers of unincorporated enterprises	M	1700
+Canning		F	183
+Canning		M	283
+Canning	Contributing family workers	F	247
+Canning	Contributing family workers	M	260
+Canning	Employee	F	23577
+Canning	Employee	M	33317
+Canning	Owner managers of incorporated enterprises	F	882
+Canning	Owner managers of incorporated enterprises	M	2486
+Canning	Owner managers of unincorporated enterprises	F	943
+Canning	Owner managers of unincorporated enterprises	M	1831
+Gosnells		F	86
+Gosnells		M	130
+Gosnells	Contributing family workers	F	250
+Gosnells	Contributing family workers	M	186
+Gosnells	Employee	F	9982
+Gosnells	Employee	M	9643
+Gosnells	Owner managers of incorporated enterprises	F	498
+Gosnells	Owner managers of incorporated enterprises	M	1213
+Gosnells	Owner managers of unincorporated enterprises	F	825
+Gosnells	Owner managers of unincorporated enterprises	M	1495
+Kalamunda		F	46
+Kalamunda		M	73
+Kalamunda	Contributing family workers	F	153
+Kalamunda	Contributing family workers	M	120
+Kalamunda	Employee	F	5442
+Kalamunda	Employee	M	6083
+Kalamunda	Owner managers of incorporated enterprises	F	360
+Kalamunda	Owner managers of incorporated enterprises	M	770
+Kalamunda	Owner managers of unincorporated enterprises	F	580
+Kalamunda	Owner managers of unincorporated enterprises	M	852
+Serpentine - Jarrahdale		F	24
+Serpentine - Jarrahdale		M	27
+Serpentine - Jarrahdale	Contributing family workers	F	107
+Serpentine - Jarrahdale	Contributing family workers	M	79
+Serpentine - Jarrahdale	Employee	F	1641
+Serpentine - Jarrahdale	Employee	M	1558
+Serpentine - Jarrahdale	Owner managers of incorporated enterprises	F	158
+Serpentine - Jarrahdale	Owner managers of incorporated enterprises	M	297
+Serpentine - Jarrahdale	Owner managers of unincorporated enterprises	F	256
+Serpentine - Jarrahdale	Owner managers of unincorporated enterprises	M	436
+South Perth		F	52
+South Perth		M	43
+South Perth	Contributing family workers	F	113
+South Perth	Contributing family workers	M	102
+South Perth	Employee	F	6376
+South Perth	Employee	M	4218
+South Perth	Owner managers of incorporated enterprises	F	344
+South Perth	Owner managers of incorporated enterprises	M	796
+South Perth	Owner managers of unincorporated enterprises	F	484
+South Perth	Owner managers of unincorporated enterprises	M	597
+Cockburn		F	131
+Cockburn		M	207
+Cockburn	Contributing family workers	F	287
+Cockburn	Contributing family workers	M	233
+Cockburn	Employee	F	13661
+Cockburn	Employee	M	21512
+Cockburn	Owner managers of incorporated enterprises	F	724
+Cockburn	Owner managers of incorporated enterprises	M	1899
+Cockburn	Owner managers of unincorporated enterprises	F	1028
+Cockburn	Owner managers of unincorporated enterprises	M	1640
+Fremantle		F	75
+Fremantle		M	135
+Fremantle	Contributing family workers	F	196
+Fremantle	Contributing family workers	M	178
+Fremantle	Employee	F	11290
+Fremantle	Employee	M	11141
+Fremantle	Owner managers of incorporated enterprises	F	579
+Fremantle	Owner managers of incorporated enterprises	M	1266
+Fremantle	Owner managers of unincorporated enterprises	F	877
+Fremantle	Owner managers of unincorporated enterprises	M	1198
+Kwinana		F	29
+Kwinana		M	64
+Kwinana	Contributing family workers	F	61
+Kwinana	Contributing family workers	M	53
+Kwinana	Employee	F	3932
+Kwinana	Employee	M	7369
+Kwinana	Owner managers of incorporated enterprises	F	136
+Kwinana	Owner managers of incorporated enterprises	M	371
+Kwinana	Owner managers of unincorporated enterprises	F	251
+Kwinana	Owner managers of unincorporated enterprises	M	388
+Melville		F	146
+Melville		M	132
+Melville	Contributing family workers	F	276
+Melville	Contributing family workers	M	247
+Melville	Employee	F	21832
+Melville	Employee	M	12157
+Melville	Owner managers of incorporated enterprises	F	963
+Melville	Owner managers of incorporated enterprises	M	1715
+Melville	Owner managers of unincorporated enterprises	F	1266
+Melville	Owner managers of unincorporated enterprises	M	1479
+Rockingham		F	125
+Rockingham		M	107
+Rockingham	Contributing family workers	F	281
+Rockingham	Contributing family workers	M	194
+Rockingham	Employee	F	15059
+Rockingham	Employee	M	10456
+Rockingham	Owner managers of incorporated enterprises	F	489
+Rockingham	Owner managers of incorporated enterprises	M	905
+Rockingham	Owner managers of unincorporated enterprises	F	1125
+Rockingham	Owner managers of unincorporated enterprises	M	1318
+Albany		F	121
+Albany		M	201
+Albany	Contributing family workers	F	571
+Albany	Contributing family workers	M	654
+Albany	Employee	F	9499
+Albany	Employee	M	8335
+Albany	Owner managers of incorporated enterprises	F	505
+Albany	Owner managers of incorporated enterprises	M	1025
+Albany	Owner managers of unincorporated enterprises	F	1154
+Albany	Owner managers of unincorporated enterprises	M	2000
+Wheat Belt - North		F	154
+Wheat Belt - North		M	201
+Wheat Belt - North	Contributing family workers	F	687
+Wheat Belt - North	Contributing family workers	M	798
+Wheat Belt - North	Employee	F	7276
+Wheat Belt - North	Employee	M	7740
+Wheat Belt - North	Owner managers of incorporated enterprises	F	555
+Wheat Belt - North	Owner managers of incorporated enterprises	M	1364
+Wheat Belt - North	Owner managers of unincorporated enterprises	F	999
+Wheat Belt - North	Owner managers of unincorporated enterprises	M	1982
+Wheat Belt - South		F	48
+Wheat Belt - South		M	100
+Wheat Belt - South	Contributing family workers	F	367
+Wheat Belt - South	Contributing family workers	M	436
+Wheat Belt - South	Employee	F	3018
+Wheat Belt - South	Employee	M	4073
+Wheat Belt - South	Owner managers of incorporated enterprises	F	270
+Wheat Belt - South	Owner managers of incorporated enterprises	M	620
+Wheat Belt - South	Owner managers of unincorporated enterprises	F	485
+Wheat Belt - South	Owner managers of unincorporated enterprises	M	990
+Kimberley		F	85
+Kimberley		M	115
+Kimberley	Contributing family workers	F	92
+Kimberley	Contributing family workers	M	92
+Kimberley	Employee	F	6426
+Kimberley	Employee	M	6364
+Kimberley	Owner managers of incorporated enterprises	F	249
+Kimberley	Owner managers of incorporated enterprises	M	483
+Kimberley	Owner managers of unincorporated enterprises	F	263
+Kimberley	Owner managers of unincorporated enterprises	M	420
+East Pilbara		F	61
+East Pilbara		M	143
+East Pilbara	Contributing family workers	F	40
+East Pilbara	Contributing family workers	M	41
+East Pilbara	Employee	F	5519
+East Pilbara	Employee	M	16942
+East Pilbara	Owner managers of incorporated enterprises	F	108
+East Pilbara	Owner managers of incorporated enterprises	M	322
+East Pilbara	Owner managers of unincorporated enterprises	F	122
+East Pilbara	Owner managers of unincorporated enterprises	M	187
+West Pilbara		F	86
+West Pilbara		M	177
+West Pilbara	Contributing family workers	F	70
+West Pilbara	Contributing family workers	M	34
+West Pilbara	Employee	F	7522
+West Pilbara	Employee	M	27631
+West Pilbara	Owner managers of incorporated enterprises	F	149
+West Pilbara	Owner managers of incorporated enterprises	M	452
+West Pilbara	Owner managers of unincorporated enterprises	F	208
+West Pilbara	Owner managers of unincorporated enterprises	M	192
+Esperance		F	45
+Esperance		M	73
+Esperance	Contributing family workers	F	151
+Esperance	Contributing family workers	M	156
+Esperance	Employee	F	2460
+Esperance	Employee	M	2694
+Esperance	Owner managers of incorporated enterprises	F	179
+Esperance	Owner managers of incorporated enterprises	M	350
+Esperance	Owner managers of unincorporated enterprises	F	332
+Esperance	Owner managers of unincorporated enterprises	M	515
+Gascoyne		F	39
+Gascoyne		M	47
+Gascoyne	Contributing family workers	F	47
+Gascoyne	Contributing family workers	M	68
+Gascoyne	Employee	F	1714
+Gascoyne	Employee	M	1913
+Gascoyne	Owner managers of incorporated enterprises	F	124
+Gascoyne	Owner managers of incorporated enterprises	M	204
+Gascoyne	Owner managers of unincorporated enterprises	F	177
+Gascoyne	Owner managers of unincorporated enterprises	M	286
+Goldfields		F	62
+Goldfields		M	115
+Goldfields	Contributing family workers	F	85
+Goldfields	Contributing family workers	M	77
+Goldfields	Employee	F	7597
+Goldfields	Employee	M	13717
+Goldfields	Owner managers of incorporated enterprises	F	239
+Goldfields	Owner managers of incorporated enterprises	M	546
+Goldfields	Owner managers of unincorporated enterprises	F	283
+Goldfields	Owner managers of unincorporated enterprises	M	349
+Mid West		F	109
+Mid West		M	142
+Mid West	Contributing family workers	F	381
+Mid West	Contributing family workers	M	379
+Mid West	Employee	F	9257
+Mid West	Employee	M	10539
+Mid West	Owner managers of incorporated enterprises	F	477
+Mid West	Owner managers of incorporated enterprises	M	976
+Mid West	Owner managers of unincorporated enterprises	F	737
+Mid West	Owner managers of unincorporated enterprises	M	1194
+Migratory - Offshore - Shipping (WA)		F	3
+Migratory - Offshore - Shipping (WA)		M	9
+Migratory - Offshore - Shipping (WA)	Contributing family workers	F	3
+Migratory - Offshore - Shipping (WA)	Employee	F	91
+Migratory - Offshore - Shipping (WA)	Employee	M	1447
+Migratory - Offshore - Shipping (WA)	Owner managers of incorporated enterprises	M	22
+Migratory - Offshore - Shipping (WA)	Owner managers of unincorporated enterprises	F	3
+Migratory - Offshore - Shipping (WA)	Owner managers of unincorporated enterprises	M	18
+No usual address (WA)		F	230
+No usual address (WA)		M	617
+No usual address (WA)	Contributing family workers	F	279
+No usual address (WA)	Contributing family workers	M	469
+No usual address (WA)	Employee	F	9054
+No usual address (WA)	Employee	M	22811
+No usual address (WA)	Owner managers of incorporated enterprises	F	519
+No usual address (WA)	Owner managers of incorporated enterprises	M	4142
+No usual address (WA)	Owner managers of unincorporated enterprises	F	3234
+No usual address (WA)	Owner managers of unincorporated enterprises	M	13023
+Brighton		F	16
+Brighton		M	32
+Brighton	Contributing family workers	F	17
+Brighton	Contributing family workers	M	17
+Brighton	Employee	F	1060
+Brighton	Employee	M	1269
+Brighton	Owner managers of incorporated enterprises	F	42
+Brighton	Owner managers of incorporated enterprises	M	100
+Brighton	Owner managers of unincorporated enterprises	F	100
+Brighton	Owner managers of unincorporated enterprises	M	183
+Hobart - North East		F	65
+Hobart - North East		M	76
+Hobart - North East	Contributing family workers	F	94
+Hobart - North East	Contributing family workers	M	79
+Hobart - North East	Employee	F	6375
+Hobart - North East	Employee	M	6109
+Hobart - North East	Owner managers of incorporated enterprises	F	217
+Hobart - North East	Owner managers of incorporated enterprises	M	532
+Hobart - North East	Owner managers of unincorporated enterprises	F	496
+Hobart - North East	Owner managers of unincorporated enterprises	M	760
+Hobart - North West		F	97
+Hobart - North West		M	138
+Hobart - North West	Contributing family workers	F	96
+Hobart - North West	Contributing family workers	M	91
+Hobart - North West	Employee	F	7796
+Hobart - North West	Employee	M	10223
+Hobart - North West	Owner managers of incorporated enterprises	F	202
+Hobart - North West	Owner managers of incorporated enterprises	M	611
+Hobart - North West	Owner managers of unincorporated enterprises	F	427
+Hobart - North West	Owner managers of unincorporated enterprises	M	894
+Hobart - South and West		F	33
+Hobart - South and West		M	50
+Hobart - South and West	Contributing family workers	F	69
+Hobart - South and West	Contributing family workers	M	66
+Hobart - South and West	Employee	F	3149
+Hobart - South and West	Employee	M	2987
+Hobart - South and West	Owner managers of incorporated enterprises	F	134
+Hobart - South and West	Owner managers of incorporated enterprises	M	342
+Hobart - South and West	Owner managers of unincorporated enterprises	F	410
+Hobart - South and West	Owner managers of unincorporated enterprises	M	596
+Hobart Inner		F	203
+Hobart Inner		M	197
+Hobart Inner	Contributing family workers	F	177
+Hobart Inner	Contributing family workers	M	175
+Hobart Inner	Employee	F	26123
+Hobart Inner	Employee	M	18713
+Hobart Inner	Owner managers of incorporated enterprises	F	605
+Hobart Inner	Owner managers of incorporated enterprises	M	1337
+Hobart Inner	Owner managers of unincorporated enterprises	F	1174
+Hobart Inner	Owner managers of unincorporated enterprises	M	1495
+Sorell - Dodges Ferry		F	22
+Sorell - Dodges Ferry		M	23
+Sorell - Dodges Ferry	Contributing family workers	F	53
+Sorell - Dodges Ferry	Contributing family workers	M	51
+Sorell - Dodges Ferry	Employee	F	1271
+Sorell - Dodges Ferry	Employee	M	953
+Sorell - Dodges Ferry	Owner managers of incorporated enterprises	F	52
+Sorell - Dodges Ferry	Owner managers of incorporated enterprises	M	137
+Sorell - Dodges Ferry	Owner managers of unincorporated enterprises	F	204
+Sorell - Dodges Ferry	Owner managers of unincorporated enterprises	M	343
+Launceston		F	160
+Launceston		M	195
+Launceston	Contributing family workers	F	178
+Launceston	Contributing family workers	M	152
+Launceston	Employee	F	18441
+Launceston	Employee	M	14680
+Launceston	Owner managers of incorporated enterprises	F	510
+Launceston	Owner managers of incorporated enterprises	M	1219
+Launceston	Owner managers of unincorporated enterprises	F	936
+Launceston	Owner managers of unincorporated enterprises	M	1379
+Meander Valley - West Tamar		F	23
+Meander Valley - West Tamar		M	46
+Meander Valley - West Tamar	Contributing family workers	F	156
+Meander Valley - West Tamar	Contributing family workers	M	151
+Meander Valley - West Tamar	Employee	F	1756
+Meander Valley - West Tamar	Employee	M	1758
+Meander Valley - West Tamar	Owner managers of incorporated enterprises	F	122
+Meander Valley - West Tamar	Owner managers of incorporated enterprises	M	271
+Meander Valley - West Tamar	Owner managers of unincorporated enterprises	F	333
+Meander Valley - West Tamar	Owner managers of unincorporated enterprises	M	545
+North East		F	84
+North East		M	103
+North East	Contributing family workers	F	269
+North East	Contributing family workers	M	262
+North East	Employee	F	3838
+North East	Employee	M	5462
+North East	Owner managers of incorporated enterprises	F	253
+North East	Owner managers of incorporated enterprises	M	514
+North East	Owner managers of unincorporated enterprises	F	458
+North East	Owner managers of unincorporated enterprises	M	869
+Central Highlands (Tas.)		F	25
+Central Highlands (Tas.)		M	40
+Central Highlands (Tas.)	Contributing family workers	F	70
+Central Highlands (Tas.)	Contributing family workers	M	116
+Central Highlands (Tas.)	Employee	F	613
+Central Highlands (Tas.)	Employee	M	773
+Central Highlands (Tas.)	Owner managers of incorporated enterprises	F	43
+Central Highlands (Tas.)	Owner managers of incorporated enterprises	M	101
+Central Highlands (Tas.)	Owner managers of unincorporated enterprises	F	143
+Central Highlands (Tas.)	Owner managers of unincorporated enterprises	M	289
+Huon - Bruny Island		F	37
+Huon - Bruny Island		M	36
+Huon - Bruny Island	Contributing family workers	F	104
+Huon - Bruny Island	Contributing family workers	M	122
+Huon - Bruny Island	Employee	F	1726
+Huon - Bruny Island	Employee	M	1761
+Huon - Bruny Island	Owner managers of incorporated enterprises	F	93
+Huon - Bruny Island	Owner managers of incorporated enterprises	M	179
+Huon - Bruny Island	Owner managers of unincorporated enterprises	F	304
+Huon - Bruny Island	Owner managers of unincorporated enterprises	M	520
+South East Coast		F	20
+South East Coast		M	35
+South East Coast	Contributing family workers	F	44
+South East Coast	Contributing family workers	M	58
+South East Coast	Employee	F	834
+South East Coast	Employee	M	704
+South East Coast	Owner managers of incorporated enterprises	F	63
+South East Coast	Owner managers of incorporated enterprises	M	97
+South East Coast	Owner managers of unincorporated enterprises	F	117
+South East Coast	Owner managers of unincorporated enterprises	M	213
+Burnie - Ulverstone		F	119
+Burnie - Ulverstone		M	124
+Burnie - Ulverstone	Contributing family workers	F	174
+Burnie - Ulverstone	Contributing family workers	M	156
+Burnie - Ulverstone	Employee	F	8453
+Burnie - Ulverstone	Employee	M	7346
+Burnie - Ulverstone	Owner managers of incorporated enterprises	F	285
+Burnie - Ulverstone	Owner managers of incorporated enterprises	M	572
+Burnie - Ulverstone	Owner managers of unincorporated enterprises	F	492
+Burnie - Ulverstone	Owner managers of unincorporated enterprises	M	703
+Devonport		F	101
+Devonport		M	133
+Devonport	Contributing family workers	F	149
+Devonport	Contributing family workers	M	151
+Devonport	Employee	F	7405
+Devonport	Employee	M	6784
+Devonport	Owner managers of incorporated enterprises	F	284
+Devonport	Owner managers of incorporated enterprises	M	514
+Devonport	Owner managers of unincorporated enterprises	F	479
+Devonport	Owner managers of unincorporated enterprises	M	766
+West Coast		F	54
+West Coast		M	84
+West Coast	Contributing family workers	F	153
+West Coast	Contributing family workers	M	158
+West Coast	Employee	F	2364
+West Coast	Employee	M	3275
+West Coast	Owner managers of incorporated enterprises	F	128
+West Coast	Owner managers of incorporated enterprises	M	250
+West Coast	Owner managers of unincorporated enterprises	F	262
+West Coast	Owner managers of unincorporated enterprises	M	485
+Migratory - Offshore - Shipping (Tas.)	Employee	F	4
+Migratory - Offshore - Shipping (Tas.)	Employee	M	48
+Migratory - Offshore - Shipping (Tas.)	Owner managers of incorporated enterprises	M	3
+No usual address (Tas.)		F	48
+No usual address (Tas.)		M	123
+No usual address (Tas.)	Contributing family workers	F	49
+No usual address (Tas.)	Contributing family workers	M	77
+No usual address (Tas.)	Employee	F	1712
+No usual address (Tas.)	Employee	M	3701
+No usual address (Tas.)	Owner managers of incorporated enterprises	F	60
+No usual address (Tas.)	Owner managers of incorporated enterprises	M	558
+No usual address (Tas.)	Owner managers of unincorporated enterprises	F	485
+No usual address (Tas.)	Owner managers of unincorporated enterprises	M	2334
+Darwin City		F	105
+Darwin City		M	144
+Darwin City	Contributing family workers	F	97
+Darwin City	Contributing family workers	M	87
+Darwin City	Employee	F	11814
+Darwin City	Employee	M	12949
+Darwin City	Owner managers of incorporated enterprises	F	409
+Darwin City	Owner managers of incorporated enterprises	M	879
+Darwin City	Owner managers of unincorporated enterprises	F	386
+Darwin City	Owner managers of unincorporated enterprises	M	524
+Darwin Suburbs		F	119
+Darwin Suburbs		M	131
+Darwin Suburbs	Contributing family workers	F	91
+Darwin Suburbs	Contributing family workers	M	69
+Darwin Suburbs	Employee	F	11131
+Darwin Suburbs	Employee	M	8918
+Darwin Suburbs	Owner managers of incorporated enterprises	F	301
+Darwin Suburbs	Owner managers of incorporated enterprises	M	612
+Darwin Suburbs	Owner managers of unincorporated enterprises	F	459
+Darwin Suburbs	Owner managers of unincorporated enterprises	M	622
+Litchfield		F	40
+Litchfield		M	84
+Litchfield	Contributing family workers	F	82
+Litchfield	Contributing family workers	M	86
+Litchfield	Employee	F	3040
+Litchfield	Employee	M	10457
+Litchfield	Owner managers of incorporated enterprises	F	150
+Litchfield	Owner managers of incorporated enterprises	M	330
+Litchfield	Owner managers of unincorporated enterprises	F	228
+Litchfield	Owner managers of unincorporated enterprises	M	364
+Palmerston		F	32
+Palmerston		M	43
+Palmerston	Contributing family workers	F	31
+Palmerston	Contributing family workers	M	36
+Palmerston	Employee	F	3472
+Palmerston	Employee	M	2878
+Palmerston	Owner managers of incorporated enterprises	F	162
+Palmerston	Owner managers of incorporated enterprises	M	310
+Palmerston	Owner managers of unincorporated enterprises	F	195
+Palmerston	Owner managers of unincorporated enterprises	M	244
+Alice Springs		F	67
+Alice Springs		M	75
+Alice Springs	Contributing family workers	F	45
+Alice Springs	Contributing family workers	M	37
+Alice Springs	Employee	F	7385
+Alice Springs	Employee	M	7430
+Alice Springs	Owner managers of incorporated enterprises	F	214
+Alice Springs	Owner managers of incorporated enterprises	M	423
+Alice Springs	Owner managers of unincorporated enterprises	F	260
+Alice Springs	Owner managers of unincorporated enterprises	M	364
+Barkly		F	19
+Barkly		M	19
+Barkly	Contributing family workers	F	7
+Barkly	Contributing family workers	M	13
+Barkly	Employee	F	813
+Barkly	Employee	M	911
+Barkly	Owner managers of incorporated enterprises	F	22
+Barkly	Owner managers of incorporated enterprises	M	51
+Barkly	Owner managers of unincorporated enterprises	F	16
+Barkly	Owner managers of unincorporated enterprises	M	41
+Daly - Tiwi - West Arnhem		F	37
+Daly - Tiwi - West Arnhem		M	14
+Daly - Tiwi - West Arnhem	Contributing family workers	F	26
+Daly - Tiwi - West Arnhem	Contributing family workers	M	37
+Daly - Tiwi - West Arnhem	Employee	F	1766
+Daly - Tiwi - West Arnhem	Employee	M	2244
+Daly - Tiwi - West Arnhem	Owner managers of incorporated enterprises	F	42
+Daly - Tiwi - West Arnhem	Owner managers of incorporated enterprises	M	99
+Daly - Tiwi - West Arnhem	Owner managers of unincorporated enterprises	F	59
+Daly - Tiwi - West Arnhem	Owner managers of unincorporated enterprises	M	106
+East Arnhem		F	16
+East Arnhem		M	24
+East Arnhem	Contributing family workers	F	9
+East Arnhem	Contributing family workers	M	13
+East Arnhem	Employee	F	1754
+East Arnhem	Employee	M	2455
+East Arnhem	Owner managers of incorporated enterprises	F	32
+East Arnhem	Owner managers of incorporated enterprises	M	63
+East Arnhem	Owner managers of unincorporated enterprises	F	37
+East Arnhem	Owner managers of unincorporated enterprises	M	49
+Katherine		F	40
+Katherine		M	53
+Katherine	Contributing family workers	F	41
+Katherine	Contributing family workers	M	43
+Katherine	Employee	F	2774
+Katherine	Employee	M	3277
+Katherine	Owner managers of incorporated enterprises	F	107
+Katherine	Owner managers of incorporated enterprises	M	190
+Katherine	Owner managers of unincorporated enterprises	F	80
+Katherine	Owner managers of unincorporated enterprises	M	153
+Migratory - Offshore - Shipping (NT)	Contributing family workers	M	4
+Migratory - Offshore - Shipping (NT)	Employee	F	8
+Migratory - Offshore - Shipping (NT)	Employee	M	74
+Migratory - Offshore - Shipping (NT)	Owner managers of incorporated enterprises	M	3
+Migratory - Offshore - Shipping (NT)	Owner managers of unincorporated enterprises	M	4
+No usual address (NT)		F	14
+No usual address (NT)		M	48
+No usual address (NT)	Contributing family workers	F	23
+No usual address (NT)	Contributing family workers	M	32
+No usual address (NT)	Employee	F	571
+No usual address (NT)	Employee	M	1924
+No usual address (NT)	Owner managers of incorporated enterprises	F	58
+No usual address (NT)	Owner managers of incorporated enterprises	M	275
+No usual address (NT)	Owner managers of unincorporated enterprises	F	183
+No usual address (NT)	Owner managers of unincorporated enterprises	M	548
+Belconnen		F	71
+Belconnen		M	79
+Belconnen	Contributing family workers	F	129
+Belconnen	Contributing family workers	M	120
+Belconnen	Employee	F	14267
+Belconnen	Employee	M	11019
+Belconnen	Owner managers of incorporated enterprises	F	366
+Belconnen	Owner managers of incorporated enterprises	M	861
+Belconnen	Owner managers of unincorporated enterprises	F	627
+Belconnen	Owner managers of unincorporated enterprises	M	831
+Canberra East		F	24
+Canberra East		M	37
+Canberra East	Contributing family workers	F	12
+Canberra East	Contributing family workers	M	35
+Canberra East	Employee	F	5158
+Canberra East	Employee	M	9056
+Canberra East	Owner managers of incorporated enterprises	F	63
+Canberra East	Owner managers of incorporated enterprises	M	357
+Canberra East	Owner managers of unincorporated enterprises	F	45
+Canberra East	Owner managers of unincorporated enterprises	M	174
+Gungahlin		F	34
+Gungahlin		M	55
+Gungahlin	Contributing family workers	F	102
+Gungahlin	Contributing family workers	M	100
+Gungahlin	Employee	F	5437
+Gungahlin	Employee	M	6117
+Gungahlin	Owner managers of incorporated enterprises	F	328
+Gungahlin	Owner managers of incorporated enterprises	M	915
+Gungahlin	Owner managers of unincorporated enterprises	F	409
+Gungahlin	Owner managers of unincorporated enterprises	M	590
+North Canberra		F	143
+North Canberra		M	139
+North Canberra	Contributing family workers	F	96
+North Canberra	Contributing family workers	M	105
+North Canberra	Employee	F	32376
+North Canberra	Employee	M	31354
+North Canberra	Owner managers of incorporated enterprises	F	486
+North Canberra	Owner managers of incorporated enterprises	M	1247
+North Canberra	Owner managers of unincorporated enterprises	F	626
+North Canberra	Owner managers of unincorporated enterprises	M	791
+South Canberra		F	113
+South Canberra		M	172
+South Canberra	Contributing family workers	F	118
+South Canberra	Contributing family workers	M	121
+South Canberra	Employee	F	22085
+South Canberra	Employee	M	22937
+South Canberra	Owner managers of incorporated enterprises	F	633
+South Canberra	Owner managers of incorporated enterprises	M	1701
+South Canberra	Owner managers of unincorporated enterprises	F	476
+South Canberra	Owner managers of unincorporated enterprises	M	765
+Tuggeranong		F	48
+Tuggeranong		M	53
+Tuggeranong	Contributing family workers	F	97
+Tuggeranong	Contributing family workers	M	77
+Tuggeranong	Employee	F	8795
+Tuggeranong	Employee	M	7376
+Tuggeranong	Owner managers of incorporated enterprises	F	306
+Tuggeranong	Owner managers of incorporated enterprises	M	729
+Tuggeranong	Owner managers of unincorporated enterprises	F	529
+Tuggeranong	Owner managers of unincorporated enterprises	M	690
+Weston Creek		F	14
+Weston Creek		M	19
+Weston Creek	Contributing family workers	F	30
+Weston Creek	Contributing family workers	M	15
+Weston Creek	Employee	F	2169
+Weston Creek	Employee	M	1280
+Weston Creek	Owner managers of incorporated enterprises	F	87
+Weston Creek	Owner managers of incorporated enterprises	M	205
+Weston Creek	Owner managers of unincorporated enterprises	F	166
+Weston Creek	Owner managers of unincorporated enterprises	M	219
+Woden Valley		F	70
+Woden Valley		M	67
+Woden Valley	Contributing family workers	F	70
+Woden Valley	Contributing family workers	M	64
+Woden Valley	Employee	F	13321
+Woden Valley	Employee	M	7878
+Woden Valley	Owner managers of incorporated enterprises	F	275
+Woden Valley	Owner managers of incorporated enterprises	M	568
+Woden Valley	Owner managers of unincorporated enterprises	F	333
+Woden Valley	Owner managers of unincorporated enterprises	M	380
+Molonglo		F	3
+Molonglo		M	3
+Molonglo	Contributing family workers	F	3
+Molonglo	Contributing family workers	M	3
+Molonglo	Employee	F	89
+Molonglo	Employee	M	126
+Molonglo	Owner managers of incorporated enterprises	F	9
+Molonglo	Owner managers of incorporated enterprises	M	47
+Molonglo	Owner managers of unincorporated enterprises	F	13
+Molonglo	Owner managers of unincorporated enterprises	M	34
+Urriarra - Namadgi		F	3
+Urriarra - Namadgi	Contributing family workers	F	4
+Urriarra - Namadgi	Contributing family workers	M	4
+Urriarra - Namadgi	Employee	F	143
+Urriarra - Namadgi	Employee	M	301
+Urriarra - Namadgi	Owner managers of incorporated enterprises	F	5
+Urriarra - Namadgi	Owner managers of incorporated enterprises	M	7
+Urriarra - Namadgi	Owner managers of unincorporated enterprises	F	6
+Urriarra - Namadgi	Owner managers of unincorporated enterprises	M	18
+No usual address (ACT)		F	19
+No usual address (ACT)		M	57
+No usual address (ACT)	Contributing family workers	F	31
+No usual address (ACT)	Contributing family workers	M	38
+No usual address (ACT)	Employee	F	1276
+No usual address (ACT)	Employee	M	3068
+No usual address (ACT)	Owner managers of incorporated enterprises	F	73
+No usual address (ACT)	Owner managers of incorporated enterprises	M	732
+No usual address (ACT)	Owner managers of unincorporated enterprises	F	290
+No usual address (ACT)	Owner managers of unincorporated enterprises	M	1247
+Christmas Island		F	3
+Christmas Island		M	15
+Christmas Island	Contributing family workers	F	7
+Christmas Island	Contributing family workers	M	10
+Christmas Island	Employee	F	339
+Christmas Island	Employee	M	544
+Christmas Island	Owner managers of incorporated enterprises	F	10
+Christmas Island	Owner managers of incorporated enterprises	M	22
+Christmas Island	Owner managers of unincorporated enterprises	F	11
+Christmas Island	Owner managers of unincorporated enterprises	M	29
+Cocos (Keeling) Islands		F	6
+Cocos (Keeling) Islands		M	9
+Cocos (Keeling) Islands	Employee	F	81
+Cocos (Keeling) Islands	Employee	M	106
+Cocos (Keeling) Islands	Owner managers of incorporated enterprises	F	4
+Cocos (Keeling) Islands	Owner managers of incorporated enterprises	M	6
+Cocos (Keeling) Islands	Owner managers of unincorporated enterprises	F	9
+Cocos (Keeling) Islands	Owner managers of unincorporated enterprises	M	8
+Jervis Bay		F	4
+Jervis Bay		M	3
+Jervis Bay	Contributing family workers	F	3
+Jervis Bay	Contributing family workers	M	3
+Jervis Bay	Employee	F	142
+Jervis Bay	Employee	M	293
+Jervis Bay	Owner managers of incorporated enterprises	M	9
+Jervis Bay	Owner managers of unincorporated enterprises	F	3
+Jervis Bay	Owner managers of unincorporated enterprises	M	10
+Norfolk Island		F	14
+Norfolk Island		M	15
+Norfolk Island	Contributing family workers	F	7
+Norfolk Island	Contributing family workers	M	17
+Norfolk Island	Employee	F	392
+Norfolk Island	Employee	M	316
+Norfolk Island	Owner managers of incorporated enterprises	F	15
+Norfolk Island	Owner managers of incorporated enterprises	M	22
+Norfolk Island	Owner managers of unincorporated enterprises	F	89
+Norfolk Island	Owner managers of unincorporated enterprises	M	109
+No usual address (OT)	Contributing family workers	M	4
+No usual address (OT)	Employee	F	28
+No usual address (OT)	Employee	M	63
+No usual address (OT)	Owner managers of incorporated enterprises	F	3
+No usual address (OT)	Owner managers of incorporated enterprises	M	7
+No usual address (OT)	Owner managers of unincorporated enterprises	F	3
+No usual address (OT)	Owner managers of unincorporated enterprises	M	7

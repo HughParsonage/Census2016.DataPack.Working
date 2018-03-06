@@ -1,0 +1,1986 @@
+STE_NAME16	ModeTravelToWork	NumberModes	Occupation	workers
+New South Wales	Bicycle	1		375
+New South Wales	Bicycle	1	Clerical and administrative workers	1799
+New South Wales	Bicycle	1	Community and personal service workers	1941
+New South Wales	Bicycle	1	Labourers	1904
+New South Wales	Bicycle	1	Machinery operators and drivers	1153
+New South Wales	Bicycle	1	Managers	3257
+New South Wales	Bicycle	1	Professionals	9022
+New South Wales	Bicycle	1	Sales workers	1165
+New South Wales	Bicycle	1	Technicians and trades workers	2587
+New South Wales	Bus	1		2197
+New South Wales	Bus	1	Clerical and administrative workers	22502
+New South Wales	Bus	1	Community and personal service workers	11735
+New South Wales	Bus	1	Labourers	8942
+New South Wales	Bus	1	Machinery operators and drivers	2935
+New South Wales	Bus	1	Managers	18011
+New South Wales	Bus	1	Professionals	44868
+New South Wales	Bus	1	Sales workers	13641
+New South Wales	Bus	1	Technicians and trades workers	7618
+New South Wales	Bus and car as driver	2		95
+New South Wales	Bus and car as driver	2	Clerical and administrative workers	1113
+New South Wales	Bus and car as driver	2	Community and personal service workers	394
+New South Wales	Bus and car as driver	2	Labourers	157
+New South Wales	Bus and car as driver	2	Machinery operators and drivers	190
+New South Wales	Bus and car as driver	2	Managers	951
+New South Wales	Bus and car as driver	2	Professionals	2154
+New South Wales	Bus and car as driver	2	Sales workers	443
+New South Wales	Bus and car as driver	2	Technicians and trades workers	330
+New South Wales	Bus and car as passenger	2		49
+New South Wales	Bus and car as passenger	2	Clerical and administrative workers	532
+New South Wales	Bus and car as passenger	2	Community and personal service workers	523
+New South Wales	Bus and car as passenger	2	Labourers	524
+New South Wales	Bus and car as passenger	2	Machinery operators and drivers	120
+New South Wales	Bus and car as passenger	2	Managers	298
+New South Wales	Bus and car as passenger	2	Professionals	729
+New South Wales	Bus and car as passenger	2	Sales workers	815
+New South Wales	Bus and car as passenger	2	Technicians and trades workers	211
+New South Wales	Bus and ferry	2		28
+New South Wales	Bus and ferry	2	Clerical and administrative workers	195
+New South Wales	Bus and ferry	2	Community and personal service workers	50
+New South Wales	Bus and ferry	2	Labourers	24
+New South Wales	Bus and ferry	2	Machinery operators and drivers	4
+New South Wales	Bus and ferry	2	Managers	337
+New South Wales	Bus and ferry	2	Professionals	667
+New South Wales	Bus and ferry	2	Sales workers	78
+New South Wales	Bus and ferry	2	Technicians and trades workers	37
+New South Wales	Bus and other	2		36
+New South Wales	Bus and other	2	Clerical and administrative workers	198
+New South Wales	Bus and other	2	Community and personal service workers	154
+New South Wales	Bus and other	2	Labourers	100
+New South Wales	Bus and other	2	Machinery operators and drivers	68
+New South Wales	Bus and other	2	Managers	234
+New South Wales	Bus and other	2	Professionals	614
+New South Wales	Bus and other	2	Sales workers	113
+New South Wales	Bus and other	2	Technicians and trades workers	111
+New South Wales	Bus and tram includes light rail	2		10
+New South Wales	Bus and tram includes light rail	2	Clerical and administrative workers	56
+New South Wales	Bus and tram includes light rail	2	Community and personal service workers	65
+New South Wales	Bus and tram includes light rail	2	Labourers	26
+New South Wales	Bus and tram includes light rail	2	Machinery operators and drivers	3
+New South Wales	Bus and tram includes light rail	2	Managers	65
+New South Wales	Bus and tram includes light rail	2	Professionals	159
+New South Wales	Bus and tram includes light rail	2	Sales workers	38
+New South Wales	Bus and tram includes light rail	2	Technicians and trades workers	37
+New South Wales	Bus and two other methods excludes train	3		29
+New South Wales	Bus and two other methods excludes train	3	Clerical and administrative workers	120
+New South Wales	Bus and two other methods excludes train	3	Community and personal service workers	134
+New South Wales	Bus and two other methods excludes train	3	Labourers	54
+New South Wales	Bus and two other methods excludes train	3	Machinery operators and drivers	35
+New South Wales	Bus and two other methods excludes train	3	Managers	185
+New South Wales	Bus and two other methods excludes train	3	Professionals	400
+New South Wales	Bus and two other methods excludes train	3	Sales workers	129
+New South Wales	Bus and two other methods excludes train	3	Technicians and trades workers	82
+New South Wales	Car as driver	1		27181
+New South Wales	Car as driver	1	Clerical and administrative workers	251616
+New South Wales	Car as driver	1	Community and personal service workers	201451
+New South Wales	Car as driver	1	Labourers	169874
+New South Wales	Car as driver	1	Machinery operators and drivers	145557
+New South Wales	Car as driver	1	Managers	264144
+New South Wales	Car as driver	1	Professionals	411353
+New South Wales	Car as driver	1	Sales workers	167617
+New South Wales	Car as driver	1	Technicians and trades workers	298337
+New South Wales	Car as passenger	1		2287
+New South Wales	Car as passenger	1	Clerical and administrative workers	15485
+New South Wales	Car as passenger	1	Community and personal service workers	15577
+New South Wales	Car as passenger	1	Labourers	29994
+New South Wales	Car as passenger	1	Machinery operators and drivers	8060
+New South Wales	Car as passenger	1	Managers	11077
+New South Wales	Car as passenger	1	Professionals	18693
+New South Wales	Car as passenger	1	Sales workers	23163
+New South Wales	Car as passenger	1	Technicians and trades workers	18923
+New South Wales	Did not go to work			4026
+New South Wales	Did not go to work		Clerical and administrative workers	39253
+New South Wales	Did not go to work		Community and personal service workers	48921
+New South Wales	Did not go to work		Labourers	28394
+New South Wales	Did not go to work		Machinery operators and drivers	14771
+New South Wales	Did not go to work		Managers	22436
+New South Wales	Did not go to work		Professionals	63749
+New South Wales	Did not go to work		Sales workers	45169
+New South Wales	Did not go to work		Technicians and trades workers	23862
+New South Wales	Ferry	1		189
+New South Wales	Ferry	1	Clerical and administrative workers	989
+New South Wales	Ferry	1	Community and personal service workers	168
+New South Wales	Ferry	1	Labourers	75
+New South Wales	Ferry	1	Machinery operators and drivers	35
+New South Wales	Ferry	1	Managers	2020
+New South Wales	Ferry	1	Professionals	3702
+New South Wales	Ferry	1	Sales workers	370
+New South Wales	Ferry	1	Technicians and trades workers	213
+New South Wales	Method of travel not stated			10816
+New South Wales	Method of travel not stated		Clerical and administrative workers	2540
+New South Wales	Method of travel not stated		Community and personal service workers	3003
+New South Wales	Method of travel not stated		Labourers	3428
+New South Wales	Method of travel not stated		Machinery operators and drivers	1961
+New South Wales	Method of travel not stated		Managers	2566
+New South Wales	Method of travel not stated		Professionals	3537
+New South Wales	Method of travel not stated		Sales workers	2501
+New South Wales	Method of travel not stated		Technicians and trades workers	3456
+New South Wales	Motorbike scooter	1		340
+New South Wales	Motorbike scooter	1	Clerical and administrative workers	1894
+New South Wales	Motorbike scooter	1	Community and personal service workers	1907
+New South Wales	Motorbike scooter	1	Labourers	1653
+New South Wales	Motorbike scooter	1	Machinery operators and drivers	1808
+New South Wales	Motorbike scooter	1	Managers	3677
+New South Wales	Motorbike scooter	1	Professionals	5058
+New South Wales	Motorbike scooter	1	Sales workers	1184
+New South Wales	Motorbike scooter	1	Technicians and trades workers	3346
+New South Wales	(Other)	1		794
+New South Wales	(Other)	1	Clerical and administrative workers	1914
+New South Wales	(Other)	1	Community and personal service workers	2418
+New South Wales	(Other)	1	Labourers	1633
+New South Wales	(Other)	1	Machinery operators and drivers	1444
+New South Wales	(Other)	1	Managers	3835
+New South Wales	(Other)	1	Professionals	3129
+New South Wales	(Other)	1	Sales workers	816
+New South Wales	(Other)	1	Technicians and trades workers	2739
+New South Wales	Other three methods	3		17
+New South Wales	Other three methods	3	Clerical and administrative workers	59
+New South Wales	Other three methods	3	Community and personal service workers	53
+New South Wales	Other three methods	3	Labourers	71
+New South Wales	Other three methods	3	Machinery operators and drivers	42
+New South Wales	Other three methods	3	Managers	312
+New South Wales	Other three methods	3	Professionals	225
+New South Wales	Other three methods	3	Sales workers	46
+New South Wales	Other three methods	3	Technicians and trades workers	111
+New South Wales	Other two methods	2		343
+New South Wales	Other two methods	2	Clerical and administrative workers	1710
+New South Wales	Other two methods	2	Community and personal service workers	1579
+New South Wales	Other two methods	2	Labourers	2169
+New South Wales	Other two methods	2	Machinery operators and drivers	1837
+New South Wales	Other two methods	2	Managers	2906
+New South Wales	Other two methods	2	Professionals	4079
+New South Wales	Other two methods	2	Sales workers	1357
+New South Wales	Other two methods	2	Technicians and trades workers	3171
+New South Wales	Taxi	1		134
+New South Wales	Taxi	1	Clerical and administrative workers	458
+New South Wales	Taxi	1	Community and personal service workers	688
+New South Wales	Taxi	1	Labourers	525
+New South Wales	Taxi	1	Machinery operators and drivers	1368
+New South Wales	Taxi	1	Managers	1145
+New South Wales	Taxi	1	Professionals	1724
+New South Wales	Taxi	1	Sales workers	385
+New South Wales	Taxi	1	Technicians and trades workers	317
+New South Wales	Train	1		5184
+New South Wales	Train	1	Clerical and administrative workers	48578
+New South Wales	Train	1	Community and personal service workers	17852
+New South Wales	Train	1	Labourers	16233
+New South Wales	Train	1	Machinery operators and drivers	3912
+New South Wales	Train	1	Managers	31426
+New South Wales	Train	1	Professionals	91546
+New South Wales	Train	1	Sales workers	19418
+New South Wales	Train	1	Technicians and trades workers	19090
+New South Wales	Train and bus	2		1101
+New South Wales	Train and bus	2	Clerical and administrative workers	10454
+New South Wales	Train and bus	2	Community and personal service workers	5644
+New South Wales	Train and bus	2	Labourers	5734
+New South Wales	Train and bus	2	Machinery operators and drivers	1985
+New South Wales	Train and bus	2	Managers	6235
+New South Wales	Train and bus	2	Professionals	19263
+New South Wales	Train and bus	2	Sales workers	5332
+New South Wales	Train and bus	2	Technicians and trades workers	4480
+New South Wales	Train and car as driver	2		522
+New South Wales	Train and car as driver	2	Clerical and administrative workers	8053
+New South Wales	Train and car as driver	2	Community and personal service workers	1701
+New South Wales	Train and car as driver	2	Labourers	906
+New South Wales	Train and car as driver	2	Machinery operators and drivers	513
+New South Wales	Train and car as driver	2	Managers	5531
+New South Wales	Train and car as driver	2	Professionals	12449
+New South Wales	Train and car as driver	2	Sales workers	1808
+New South Wales	Train and car as driver	2	Technicians and trades workers	2698
+New South Wales	Train and car as passenger	2		147
+New South Wales	Train and car as passenger	2	Clerical and administrative workers	2386
+New South Wales	Train and car as passenger	2	Community and personal service workers	610
+New South Wales	Train and car as passenger	2	Labourers	525
+New South Wales	Train and car as passenger	2	Machinery operators and drivers	191
+New South Wales	Train and car as passenger	2	Managers	1202
+New South Wales	Train and car as passenger	2	Professionals	3382
+New South Wales	Train and car as passenger	2	Sales workers	791
+New South Wales	Train and car as passenger	2	Technicians and trades workers	673
+New South Wales	Train and ferry	2		25
+New South Wales	Train and ferry	2	Clerical and administrative workers	218
+New South Wales	Train and ferry	2	Community and personal service workers	62
+New South Wales	Train and ferry	2	Labourers	40
+New South Wales	Train and ferry	2	Machinery operators and drivers	10
+New South Wales	Train and ferry	2	Managers	355
+New South Wales	Train and ferry	2	Professionals	749
+New South Wales	Train and ferry	2	Sales workers	88
+New South Wales	Train and ferry	2	Technicians and trades workers	83
+New South Wales	Train and other	2		50
+New South Wales	Train and other	2	Clerical and administrative workers	439
+New South Wales	Train and other	2	Community and personal service workers	224
+New South Wales	Train and other	2	Labourers	200
+New South Wales	Train and other	2	Machinery operators and drivers	132
+New South Wales	Train and other	2	Managers	552
+New South Wales	Train and other	2	Professionals	1431
+New South Wales	Train and other	2	Sales workers	148
+New South Wales	Train and other	2	Technicians and trades workers	302
+New South Wales	Train and tram includes light rail	2		14
+New South Wales	Train and tram includes light rail	2	Clerical and administrative workers	236
+New South Wales	Train and tram includes light rail	2	Community and personal service workers	195
+New South Wales	Train and tram includes light rail	2	Labourers	123
+New South Wales	Train and tram includes light rail	2	Machinery operators and drivers	11
+New South Wales	Train and tram includes light rail	2	Managers	149
+New South Wales	Train and tram includes light rail	2	Professionals	531
+New South Wales	Train and tram includes light rail	2	Sales workers	96
+New South Wales	Train and tram includes light rail	2	Technicians and trades workers	128
+New South Wales	Train and two other methods	3		348
+New South Wales	Train and two other methods	3	Clerical and administrative workers	2342
+New South Wales	Train and two other methods	3	Community and personal service workers	1506
+New South Wales	Train and two other methods	3	Labourers	1047
+New South Wales	Train and two other methods	3	Machinery operators and drivers	429
+New South Wales	Train and two other methods	3	Managers	1858
+New South Wales	Train and two other methods	3	Professionals	5099
+New South Wales	Train and two other methods	3	Sales workers	1172
+New South Wales	Train and two other methods	3	Technicians and trades workers	1330
+New South Wales	Tram includes light rail	1		69
+New South Wales	Tram includes light rail	1	Clerical and administrative workers	388
+New South Wales	Tram includes light rail	1	Community and personal service workers	251
+New South Wales	Tram includes light rail	1	Labourers	103
+New South Wales	Tram includes light rail	1	Machinery operators and drivers	23
+New South Wales	Tram includes light rail	1	Managers	478
+New South Wales	Tram includes light rail	1	Professionals	1051
+New South Wales	Tram includes light rail	1	Sales workers	169
+New South Wales	Tram includes light rail	1	Technicians and trades workers	163
+New South Wales	Truck	1		452
+New South Wales	Truck	1	Clerical and administrative workers	1018
+New South Wales	Truck	1	Community and personal service workers	115
+New South Wales	Truck	1	Labourers	5223
+New South Wales	Truck	1	Machinery operators and drivers	11558
+New South Wales	Truck	1	Managers	4227
+New South Wales	Truck	1	Professionals	279
+New South Wales	Truck	1	Sales workers	659
+New South Wales	Truck	1	Technicians and trades workers	9230
+New South Wales	Walked only	1		1790
+New South Wales	Walked only	1	Clerical and administrative workers	14006
+New South Wales	Walked only	1	Community and personal service workers	19132
+New South Wales	Walked only	1	Labourers	12670
+New South Wales	Walked only	1	Machinery operators and drivers	3943
+New South Wales	Walked only	1	Managers	20285
+New South Wales	Walked only	1	Professionals	33273
+New South Wales	Walked only	1	Sales workers	14313
+New South Wales	Walked only	1	Technicians and trades workers	11676
+New South Wales	Worked at home			3227
+New South Wales	Worked at home		Clerical and administrative workers	32625
+New South Wales	Worked at home		Community and personal service workers	10496
+New South Wales	Worked at home		Labourers	3943
+New South Wales	Worked at home		Machinery operators and drivers	1475
+New South Wales	Worked at home		Managers	43433
+New South Wales	Worked at home		Professionals	50254
+New South Wales	Worked at home		Sales workers	7351
+New South Wales	Worked at home		Technicians and trades workers	10648
+Victoria	Bicycle	1		460
+Victoria	Bicycle	1	Clerical and administrative workers	2857
+Victoria	Bicycle	1	Community and personal service workers	2997
+Victoria	Bicycle	1	Labourers	2229
+Victoria	Bicycle	1	Machinery operators and drivers	1106
+Victoria	Bicycle	1	Managers	4674
+Victoria	Bicycle	1	Professionals	14907
+Victoria	Bicycle	1	Sales workers	1732
+Victoria	Bicycle	1	Technicians and trades workers	2905
+Victoria	Bus	1		519
+Victoria	Bus	1	Clerical and administrative workers	3347
+Victoria	Bus	1	Community and personal service workers	3804
+Victoria	Bus	1	Labourers	4185
+Victoria	Bus	1	Machinery operators and drivers	1259
+Victoria	Bus	1	Managers	1939
+Victoria	Bus	1	Professionals	5569
+Victoria	Bus	1	Sales workers	4933
+Victoria	Bus	1	Technicians and trades workers	2197
+Victoria	Bus and car as driver	2		22
+Victoria	Bus and car as driver	2	Clerical and administrative workers	223
+Victoria	Bus and car as driver	2	Community and personal service workers	209
+Victoria	Bus and car as driver	2	Labourers	139
+Victoria	Bus and car as driver	2	Machinery operators and drivers	114
+Victoria	Bus and car as driver	2	Managers	166
+Victoria	Bus and car as driver	2	Professionals	427
+Victoria	Bus and car as driver	2	Sales workers	194
+Victoria	Bus and car as driver	2	Technicians and trades workers	150
+Victoria	Bus and car as passenger	2		26
+Victoria	Bus and car as passenger	2	Clerical and administrative workers	135
+Victoria	Bus and car as passenger	2	Community and personal service workers	337
+Victoria	Bus and car as passenger	2	Labourers	385
+Victoria	Bus and car as passenger	2	Machinery operators and drivers	66
+Victoria	Bus and car as passenger	2	Managers	44
+Victoria	Bus and car as passenger	2	Professionals	180
+Victoria	Bus and car as passenger	2	Sales workers	649
+Victoria	Bus and car as passenger	2	Technicians and trades workers	135
+Victoria	Bus and ferry	2	Community and personal service workers	4
+Victoria	Bus and ferry	2	Managers	3
+Victoria	Bus and ferry	2	Technicians and trades workers	3
+Victoria	Bus and other	2		10
+Victoria	Bus and other	2	Clerical and administrative workers	43
+Victoria	Bus and other	2	Community and personal service workers	88
+Victoria	Bus and other	2	Labourers	63
+Victoria	Bus and other	2	Machinery operators and drivers	38
+Victoria	Bus and other	2	Managers	28
+Victoria	Bus and other	2	Professionals	113
+Victoria	Bus and other	2	Sales workers	71
+Victoria	Bus and other	2	Technicians and trades workers	42
+Victoria	Bus and tram includes light rail	2		35
+Victoria	Bus and tram includes light rail	2	Clerical and administrative workers	418
+Victoria	Bus and tram includes light rail	2	Community and personal service workers	360
+Victoria	Bus and tram includes light rail	2	Labourers	241
+Victoria	Bus and tram includes light rail	2	Machinery operators and drivers	72
+Victoria	Bus and tram includes light rail	2	Managers	267
+Victoria	Bus and tram includes light rail	2	Professionals	875
+Victoria	Bus and tram includes light rail	2	Sales workers	324
+Victoria	Bus and tram includes light rail	2	Technicians and trades workers	184
+Victoria	Bus and two other methods excludes train	3		11
+Victoria	Bus and two other methods excludes train	3	Clerical and administrative workers	91
+Victoria	Bus and two other methods excludes train	3	Community and personal service workers	72
+Victoria	Bus and two other methods excludes train	3	Labourers	85
+Victoria	Bus and two other methods excludes train	3	Machinery operators and drivers	19
+Victoria	Bus and two other methods excludes train	3	Managers	72
+Victoria	Bus and two other methods excludes train	3	Professionals	181
+Victoria	Bus and two other methods excludes train	3	Sales workers	115
+Victoria	Bus and two other methods excludes train	3	Technicians and trades workers	73
+Victoria	Car as driver	1		21936
+Victoria	Car as driver	1	Clerical and administrative workers	211128
+Victoria	Car as driver	1	Community and personal service workers	175689
+Victoria	Car as driver	1	Labourers	153870
+Victoria	Car as driver	1	Machinery operators and drivers	120460
+Victoria	Car as driver	1	Managers	234273
+Victoria	Car as driver	1	Professionals	355222
+Victoria	Car as driver	1	Sales workers	151535
+Victoria	Car as driver	1	Technicians and trades workers	265809
+Victoria	Car as passenger	1		1623
+Victoria	Car as passenger	1	Clerical and administrative workers	10738
+Victoria	Car as passenger	1	Community and personal service workers	11976
+Victoria	Car as passenger	1	Labourers	22678
+Victoria	Car as passenger	1	Machinery operators and drivers	5191
+Victoria	Car as passenger	1	Managers	8515
+Victoria	Car as passenger	1	Professionals	13234
+Victoria	Car as passenger	1	Sales workers	22094
+Victoria	Car as passenger	1	Technicians and trades workers	13968
+Victoria	Did not go to work			3406
+Victoria	Did not go to work		Clerical and administrative workers	33034
+Victoria	Did not go to work		Community and personal service workers	42857
+Victoria	Did not go to work		Labourers	25333
+Victoria	Did not go to work		Machinery operators and drivers	10285
+Victoria	Did not go to work		Managers	19563
+Victoria	Did not go to work		Professionals	55623
+Victoria	Did not go to work		Sales workers	41790
+Victoria	Did not go to work		Technicians and trades workers	20799
+Victoria	Ferry	1		101
+Victoria	Ferry	1	Clerical and administrative workers	35
+Victoria	Ferry	1	Community and personal service workers	48
+Victoria	Ferry	1	Labourers	58
+Victoria	Ferry	1	Machinery operators and drivers	41
+Victoria	Ferry	1	Managers	53
+Victoria	Ferry	1	Professionals	81
+Victoria	Ferry	1	Sales workers	53
+Victoria	Ferry	1	Technicians and trades workers	117
+Victoria	Method of travel not stated			8233
+Victoria	Method of travel not stated		Clerical and administrative workers	1925
+Victoria	Method of travel not stated		Community and personal service workers	2329
+Victoria	Method of travel not stated		Labourers	2554
+Victoria	Method of travel not stated		Machinery operators and drivers	1517
+Victoria	Method of travel not stated		Managers	2210
+Victoria	Method of travel not stated		Professionals	2736
+Victoria	Method of travel not stated		Sales workers	2036
+Victoria	Method of travel not stated		Technicians and trades workers	2824
+Victoria	Motorbike scooter	1		177
+Victoria	Motorbike scooter	1	Clerical and administrative workers	874
+Victoria	Motorbike scooter	1	Community and personal service workers	863
+Victoria	Motorbike scooter	1	Labourers	876
+Victoria	Motorbike scooter	1	Machinery operators and drivers	784
+Victoria	Motorbike scooter	1	Managers	1920
+Victoria	Motorbike scooter	1	Professionals	2469
+Victoria	Motorbike scooter	1	Sales workers	479
+Victoria	Motorbike scooter	1	Technicians and trades workers	1446
+Victoria	(Other)	1		645
+Victoria	(Other)	1	Clerical and administrative workers	1544
+Victoria	(Other)	1	Community and personal service workers	1328
+Victoria	(Other)	1	Labourers	1126
+Victoria	(Other)	1	Machinery operators and drivers	1308
+Victoria	(Other)	1	Managers	2895
+Victoria	(Other)	1	Professionals	2377
+Victoria	(Other)	1	Sales workers	724
+Victoria	(Other)	1	Technicians and trades workers	1992
+Victoria	Other three methods	3		32
+Victoria	Other three methods	3	Clerical and administrative workers	57
+Victoria	Other three methods	3	Community and personal service workers	69
+Victoria	Other three methods	3	Labourers	62
+Victoria	Other three methods	3	Machinery operators and drivers	40
+Victoria	Other three methods	3	Managers	248
+Victoria	Other three methods	3	Professionals	291
+Victoria	Other three methods	3	Sales workers	75
+Victoria	Other three methods	3	Technicians and trades workers	98
+Victoria	Other two methods	2		300
+Victoria	Other two methods	2	Clerical and administrative workers	1753
+Victoria	Other two methods	2	Community and personal service workers	1594
+Victoria	Other two methods	2	Labourers	1789
+Victoria	Other two methods	2	Machinery operators and drivers	1431
+Victoria	Other two methods	2	Managers	2498
+Victoria	Other two methods	2	Professionals	4345
+Victoria	Other two methods	2	Sales workers	1346
+Victoria	Other two methods	2	Technicians and trades workers	2521
+Victoria	Taxi	1		91
+Victoria	Taxi	1	Clerical and administrative workers	310
+Victoria	Taxi	1	Community and personal service workers	448
+Victoria	Taxi	1	Labourers	483
+Victoria	Taxi	1	Machinery operators and drivers	1442
+Victoria	Taxi	1	Managers	658
+Victoria	Taxi	1	Professionals	842
+Victoria	Taxi	1	Sales workers	272
+Victoria	Taxi	1	Technicians and trades workers	264
+Victoria	Train	1		3087
+Victoria	Train	1	Clerical and administrative workers	33706
+Victoria	Train	1	Community and personal service workers	10495
+Victoria	Train	1	Labourers	8461
+Victoria	Train	1	Machinery operators and drivers	1767
+Victoria	Train	1	Managers	20780
+Victoria	Train	1	Professionals	58529
+Victoria	Train	1	Sales workers	10177
+Victoria	Train	1	Technicians and trades workers	10677
+Victoria	Train and bus	2		374
+Victoria	Train and bus	2	Clerical and administrative workers	3720
+Victoria	Train and bus	2	Community and personal service workers	2076
+Victoria	Train and bus	2	Labourers	2265
+Victoria	Train and bus	2	Machinery operators and drivers	645
+Victoria	Train and bus	2	Managers	1781
+Victoria	Train and bus	2	Professionals	6434
+Victoria	Train and bus	2	Sales workers	2094
+Victoria	Train and bus	2	Technicians and trades workers	1602
+Victoria	Train and car as driver	2		414
+Victoria	Train and car as driver	2	Clerical and administrative workers	6753
+Victoria	Train and car as driver	2	Community and personal service workers	1350
+Victoria	Train and car as driver	2	Labourers	730
+Victoria	Train and car as driver	2	Machinery operators and drivers	323
+Victoria	Train and car as driver	2	Managers	4287
+Victoria	Train and car as driver	2	Professionals	11249
+Victoria	Train and car as driver	2	Sales workers	1319
+Victoria	Train and car as driver	2	Technicians and trades workers	1905
+Victoria	Train and car as passenger	2		99
+Victoria	Train and car as passenger	2	Clerical and administrative workers	1527
+Victoria	Train and car as passenger	2	Community and personal service workers	378
+Victoria	Train and car as passenger	2	Labourers	309
+Victoria	Train and car as passenger	2	Machinery operators and drivers	76
+Victoria	Train and car as passenger	2	Managers	665
+Victoria	Train and car as passenger	2	Professionals	2185
+Victoria	Train and car as passenger	2	Sales workers	446
+Victoria	Train and car as passenger	2	Technicians and trades workers	352
+Victoria	Train and ferry	2		3
+Victoria	Train and ferry	2	Clerical and administrative workers	3
+Victoria	Train and ferry	2	Community and personal service workers	3
+Victoria	Train and ferry	2	Labourers	6
+Victoria	Train and ferry	2	Managers	3
+Victoria	Train and ferry	2	Professionals	6
+Victoria	Train and other	2		47
+Victoria	Train and other	2	Clerical and administrative workers	408
+Victoria	Train and other	2	Community and personal service workers	247
+Victoria	Train and other	2	Labourers	164
+Victoria	Train and other	2	Machinery operators and drivers	99
+Victoria	Train and other	2	Managers	414
+Victoria	Train and other	2	Professionals	1463
+Victoria	Train and other	2	Sales workers	136
+Victoria	Train and other	2	Technicians and trades workers	298
+Victoria	Train and tram includes light rail	2		225
+Victoria	Train and tram includes light rail	2	Clerical and administrative workers	2870
+Victoria	Train and tram includes light rail	2	Community and personal service workers	1309
+Victoria	Train and tram includes light rail	2	Labourers	970
+Victoria	Train and tram includes light rail	2	Machinery operators and drivers	129
+Victoria	Train and tram includes light rail	2	Managers	1840
+Victoria	Train and tram includes light rail	2	Professionals	6795
+Victoria	Train and tram includes light rail	2	Sales workers	1138
+Victoria	Train and tram includes light rail	2	Technicians and trades workers	1071
+Victoria	Train and two other methods	3		332
+Victoria	Train and two other methods	3	Clerical and administrative workers	3593
+Victoria	Train and two other methods	3	Community and personal service workers	1618
+Victoria	Train and two other methods	3	Labourers	1370
+Victoria	Train and two other methods	3	Machinery operators and drivers	348
+Victoria	Train and two other methods	3	Managers	1917
+Victoria	Train and two other methods	3	Professionals	7171
+Victoria	Train and two other methods	3	Sales workers	1459
+Victoria	Train and two other methods	3	Technicians and trades workers	1491
+Victoria	Tram includes light rail	1		701
+Victoria	Tram includes light rail	1	Clerical and administrative workers	8538
+Victoria	Tram includes light rail	1	Community and personal service workers	5287
+Victoria	Tram includes light rail	1	Labourers	2486
+Victoria	Tram includes light rail	1	Machinery operators and drivers	276
+Victoria	Tram includes light rail	1	Managers	6755
+Victoria	Tram includes light rail	1	Professionals	19663
+Victoria	Tram includes light rail	1	Sales workers	4571
+Victoria	Tram includes light rail	1	Technicians and trades workers	3034
+Victoria	Truck	1		251
+Victoria	Truck	1	Clerical and administrative workers	610
+Victoria	Truck	1	Community and personal service workers	41
+Victoria	Truck	1	Labourers	2741
+Victoria	Truck	1	Machinery operators and drivers	6483
+Victoria	Truck	1	Managers	2122
+Victoria	Truck	1	Professionals	130
+Victoria	Truck	1	Sales workers	352
+Victoria	Truck	1	Technicians and trades workers	3937
+Victoria	Walked only	1		1207
+Victoria	Walked only	1	Clerical and administrative workers	8504
+Victoria	Walked only	1	Community and personal service workers	12385
+Victoria	Walked only	1	Labourers	8362
+Victoria	Walked only	1	Machinery operators and drivers	2142
+Victoria	Walked only	1	Managers	14465
+Victoria	Walked only	1	Professionals	23029
+Victoria	Walked only	1	Sales workers	9691
+Victoria	Walked only	1	Technicians and trades workers	7846
+Victoria	Worked at home			2375
+Victoria	Worked at home		Clerical and administrative workers	24016
+Victoria	Worked at home		Community and personal service workers	8665
+Victoria	Worked at home		Labourers	2702
+Victoria	Worked at home		Machinery operators and drivers	1167
+Victoria	Worked at home		Managers	34460
+Victoria	Worked at home		Professionals	38661
+Victoria	Worked at home		Sales workers	5558
+Victoria	Worked at home		Technicians and trades workers	9184
+Queensland	Bicycle	1		319
+Queensland	Bicycle	1	Clerical and administrative workers	1792
+Queensland	Bicycle	1	Community and personal service workers	2329
+Queensland	Bicycle	1	Labourers	2578
+Queensland	Bicycle	1	Machinery operators and drivers	1077
+Queensland	Bicycle	1	Managers	2278
+Queensland	Bicycle	1	Professionals	7253
+Queensland	Bicycle	1	Sales workers	1241
+Queensland	Bicycle	1	Technicians and trades workers	2791
+Queensland	Bus	1		934
+Queensland	Bus	1	Clerical and administrative workers	11272
+Queensland	Bus	1	Community and personal service workers	6015
+Queensland	Bus	1	Labourers	6057
+Queensland	Bus	1	Machinery operators and drivers	3842
+Queensland	Bus	1	Managers	4791
+Queensland	Bus	1	Professionals	16979
+Queensland	Bus	1	Sales workers	6466
+Queensland	Bus	1	Technicians and trades workers	4948
+Queensland	Bus and car as driver	2		55
+Queensland	Bus and car as driver	2	Clerical and administrative workers	1127
+Queensland	Bus and car as driver	2	Community and personal service workers	368
+Queensland	Bus and car as driver	2	Labourers	196
+Queensland	Bus and car as driver	2	Machinery operators and drivers	337
+Queensland	Bus and car as driver	2	Managers	458
+Queensland	Bus and car as driver	2	Professionals	1569
+Queensland	Bus and car as driver	2	Sales workers	307
+Queensland	Bus and car as driver	2	Technicians and trades workers	381
+Queensland	Bus and car as passenger	2		39
+Queensland	Bus and car as passenger	2	Clerical and administrative workers	452
+Queensland	Bus and car as passenger	2	Community and personal service workers	420
+Queensland	Bus and car as passenger	2	Labourers	410
+Queensland	Bus and car as passenger	2	Machinery operators and drivers	93
+Queensland	Bus and car as passenger	2	Managers	165
+Queensland	Bus and car as passenger	2	Professionals	587
+Queensland	Bus and car as passenger	2	Sales workers	614
+Queensland	Bus and car as passenger	2	Technicians and trades workers	153
+Queensland	Bus and ferry	2		12
+Queensland	Bus and ferry	2	Clerical and administrative workers	111
+Queensland	Bus and ferry	2	Community and personal service workers	57
+Queensland	Bus and ferry	2	Labourers	113
+Queensland	Bus and ferry	2	Machinery operators and drivers	35
+Queensland	Bus and ferry	2	Managers	80
+Queensland	Bus and ferry	2	Professionals	238
+Queensland	Bus and ferry	2	Sales workers	42
+Queensland	Bus and ferry	2	Technicians and trades workers	133
+Queensland	Bus and other	2		19
+Queensland	Bus and other	2	Clerical and administrative workers	102
+Queensland	Bus and other	2	Community and personal service workers	127
+Queensland	Bus and other	2	Labourers	93
+Queensland	Bus and other	2	Machinery operators and drivers	82
+Queensland	Bus and other	2	Managers	79
+Queensland	Bus and other	2	Professionals	322
+Queensland	Bus and other	2	Sales workers	87
+Queensland	Bus and other	2	Technicians and trades workers	99
+Queensland	Bus and tram includes light rail	2		8
+Queensland	Bus and tram includes light rail	2	Clerical and administrative workers	70
+Queensland	Bus and tram includes light rail	2	Community and personal service workers	114
+Queensland	Bus and tram includes light rail	2	Labourers	128
+Queensland	Bus and tram includes light rail	2	Machinery operators and drivers	3
+Queensland	Bus and tram includes light rail	2	Managers	29
+Queensland	Bus and tram includes light rail	2	Professionals	68
+Queensland	Bus and tram includes light rail	2	Sales workers	137
+Queensland	Bus and tram includes light rail	2	Technicians and trades workers	46
+Queensland	Bus and two other methods excludes train	3		31
+Queensland	Bus and two other methods excludes train	3	Clerical and administrative workers	171
+Queensland	Bus and two other methods excludes train	3	Community and personal service workers	173
+Queensland	Bus and two other methods excludes train	3	Labourers	228
+Queensland	Bus and two other methods excludes train	3	Machinery operators and drivers	204
+Queensland	Bus and two other methods excludes train	3	Managers	158
+Queensland	Bus and two other methods excludes train	3	Professionals	347
+Queensland	Bus and two other methods excludes train	3	Sales workers	150
+Queensland	Bus and two other methods excludes train	3	Technicians and trades workers	476
+Queensland	Car as driver	1		16906
+Queensland	Car as driver	1	Clerical and administrative workers	180762
+Queensland	Car as driver	1	Community and personal service workers	155431
+Queensland	Car as driver	1	Labourers	137241
+Queensland	Car as driver	1	Machinery operators and drivers	100165
+Queensland	Car as driver	1	Managers	167658
+Queensland	Car as driver	1	Professionals	264677
+Queensland	Car as driver	1	Sales workers	125388
+Queensland	Car as driver	1	Technicians and trades workers	221795
+Queensland	Car as passenger	1		1594
+Queensland	Car as passenger	1	Clerical and administrative workers	11858
+Queensland	Car as passenger	1	Community and personal service workers	12903
+Queensland	Car as passenger	1	Labourers	25551
+Queensland	Car as passenger	1	Machinery operators and drivers	6516
+Queensland	Car as passenger	1	Managers	7594
+Queensland	Car as passenger	1	Professionals	13672
+Queensland	Car as passenger	1	Sales workers	19024
+Queensland	Car as passenger	1	Technicians and trades workers	13563
+Queensland	Did not go to work			2602
+Queensland	Did not go to work		Clerical and administrative workers	26419
+Queensland	Did not go to work		Community and personal service workers	32967
+Queensland	Did not go to work		Labourers	22674
+Queensland	Did not go to work		Machinery operators and drivers	13832
+Queensland	Did not go to work		Managers	14311
+Queensland	Did not go to work		Professionals	40518
+Queensland	Did not go to work		Sales workers	30671
+Queensland	Did not go to work		Technicians and trades workers	21801
+Queensland	Ferry	1		90
+Queensland	Ferry	1	Clerical and administrative workers	498
+Queensland	Ferry	1	Community and personal service workers	217
+Queensland	Ferry	1	Labourers	158
+Queensland	Ferry	1	Machinery operators and drivers	69
+Queensland	Ferry	1	Managers	409
+Queensland	Ferry	1	Professionals	1082
+Queensland	Ferry	1	Sales workers	147
+Queensland	Ferry	1	Technicians and trades workers	255
+Queensland	Method of travel not stated			5948
+Queensland	Method of travel not stated		Clerical and administrative workers	1359
+Queensland	Method of travel not stated		Community and personal service workers	1716
+Queensland	Method of travel not stated		Labourers	2137
+Queensland	Method of travel not stated		Machinery operators and drivers	1259
+Queensland	Method of travel not stated		Managers	1468
+Queensland	Method of travel not stated		Professionals	1556
+Queensland	Method of travel not stated		Sales workers	1362
+Queensland	Method of travel not stated		Technicians and trades workers	2026
+Queensland	Motorbike scooter	1		311
+Queensland	Motorbike scooter	1	Clerical and administrative workers	1802
+Queensland	Motorbike scooter	1	Community and personal service workers	2074
+Queensland	Motorbike scooter	1	Labourers	1976
+Queensland	Motorbike scooter	1	Machinery operators and drivers	2508
+Queensland	Motorbike scooter	1	Managers	2218
+Queensland	Motorbike scooter	1	Professionals	3636
+Queensland	Motorbike scooter	1	Sales workers	1118
+Queensland	Motorbike scooter	1	Technicians and trades workers	4005
+Queensland	(Other)	1		591
+Queensland	(Other)	1	Clerical and administrative workers	1425
+Queensland	(Other)	1	Community and personal service workers	1307
+Queensland	(Other)	1	Labourers	1807
+Queensland	(Other)	1	Machinery operators and drivers	1534
+Queensland	(Other)	1	Managers	2801
+Queensland	(Other)	1	Professionals	2196
+Queensland	(Other)	1	Sales workers	650
+Queensland	(Other)	1	Technicians and trades workers	2282
+Queensland	Other three methods	3		13
+Queensland	Other three methods	3	Clerical and administrative workers	66
+Queensland	Other three methods	3	Community and personal service workers	81
+Queensland	Other three methods	3	Labourers	85
+Queensland	Other three methods	3	Machinery operators and drivers	67
+Queensland	Other three methods	3	Managers	213
+Queensland	Other three methods	3	Professionals	244
+Queensland	Other three methods	3	Sales workers	36
+Queensland	Other three methods	3	Technicians and trades workers	136
+Queensland	Other two methods	2		252
+Queensland	Other two methods	2	Clerical and administrative workers	1385
+Queensland	Other two methods	2	Community and personal service workers	1520
+Queensland	Other two methods	2	Labourers	1986
+Queensland	Other two methods	2	Machinery operators and drivers	1552
+Queensland	Other two methods	2	Managers	1872
+Queensland	Other two methods	2	Professionals	3094
+Queensland	Other two methods	2	Sales workers	1132
+Queensland	Other two methods	2	Technicians and trades workers	2723
+Queensland	Taxi	1		79
+Queensland	Taxi	1	Clerical and administrative workers	278
+Queensland	Taxi	1	Community and personal service workers	442
+Queensland	Taxi	1	Labourers	432
+Queensland	Taxi	1	Machinery operators and drivers	594
+Queensland	Taxi	1	Managers	455
+Queensland	Taxi	1	Professionals	660
+Queensland	Taxi	1	Sales workers	321
+Queensland	Taxi	1	Technicians and trades workers	252
+Queensland	Train	1		877
+Queensland	Train	1	Clerical and administrative workers	11665
+Queensland	Train	1	Community and personal service workers	2935
+Queensland	Train	1	Labourers	2452
+Queensland	Train	1	Machinery operators and drivers	644
+Queensland	Train	1	Managers	4206
+Queensland	Train	1	Professionals	13991
+Queensland	Train	1	Sales workers	2519
+Queensland	Train	1	Technicians and trades workers	2817
+Queensland	Train and bus	2		111
+Queensland	Train and bus	2	Clerical and administrative workers	1437
+Queensland	Train and bus	2	Community and personal service workers	800
+Queensland	Train and bus	2	Labourers	816
+Queensland	Train and bus	2	Machinery operators and drivers	201
+Queensland	Train and bus	2	Managers	495
+Queensland	Train and bus	2	Professionals	2083
+Queensland	Train and bus	2	Sales workers	660
+Queensland	Train and bus	2	Technicians and trades workers	540
+Queensland	Train and car as driver	2		171
+Queensland	Train and car as driver	2	Clerical and administrative workers	3586
+Queensland	Train and car as driver	2	Community and personal service workers	613
+Queensland	Train and car as driver	2	Labourers	280
+Queensland	Train and car as driver	2	Machinery operators and drivers	116
+Queensland	Train and car as driver	2	Managers	1482
+Queensland	Train and car as driver	2	Professionals	4330
+Queensland	Train and car as driver	2	Sales workers	494
+Queensland	Train and car as driver	2	Technicians and trades workers	781
+Queensland	Train and car as passenger	2		35
+Queensland	Train and car as passenger	2	Clerical and administrative workers	623
+Queensland	Train and car as passenger	2	Community and personal service workers	160
+Queensland	Train and car as passenger	2	Labourers	182
+Queensland	Train and car as passenger	2	Machinery operators and drivers	36
+Queensland	Train and car as passenger	2	Managers	236
+Queensland	Train and car as passenger	2	Professionals	703
+Queensland	Train and car as passenger	2	Sales workers	181
+Queensland	Train and car as passenger	2	Technicians and trades workers	185
+Queensland	Train and ferry	2	Clerical and administrative workers	13
+Queensland	Train and ferry	2	Community and personal service workers	7
+Queensland	Train and ferry	2	Labourers	3
+Queensland	Train and ferry	2	Managers	7
+Queensland	Train and ferry	2	Professionals	16
+Queensland	Train and ferry	2	Sales workers	4
+Queensland	Train and ferry	2	Technicians and trades workers	10
+Queensland	Train and other	2		11
+Queensland	Train and other	2	Clerical and administrative workers	113
+Queensland	Train and other	2	Community and personal service workers	69
+Queensland	Train and other	2	Labourers	105
+Queensland	Train and other	2	Machinery operators and drivers	66
+Queensland	Train and other	2	Managers	126
+Queensland	Train and other	2	Professionals	353
+Queensland	Train and other	2	Sales workers	32
+Queensland	Train and other	2	Technicians and trades workers	117
+Queensland	Train and tram includes light rail	2	Clerical and administrative workers	10
+Queensland	Train and tram includes light rail	2	Community and personal service workers	6
+Queensland	Train and tram includes light rail	2	Labourers	10
+Queensland	Train and tram includes light rail	2	Machinery operators and drivers	3
+Queensland	Train and tram includes light rail	2	Managers	3
+Queensland	Train and tram includes light rail	2	Professionals	3
+Queensland	Train and tram includes light rail	2	Sales workers	7
+Queensland	Train and tram includes light rail	2	Technicians and trades workers	6
+Queensland	Train and two other methods	3		105
+Queensland	Train and two other methods	3	Clerical and administrative workers	715
+Queensland	Train and two other methods	3	Community and personal service workers	385
+Queensland	Train and two other methods	3	Labourers	326
+Queensland	Train and two other methods	3	Machinery operators and drivers	127
+Queensland	Train and two other methods	3	Managers	306
+Queensland	Train and two other methods	3	Professionals	1169
+Queensland	Train and two other methods	3	Sales workers	286
+Queensland	Train and two other methods	3	Technicians and trades workers	363
+Queensland	Tram includes light rail	1		49
+Queensland	Tram includes light rail	1	Clerical and administrative workers	155
+Queensland	Tram includes light rail	1	Community and personal service workers	324
+Queensland	Tram includes light rail	1	Labourers	315
+Queensland	Tram includes light rail	1	Machinery operators and drivers	23
+Queensland	Tram includes light rail	1	Managers	140
+Queensland	Tram includes light rail	1	Professionals	382
+Queensland	Tram includes light rail	1	Sales workers	265
+Queensland	Tram includes light rail	1	Technicians and trades workers	158
+Queensland	Truck	1		302
+Queensland	Truck	1	Clerical and administrative workers	487
+Queensland	Truck	1	Community and personal service workers	63
+Queensland	Truck	1	Labourers	3232
+Queensland	Truck	1	Machinery operators and drivers	7622
+Queensland	Truck	1	Managers	2299
+Queensland	Truck	1	Professionals	196
+Queensland	Truck	1	Sales workers	424
+Queensland	Truck	1	Technicians and trades workers	5315
+Queensland	Walked only	1		989
+Queensland	Walked only	1	Clerical and administrative workers	6790
+Queensland	Walked only	1	Community and personal service workers	11261
+Queensland	Walked only	1	Labourers	9917
+Queensland	Walked only	1	Machinery operators and drivers	2577
+Queensland	Walked only	1	Managers	10675
+Queensland	Walked only	1	Professionals	13372
+Queensland	Walked only	1	Sales workers	7183
+Queensland	Walked only	1	Technicians and trades workers	6959
+Queensland	Worked at home			2036
+Queensland	Worked at home		Clerical and administrative workers	24632
+Queensland	Worked at home		Community and personal service workers	7140
+Queensland	Worked at home		Labourers	3584
+Queensland	Worked at home		Machinery operators and drivers	1351
+Queensland	Worked at home		Managers	30459
+Queensland	Worked at home		Professionals	27757
+Queensland	Worked at home		Sales workers	6625
+Queensland	Worked at home		Technicians and trades workers	8368
+South Australia	Bicycle	1		118
+South Australia	Bicycle	1	Clerical and administrative workers	711
+South Australia	Bicycle	1	Community and personal service workers	683
+South Australia	Bicycle	1	Labourers	657
+South Australia	Bicycle	1	Machinery operators and drivers	347
+South Australia	Bicycle	1	Managers	825
+South Australia	Bicycle	1	Professionals	2853
+South Australia	Bicycle	1	Sales workers	344
+South Australia	Bicycle	1	Technicians and trades workers	894
+South Australia	Bus	1		449
+South Australia	Bus	1	Clerical and administrative workers	7235
+South Australia	Bus	1	Community and personal service workers	2848
+South Australia	Bus	1	Labourers	2852
+South Australia	Bus	1	Machinery operators and drivers	907
+South Australia	Bus	1	Managers	2146
+South Australia	Bus	1	Professionals	7689
+South Australia	Bus	1	Sales workers	2926
+South Australia	Bus	1	Technicians and trades workers	2145
+South Australia	Bus and car as driver	2		44
+South Australia	Bus and car as driver	2	Clerical and administrative workers	839
+South Australia	Bus and car as driver	2	Community and personal service workers	252
+South Australia	Bus and car as driver	2	Labourers	124
+South Australia	Bus and car as driver	2	Machinery operators and drivers	93
+South Australia	Bus and car as driver	2	Managers	246
+South Australia	Bus and car as driver	2	Professionals	998
+South Australia	Bus and car as driver	2	Sales workers	210
+South Australia	Bus and car as driver	2	Technicians and trades workers	207
+South Australia	Bus and car as passenger	2		19
+South Australia	Bus and car as passenger	2	Clerical and administrative workers	189
+South Australia	Bus and car as passenger	2	Community and personal service workers	161
+South Australia	Bus and car as passenger	2	Labourers	222
+South Australia	Bus and car as passenger	2	Machinery operators and drivers	27
+South Australia	Bus and car as passenger	2	Managers	70
+South Australia	Bus and car as passenger	2	Professionals	246
+South Australia	Bus and car as passenger	2	Sales workers	226
+South Australia	Bus and car as passenger	2	Technicians and trades workers	68
+South Australia	Bus and ferry	2	Labourers	3
+South Australia	Bus and other	2		6
+South Australia	Bus and other	2	Clerical and administrative workers	59
+South Australia	Bus and other	2	Community and personal service workers	45
+South Australia	Bus and other	2	Labourers	44
+South Australia	Bus and other	2	Machinery operators and drivers	17
+South Australia	Bus and other	2	Managers	22
+South Australia	Bus and other	2	Professionals	116
+South Australia	Bus and other	2	Sales workers	29
+South Australia	Bus and other	2	Technicians and trades workers	28
+South Australia	Bus and tram includes light rail	2		5
+South Australia	Bus and tram includes light rail	2	Clerical and administrative workers	67
+South Australia	Bus and tram includes light rail	2	Community and personal service workers	44
+South Australia	Bus and tram includes light rail	2	Labourers	40
+South Australia	Bus and tram includes light rail	2	Machinery operators and drivers	7
+South Australia	Bus and tram includes light rail	2	Managers	23
+South Australia	Bus and tram includes light rail	2	Professionals	90
+South Australia	Bus and tram includes light rail	2	Sales workers	25
+South Australia	Bus and tram includes light rail	2	Technicians and trades workers	18
+South Australia	Bus and two other methods excludes train	3		3
+South Australia	Bus and two other methods excludes train	3	Clerical and administrative workers	69
+South Australia	Bus and two other methods excludes train	3	Community and personal service workers	57
+South Australia	Bus and two other methods excludes train	3	Labourers	35
+South Australia	Bus and two other methods excludes train	3	Machinery operators and drivers	8
+South Australia	Bus and two other methods excludes train	3	Managers	37
+South Australia	Bus and two other methods excludes train	3	Professionals	121
+South Australia	Bus and two other methods excludes train	3	Sales workers	57
+South Australia	Bus and two other methods excludes train	3	Technicians and trades workers	45
+South Australia	Car as driver	1		5820
+South Australia	Car as driver	1	Clerical and administrative workers	61316
+South Australia	Car as driver	1	Community and personal service workers	58938
+South Australia	Car as driver	1	Labourers	52751
+South Australia	Car as driver	1	Machinery operators and drivers	32997
+South Australia	Car as driver	1	Managers	62754
+South Australia	Car as driver	1	Professionals	98072
+South Australia	Car as driver	1	Sales workers	43968
+South Australia	Car as driver	1	Technicians and trades workers	74885
+South Australia	Car as passenger	1		471
+South Australia	Car as passenger	1	Clerical and administrative workers	3963
+South Australia	Car as passenger	1	Community and personal service workers	3605
+South Australia	Car as passenger	1	Labourers	7846
+South Australia	Car as passenger	1	Machinery operators and drivers	1436
+South Australia	Car as passenger	1	Managers	2644
+South Australia	Car as passenger	1	Professionals	4719
+South Australia	Car as passenger	1	Sales workers	5402
+South Australia	Car as passenger	1	Technicians and trades workers	3710
+South Australia	Did not go to work			939
+South Australia	Did not go to work		Clerical and administrative workers	9977
+South Australia	Did not go to work		Community and personal service workers	14625
+South Australia	Did not go to work		Labourers	9393
+South Australia	Did not go to work		Machinery operators and drivers	4013
+South Australia	Did not go to work		Managers	5711
+South Australia	Did not go to work		Professionals	15574
+South Australia	Did not go to work		Sales workers	12047
+South Australia	Did not go to work		Technicians and trades workers	7107
+South Australia	Ferry	1		29
+South Australia	Ferry	1	Clerical and administrative workers	5
+South Australia	Ferry	1	Community and personal service workers	15
+South Australia	Ferry	1	Labourers	22
+South Australia	Ferry	1	Machinery operators and drivers	22
+South Australia	Ferry	1	Managers	10
+South Australia	Ferry	1	Professionals	12
+South Australia	Ferry	1	Sales workers	12
+South Australia	Ferry	1	Technicians and trades workers	18
+South Australia	Method of travel not stated			2041
+South Australia	Method of travel not stated		Clerical and administrative workers	444
+South Australia	Method of travel not stated		Community and personal service workers	641
+South Australia	Method of travel not stated		Labourers	792
+South Australia	Method of travel not stated		Machinery operators and drivers	378
+South Australia	Method of travel not stated		Managers	503
+South Australia	Method of travel not stated		Professionals	645
+South Australia	Method of travel not stated		Sales workers	524
+South Australia	Method of travel not stated		Technicians and trades workers	591
+South Australia	Motorbike scooter	1		59
+South Australia	Motorbike scooter	1	Clerical and administrative workers	321
+South Australia	Motorbike scooter	1	Community and personal service workers	387
+South Australia	Motorbike scooter	1	Labourers	432
+South Australia	Motorbike scooter	1	Machinery operators and drivers	351
+South Australia	Motorbike scooter	1	Managers	436
+South Australia	Motorbike scooter	1	Professionals	634
+South Australia	Motorbike scooter	1	Sales workers	201
+South Australia	Motorbike scooter	1	Technicians and trades workers	614
+South Australia	(Other)	1		174
+South Australia	(Other)	1	Clerical and administrative workers	491
+South Australia	(Other)	1	Community and personal service workers	302
+South Australia	(Other)	1	Labourers	526
+South Australia	(Other)	1	Machinery operators and drivers	555
+South Australia	(Other)	1	Managers	945
+South Australia	(Other)	1	Professionals	547
+South Australia	(Other)	1	Sales workers	168
+South Australia	(Other)	1	Technicians and trades workers	1178
+South Australia	Other three methods	3		4
+South Australia	Other three methods	3	Clerical and administrative workers	26
+South Australia	Other three methods	3	Community and personal service workers	24
+South Australia	Other three methods	3	Labourers	13
+South Australia	Other three methods	3	Machinery operators and drivers	14
+South Australia	Other three methods	3	Managers	85
+South Australia	Other three methods	3	Professionals	75
+South Australia	Other three methods	3	Sales workers	4
+South Australia	Other three methods	3	Technicians and trades workers	41
+South Australia	Other two methods	2		87
+South Australia	Other two methods	2	Clerical and administrative workers	793
+South Australia	Other two methods	2	Community and personal service workers	527
+South Australia	Other two methods	2	Labourers	613
+South Australia	Other two methods	2	Machinery operators and drivers	428
+South Australia	Other two methods	2	Managers	701
+South Australia	Other two methods	2	Professionals	1210
+South Australia	Other two methods	2	Sales workers	346
+South Australia	Other two methods	2	Technicians and trades workers	812
+South Australia	Taxi	1		26
+South Australia	Taxi	1	Clerical and administrative workers	96
+South Australia	Taxi	1	Community and personal service workers	109
+South Australia	Taxi	1	Labourers	202
+South Australia	Taxi	1	Machinery operators and drivers	416
+South Australia	Taxi	1	Managers	161
+South Australia	Taxi	1	Professionals	176
+South Australia	Taxi	1	Sales workers	81
+South Australia	Taxi	1	Technicians and trades workers	97
+South Australia	Train	1		167
+South Australia	Train	1	Clerical and administrative workers	2592
+South Australia	Train	1	Community and personal service workers	702
+South Australia	Train	1	Labourers	544
+South Australia	Train	1	Machinery operators and drivers	118
+South Australia	Train	1	Managers	820
+South Australia	Train	1	Professionals	2790
+South Australia	Train	1	Sales workers	687
+South Australia	Train	1	Technicians and trades workers	561
+South Australia	Train and bus	2		38
+South Australia	Train and bus	2	Clerical and administrative workers	258
+South Australia	Train and bus	2	Community and personal service workers	181
+South Australia	Train and bus	2	Labourers	283
+South Australia	Train and bus	2	Machinery operators and drivers	39
+South Australia	Train and bus	2	Managers	76
+South Australia	Train and bus	2	Professionals	340
+South Australia	Train and bus	2	Sales workers	167
+South Australia	Train and bus	2	Technicians and trades workers	148
+South Australia	Train and car as driver	2		26
+South Australia	Train and car as driver	2	Clerical and administrative workers	576
+South Australia	Train and car as driver	2	Community and personal service workers	163
+South Australia	Train and car as driver	2	Labourers	58
+South Australia	Train and car as driver	2	Machinery operators and drivers	23
+South Australia	Train and car as driver	2	Managers	185
+South Australia	Train and car as driver	2	Professionals	595
+South Australia	Train and car as driver	2	Sales workers	126
+South Australia	Train and car as driver	2	Technicians and trades workers	142
+South Australia	Train and car as passenger	2		4
+South Australia	Train and car as passenger	2	Clerical and administrative workers	55
+South Australia	Train and car as passenger	2	Community and personal service workers	23
+South Australia	Train and car as passenger	2	Labourers	37
+South Australia	Train and car as passenger	2	Machinery operators and drivers	3
+South Australia	Train and car as passenger	2	Managers	25
+South Australia	Train and car as passenger	2	Professionals	67
+South Australia	Train and car as passenger	2	Sales workers	41
+South Australia	Train and car as passenger	2	Technicians and trades workers	25
+South Australia	Train and other	2	Clerical and administrative workers	19
+South Australia	Train and other	2	Community and personal service workers	24
+South Australia	Train and other	2	Labourers	17
+South Australia	Train and other	2	Machinery operators and drivers	6
+South Australia	Train and other	2	Managers	23
+South Australia	Train and other	2	Professionals	74
+South Australia	Train and other	2	Sales workers	9
+South Australia	Train and other	2	Technicians and trades workers	28
+South Australia	Train and tram includes light rail	2		5
+South Australia	Train and tram includes light rail	2	Clerical and administrative workers	61
+South Australia	Train and tram includes light rail	2	Community and personal service workers	19
+South Australia	Train and tram includes light rail	2	Labourers	12
+South Australia	Train and tram includes light rail	2	Machinery operators and drivers	3
+South Australia	Train and tram includes light rail	2	Managers	19
+South Australia	Train and tram includes light rail	2	Professionals	49
+South Australia	Train and tram includes light rail	2	Sales workers	17
+South Australia	Train and tram includes light rail	2	Technicians and trades workers	10
+South Australia	Train and two other methods	3		26
+South Australia	Train and two other methods	3	Clerical and administrative workers	181
+South Australia	Train and two other methods	3	Community and personal service workers	115
+South Australia	Train and two other methods	3	Labourers	75
+South Australia	Train and two other methods	3	Machinery operators and drivers	21
+South Australia	Train and two other methods	3	Managers	56
+South Australia	Train and two other methods	3	Professionals	188
+South Australia	Train and two other methods	3	Sales workers	80
+South Australia	Train and two other methods	3	Technicians and trades workers	85
+South Australia	Tram includes light rail	1		63
+South Australia	Tram includes light rail	1	Clerical and administrative workers	750
+South Australia	Tram includes light rail	1	Community and personal service workers	264
+South Australia	Tram includes light rail	1	Labourers	103
+South Australia	Tram includes light rail	1	Machinery operators and drivers	11
+South Australia	Tram includes light rail	1	Managers	300
+South Australia	Tram includes light rail	1	Professionals	873
+South Australia	Tram includes light rail	1	Sales workers	225
+South Australia	Tram includes light rail	1	Technicians and trades workers	142
+South Australia	Truck	1		57
+South Australia	Truck	1	Clerical and administrative workers	177
+South Australia	Truck	1	Community and personal service workers	14
+South Australia	Truck	1	Labourers	725
+South Australia	Truck	1	Machinery operators and drivers	1722
+South Australia	Truck	1	Managers	611
+South Australia	Truck	1	Professionals	36
+South Australia	Truck	1	Sales workers	114
+South Australia	Truck	1	Technicians and trades workers	1060
+South Australia	Walked only	1		224
+South Australia	Walked only	1	Clerical and administrative workers	1849
+South Australia	Walked only	1	Community and personal service workers	2734
+South Australia	Walked only	1	Labourers	2849
+South Australia	Walked only	1	Machinery operators and drivers	771
+South Australia	Walked only	1	Managers	3802
+South Australia	Walked only	1	Professionals	3912
+South Australia	Walked only	1	Sales workers	2157
+South Australia	Walked only	1	Technicians and trades workers	1983
+South Australia	Worked at home			552
+South Australia	Worked at home		Clerical and administrative workers	6216
+South Australia	Worked at home		Community and personal service workers	1898
+South Australia	Worked at home		Labourers	1233
+South Australia	Worked at home		Machinery operators and drivers	411
+South Australia	Worked at home		Managers	10413
+South Australia	Worked at home		Professionals	7679
+South Australia	Worked at home		Sales workers	1399
+South Australia	Worked at home		Technicians and trades workers	2708
+Western Australia	Bicycle	1		160
+Western Australia	Bicycle	1	Clerical and administrative workers	907
+Western Australia	Bicycle	1	Community and personal service workers	1162
+Western Australia	Bicycle	1	Labourers	1065
+Western Australia	Bicycle	1	Machinery operators and drivers	583
+Western Australia	Bicycle	1	Managers	1435
+Western Australia	Bicycle	1	Professionals	4393
+Western Australia	Bicycle	1	Sales workers	649
+Western Australia	Bicycle	1	Technicians and trades workers	1416
+Western Australia	Bus	1		664
+Western Australia	Bus	1	Clerical and administrative workers	4870
+Western Australia	Bus	1	Community and personal service workers	2904
+Western Australia	Bus	1	Labourers	5966
+Western Australia	Bus	1	Machinery operators and drivers	7698
+Western Australia	Bus	1	Managers	2667
+Western Australia	Bus	1	Professionals	9164
+Western Australia	Bus	1	Sales workers	3084
+Western Australia	Bus	1	Technicians and trades workers	10547
+Western Australia	Bus and car as driver	2		32
+Western Australia	Bus and car as driver	2	Clerical and administrative workers	348
+Western Australia	Bus and car as driver	2	Community and personal service workers	123
+Western Australia	Bus and car as driver	2	Labourers	127
+Western Australia	Bus and car as driver	2	Machinery operators and drivers	198
+Western Australia	Bus and car as driver	2	Managers	162
+Western Australia	Bus and car as driver	2	Professionals	560
+Western Australia	Bus and car as driver	2	Sales workers	97
+Western Australia	Bus and car as driver	2	Technicians and trades workers	207
+Western Australia	Bus and car as passenger	2		15
+Western Australia	Bus and car as passenger	2	Clerical and administrative workers	129
+Western Australia	Bus and car as passenger	2	Community and personal service workers	193
+Western Australia	Bus and car as passenger	2	Labourers	268
+Western Australia	Bus and car as passenger	2	Machinery operators and drivers	47
+Western Australia	Bus and car as passenger	2	Managers	65
+Western Australia	Bus and car as passenger	2	Professionals	241
+Western Australia	Bus and car as passenger	2	Sales workers	308
+Western Australia	Bus and car as passenger	2	Technicians and trades workers	127
+Western Australia	Bus and ferry	2	Clerical and administrative workers	9
+Western Australia	Bus and ferry	2	Community and personal service workers	11
+Western Australia	Bus and ferry	2	Labourers	3
+Western Australia	Bus and ferry	2	Managers	3
+Western Australia	Bus and ferry	2	Professionals	15
+Western Australia	Bus and ferry	2	Technicians and trades workers	4
+Western Australia	Bus and other	2		5
+Western Australia	Bus and other	2	Clerical and administrative workers	59
+Western Australia	Bus and other	2	Community and personal service workers	49
+Western Australia	Bus and other	2	Labourers	75
+Western Australia	Bus and other	2	Machinery operators and drivers	132
+Western Australia	Bus and other	2	Managers	52
+Western Australia	Bus and other	2	Professionals	164
+Western Australia	Bus and other	2	Sales workers	28
+Western Australia	Bus and other	2	Technicians and trades workers	191
+Western Australia	Bus and tram includes light rail	2	Professionals	3
+Western Australia	Bus and two other methods excludes train	3		8
+Western Australia	Bus and two other methods excludes train	3	Clerical and administrative workers	25
+Western Australia	Bus and two other methods excludes train	3	Community and personal service workers	52
+Western Australia	Bus and two other methods excludes train	3	Labourers	59
+Western Australia	Bus and two other methods excludes train	3	Machinery operators and drivers	82
+Western Australia	Bus and two other methods excludes train	3	Managers	41
+Western Australia	Bus and two other methods excludes train	3	Professionals	92
+Western Australia	Bus and two other methods excludes train	3	Sales workers	44
+Western Australia	Bus and two other methods excludes train	3	Technicians and trades workers	141
+Western Australia	Car as driver	1		9677
+Western Australia	Car as driver	1	Clerical and administrative workers	93817
+Western Australia	Car as driver	1	Community and personal service workers	80025
+Western Australia	Car as driver	1	Labourers	65130
+Western Australia	Car as driver	1	Machinery operators and drivers	53048
+Western Australia	Car as driver	1	Managers	93457
+Western Australia	Car as driver	1	Professionals	149203
+Western Australia	Car as driver	1	Sales workers	61948
+Western Australia	Car as driver	1	Technicians and trades workers	127377
+Western Australia	Car as passenger	1		845
+Western Australia	Car as passenger	1	Clerical and administrative workers	5402
+Western Australia	Car as passenger	1	Community and personal service workers	5640
+Western Australia	Car as passenger	1	Labourers	11706
+Western Australia	Car as passenger	1	Machinery operators and drivers	3788
+Western Australia	Car as passenger	1	Managers	3880
+Western Australia	Car as passenger	1	Professionals	7127
+Western Australia	Car as passenger	1	Sales workers	8995
+Western Australia	Car as passenger	1	Technicians and trades workers	9313
+Western Australia	Did not go to work			1646
+Western Australia	Did not go to work		Clerical and administrative workers	13923
+Western Australia	Did not go to work		Community and personal service workers	17384
+Western Australia	Did not go to work		Labourers	13017
+Western Australia	Did not go to work		Machinery operators and drivers	10520
+Western Australia	Did not go to work		Managers	8160
+Western Australia	Did not go to work		Professionals	22577
+Western Australia	Did not go to work		Sales workers	15357
+Western Australia	Did not go to work		Technicians and trades workers	16593
+Western Australia	Ferry	1		37
+Western Australia	Ferry	1	Clerical and administrative workers	20
+Western Australia	Ferry	1	Community and personal service workers	21
+Western Australia	Ferry	1	Labourers	30
+Western Australia	Ferry	1	Machinery operators and drivers	24
+Western Australia	Ferry	1	Managers	22
+Western Australia	Ferry	1	Professionals	37
+Western Australia	Ferry	1	Sales workers	13
+Western Australia	Ferry	1	Technicians and trades workers	51
+Western Australia	Method of travel not stated			3020
+Western Australia	Method of travel not stated		Clerical and administrative workers	958
+Western Australia	Method of travel not stated		Community and personal service workers	1062
+Western Australia	Method of travel not stated		Labourers	1396
+Western Australia	Method of travel not stated		Machinery operators and drivers	1391
+Western Australia	Method of travel not stated		Managers	1024
+Western Australia	Method of travel not stated		Professionals	1433
+Western Australia	Method of travel not stated		Sales workers	801
+Western Australia	Method of travel not stated		Technicians and trades workers	2145
+Western Australia	Motorbike scooter	1		100
+Western Australia	Motorbike scooter	1	Clerical and administrative workers	540
+Western Australia	Motorbike scooter	1	Community and personal service workers	597
+Western Australia	Motorbike scooter	1	Labourers	582
+Western Australia	Motorbike scooter	1	Machinery operators and drivers	547
+Western Australia	Motorbike scooter	1	Managers	650
+Western Australia	Motorbike scooter	1	Professionals	1208
+Western Australia	Motorbike scooter	1	Sales workers	359
+Western Australia	Motorbike scooter	1	Technicians and trades workers	1175
+Western Australia	(Other)	1		493
+Western Australia	(Other)	1	Clerical and administrative workers	956
+Western Australia	(Other)	1	Community and personal service workers	846
+Western Australia	(Other)	1	Labourers	2331
+Western Australia	(Other)	1	Machinery operators and drivers	3276
+Western Australia	(Other)	1	Managers	1879
+Western Australia	(Other)	1	Professionals	2215
+Western Australia	(Other)	1	Sales workers	273
+Western Australia	(Other)	1	Technicians and trades workers	4755
+Western Australia	Other three methods	3		10
+Western Australia	Other three methods	3	Clerical and administrative workers	34
+Western Australia	Other three methods	3	Community and personal service workers	26
+Western Australia	Other three methods	3	Labourers	37
+Western Australia	Other three methods	3	Machinery operators and drivers	31
+Western Australia	Other three methods	3	Managers	78
+Western Australia	Other three methods	3	Professionals	79
+Western Australia	Other three methods	3	Sales workers	17
+Western Australia	Other three methods	3	Technicians and trades workers	57
+Western Australia	Other two methods	2		129
+Western Australia	Other two methods	2	Clerical and administrative workers	542
+Western Australia	Other two methods	2	Community and personal service workers	587
+Western Australia	Other two methods	2	Labourers	831
+Western Australia	Other two methods	2	Machinery operators and drivers	902
+Western Australia	Other two methods	2	Managers	758
+Western Australia	Other two methods	2	Professionals	1270
+Western Australia	Other two methods	2	Sales workers	499
+Western Australia	Other two methods	2	Technicians and trades workers	1505
+Western Australia	Taxi	1		40
+Western Australia	Taxi	1	Clerical and administrative workers	140
+Western Australia	Taxi	1	Community and personal service workers	183
+Western Australia	Taxi	1	Labourers	193
+Western Australia	Taxi	1	Machinery operators and drivers	589
+Western Australia	Taxi	1	Managers	263
+Western Australia	Taxi	1	Professionals	312
+Western Australia	Taxi	1	Sales workers	136
+Western Australia	Taxi	1	Technicians and trades workers	206
+Western Australia	Train	1		518
+Western Australia	Train	1	Clerical and administrative workers	6309
+Western Australia	Train	1	Community and personal service workers	2011
+Western Australia	Train	1	Labourers	1411
+Western Australia	Train	1	Machinery operators and drivers	304
+Western Australia	Train	1	Managers	2797
+Western Australia	Train	1	Professionals	8692
+Western Australia	Train	1	Sales workers	1693
+Western Australia	Train	1	Technicians and trades workers	2033
+Western Australia	Train and bus	2		209
+Western Australia	Train and bus	2	Clerical and administrative workers	2950
+Western Australia	Train and bus	2	Community and personal service workers	1352
+Western Australia	Train and bus	2	Labourers	1287
+Western Australia	Train and bus	2	Machinery operators and drivers	262
+Western Australia	Train and bus	2	Managers	1244
+Western Australia	Train and bus	2	Professionals	4305
+Western Australia	Train and bus	2	Sales workers	1349
+Western Australia	Train and bus	2	Technicians and trades workers	1231
+Western Australia	Train and car as driver	2		139
+Western Australia	Train and car as driver	2	Clerical and administrative workers	2770
+Western Australia	Train and car as driver	2	Community and personal service workers	513
+Western Australia	Train and car as driver	2	Labourers	211
+Western Australia	Train and car as driver	2	Machinery operators and drivers	97
+Western Australia	Train and car as driver	2	Managers	1158
+Western Australia	Train and car as driver	2	Professionals	3582
+Western Australia	Train and car as driver	2	Sales workers	381
+Western Australia	Train and car as driver	2	Technicians and trades workers	746
+Western Australia	Train and car as passenger	2		29
+Western Australia	Train and car as passenger	2	Clerical and administrative workers	457
+Western Australia	Train and car as passenger	2	Community and personal service workers	97
+Western Australia	Train and car as passenger	2	Labourers	103
+Western Australia	Train and car as passenger	2	Machinery operators and drivers	20
+Western Australia	Train and car as passenger	2	Managers	153
+Western Australia	Train and car as passenger	2	Professionals	518
+Western Australia	Train and car as passenger	2	Sales workers	123
+Western Australia	Train and car as passenger	2	Technicians and trades workers	137
+Western Australia	Train and ferry	2	Labourers	3
+Western Australia	Train and ferry	2	Professionals	3
+Western Australia	Train and ferry	2	Sales workers	3
+Western Australia	Train and other	2		14
+Western Australia	Train and other	2	Clerical and administrative workers	85
+Western Australia	Train and other	2	Community and personal service workers	57
+Western Australia	Train and other	2	Labourers	53
+Western Australia	Train and other	2	Machinery operators and drivers	26
+Western Australia	Train and other	2	Managers	77
+Western Australia	Train and other	2	Professionals	329
+Western Australia	Train and other	2	Sales workers	45
+Western Australia	Train and other	2	Technicians and trades workers	92
+Western Australia	Train and tram includes light rail	2	Professionals	4
+Western Australia	Train and tram includes light rail	2	Sales workers	4
+Western Australia	Train and two other methods	3		67
+Western Australia	Train and two other methods	3	Clerical and administrative workers	1028
+Western Australia	Train and two other methods	3	Community and personal service workers	475
+Western Australia	Train and two other methods	3	Labourers	374
+Western Australia	Train and two other methods	3	Machinery operators and drivers	95
+Western Australia	Train and two other methods	3	Managers	390
+Western Australia	Train and two other methods	3	Professionals	1370
+Western Australia	Train and two other methods	3	Sales workers	401
+Western Australia	Train and two other methods	3	Technicians and trades workers	508
+Western Australia	Tram includes light rail	1		14
+Western Australia	Tram includes light rail	1	Clerical and administrative workers	9
+Western Australia	Tram includes light rail	1	Community and personal service workers	3
+Western Australia	Tram includes light rail	1	Labourers	8
+Western Australia	Tram includes light rail	1	Managers	27
+Western Australia	Tram includes light rail	1	Professionals	34
+Western Australia	Tram includes light rail	1	Sales workers	10
+Western Australia	Tram includes light rail	1	Technicians and trades workers	10
+Western Australia	Truck	1		133
+Western Australia	Truck	1	Clerical and administrative workers	332
+Western Australia	Truck	1	Community and personal service workers	43
+Western Australia	Truck	1	Labourers	1452
+Western Australia	Truck	1	Machinery operators and drivers	2890
+Western Australia	Truck	1	Managers	843
+Western Australia	Truck	1	Professionals	99
+Western Australia	Truck	1	Sales workers	138
+Western Australia	Truck	1	Technicians and trades workers	2680
+Western Australia	Walked only	1		420
+Western Australia	Walked only	1	Clerical and administrative workers	2718
+Western Australia	Walked only	1	Community and personal service workers	4360
+Western Australia	Walked only	1	Labourers	4749
+Western Australia	Walked only	1	Machinery operators and drivers	1440
+Western Australia	Walked only	1	Managers	5466
+Western Australia	Walked only	1	Professionals	6076
+Western Australia	Walked only	1	Sales workers	3267
+Western Australia	Walked only	1	Technicians and trades workers	3738
+Western Australia	Worked at home			929
+Western Australia	Worked at home		Clerical and administrative workers	11215
+Western Australia	Worked at home		Community and personal service workers	3054
+Western Australia	Worked at home		Labourers	1457
+Western Australia	Worked at home		Machinery operators and drivers	674
+Western Australia	Worked at home		Managers	12857
+Western Australia	Worked at home		Professionals	12911
+Western Australia	Worked at home		Sales workers	2189
+Western Australia	Worked at home		Technicians and trades workers	4095
+Tasmania	Bicycle	1		26
+Tasmania	Bicycle	1	Clerical and administrative workers	136
+Tasmania	Bicycle	1	Community and personal service workers	150
+Tasmania	Bicycle	1	Labourers	125
+Tasmania	Bicycle	1	Machinery operators and drivers	46
+Tasmania	Bicycle	1	Managers	157
+Tasmania	Bicycle	1	Professionals	737
+Tasmania	Bicycle	1	Sales workers	73
+Tasmania	Bicycle	1	Technicians and trades workers	192
+Tasmania	Bus	1		97
+Tasmania	Bus	1	Clerical and administrative workers	1044
+Tasmania	Bus	1	Community and personal service workers	620
+Tasmania	Bus	1	Labourers	677
+Tasmania	Bus	1	Machinery operators and drivers	175
+Tasmania	Bus	1	Managers	297
+Tasmania	Bus	1	Professionals	1013
+Tasmania	Bus	1	Sales workers	690
+Tasmania	Bus	1	Technicians and trades workers	428
+Tasmania	Bus and car as driver	2		7
+Tasmania	Bus and car as driver	2	Clerical and administrative workers	140
+Tasmania	Bus and car as driver	2	Community and personal service workers	38
+Tasmania	Bus and car as driver	2	Labourers	17
+Tasmania	Bus and car as driver	2	Machinery operators and drivers	18
+Tasmania	Bus and car as driver	2	Managers	34
+Tasmania	Bus and car as driver	2	Professionals	109
+Tasmania	Bus and car as driver	2	Sales workers	41
+Tasmania	Bus and car as driver	2	Technicians and trades workers	30
+Tasmania	Bus and car as passenger	2		10
+Tasmania	Bus and car as passenger	2	Clerical and administrative workers	46
+Tasmania	Bus and car as passenger	2	Community and personal service workers	44
+Tasmania	Bus and car as passenger	2	Labourers	60
+Tasmania	Bus and car as passenger	2	Machinery operators and drivers	6
+Tasmania	Bus and car as passenger	2	Managers	11
+Tasmania	Bus and car as passenger	2	Professionals	48
+Tasmania	Bus and car as passenger	2	Sales workers	84
+Tasmania	Bus and car as passenger	2	Technicians and trades workers	26
+Tasmania	Bus and other	2	Clerical and administrative workers	14
+Tasmania	Bus and other	2	Community and personal service workers	20
+Tasmania	Bus and other	2	Labourers	8
+Tasmania	Bus and other	2	Managers	10
+Tasmania	Bus and other	2	Professionals	13
+Tasmania	Bus and other	2	Sales workers	15
+Tasmania	Bus and other	2	Technicians and trades workers	6
+Tasmania	Bus and two other methods excludes train	3		3
+Tasmania	Bus and two other methods excludes train	3	Clerical and administrative workers	11
+Tasmania	Bus and two other methods excludes train	3	Community and personal service workers	20
+Tasmania	Bus and two other methods excludes train	3	Labourers	5
+Tasmania	Bus and two other methods excludes train	3	Machinery operators and drivers	4
+Tasmania	Bus and two other methods excludes train	3	Managers	11
+Tasmania	Bus and two other methods excludes train	3	Professionals	21
+Tasmania	Bus and two other methods excludes train	3	Sales workers	11
+Tasmania	Bus and two other methods excludes train	3	Technicians and trades workers	6
+Tasmania	Car as driver	1		1908
+Tasmania	Car as driver	1	Clerical and administrative workers	18401
+Tasmania	Car as driver	1	Community and personal service workers	17318
+Tasmania	Car as driver	1	Labourers	15607
+Tasmania	Car as driver	1	Machinery operators and drivers	9781
+Tasmania	Car as driver	1	Managers	17290
+Tasmania	Car as driver	1	Professionals	25934
+Tasmania	Car as driver	1	Sales workers	12370
+Tasmania	Car as driver	1	Technicians and trades workers	22514
+Tasmania	Car as passenger	1		197
+Tasmania	Car as passenger	1	Clerical and administrative workers	1739
+Tasmania	Car as passenger	1	Community and personal service workers	1364
+Tasmania	Car as passenger	1	Labourers	2480
+Tasmania	Car as passenger	1	Machinery operators and drivers	497
+Tasmania	Car as passenger	1	Managers	895
+Tasmania	Car as passenger	1	Professionals	1840
+Tasmania	Car as passenger	1	Sales workers	2116
+Tasmania	Car as passenger	1	Technicians and trades workers	1387
+Tasmania	Did not go to work			319
+Tasmania	Did not go to work		Clerical and administrative workers	3123
+Tasmania	Did not go to work		Community and personal service workers	4362
+Tasmania	Did not go to work		Labourers	3328
+Tasmania	Did not go to work		Machinery operators and drivers	1261
+Tasmania	Did not go to work		Managers	1713
+Tasmania	Did not go to work		Professionals	4600
+Tasmania	Did not go to work		Sales workers	4031
+Tasmania	Did not go to work		Technicians and trades workers	2209
+Tasmania	Ferry	1		5
+Tasmania	Ferry	1	Community and personal service workers	3
+Tasmania	Ferry	1	Labourers	16
+Tasmania	Ferry	1	Managers	4
+Tasmania	Ferry	1	Professionals	8
+Tasmania	Ferry	1	Technicians and trades workers	6
+Tasmania	Method of travel not stated			717
+Tasmania	Method of travel not stated		Clerical and administrative workers	141
+Tasmania	Method of travel not stated		Community and personal service workers	227
+Tasmania	Method of travel not stated		Labourers	293
+Tasmania	Method of travel not stated		Machinery operators and drivers	128
+Tasmania	Method of travel not stated		Managers	177
+Tasmania	Method of travel not stated		Professionals	176
+Tasmania	Method of travel not stated		Sales workers	150
+Tasmania	Method of travel not stated		Technicians and trades workers	225
+Tasmania	Motorbike scooter	1		16
+Tasmania	Motorbike scooter	1	Clerical and administrative workers	119
+Tasmania	Motorbike scooter	1	Community and personal service workers	115
+Tasmania	Motorbike scooter	1	Labourers	235
+Tasmania	Motorbike scooter	1	Machinery operators and drivers	64
+Tasmania	Motorbike scooter	1	Managers	226
+Tasmania	Motorbike scooter	1	Professionals	204
+Tasmania	Motorbike scooter	1	Sales workers	100
+Tasmania	Motorbike scooter	1	Technicians and trades workers	219
+Tasmania	(Other)	1		53
+Tasmania	(Other)	1	Clerical and administrative workers	112
+Tasmania	(Other)	1	Community and personal service workers	118
+Tasmania	(Other)	1	Labourers	223
+Tasmania	(Other)	1	Machinery operators and drivers	104
+Tasmania	(Other)	1	Managers	264
+Tasmania	(Other)	1	Professionals	189
+Tasmania	(Other)	1	Sales workers	72
+Tasmania	(Other)	1	Technicians and trades workers	182
+Tasmania	Other three methods	3		3
+Tasmania	Other three methods	3	Clerical and administrative workers	8
+Tasmania	Other three methods	3	Community and personal service workers	7
+Tasmania	Other three methods	3	Labourers	6
+Tasmania	Other three methods	3	Machinery operators and drivers	5
+Tasmania	Other three methods	3	Managers	12
+Tasmania	Other three methods	3	Professionals	26
+Tasmania	Other three methods	3	Technicians and trades workers	10
+Tasmania	Other two methods	2		15
+Tasmania	Other two methods	2	Clerical and administrative workers	134
+Tasmania	Other two methods	2	Community and personal service workers	121
+Tasmania	Other two methods	2	Labourers	164
+Tasmania	Other two methods	2	Machinery operators and drivers	121
+Tasmania	Other two methods	2	Managers	191
+Tasmania	Other two methods	2	Professionals	363
+Tasmania	Other two methods	2	Sales workers	103
+Tasmania	Other two methods	2	Technicians and trades workers	204
+Tasmania	Taxi	1		9
+Tasmania	Taxi	1	Clerical and administrative workers	54
+Tasmania	Taxi	1	Community and personal service workers	80
+Tasmania	Taxi	1	Labourers	68
+Tasmania	Taxi	1	Machinery operators and drivers	145
+Tasmania	Taxi	1	Managers	49
+Tasmania	Taxi	1	Professionals	55
+Tasmania	Taxi	1	Sales workers	49
+Tasmania	Taxi	1	Technicians and trades workers	55
+Tasmania	Train	1		4
+Tasmania	Train	1	Clerical and administrative workers	10
+Tasmania	Train	1	Community and personal service workers	3
+Tasmania	Train	1	Labourers	13
+Tasmania	Train	1	Managers	8
+Tasmania	Train	1	Professionals	23
+Tasmania	Train	1	Sales workers	6
+Tasmania	Train	1	Technicians and trades workers	7
+Tasmania	Train and bus	2		3
+Tasmania	Train and bus	2	Clerical and administrative workers	3
+Tasmania	Train and bus	2	Professionals	3
+Tasmania	Train and car as driver	2	Clerical and administrative workers	4
+Tasmania	Train and car as driver	2	Community and personal service workers	4
+Tasmania	Train and car as driver	2	Machinery operators and drivers	3
+Tasmania	Train and car as driver	2	Managers	7
+Tasmania	Train and car as driver	2	Professionals	15
+Tasmania	Train and car as driver	2	Technicians and trades workers	3
+Tasmania	Train and car as passenger	2	Clerical and administrative workers	3
+Tasmania	Train and car as passenger	2	Technicians and trades workers	3
+Tasmania	Train and other	2	Machinery operators and drivers	3
+Tasmania	Train and other	2	Managers	3
+Tasmania	Train and other	2	Professionals	3
+Tasmania	Train and two other methods	3	Managers	3
+Tasmania	Train and two other methods	3	Professionals	9
+Tasmania	Tram includes light rail	1	Clerical and administrative workers	3
+Tasmania	Tram includes light rail	1	Community and personal service workers	3
+Tasmania	Tram includes light rail	1	Managers	5
+Tasmania	Tram includes light rail	1	Professionals	3
+Tasmania	Tram includes light rail	1	Sales workers	4
+Tasmania	Tram includes light rail	1	Technicians and trades workers	3
+Tasmania	Truck	1		30
+Tasmania	Truck	1	Clerical and administrative workers	37
+Tasmania	Truck	1	Community and personal service workers	5
+Tasmania	Truck	1	Labourers	246
+Tasmania	Truck	1	Machinery operators and drivers	748
+Tasmania	Truck	1	Managers	194
+Tasmania	Truck	1	Professionals	11
+Tasmania	Truck	1	Sales workers	39
+Tasmania	Truck	1	Technicians and trades workers	351
+Tasmania	Walked only	1		139
+Tasmania	Walked only	1	Clerical and administrative workers	1096
+Tasmania	Walked only	1	Community and personal service workers	1306
+Tasmania	Walked only	1	Labourers	1162
+Tasmania	Walked only	1	Machinery operators and drivers	294
+Tasmania	Walked only	1	Managers	1656
+Tasmania	Walked only	1	Professionals	2665
+Tasmania	Walked only	1	Sales workers	1041
+Tasmania	Walked only	1	Technicians and trades workers	971
+Tasmania	Worked at home			182
+Tasmania	Worked at home		Clerical and administrative workers	1730
+Tasmania	Worked at home		Community and personal service workers	703
+Tasmania	Worked at home		Labourers	348
+Tasmania	Worked at home		Machinery operators and drivers	144
+Tasmania	Worked at home		Managers	3124
+Tasmania	Worked at home		Professionals	2470
+Tasmania	Worked at home		Sales workers	362
+Tasmania	Worked at home		Technicians and trades workers	970
+Northern Territory	Bicycle	1		40
+Northern Territory	Bicycle	1	Clerical and administrative workers	219
+Northern Territory	Bicycle	1	Community and personal service workers	434
+Northern Territory	Bicycle	1	Labourers	236
+Northern Territory	Bicycle	1	Machinery operators and drivers	104
+Northern Territory	Bicycle	1	Managers	262
+Northern Territory	Bicycle	1	Professionals	924
+Northern Territory	Bicycle	1	Sales workers	120
+Northern Territory	Bicycle	1	Technicians and trades workers	297
+Northern Territory	Bus	1		140
+Northern Territory	Bus	1	Clerical and administrative workers	558
+Northern Territory	Bus	1	Community and personal service workers	402
+Northern Territory	Bus	1	Labourers	1184
+Northern Territory	Bus	1	Machinery operators and drivers	781
+Northern Territory	Bus	1	Managers	287
+Northern Territory	Bus	1	Professionals	1002
+Northern Territory	Bus	1	Sales workers	292
+Northern Territory	Bus	1	Technicians and trades workers	2501
+Northern Territory	Bus and car as driver	2		14
+Northern Territory	Bus and car as driver	2	Clerical and administrative workers	66
+Northern Territory	Bus and car as driver	2	Community and personal service workers	19
+Northern Territory	Bus and car as driver	2	Labourers	264
+Northern Territory	Bus and car as driver	2	Machinery operators and drivers	120
+Northern Territory	Bus and car as driver	2	Managers	30
+Northern Territory	Bus and car as driver	2	Professionals	65
+Northern Territory	Bus and car as driver	2	Sales workers	17
+Northern Territory	Bus and car as driver	2	Technicians and trades workers	388
+Northern Territory	Bus and car as passenger	2		4
+Northern Territory	Bus and car as passenger	2	Clerical and administrative workers	36
+Northern Territory	Bus and car as passenger	2	Community and personal service workers	32
+Northern Territory	Bus and car as passenger	2	Labourers	41
+Northern Territory	Bus and car as passenger	2	Machinery operators and drivers	8
+Northern Territory	Bus and car as passenger	2	Managers	9
+Northern Territory	Bus and car as passenger	2	Professionals	25
+Northern Territory	Bus and car as passenger	2	Sales workers	31
+Northern Territory	Bus and car as passenger	2	Technicians and trades workers	40
+Northern Territory	Bus and ferry	2	Clerical and administrative workers	4
+Northern Territory	Bus and ferry	2	Professionals	4
+Northern Territory	Bus and ferry	2	Technicians and trades workers	3
+Northern Territory	Bus and other	2		4
+Northern Territory	Bus and other	2	Clerical and administrative workers	6
+Northern Territory	Bus and other	2	Community and personal service workers	9
+Northern Territory	Bus and other	2	Labourers	32
+Northern Territory	Bus and other	2	Machinery operators and drivers	33
+Northern Territory	Bus and other	2	Managers	5
+Northern Territory	Bus and other	2	Professionals	23
+Northern Territory	Bus and other	2	Sales workers	5
+Northern Territory	Bus and other	2	Technicians and trades workers	97
+Northern Territory	Bus and two other methods excludes train	3	Clerical and administrative workers	9
+Northern Territory	Bus and two other methods excludes train	3	Community and personal service workers	14
+Northern Territory	Bus and two other methods excludes train	3	Labourers	16
+Northern Territory	Bus and two other methods excludes train	3	Machinery operators and drivers	28
+Northern Territory	Bus and two other methods excludes train	3	Managers	9
+Northern Territory	Bus and two other methods excludes train	3	Professionals	24
+Northern Territory	Bus and two other methods excludes train	3	Sales workers	9
+Northern Territory	Bus and two other methods excludes train	3	Technicians and trades workers	25
+Northern Territory	Car as driver	1		1073
+Northern Territory	Car as driver	1	Clerical and administrative workers	9570
+Northern Territory	Car as driver	1	Community and personal service workers	8065
+Northern Territory	Car as driver	1	Labourers	4509
+Northern Territory	Car as driver	1	Machinery operators and drivers	3561
+Northern Territory	Car as driver	1	Managers	8849
+Northern Territory	Car as driver	1	Professionals	12855
+Northern Territory	Car as driver	1	Sales workers	4036
+Northern Territory	Car as driver	1	Technicians and trades workers	10519
+Northern Territory	Car as passenger	1		151
+Northern Territory	Car as passenger	1	Clerical and administrative workers	950
+Northern Territory	Car as passenger	1	Community and personal service workers	1035
+Northern Territory	Car as passenger	1	Labourers	1145
+Northern Territory	Car as passenger	1	Machinery operators and drivers	354
+Northern Territory	Car as passenger	1	Managers	594
+Northern Territory	Car as passenger	1	Professionals	1447
+Northern Territory	Car as passenger	1	Sales workers	797
+Northern Territory	Car as passenger	1	Technicians and trades workers	1063
+Northern Territory	Did not go to work			171
+Northern Territory	Did not go to work		Clerical and administrative workers	1070
+Northern Territory	Did not go to work		Community and personal service workers	1422
+Northern Territory	Did not go to work		Labourers	756
+Northern Territory	Did not go to work		Machinery operators and drivers	560
+Northern Territory	Did not go to work		Managers	740
+Northern Territory	Did not go to work		Professionals	1876
+Northern Territory	Did not go to work		Sales workers	787
+Northern Territory	Did not go to work		Technicians and trades workers	1388
+Northern Territory	Ferry	1		4
+Northern Territory	Ferry	1	Clerical and administrative workers	4
+Northern Territory	Ferry	1	Labourers	7
+Northern Territory	Ferry	1	Machinery operators and drivers	4
+Northern Territory	Ferry	1	Managers	6
+Northern Territory	Ferry	1	Professionals	12
+Northern Territory	Ferry	1	Sales workers	4
+Northern Territory	Ferry	1	Technicians and trades workers	5
+Northern Territory	Method of travel not stated			558
+Northern Territory	Method of travel not stated		Clerical and administrative workers	112
+Northern Territory	Method of travel not stated		Community and personal service workers	164
+Northern Territory	Method of travel not stated		Labourers	162
+Northern Territory	Method of travel not stated		Machinery operators and drivers	70
+Northern Territory	Method of travel not stated		Managers	93
+Northern Territory	Method of travel not stated		Professionals	163
+Northern Territory	Method of travel not stated		Sales workers	67
+Northern Territory	Method of travel not stated		Technicians and trades workers	201
+Northern Territory	Motorbike scooter	1		29
+Northern Territory	Motorbike scooter	1	Clerical and administrative workers	134
+Northern Territory	Motorbike scooter	1	Community and personal service workers	239
+Northern Territory	Motorbike scooter	1	Labourers	150
+Northern Territory	Motorbike scooter	1	Machinery operators and drivers	147
+Northern Territory	Motorbike scooter	1	Managers	133
+Northern Territory	Motorbike scooter	1	Professionals	224
+Northern Territory	Motorbike scooter	1	Sales workers	97
+Northern Territory	Motorbike scooter	1	Technicians and trades workers	252
+Northern Territory	(Other)	1		71
+Northern Territory	(Other)	1	Clerical and administrative workers	98
+Northern Territory	(Other)	1	Community and personal service workers	179
+Northern Territory	(Other)	1	Labourers	286
+Northern Territory	(Other)	1	Machinery operators and drivers	282
+Northern Territory	(Other)	1	Managers	186
+Northern Territory	(Other)	1	Professionals	258
+Northern Territory	(Other)	1	Sales workers	27
+Northern Territory	(Other)	1	Technicians and trades workers	404
+Northern Territory	Other three methods	3		3
+Northern Territory	Other three methods	3	Clerical and administrative workers	14
+Northern Territory	Other three methods	3	Community and personal service workers	9
+Northern Territory	Other three methods	3	Labourers	4
+Northern Territory	Other three methods	3	Machinery operators and drivers	9
+Northern Territory	Other three methods	3	Managers	16
+Northern Territory	Other three methods	3	Professionals	15
+Northern Territory	Other three methods	3	Sales workers	6
+Northern Territory	Other three methods	3	Technicians and trades workers	6
+Northern Territory	Other two methods	2		21
+Northern Territory	Other two methods	2	Clerical and administrative workers	101
+Northern Territory	Other two methods	2	Community and personal service workers	141
+Northern Territory	Other two methods	2	Labourers	79
+Northern Territory	Other two methods	2	Machinery operators and drivers	91
+Northern Territory	Other two methods	2	Managers	114
+Northern Territory	Other two methods	2	Professionals	230
+Northern Territory	Other two methods	2	Sales workers	46
+Northern Territory	Other two methods	2	Technicians and trades workers	181
+Northern Territory	Taxi	1		8
+Northern Territory	Taxi	1	Clerical and administrative workers	25
+Northern Territory	Taxi	1	Community and personal service workers	48
+Northern Territory	Taxi	1	Labourers	37
+Northern Territory	Taxi	1	Machinery operators and drivers	45
+Northern Territory	Taxi	1	Managers	24
+Northern Territory	Taxi	1	Professionals	44
+Northern Territory	Taxi	1	Sales workers	38
+Northern Territory	Taxi	1	Technicians and trades workers	29
+Northern Territory	Train	1		9
+Northern Territory	Train	1	Clerical and administrative workers	7
+Northern Territory	Train	1	Community and personal service workers	3
+Northern Territory	Train	1	Labourers	3
+Northern Territory	Train	1	Machinery operators and drivers	3
+Northern Territory	Train	1	Managers	5
+Northern Territory	Train	1	Professionals	9
+Northern Territory	Train	1	Technicians and trades workers	3
+Northern Territory	Train and bus	2	Professionals	3
+Northern Territory	Train and car as driver	2	Clerical and administrative workers	4
+Northern Territory	Train and car as driver	2	Machinery operators and drivers	3
+Northern Territory	Train and car as driver	2	Managers	3
+Northern Territory	Train and car as driver	2	Professionals	3
+Northern Territory	Train and car as driver	2	Technicians and trades workers	8
+Northern Territory	Train and other	2	Technicians and trades workers	3
+Northern Territory	Train and two other methods	3	Community and personal service workers	3
+Northern Territory	Train and two other methods	3	Labourers	5
+Northern Territory	Train and two other methods	3	Machinery operators and drivers	7
+Northern Territory	Train and two other methods	3	Professionals	3
+Northern Territory	Train and two other methods	3	Technicians and trades workers	4
+Northern Territory	Tram includes light rail	1	Managers	3
+Northern Territory	Truck	1		24
+Northern Territory	Truck	1	Clerical and administrative workers	10
+Northern Territory	Truck	1	Community and personal service workers	14
+Northern Territory	Truck	1	Labourers	106
+Northern Territory	Truck	1	Machinery operators and drivers	174
+Northern Territory	Truck	1	Managers	55
+Northern Territory	Truck	1	Professionals	11
+Northern Territory	Truck	1	Sales workers	10
+Northern Territory	Truck	1	Technicians and trades workers	215
+Northern Territory	Walked only	1		291
+Northern Territory	Walked only	1	Clerical and administrative workers	869
+Northern Territory	Walked only	1	Community and personal service workers	1936
+Northern Territory	Walked only	1	Labourers	1263
+Northern Territory	Walked only	1	Machinery operators and drivers	285
+Northern Territory	Walked only	1	Managers	976
+Northern Territory	Walked only	1	Professionals	2159
+Northern Territory	Walked only	1	Sales workers	656
+Northern Territory	Walked only	1	Technicians and trades workers	895
+Northern Territory	Worked at home			46
+Northern Territory	Worked at home		Clerical and administrative workers	594
+Northern Territory	Worked at home		Community and personal service workers	263
+Northern Territory	Worked at home		Labourers	171
+Northern Territory	Worked at home		Machinery operators and drivers	33
+Northern Territory	Worked at home		Managers	706
+Northern Territory	Worked at home		Professionals	631
+Northern Territory	Worked at home		Sales workers	101
+Northern Territory	Worked at home		Technicians and trades workers	268
+Australian Capital Territory	Bicycle	1		116
+Australian Capital Territory	Bicycle	1	Clerical and administrative workers	664
+Australian Capital Territory	Bicycle	1	Community and personal service workers	413
+Australian Capital Territory	Bicycle	1	Labourers	149
+Australian Capital Territory	Bicycle	1	Machinery operators and drivers	50
+Australian Capital Territory	Bicycle	1	Managers	1080
+Australian Capital Territory	Bicycle	1	Professionals	2598
+Australian Capital Territory	Bicycle	1	Sales workers	195
+Australian Capital Territory	Bicycle	1	Technicians and trades workers	283
+Australian Capital Territory	Bus	1		359
+Australian Capital Territory	Bus	1	Clerical and administrative workers	2821
+Australian Capital Territory	Bus	1	Community and personal service workers	1213
+Australian Capital Territory	Bus	1	Labourers	794
+Australian Capital Territory	Bus	1	Machinery operators and drivers	89
+Australian Capital Territory	Bus	1	Managers	1446
+Australian Capital Territory	Bus	1	Professionals	4228
+Australian Capital Territory	Bus	1	Sales workers	1094
+Australian Capital Territory	Bus	1	Technicians and trades workers	636
+Australian Capital Territory	Bus and car as driver	2		23
+Australian Capital Territory	Bus and car as driver	2	Clerical and administrative workers	279
+Australian Capital Territory	Bus and car as driver	2	Community and personal service workers	56
+Australian Capital Territory	Bus and car as driver	2	Labourers	17
+Australian Capital Territory	Bus and car as driver	2	Machinery operators and drivers	4
+Australian Capital Territory	Bus and car as driver	2	Managers	145
+Australian Capital Territory	Bus and car as driver	2	Professionals	370
+Australian Capital Territory	Bus and car as driver	2	Sales workers	47
+Australian Capital Territory	Bus and car as driver	2	Technicians and trades workers	34
+Australian Capital Territory	Bus and car as passenger	2		17
+Australian Capital Territory	Bus and car as passenger	2	Clerical and administrative workers	130
+Australian Capital Territory	Bus and car as passenger	2	Community and personal service workers	87
+Australian Capital Territory	Bus and car as passenger	2	Labourers	72
+Australian Capital Territory	Bus and car as passenger	2	Managers	74
+Australian Capital Territory	Bus and car as passenger	2	Professionals	191
+Australian Capital Territory	Bus and car as passenger	2	Sales workers	110
+Australian Capital Territory	Bus and car as passenger	2	Technicians and trades workers	35
+Australian Capital Territory	Bus and ferry	2	Professionals	3
+Australian Capital Territory	Bus and other	2		7
+Australian Capital Territory	Bus and other	2	Clerical and administrative workers	43
+Australian Capital Territory	Bus and other	2	Community and personal service workers	28
+Australian Capital Territory	Bus and other	2	Labourers	13
+Australian Capital Territory	Bus and other	2	Machinery operators and drivers	8
+Australian Capital Territory	Bus and other	2	Managers	42
+Australian Capital Territory	Bus and other	2	Professionals	116
+Australian Capital Territory	Bus and other	2	Sales workers	23
+Australian Capital Territory	Bus and other	2	Technicians and trades workers	18
+Australian Capital Territory	Bus and two other methods excludes train	3		3
+Australian Capital Territory	Bus and two other methods excludes train	3	Clerical and administrative workers	29
+Australian Capital Territory	Bus and two other methods excludes train	3	Community and personal service workers	24
+Australian Capital Territory	Bus and two other methods excludes train	3	Labourers	7
+Australian Capital Territory	Bus and two other methods excludes train	3	Machinery operators and drivers	3
+Australian Capital Territory	Bus and two other methods excludes train	3	Managers	15
+Australian Capital Territory	Bus and two other methods excludes train	3	Professionals	54
+Australian Capital Territory	Bus and two other methods excludes train	3	Sales workers	24
+Australian Capital Territory	Bus and two other methods excludes train	3	Technicians and trades workers	8
+Australian Capital Territory	Car as driver	1		3402
+Australian Capital Territory	Car as driver	1	Clerical and administrative workers	25663
+Australian Capital Territory	Car as driver	1	Community and personal service workers	14896
+Australian Capital Territory	Car as driver	1	Labourers	6734
+Australian Capital Territory	Car as driver	1	Machinery operators and drivers	3811
+Australian Capital Territory	Car as driver	1	Managers	24921
+Australian Capital Territory	Car as driver	1	Professionals	42736
+Australian Capital Territory	Car as driver	1	Sales workers	8350
+Australian Capital Territory	Car as driver	1	Technicians and trades workers	16095
+Australian Capital Territory	Car as passenger	1		313
+Australian Capital Territory	Car as passenger	1	Clerical and administrative workers	2817
+Australian Capital Territory	Car as passenger	1	Community and personal service workers	1405
+Australian Capital Territory	Car as passenger	1	Labourers	1233
+Australian Capital Territory	Car as passenger	1	Machinery operators and drivers	146
+Australian Capital Territory	Car as passenger	1	Managers	1799
+Australian Capital Territory	Car as passenger	1	Professionals	3588
+Australian Capital Territory	Car as passenger	1	Sales workers	1436
+Australian Capital Territory	Car as passenger	1	Technicians and trades workers	986
+Australian Capital Territory	Did not go to work			459
+Australian Capital Territory	Did not go to work		Clerical and administrative workers	3852
+Australian Capital Territory	Did not go to work		Community and personal service workers	3434
+Australian Capital Territory	Did not go to work		Labourers	1150
+Australian Capital Territory	Did not go to work		Machinery operators and drivers	417
+Australian Capital Territory	Did not go to work		Managers	2614
+Australian Capital Territory	Did not go to work		Professionals	6112
+Australian Capital Territory	Did not go to work		Sales workers	2803
+Australian Capital Territory	Did not go to work		Technicians and trades workers	1290
+Australian Capital Territory	Ferry	1		6
+Australian Capital Territory	Ferry	1	Clerical and administrative workers	4
+Australian Capital Territory	Ferry	1	Community and personal service workers	3
+Australian Capital Territory	Ferry	1	Managers	13
+Australian Capital Territory	Ferry	1	Professionals	7
+Australian Capital Territory	Ferry	1	Technicians and trades workers	4
+Australian Capital Territory	Method of travel not stated			451
+Australian Capital Territory	Method of travel not stated		Clerical and administrative workers	131
+Australian Capital Territory	Method of travel not stated		Community and personal service workers	136
+Australian Capital Territory	Method of travel not stated		Labourers	85
+Australian Capital Territory	Method of travel not stated		Machinery operators and drivers	55
+Australian Capital Territory	Method of travel not stated		Managers	121
+Australian Capital Territory	Method of travel not stated		Professionals	221
+Australian Capital Territory	Method of travel not stated		Sales workers	83
+Australian Capital Territory	Method of travel not stated		Technicians and trades workers	131
+Australian Capital Territory	Motorbike scooter	1		83
+Australian Capital Territory	Motorbike scooter	1	Clerical and administrative workers	387
+Australian Capital Territory	Motorbike scooter	1	Community and personal service workers	184
+Australian Capital Territory	Motorbike scooter	1	Labourers	47
+Australian Capital Territory	Motorbike scooter	1	Machinery operators and drivers	56
+Australian Capital Territory	Motorbike scooter	1	Managers	425
+Australian Capital Territory	Motorbike scooter	1	Professionals	775
+Australian Capital Territory	Motorbike scooter	1	Sales workers	71
+Australian Capital Territory	Motorbike scooter	1	Technicians and trades workers	181
+Australian Capital Territory	(Other)	1		64
+Australian Capital Territory	(Other)	1	Clerical and administrative workers	144
+Australian Capital Territory	(Other)	1	Community and personal service workers	148
+Australian Capital Territory	(Other)	1	Labourers	51
+Australian Capital Territory	(Other)	1	Machinery operators and drivers	72
+Australian Capital Territory	(Other)	1	Managers	243
+Australian Capital Territory	(Other)	1	Professionals	261
+Australian Capital Territory	(Other)	1	Sales workers	30
+Australian Capital Territory	(Other)	1	Technicians and trades workers	136
+Australian Capital Territory	Other three methods	3	Clerical and administrative workers	11
+Australian Capital Territory	Other three methods	3	Community and personal service workers	9
+Australian Capital Territory	Other three methods	3	Labourers	6
+Australian Capital Territory	Other three methods	3	Managers	29
+Australian Capital Territory	Other three methods	3	Professionals	28
+Australian Capital Territory	Other three methods	3	Sales workers	3
+Australian Capital Territory	Other three methods	3	Technicians and trades workers	10
+Australian Capital Territory	Other two methods	2		49
+Australian Capital Territory	Other two methods	2	Clerical and administrative workers	290
+Australian Capital Territory	Other two methods	2	Community and personal service workers	163
+Australian Capital Territory	Other two methods	2	Labourers	83
+Australian Capital Territory	Other two methods	2	Machinery operators and drivers	36
+Australian Capital Territory	Other two methods	2	Managers	330
+Australian Capital Territory	Other two methods	2	Professionals	604
+Australian Capital Territory	Other two methods	2	Sales workers	80
+Australian Capital Territory	Other two methods	2	Technicians and trades workers	173
+Australian Capital Territory	Taxi	1		11
+Australian Capital Territory	Taxi	1	Clerical and administrative workers	49
+Australian Capital Territory	Taxi	1	Community and personal service workers	32
+Australian Capital Territory	Taxi	1	Labourers	10
+Australian Capital Territory	Taxi	1	Machinery operators and drivers	51
+Australian Capital Territory	Taxi	1	Managers	59
+Australian Capital Territory	Taxi	1	Professionals	136
+Australian Capital Territory	Taxi	1	Sales workers	13
+Australian Capital Territory	Taxi	1	Technicians and trades workers	16
+Australian Capital Territory	Train	1		17
+Australian Capital Territory	Train	1	Clerical and administrative workers	17
+Australian Capital Territory	Train	1	Community and personal service workers	6
+Australian Capital Territory	Train	1	Labourers	8
+Australian Capital Territory	Train	1	Managers	27
+Australian Capital Territory	Train	1	Professionals	47
+Australian Capital Territory	Train	1	Sales workers	3
+Australian Capital Territory	Train	1	Technicians and trades workers	8
+Australian Capital Territory	Train and bus	2	Managers	3
+Australian Capital Territory	Train and bus	2	Professionals	12
+Australian Capital Territory	Train and bus	2	Technicians and trades workers	4
+Australian Capital Territory	Train and car as driver	2	Clerical and administrative workers	16
+Australian Capital Territory	Train and car as driver	2	Community and personal service workers	4
+Australian Capital Territory	Train and car as driver	2	Labourers	3
+Australian Capital Territory	Train and car as driver	2	Machinery operators and drivers	7
+Australian Capital Territory	Train and car as driver	2	Managers	12
+Australian Capital Territory	Train and car as driver	2	Professionals	31
+Australian Capital Territory	Train and car as driver	2	Technicians and trades workers	7
+Australian Capital Territory	Train and car as passenger	2	Clerical and administrative workers	3
+Australian Capital Territory	Train and other	2	Labourers	3
+Australian Capital Territory	Train and other	2	Managers	6
+Australian Capital Territory	Train and other	2	Professionals	3
+Australian Capital Territory	Train and two other methods	3	Clerical and administrative workers	3
+Australian Capital Territory	Train and two other methods	3	Community and personal service workers	3
+Australian Capital Territory	Train and two other methods	3	Managers	13
+Australian Capital Territory	Train and two other methods	3	Professionals	19
+Australian Capital Territory	Train and two other methods	3	Technicians and trades workers	3
+Australian Capital Territory	Tram includes light rail	1	Clerical and administrative workers	3
+Australian Capital Territory	Tram includes light rail	1	Community and personal service workers	3
+Australian Capital Territory	Tram includes light rail	1	Managers	17
+Australian Capital Territory	Tram includes light rail	1	Professionals	16
+Australian Capital Territory	Tram includes light rail	1	Technicians and trades workers	4
+Australian Capital Territory	Truck	1		27
+Australian Capital Territory	Truck	1	Clerical and administrative workers	29
+Australian Capital Territory	Truck	1	Labourers	182
+Australian Capital Territory	Truck	1	Machinery operators and drivers	201
+Australian Capital Territory	Truck	1	Managers	122
+Australian Capital Territory	Truck	1	Professionals	17
+Australian Capital Territory	Truck	1	Sales workers	15
+Australian Capital Territory	Truck	1	Technicians and trades workers	442
+Australian Capital Territory	Walked only	1		183
+Australian Capital Territory	Walked only	1	Clerical and administrative workers	1232
+Australian Capital Territory	Walked only	1	Community and personal service workers	1023
+Australian Capital Territory	Walked only	1	Labourers	378
+Australian Capital Territory	Walked only	1	Machinery operators and drivers	86
+Australian Capital Territory	Walked only	1	Managers	1980
+Australian Capital Territory	Walked only	1	Professionals	3609
+Australian Capital Territory	Walked only	1	Sales workers	659
+Australian Capital Territory	Walked only	1	Technicians and trades workers	419
+Australian Capital Territory	Worked at home			151
+Australian Capital Territory	Worked at home		Clerical and administrative workers	1206
+Australian Capital Territory	Worked at home		Community and personal service workers	516
+Australian Capital Territory	Worked at home		Labourers	71
+Australian Capital Territory	Worked at home		Machinery operators and drivers	34
+Australian Capital Territory	Worked at home		Managers	1152
+Australian Capital Territory	Worked at home		Professionals	2833
+Australian Capital Territory	Worked at home		Sales workers	185
+Australian Capital Territory	Worked at home		Technicians and trades workers	391
+Other Territories	Bicycle	1	Clerical and administrative workers	3
+Other Territories	Bicycle	1	Community and personal service workers	7
+Other Territories	Bicycle	1	Labourers	3
+Other Territories	Bicycle	1	Managers	4
+Other Territories	Bicycle	1	Professionals	5
+Other Territories	Bicycle	1	Technicians and trades workers	6
+Other Territories	Bus	1	Clerical and administrative workers	3
+Other Territories	Bus	1	Community and personal service workers	37
+Other Territories	Bus	1	Labourers	16
+Other Territories	Bus	1	Machinery operators and drivers	3
+Other Territories	Bus	1	Managers	4
+Other Territories	Bus	1	Professionals	7
+Other Territories	Bus	1	Technicians and trades workers	3
+Other Territories	Bus and ferry	2		4
+Other Territories	Bus and ferry	2	Clerical and administrative workers	5
+Other Territories	Bus and ferry	2	Community and personal service workers	6
+Other Territories	Bus and ferry	2	Labourers	3
+Other Territories	Bus and ferry	2	Professionals	5
+Other Territories	Bus and two other methods excludes train	3	Community and personal service workers	3
+Other Territories	Bus and two other methods excludes train	3	Technicians and trades workers	3
+Other Territories	Car as driver	1		34
+Other Territories	Car as driver	1	Clerical and administrative workers	189
+Other Territories	Car as driver	1	Community and personal service workers	232
+Other Territories	Car as driver	1	Labourers	179
+Other Territories	Car as driver	1	Machinery operators and drivers	112
+Other Territories	Car as driver	1	Managers	239
+Other Territories	Car as driver	1	Professionals	200
+Other Territories	Car as driver	1	Sales workers	101
+Other Territories	Car as driver	1	Technicians and trades workers	275
+Other Territories	Car as passenger	1		3
+Other Territories	Car as passenger	1	Clerical and administrative workers	15
+Other Territories	Car as passenger	1	Community and personal service workers	30
+Other Territories	Car as passenger	1	Labourers	25
+Other Territories	Car as passenger	1	Machinery operators and drivers	14
+Other Territories	Car as passenger	1	Managers	15
+Other Territories	Car as passenger	1	Professionals	17
+Other Territories	Car as passenger	1	Sales workers	4
+Other Territories	Car as passenger	1	Technicians and trades workers	20
+Other Territories	Did not go to work			3
+Other Territories	Did not go to work		Clerical and administrative workers	32
+Other Territories	Did not go to work		Community and personal service workers	48
+Other Territories	Did not go to work		Labourers	26
+Other Territories	Did not go to work		Machinery operators and drivers	14
+Other Territories	Did not go to work		Managers	55
+Other Territories	Did not go to work		Professionals	75
+Other Territories	Did not go to work		Sales workers	13
+Other Territories	Did not go to work		Technicians and trades workers	40
+Other Territories	Ferry	1	Clerical and administrative workers	3
+Other Territories	Ferry	1	Community and personal service workers	3
+Other Territories	Ferry	1	Labourers	13
+Other Territories	Ferry	1	Machinery operators and drivers	3
+Other Territories	Ferry	1	Professionals	3
+Other Territories	Ferry	1	Technicians and trades workers	12
+Other Territories	Method of travel not stated			9
+Other Territories	Method of travel not stated		Community and personal service workers	4
+Other Territories	Method of travel not stated		Labourers	12
+Other Territories	Method of travel not stated		Machinery operators and drivers	3
+Other Territories	Method of travel not stated		Managers	7
+Other Territories	Method of travel not stated		Sales workers	3
+Other Territories	Method of travel not stated		Technicians and trades workers	7
+Other Territories	Motorbike scooter	1		3
+Other Territories	Motorbike scooter	1	Clerical and administrative workers	4
+Other Territories	Motorbike scooter	1	Community and personal service workers	10
+Other Territories	Motorbike scooter	1	Labourers	7
+Other Territories	Motorbike scooter	1	Machinery operators and drivers	11
+Other Territories	Motorbike scooter	1	Professionals	4
+Other Territories	Motorbike scooter	1	Sales workers	5
+Other Territories	Motorbike scooter	1	Technicians and trades workers	9
+Other Territories	(Other)	1		4
+Other Territories	(Other)	1	Clerical and administrative workers	14
+Other Territories	(Other)	1	Community and personal service workers	10
+Other Territories	(Other)	1	Labourers	7
+Other Territories	(Other)	1	Managers	16
+Other Territories	(Other)	1	Professionals	19
+Other Territories	(Other)	1	Technicians and trades workers	7
+Other Territories	Other three methods	3	Labourers	4
+Other Territories	Other three methods	3	Technicians and trades workers	3
+Other Territories	Other two methods	2		3
+Other Territories	Other two methods	2	Labourers	5
+Other Territories	Other two methods	2	Managers	5
+Other Territories	Other two methods	2	Professionals	10
+Other Territories	Other two methods	2	Technicians and trades workers	6
+Other Territories	Train	1		3
+Other Territories	Train	1	Professionals	3
+Other Territories	Truck	1		3
+Other Territories	Truck	1	Labourers	11
+Other Territories	Truck	1	Machinery operators and drivers	8
+Other Territories	Truck	1	Managers	12
+Other Territories	Truck	1	Professionals	3
+Other Territories	Truck	1	Sales workers	3
+Other Territories	Truck	1	Technicians and trades workers	40
+Other Territories	Walked only	1		9
+Other Territories	Walked only	1	Clerical and administrative workers	20
+Other Territories	Walked only	1	Community and personal service workers	26
+Other Territories	Walked only	1	Labourers	17
+Other Territories	Walked only	1	Machinery operators and drivers	4
+Other Territories	Walked only	1	Managers	88
+Other Territories	Walked only	1	Professionals	45
+Other Territories	Walked only	1	Sales workers	8
+Other Territories	Walked only	1	Technicians and trades workers	13
+Other Territories	Worked at home		Clerical and administrative workers	11
+Other Territories	Worked at home		Labourers	7
+Other Territories	Worked at home		Managers	51
+Other Territories	Worked at home		Professionals	23
+Other Territories	Worked at home		Technicians and trades workers	10

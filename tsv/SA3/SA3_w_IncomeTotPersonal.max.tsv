@@ -1,0 +1,5294 @@
+SA3_NAME16	IncomeTotPersonal.max	workers
+Queanbeyan		224
+Queanbeyan	0	127
+Queanbeyan	7875	639
+Queanbeyan	15750	538
+Queanbeyan	21000	595
+Queanbeyan	26250	721
+Queanbeyan	34125	1096
+Queanbeyan	42000	1480
+Queanbeyan	52500	1991
+Queanbeyan	65625	2109
+Queanbeyan	78750	1511
+Queanbeyan	91875	1247
+Queanbeyan	105000	881
+Queanbeyan	157500	1255
+Queanbeyan	Inf	537
+Snowy Mountains		184
+Snowy Mountains	0	105
+Snowy Mountains	7875	341
+Snowy Mountains	15750	393
+Snowy Mountains	21000	493
+Snowy Mountains	26250	658
+Snowy Mountains	34125	1230
+Snowy Mountains	42000	1403
+Snowy Mountains	52500	1413
+Snowy Mountains	65625	1181
+Snowy Mountains	78750	710
+Snowy Mountains	91875	535
+Snowy Mountains	105000	384
+Snowy Mountains	157500	419
+Snowy Mountains	Inf	212
+South Coast		433
+South Coast	0	212
+South Coast	7875	1063
+South Coast	15750	1170
+South Coast	21000	1423
+South Coast	26250	1935
+South Coast	34125	2924
+South Coast	42000	3333
+South Coast	52500	3423
+South Coast	65625	2887
+South Coast	78750	1748
+South Coast	91875	1251
+South Coast	105000	887
+South Coast	157500	872
+South Coast	Inf	401
+Goulburn - Mulwaree		244
+Goulburn - Mulwaree	0	156
+Goulburn - Mulwaree	7875	517
+Goulburn - Mulwaree	15750	560
+Goulburn - Mulwaree	21000	609
+Goulburn - Mulwaree	26250	825
+Goulburn - Mulwaree	34125	1357
+Goulburn - Mulwaree	42000	1626
+Goulburn - Mulwaree	52500	1813
+Goulburn - Mulwaree	65625	1769
+Goulburn - Mulwaree	78750	1143
+Goulburn - Mulwaree	91875	940
+Goulburn - Mulwaree	105000	718
+Goulburn - Mulwaree	157500	788
+Goulburn - Mulwaree	Inf	298
+Young - Yass		223
+Young - Yass	0	163
+Young - Yass	7875	503
+Young - Yass	15750	539
+Young - Yass	21000	650
+Young - Yass	26250	772
+Young - Yass	34125	1307
+Young - Yass	42000	1514
+Young - Yass	52500	1570
+Young - Yass	65625	1324
+Young - Yass	78750	784
+Young - Yass	91875	652
+Young - Yass	105000	442
+Young - Yass	157500	527
+Young - Yass	Inf	319
+Gosford		952
+Gosford	0	430
+Gosford	7875	2740
+Gosford	15750	2787
+Gosford	21000	3052
+Gosford	26250	3711
+Gosford	34125	6034
+Gosford	42000	7254
+Gosford	52500	8021
+Gosford	65625	7466
+Gosford	78750	4703
+Gosford	91875	3985
+Gosford	105000	2902
+Gosford	157500	3235
+Gosford	Inf	1496
+Wyong		721
+Wyong	0	310
+Wyong	7875	2206
+Wyong	15750	2228
+Wyong	21000	2492
+Wyong	26250	3030
+Wyong	34125	4794
+Wyong	42000	5788
+Wyong	52500	6558
+Wyong	65625	5920
+Wyong	78750	3717
+Wyong	91875	2967
+Wyong	105000	2002
+Wyong	157500	2240
+Wyong	Inf	984
+Bathurst		314
+Bathurst	0	166
+Bathurst	7875	761
+Bathurst	15750	879
+Bathurst	21000	906
+Bathurst	26250	1165
+Bathurst	34125	1844
+Bathurst	42000	2294
+Bathurst	52500	2684
+Bathurst	65625	2491
+Bathurst	78750	1730
+Bathurst	91875	1547
+Bathurst	105000	1134
+Bathurst	157500	1250
+Bathurst	Inf	438
+Lachlan Valley		437
+Lachlan Valley	0	329
+Lachlan Valley	7875	745
+Lachlan Valley	15750	877
+Lachlan Valley	21000	1140
+Lachlan Valley	26250	1450
+Lachlan Valley	34125	2413
+Lachlan Valley	42000	2796
+Lachlan Valley	52500	2921
+Lachlan Valley	65625	2570
+Lachlan Valley	78750	1594
+Lachlan Valley	91875	1305
+Lachlan Valley	105000	886
+Lachlan Valley	157500	1123
+Lachlan Valley	Inf	527
+Lithgow - Mudgee		311
+Lithgow - Mudgee	0	210
+Lithgow - Mudgee	7875	614
+Lithgow - Mudgee	15750	765
+Lithgow - Mudgee	21000	914
+Lithgow - Mudgee	26250	1099
+Lithgow - Mudgee	34125	1651
+Lithgow - Mudgee	42000	1924
+Lithgow - Mudgee	52500	1991
+Lithgow - Mudgee	65625	1871
+Lithgow - Mudgee	78750	1322
+Lithgow - Mudgee	91875	1127
+Lithgow - Mudgee	105000	982
+Lithgow - Mudgee	157500	1800
+Lithgow - Mudgee	Inf	790
+Orange		412
+Orange	0	220
+Orange	7875	866
+Orange	15750	892
+Orange	21000	1091
+Orange	26250	1320
+Orange	34125	2137
+Orange	42000	2796
+Orange	52500	3128
+Orange	65625	3326
+Orange	78750	2280
+Orange	91875	2060
+Orange	105000	1552
+Orange	157500	2138
+Orange	Inf	861
+Clarence Valley		269
+Clarence Valley	0	168
+Clarence Valley	7875	646
+Clarence Valley	15750	765
+Clarence Valley	21000	1013
+Clarence Valley	26250	1240
+Clarence Valley	34125	1975
+Clarence Valley	42000	2375
+Clarence Valley	52500	2203
+Clarence Valley	65625	1805
+Clarence Valley	78750	1094
+Clarence Valley	91875	938
+Clarence Valley	105000	700
+Clarence Valley	157500	718
+Clarence Valley	Inf	319
+Coffs Harbour		493
+Coffs Harbour	0	292
+Coffs Harbour	7875	1405
+Coffs Harbour	15750	1435
+Coffs Harbour	21000	1760
+Coffs Harbour	26250	2267
+Coffs Harbour	34125	3652
+Coffs Harbour	42000	4629
+Coffs Harbour	52500	4811
+Coffs Harbour	65625	3947
+Coffs Harbour	78750	2557
+Coffs Harbour	91875	1894
+Coffs Harbour	105000	1381
+Coffs Harbour	157500	1469
+Coffs Harbour	Inf	616
+Bourke - Cobar - Coonamble		268
+Bourke - Cobar - Coonamble	0	231
+Bourke - Cobar - Coonamble	7875	215
+Bourke - Cobar - Coonamble	15750	348
+Bourke - Cobar - Coonamble	21000	426
+Bourke - Cobar - Coonamble	26250	526
+Bourke - Cobar - Coonamble	34125	862
+Bourke - Cobar - Coonamble	42000	1071
+Bourke - Cobar - Coonamble	52500	1181
+Bourke - Cobar - Coonamble	65625	1229
+Bourke - Cobar - Coonamble	78750	799
+Bourke - Cobar - Coonamble	91875	753
+Bourke - Cobar - Coonamble	105000	541
+Bourke - Cobar - Coonamble	157500	823
+Bourke - Cobar - Coonamble	Inf	378
+Broken Hill and Far West		206
+Broken Hill and Far West	0	74
+Broken Hill and Far West	7875	248
+Broken Hill and Far West	15750	325
+Broken Hill and Far West	21000	361
+Broken Hill and Far West	26250	477
+Broken Hill and Far West	34125	751
+Broken Hill and Far West	42000	848
+Broken Hill and Far West	52500	915
+Broken Hill and Far West	65625	973
+Broken Hill and Far West	78750	687
+Broken Hill and Far West	91875	592
+Broken Hill and Far West	105000	523
+Broken Hill and Far West	157500	678
+Broken Hill and Far West	Inf	196
+Dubbo		606
+Dubbo	0	327
+Dubbo	7875	945
+Dubbo	15750	1050
+Dubbo	21000	1206
+Dubbo	26250	1674
+Dubbo	34125	2855
+Dubbo	42000	3778
+Dubbo	52500	4105
+Dubbo	65625	3776
+Dubbo	78750	2359
+Dubbo	91875	1962
+Dubbo	105000	1506
+Dubbo	157500	1593
+Dubbo	Inf	666
+Lower Hunter		551
+Lower Hunter	0	284
+Lower Hunter	7875	1236
+Lower Hunter	15750	1420
+Lower Hunter	21000	1570
+Lower Hunter	26250	1835
+Lower Hunter	34125	2880
+Lower Hunter	42000	3354
+Lower Hunter	52500	3418
+Lower Hunter	65625	3537
+Lower Hunter	78750	2480
+Lower Hunter	91875	2386
+Lower Hunter	105000	1956
+Lower Hunter	157500	4128
+Lower Hunter	Inf	1488
+Maitland		396
+Maitland	0	194
+Maitland	7875	1272
+Maitland	15750	1216
+Maitland	21000	1357
+Maitland	26250	1504
+Maitland	34125	2447
+Maitland	42000	3101
+Maitland	52500	3643
+Maitland	65625	3448
+Maitland	78750	2333
+Maitland	91875	1847
+Maitland	105000	1319
+Maitland	157500	1616
+Maitland	Inf	737
+Port Stephens		401
+Port Stephens	0	185
+Port Stephens	7875	1036
+Port Stephens	15750	1031
+Port Stephens	21000	1260
+Port Stephens	26250	1569
+Port Stephens	34125	2382
+Port Stephens	42000	2744
+Port Stephens	52500	3121
+Port Stephens	65625	3446
+Port Stephens	78750	2525
+Port Stephens	91875	2349
+Port Stephens	105000	1704
+Port Stephens	157500	2096
+Port Stephens	Inf	749
+Upper Hunter		300
+Upper Hunter	0	144
+Upper Hunter	7875	482
+Upper Hunter	15750	521
+Upper Hunter	21000	622
+Upper Hunter	26250	698
+Upper Hunter	34125	1173
+Upper Hunter	42000	1470
+Upper Hunter	52500	1646
+Upper Hunter	65625	1614
+Upper Hunter	78750	1115
+Upper Hunter	91875	998
+Upper Hunter	105000	904
+Upper Hunter	157500	2098
+Upper Hunter	Inf	755
+Dapto - Port Kembla		445
+Dapto - Port Kembla	0	154
+Dapto - Port Kembla	7875	931
+Dapto - Port Kembla	15750	997
+Dapto - Port Kembla	21000	1168
+Dapto - Port Kembla	26250	1438
+Dapto - Port Kembla	34125	2305
+Dapto - Port Kembla	42000	2795
+Dapto - Port Kembla	52500	3284
+Dapto - Port Kembla	65625	3510
+Dapto - Port Kembla	78750	2547
+Dapto - Port Kembla	91875	2285
+Dapto - Port Kembla	105000	2001
+Dapto - Port Kembla	157500	2758
+Dapto - Port Kembla	Inf	878
+Illawarra Catchment Reserve	15750	3
+Illawarra Catchment Reserve	21000	4
+Illawarra Catchment Reserve	26250	3
+Illawarra Catchment Reserve	34125	3
+Illawarra Catchment Reserve	42000	3
+Illawarra Catchment Reserve	52500	7
+Illawarra Catchment Reserve	65625	3
+Illawarra Catchment Reserve	91875	9
+Illawarra Catchment Reserve	105000	7
+Illawarra Catchment Reserve	157500	19
+Illawarra Catchment Reserve	Inf	3
+Kiama - Shellharbour		322
+Kiama - Shellharbour	0	186
+Kiama - Shellharbour	7875	1351
+Kiama - Shellharbour	15750	1410
+Kiama - Shellharbour	21000	1416
+Kiama - Shellharbour	26250	1710
+Kiama - Shellharbour	34125	2559
+Kiama - Shellharbour	42000	2802
+Kiama - Shellharbour	52500	2829
+Kiama - Shellharbour	65625	2583
+Kiama - Shellharbour	78750	1688
+Kiama - Shellharbour	91875	1413
+Kiama - Shellharbour	105000	1000
+Kiama - Shellharbour	157500	1099
+Kiama - Shellharbour	Inf	427
+Wollongong		717
+Wollongong	0	322
+Wollongong	7875	2339
+Wollongong	15750	2639
+Wollongong	21000	2631
+Wollongong	26250	3264
+Wollongong	34125	4763
+Wollongong	42000	5471
+Wollongong	52500	6201
+Wollongong	65625	6504
+Wollongong	78750	4500
+Wollongong	91875	3921
+Wollongong	105000	2809
+Wollongong	157500	3836
+Wollongong	Inf	1736
+Great Lakes		173
+Great Lakes	0	92
+Great Lakes	7875	431
+Great Lakes	15750	457
+Great Lakes	21000	578
+Great Lakes	26250	743
+Great Lakes	34125	1171
+Great Lakes	42000	1361
+Great Lakes	52500	1252
+Great Lakes	65625	921
+Great Lakes	78750	580
+Great Lakes	91875	385
+Great Lakes	105000	324
+Great Lakes	157500	372
+Great Lakes	Inf	157
+Kempsey - Nambucca		277
+Kempsey - Nambucca	0	171
+Kempsey - Nambucca	7875	614
+Kempsey - Nambucca	15750	690
+Kempsey - Nambucca	21000	912
+Kempsey - Nambucca	26250	1160
+Kempsey - Nambucca	34125	1801
+Kempsey - Nambucca	42000	2175
+Kempsey - Nambucca	52500	2042
+Kempsey - Nambucca	65625	1735
+Kempsey - Nambucca	78750	1019
+Kempsey - Nambucca	91875	763
+Kempsey - Nambucca	105000	644
+Kempsey - Nambucca	157500	586
+Kempsey - Nambucca	Inf	276
+Lord Howe Island		10
+Lord Howe Island	7875	4
+Lord Howe Island	15750	7
+Lord Howe Island	21000	14
+Lord Howe Island	26250	13
+Lord Howe Island	34125	18
+Lord Howe Island	42000	33
+Lord Howe Island	52500	31
+Lord Howe Island	65625	34
+Lord Howe Island	78750	19
+Lord Howe Island	91875	17
+Lord Howe Island	105000	6
+Lord Howe Island	157500	10
+Lord Howe Island	Inf	7
+Port Macquarie		484
+Port Macquarie	0	204
+Port Macquarie	7875	1179
+Port Macquarie	15750	1163
+Port Macquarie	21000	1440
+Port Macquarie	26250	1796
+Port Macquarie	34125	3072
+Port Macquarie	42000	3623
+Port Macquarie	52500	3848
+Port Macquarie	65625	3334
+Port Macquarie	78750	2213
+Port Macquarie	91875	1755
+Port Macquarie	105000	1272
+Port Macquarie	157500	1449
+Port Macquarie	Inf	680
+Taree - Gloucester		322
+Taree - Gloucester	0	195
+Taree - Gloucester	7875	736
+Taree - Gloucester	15750	775
+Taree - Gloucester	21000	1051
+Taree - Gloucester	26250	1283
+Taree - Gloucester	34125	2072
+Taree - Gloucester	42000	2391
+Taree - Gloucester	52500	2453
+Taree - Gloucester	65625	1942
+Taree - Gloucester	78750	1187
+Taree - Gloucester	91875	870
+Taree - Gloucester	105000	632
+Taree - Gloucester	157500	585
+Taree - Gloucester	Inf	293
+Albury		491
+Albury	0	211
+Albury	7875	1176
+Albury	15750	1115
+Albury	21000	1305
+Albury	26250	1735
+Albury	34125	2852
+Albury	42000	3536
+Albury	52500	4053
+Albury	65625	3691
+Albury	78750	2555
+Albury	91875	1914
+Albury	105000	1303
+Albury	157500	1491
+Albury	Inf	632
+Lower Murray		122
+Lower Murray	0	93
+Lower Murray	7875	131
+Lower Murray	15750	223
+Lower Murray	21000	279
+Lower Murray	26250	315
+Lower Murray	34125	554
+Lower Murray	42000	643
+Lower Murray	52500	756
+Lower Murray	65625	663
+Lower Murray	78750	412
+Lower Murray	91875	304
+Lower Murray	105000	245
+Lower Murray	157500	273
+Lower Murray	Inf	127
+Upper Murray exc. Albury		365
+Upper Murray exc. Albury	0	235
+Upper Murray exc. Albury	7875	623
+Upper Murray exc. Albury	15750	750
+Upper Murray exc. Albury	21000	875
+Upper Murray exc. Albury	26250	1085
+Upper Murray exc. Albury	34125	1827
+Upper Murray exc. Albury	42000	2020
+Upper Murray exc. Albury	52500	2329
+Upper Murray exc. Albury	65625	2139
+Upper Murray exc. Albury	78750	1290
+Upper Murray exc. Albury	91875	935
+Upper Murray exc. Albury	105000	544
+Upper Murray exc. Albury	157500	646
+Upper Murray exc. Albury	Inf	290
+Armidale		301
+Armidale	0	188
+Armidale	7875	658
+Armidale	15750	816
+Armidale	21000	839
+Armidale	26250	1055
+Armidale	34125	1626
+Armidale	42000	2004
+Armidale	52500	1923
+Armidale	65625	1870
+Armidale	78750	1145
+Armidale	91875	1038
+Armidale	105000	719
+Armidale	157500	990
+Armidale	Inf	390
+Inverell - Tenterfield		295
+Inverell - Tenterfield	0	284
+Inverell - Tenterfield	7875	557
+Inverell - Tenterfield	15750	749
+Inverell - Tenterfield	21000	867
+Inverell - Tenterfield	26250	1034
+Inverell - Tenterfield	34125	1588
+Inverell - Tenterfield	42000	1891
+Inverell - Tenterfield	52500	2001
+Inverell - Tenterfield	65625	1542
+Inverell - Tenterfield	78750	794
+Inverell - Tenterfield	91875	581
+Inverell - Tenterfield	105000	468
+Inverell - Tenterfield	157500	470
+Inverell - Tenterfield	Inf	235
+Moree - Narrabri		295
+Moree - Narrabri	0	185
+Moree - Narrabri	7875	326
+Moree - Narrabri	15750	349
+Moree - Narrabri	21000	453
+Moree - Narrabri	26250	574
+Moree - Narrabri	34125	1039
+Moree - Narrabri	42000	1307
+Moree - Narrabri	52500	1508
+Moree - Narrabri	65625	1548
+Moree - Narrabri	78750	1030
+Moree - Narrabri	91875	803
+Moree - Narrabri	105000	525
+Moree - Narrabri	157500	634
+Moree - Narrabri	Inf	451
+Tamworth - Gunnedah		632
+Tamworth - Gunnedah	0	368
+Tamworth - Gunnedah	7875	1165
+Tamworth - Gunnedah	15750	1228
+Tamworth - Gunnedah	21000	1578
+Tamworth - Gunnedah	26250	1954
+Tamworth - Gunnedah	34125	3191
+Tamworth - Gunnedah	42000	4379
+Tamworth - Gunnedah	52500	5084
+Tamworth - Gunnedah	65625	4578
+Tamworth - Gunnedah	78750	2782
+Tamworth - Gunnedah	91875	2258
+Tamworth - Gunnedah	105000	1623
+Tamworth - Gunnedah	157500	2106
+Tamworth - Gunnedah	Inf	835
+Lake Macquarie - East		589
+Lake Macquarie - East	0	288
+Lake Macquarie - East	7875	2180
+Lake Macquarie - East	15750	2034
+Lake Macquarie - East	21000	2197
+Lake Macquarie - East	26250	2552
+Lake Macquarie - East	34125	3964
+Lake Macquarie - East	42000	4956
+Lake Macquarie - East	52500	5500
+Lake Macquarie - East	65625	5494
+Lake Macquarie - East	78750	3229
+Lake Macquarie - East	91875	2590
+Lake Macquarie - East	105000	1686
+Lake Macquarie - East	157500	1878
+Lake Macquarie - East	Inf	923
+Lake Macquarie - West		292
+Lake Macquarie - West	0	120
+Lake Macquarie - West	7875	673
+Lake Macquarie - West	15750	812
+Lake Macquarie - West	21000	995
+Lake Macquarie - West	26250	1127
+Lake Macquarie - West	34125	1824
+Lake Macquarie - West	42000	2198
+Lake Macquarie - West	52500	2237
+Lake Macquarie - West	65625	2210
+Lake Macquarie - West	78750	1351
+Lake Macquarie - West	91875	1173
+Lake Macquarie - West	105000	831
+Lake Macquarie - West	157500	1149
+Lake Macquarie - West	Inf	612
+Newcastle		1269
+Newcastle	0	411
+Newcastle	7875	3076
+Newcastle	15750	3332
+Newcastle	21000	3775
+Newcastle	26250	4817
+Newcastle	34125	7709
+Newcastle	42000	10172
+Newcastle	52500	12462
+Newcastle	65625	13611
+Newcastle	78750	9843
+Newcastle	91875	8557
+Newcastle	105000	6018
+Newcastle	157500	8918
+Newcastle	Inf	3945
+Richmond Valley - Coastal		515
+Richmond Valley - Coastal	0	247
+Richmond Valley - Coastal	7875	1207
+Richmond Valley - Coastal	15750	1245
+Richmond Valley - Coastal	21000	1750
+Richmond Valley - Coastal	26250	2361
+Richmond Valley - Coastal	34125	3602
+Richmond Valley - Coastal	42000	4110
+Richmond Valley - Coastal	52500	3960
+Richmond Valley - Coastal	65625	3395
+Richmond Valley - Coastal	78750	2004
+Richmond Valley - Coastal	91875	1518
+Richmond Valley - Coastal	105000	1105
+Richmond Valley - Coastal	157500	1245
+Richmond Valley - Coastal	Inf	728
+Richmond Valley - Hinterland		427
+Richmond Valley - Hinterland	0	270
+Richmond Valley - Hinterland	7875	1111
+Richmond Valley - Hinterland	15750	1279
+Richmond Valley - Hinterland	21000	1481
+Richmond Valley - Hinterland	26250	1965
+Richmond Valley - Hinterland	34125	3129
+Richmond Valley - Hinterland	42000	4068
+Richmond Valley - Hinterland	52500	4372
+Richmond Valley - Hinterland	65625	3702
+Richmond Valley - Hinterland	78750	2116
+Richmond Valley - Hinterland	91875	1699
+Richmond Valley - Hinterland	105000	1141
+Richmond Valley - Hinterland	157500	1261
+Richmond Valley - Hinterland	Inf	603
+Tweed Valley		498
+Tweed Valley	0	211
+Tweed Valley	7875	1214
+Tweed Valley	15750	1403
+Tweed Valley	21000	1528
+Tweed Valley	26250	2038
+Tweed Valley	34125	3325
+Tweed Valley	42000	3722
+Tweed Valley	52500	3976
+Tweed Valley	65625	3628
+Tweed Valley	78750	2072
+Tweed Valley	91875	1673
+Tweed Valley	105000	1168
+Tweed Valley	157500	1136
+Tweed Valley	Inf	568
+Griffith - Murrumbidgee (West)		467
+Griffith - Murrumbidgee (West)	0	191
+Griffith - Murrumbidgee (West)	7875	717
+Griffith - Murrumbidgee (West)	15750	702
+Griffith - Murrumbidgee (West)	21000	943
+Griffith - Murrumbidgee (West)	26250	1223
+Griffith - Murrumbidgee (West)	34125	2073
+Griffith - Murrumbidgee (West)	42000	3058
+Griffith - Murrumbidgee (West)	52500	3413
+Griffith - Murrumbidgee (West)	65625	2955
+Griffith - Murrumbidgee (West)	78750	1819
+Griffith - Murrumbidgee (West)	91875	1324
+Griffith - Murrumbidgee (West)	105000	877
+Griffith - Murrumbidgee (West)	157500	977
+Griffith - Murrumbidgee (West)	Inf	471
+Tumut - Tumbarumba		122
+Tumut - Tumbarumba	0	65
+Tumut - Tumbarumba	7875	196
+Tumut - Tumbarumba	15750	238
+Tumut - Tumbarumba	21000	277
+Tumut - Tumbarumba	26250	351
+Tumut - Tumbarumba	34125	625
+Tumut - Tumbarumba	42000	688
+Tumut - Tumbarumba	52500	728
+Tumut - Tumbarumba	65625	790
+Tumut - Tumbarumba	78750	522
+Tumut - Tumbarumba	91875	462
+Tumut - Tumbarumba	105000	297
+Tumut - Tumbarumba	157500	399
+Tumut - Tumbarumba	Inf	131
+Wagga Wagga		713
+Wagga Wagga	0	340
+Wagga Wagga	7875	1485
+Wagga Wagga	15750	1514
+Wagga Wagga	21000	1772
+Wagga Wagga	26250	2249
+Wagga Wagga	34125	3938
+Wagga Wagga	42000	5435
+Wagga Wagga	52500	6057
+Wagga Wagga	65625	5485
+Wagga Wagga	78750	3648
+Wagga Wagga	91875	2811
+Wagga Wagga	105000	2075
+Wagga Wagga	157500	2343
+Wagga Wagga	Inf	1028
+Shoalhaven		573
+Shoalhaven	0	227
+Shoalhaven	7875	1433
+Shoalhaven	15750	1593
+Shoalhaven	21000	1885
+Shoalhaven	26250	2418
+Shoalhaven	34125	3818
+Shoalhaven	42000	4275
+Shoalhaven	52500	4346
+Shoalhaven	65625	4058
+Shoalhaven	78750	2653
+Shoalhaven	91875	2209
+Shoalhaven	105000	1615
+Shoalhaven	157500	1771
+Shoalhaven	Inf	733
+Southern Highlands		346
+Southern Highlands	0	196
+Southern Highlands	7875	886
+Southern Highlands	15750	769
+Southern Highlands	21000	990
+Southern Highlands	26250	1138
+Southern Highlands	34125	1825
+Southern Highlands	42000	2237
+Southern Highlands	52500	2407
+Southern Highlands	65625	2263
+Southern Highlands	78750	1293
+Southern Highlands	91875	1160
+Southern Highlands	105000	860
+Southern Highlands	157500	1046
+Southern Highlands	Inf	545
+Baulkham Hills		785
+Baulkham Hills	0	391
+Baulkham Hills	7875	2477
+Baulkham Hills	15750	2519
+Baulkham Hills	21000	2462
+Baulkham Hills	26250	2743
+Baulkham Hills	34125	4089
+Baulkham Hills	42000	4995
+Baulkham Hills	52500	6066
+Baulkham Hills	65625	6690
+Baulkham Hills	78750	4988
+Baulkham Hills	91875	4567
+Baulkham Hills	105000	3468
+Baulkham Hills	157500	5705
+Baulkham Hills	Inf	3483
+Dural - Wisemans Ferry		187
+Dural - Wisemans Ferry	0	92
+Dural - Wisemans Ferry	7875	565
+Dural - Wisemans Ferry	15750	550
+Dural - Wisemans Ferry	21000	584
+Dural - Wisemans Ferry	26250	616
+Dural - Wisemans Ferry	34125	955
+Dural - Wisemans Ferry	42000	1096
+Dural - Wisemans Ferry	52500	1245
+Dural - Wisemans Ferry	65625	1274
+Dural - Wisemans Ferry	78750	880
+Dural - Wisemans Ferry	91875	711
+Dural - Wisemans Ferry	105000	469
+Dural - Wisemans Ferry	157500	558
+Dural - Wisemans Ferry	Inf	340
+Hawkesbury		112
+Hawkesbury	0	67
+Hawkesbury	7875	154
+Hawkesbury	15750	221
+Hawkesbury	21000	253
+Hawkesbury	26250	286
+Hawkesbury	34125	431
+Hawkesbury	42000	462
+Hawkesbury	52500	528
+Hawkesbury	65625	562
+Hawkesbury	78750	352
+Hawkesbury	91875	260
+Hawkesbury	105000	173
+Hawkesbury	157500	168
+Hawkesbury	Inf	81
+Rouse Hill - McGraths Hill		189
+Rouse Hill - McGraths Hill	0	85
+Rouse Hill - McGraths Hill	7875	712
+Rouse Hill - McGraths Hill	15750	688
+Rouse Hill - McGraths Hill	21000	679
+Rouse Hill - McGraths Hill	26250	747
+Rouse Hill - McGraths Hill	34125	1041
+Rouse Hill - McGraths Hill	42000	1174
+Rouse Hill - McGraths Hill	52500	1332
+Rouse Hill - McGraths Hill	65625	1331
+Rouse Hill - McGraths Hill	78750	858
+Rouse Hill - McGraths Hill	91875	684
+Rouse Hill - McGraths Hill	105000	470
+Rouse Hill - McGraths Hill	157500	531
+Rouse Hill - McGraths Hill	Inf	281
+Blacktown		744
+Blacktown	0	340
+Blacktown	7875	1539
+Blacktown	15750	1883
+Blacktown	21000	1999
+Blacktown	26250	2397
+Blacktown	34125	3774
+Blacktown	42000	5317
+Blacktown	52500	6554
+Blacktown	65625	6937
+Blacktown	78750	4633
+Blacktown	91875	3564
+Blacktown	105000	2548
+Blacktown	157500	2952
+Blacktown	Inf	1376
+Blacktown - North		212
+Blacktown - North	0	148
+Blacktown - North	7875	817
+Blacktown - North	15750	804
+Blacktown - North	21000	752
+Blacktown - North	26250	886
+Blacktown - North	34125	1288
+Blacktown - North	42000	1602
+Blacktown - North	52500	1776
+Blacktown - North	65625	1897
+Blacktown - North	78750	1388
+Blacktown - North	91875	1088
+Blacktown - North	105000	849
+Blacktown - North	157500	954
+Blacktown - North	Inf	337
+Mount Druitt		781
+Mount Druitt	0	256
+Mount Druitt	7875	1148
+Mount Druitt	15750	1377
+Mount Druitt	21000	1431
+Mount Druitt	26250	1769
+Mount Druitt	34125	3033
+Mount Druitt	42000	4945
+Mount Druitt	52500	6949
+Mount Druitt	65625	7238
+Mount Druitt	78750	4851
+Mount Druitt	91875	3964
+Mount Druitt	105000	2612
+Mount Druitt	157500	3330
+Mount Druitt	Inf	1355
+Botany		904
+Botany	0	264
+Botany	7875	896
+Botany	15750	1181
+Botany	21000	1595
+Botany	26250	2060
+Botany	34125	3604
+Botany	42000	5400
+Botany	52500	7722
+Botany	65625	8482
+Botany	78750	6376
+Botany	91875	5509
+Botany	105000	4045
+Botany	157500	6710
+Botany	Inf	4574
+Marrickville - Sydenham - Petersham		325
+Marrickville - Sydenham - Petersham	0	175
+Marrickville - Sydenham - Petersham	7875	620
+Marrickville - Sydenham - Petersham	15750	892
+Marrickville - Sydenham - Petersham	21000	1231
+Marrickville - Sydenham - Petersham	26250	1445
+Marrickville - Sydenham - Petersham	34125	2293
+Marrickville - Sydenham - Petersham	42000	2962
+Marrickville - Sydenham - Petersham	52500	3438
+Marrickville - Sydenham - Petersham	65625	3395
+Marrickville - Sydenham - Petersham	78750	2208
+Marrickville - Sydenham - Petersham	91875	1713
+Marrickville - Sydenham - Petersham	105000	1182
+Marrickville - Sydenham - Petersham	157500	1483
+Marrickville - Sydenham - Petersham	Inf	693
+Sydney Inner City		6305
+Sydney Inner City	0	2107
+Sydney Inner City	7875	5129
+Sydney Inner City	15750	9469
+Sydney Inner City	21000	12134
+Sydney Inner City	26250	14768
+Sydney Inner City	34125	21395
+Sydney Inner City	42000	29425
+Sydney Inner City	52500	43601
+Sydney Inner City	65625	58691
+Sydney Inner City	78750	50471
+Sydney Inner City	91875	49573
+Sydney Inner City	105000	38283
+Sydney Inner City	157500	79864
+Sydney Inner City	Inf	73756
+Eastern Suburbs - North		790
+Eastern Suburbs - North	0	423
+Eastern Suburbs - North	7875	1578
+Eastern Suburbs - North	15750	2067
+Eastern Suburbs - North	21000	2366
+Eastern Suburbs - North	26250	2814
+Eastern Suburbs - North	34125	4029
+Eastern Suburbs - North	42000	4787
+Eastern Suburbs - North	52500	5625
+Eastern Suburbs - North	65625	6441
+Eastern Suburbs - North	78750	4561
+Eastern Suburbs - North	91875	3908
+Eastern Suburbs - North	105000	2826
+Eastern Suburbs - North	157500	4437
+Eastern Suburbs - North	Inf	3708
+Eastern Suburbs - South		621
+Eastern Suburbs - South	0	290
+Eastern Suburbs - South	7875	1236
+Eastern Suburbs - South	15750	1641
+Eastern Suburbs - South	21000	1717
+Eastern Suburbs - South	26250	1995
+Eastern Suburbs - South	34125	2988
+Eastern Suburbs - South	42000	3471
+Eastern Suburbs - South	52500	4357
+Eastern Suburbs - South	65625	5186
+Eastern Suburbs - South	78750	4168
+Eastern Suburbs - South	91875	4153
+Eastern Suburbs - South	105000	3063
+Eastern Suburbs - South	157500	4200
+Eastern Suburbs - South	Inf	2418
+Bankstown		1009
+Bankstown	0	437
+Bankstown	7875	1665
+Bankstown	15750	2322
+Bankstown	21000	2767
+Bankstown	26250	3295
+Bankstown	34125	5403
+Bankstown	42000	7220
+Bankstown	52500	8522
+Bankstown	65625	8265
+Bankstown	78750	5520
+Bankstown	91875	4461
+Bankstown	105000	3122
+Bankstown	157500	3876
+Bankstown	Inf	1774
+Canterbury		511
+Canterbury	0	248
+Canterbury	7875	799
+Canterbury	15750	1391
+Canterbury	21000	1649
+Canterbury	26250	1980
+Canterbury	34125	2947
+Canterbury	42000	3770
+Canterbury	52500	4015
+Canterbury	65625	3896
+Canterbury	78750	2363
+Canterbury	91875	1845
+Canterbury	105000	1070
+Canterbury	157500	1291
+Canterbury	Inf	707
+Hurstville		427
+Hurstville	0	239
+Hurstville	7875	1382
+Hurstville	15750	1517
+Hurstville	21000	1614
+Hurstville	26250	1827
+Hurstville	34125	2725
+Hurstville	42000	2995
+Hurstville	52500	3316
+Hurstville	65625	3418
+Hurstville	78750	2271
+Hurstville	91875	1865
+Hurstville	105000	1372
+Hurstville	157500	1629
+Hurstville	Inf	825
+Kogarah - Rockdale		489
+Kogarah - Rockdale	0	251
+Kogarah - Rockdale	7875	861
+Kogarah - Rockdale	15750	1314
+Kogarah - Rockdale	21000	1634
+Kogarah - Rockdale	26250	1941
+Kogarah - Rockdale	34125	2860
+Kogarah - Rockdale	42000	3501
+Kogarah - Rockdale	52500	4260
+Kogarah - Rockdale	65625	4486
+Kogarah - Rockdale	78750	3010
+Kogarah - Rockdale	91875	2751
+Kogarah - Rockdale	105000	1786
+Kogarah - Rockdale	157500	2538
+Kogarah - Rockdale	Inf	1384
+Canada Bay		485
+Canada Bay	0	231
+Canada Bay	7875	926
+Canada Bay	15750	1164
+Canada Bay	21000	1281
+Canada Bay	26250	1534
+Canada Bay	34125	2216
+Canada Bay	42000	2749
+Canada Bay	52500	3961
+Canada Bay	65625	4754
+Canada Bay	78750	3222
+Canada Bay	91875	2906
+Canada Bay	105000	1994
+Canada Bay	157500	3548
+Canada Bay	Inf	2488
+Leichhardt		302
+Leichhardt	0	169
+Leichhardt	7875	550
+Leichhardt	15750	833
+Leichhardt	21000	945
+Leichhardt	26250	1104
+Leichhardt	34125	1604
+Leichhardt	42000	1986
+Leichhardt	52500	2523
+Leichhardt	65625	2881
+Leichhardt	78750	2117
+Leichhardt	91875	1761
+Leichhardt	105000	1238
+Leichhardt	157500	1920
+Leichhardt	Inf	1211
+Strathfield - Burwood - Ashfield		735
+Strathfield - Burwood - Ashfield	0	368
+Strathfield - Burwood - Ashfield	7875	1616
+Strathfield - Burwood - Ashfield	15750	2157
+Strathfield - Burwood - Ashfield	21000	2692
+Strathfield - Burwood - Ashfield	26250	2727
+Strathfield - Burwood - Ashfield	34125	4301
+Strathfield - Burwood - Ashfield	42000	5502
+Strathfield - Burwood - Ashfield	52500	6641
+Strathfield - Burwood - Ashfield	65625	7025
+Strathfield - Burwood - Ashfield	78750	4994
+Strathfield - Burwood - Ashfield	91875	4024
+Strathfield - Burwood - Ashfield	105000	3086
+Strathfield - Burwood - Ashfield	157500	4571
+Strathfield - Burwood - Ashfield	Inf	2187
+Chatswood - Lane Cove		1089
+Chatswood - Lane Cove	0	465
+Chatswood - Lane Cove	7875	1915
+Chatswood - Lane Cove	15750	2578
+Chatswood - Lane Cove	21000	2665
+Chatswood - Lane Cove	26250	3090
+Chatswood - Lane Cove	34125	4460
+Chatswood - Lane Cove	42000	5822
+Chatswood - Lane Cove	52500	8466
+Chatswood - Lane Cove	65625	10237
+Chatswood - Lane Cove	78750	8178
+Chatswood - Lane Cove	91875	7420
+Chatswood - Lane Cove	105000	5319
+Chatswood - Lane Cove	157500	9989
+Chatswood - Lane Cove	Inf	7947
+Hornsby		358
+Hornsby	0	220
+Hornsby	7875	1435
+Hornsby	15750	1470
+Hornsby	21000	1358
+Hornsby	26250	1551
+Hornsby	34125	2219
+Hornsby	42000	2758
+Hornsby	52500	3318
+Hornsby	65625	3455
+Hornsby	78750	2360
+Hornsby	91875	2018
+Hornsby	105000	1503
+Hornsby	157500	1983
+Hornsby	Inf	976
+Ku-ring-gai		451
+Ku-ring-gai	0	280
+Ku-ring-gai	7875	1602
+Ku-ring-gai	15750	1559
+Ku-ring-gai	21000	1477
+Ku-ring-gai	26250	1642
+Ku-ring-gai	34125	2249
+Ku-ring-gai	42000	2583
+Ku-ring-gai	52500	3241
+Ku-ring-gai	65625	3501
+Ku-ring-gai	78750	2508
+Ku-ring-gai	91875	2359
+Ku-ring-gai	105000	1890
+Ku-ring-gai	157500	2792
+Ku-ring-gai	Inf	2151
+North Sydney - Mosman		944
+North Sydney - Mosman	0	434
+North Sydney - Mosman	7875	1342
+North Sydney - Mosman	15750	1768
+North Sydney - Mosman	21000	2076
+North Sydney - Mosman	26250	2362
+North Sydney - Mosman	34125	3225
+North Sydney - Mosman	42000	4252
+North Sydney - Mosman	52500	6379
+North Sydney - Mosman	65625	8595
+North Sydney - Mosman	78750	7423
+North Sydney - Mosman	91875	7416
+North Sydney - Mosman	105000	5889
+North Sydney - Mosman	157500	12808
+North Sydney - Mosman	Inf	11825
+Manly		227
+Manly	0	120
+Manly	7875	604
+Manly	15750	650
+Manly	21000	715
+Manly	26250	821
+Manly	34125	1186
+Manly	42000	1289
+Manly	52500	1572
+Manly	65625	1794
+Manly	78750	1148
+Manly	91875	1062
+Manly	105000	659
+Manly	157500	1004
+Manly	Inf	892
+Pittwater		368
+Pittwater	0	187
+Pittwater	7875	1066
+Pittwater	15750	998
+Pittwater	21000	965
+Pittwater	26250	1179
+Pittwater	34125	1812
+Pittwater	42000	2168
+Pittwater	52500	2431
+Pittwater	65625	2702
+Pittwater	78750	2022
+Pittwater	91875	1649
+Pittwater	105000	1032
+Pittwater	157500	1462
+Pittwater	Inf	1111
+Warringah		788
+Warringah	0	391
+Warringah	7875	2433
+Warringah	15750	2211
+Warringah	21000	2257
+Warringah	26250	2756
+Warringah	34125	4223
+Warringah	42000	5410
+Warringah	52500	6579
+Warringah	65625	6924
+Warringah	78750	5039
+Warringah	91875	4263
+Warringah	105000	2893
+Warringah	157500	4320
+Warringah	Inf	2843
+Camden		347
+Camden	0	139
+Camden	7875	1035
+Camden	15750	971
+Camden	21000	989
+Camden	26250	1166
+Camden	34125	1790
+Camden	42000	2415
+Camden	52500	2759
+Camden	65625	2879
+Camden	78750	1863
+Camden	91875	1480
+Camden	105000	1018
+Camden	157500	1057
+Camden	Inf	456
+Campbelltown (NSW)		793
+Campbelltown (NSW)	0	325
+Campbelltown (NSW)	7875	1877
+Campbelltown (NSW)	15750	2068
+Campbelltown (NSW)	21000	2344
+Campbelltown (NSW)	26250	2586
+Campbelltown (NSW)	34125	4335
+Campbelltown (NSW)	42000	5888
+Campbelltown (NSW)	52500	6975
+Campbelltown (NSW)	65625	6735
+Campbelltown (NSW)	78750	4394
+Campbelltown (NSW)	91875	3511
+Campbelltown (NSW)	105000	2439
+Campbelltown (NSW)	157500	2841
+Campbelltown (NSW)	Inf	1101
+Wollondilly		197
+Wollondilly	0	102
+Wollondilly	7875	458
+Wollondilly	15750	432
+Wollondilly	21000	473
+Wollondilly	26250	581
+Wollondilly	34125	816
+Wollondilly	42000	1050
+Wollondilly	52500	1144
+Wollondilly	65625	1173
+Wollondilly	78750	843
+Wollondilly	91875	688
+Wollondilly	105000	634
+Wollondilly	157500	1008
+Wollondilly	Inf	479
+Blue Mountains		293
+Blue Mountains	0	152
+Blue Mountains	7875	1014
+Blue Mountains	15750	1125
+Blue Mountains	21000	1187
+Blue Mountains	26250	1425
+Blue Mountains	34125	2103
+Blue Mountains	42000	2230
+Blue Mountains	52500	2262
+Blue Mountains	65625	2046
+Blue Mountains	78750	1306
+Blue Mountains	91875	1090
+Blue Mountains	105000	836
+Blue Mountains	157500	928
+Blue Mountains	Inf	361
+Blue Mountains - South	34125	3
+Blue Mountains - South	42000	8
+Penrith		809
+Penrith	0	336
+Penrith	7875	2138
+Penrith	15750	2126
+Penrith	21000	2323
+Penrith	26250	2769
+Penrith	34125	4370
+Penrith	42000	5294
+Penrith	52500	6435
+Penrith	65625	6539
+Penrith	78750	4576
+Penrith	91875	3781
+Penrith	105000	2669
+Penrith	157500	3067
+Penrith	Inf	1319
+Richmond - Windsor		305
+Richmond - Windsor	0	128
+Richmond - Windsor	7875	652
+Richmond - Windsor	15750	714
+Richmond - Windsor	21000	773
+Richmond - Windsor	26250	946
+Richmond - Windsor	34125	1542
+Richmond - Windsor	42000	1837
+Richmond - Windsor	52500	2089
+Richmond - Windsor	65625	2211
+Richmond - Windsor	78750	1697
+Richmond - Windsor	91875	1488
+Richmond - Windsor	105000	1007
+Richmond - Windsor	157500	1267
+Richmond - Windsor	Inf	420
+St Marys		307
+St Marys	0	115
+St Marys	7875	521
+St Marys	15750	621
+St Marys	21000	642
+St Marys	26250	859
+St Marys	34125	1422
+St Marys	42000	2261
+St Marys	52500	3066
+St Marys	65625	2938
+St Marys	78750	1853
+St Marys	91875	1329
+St Marys	105000	964
+St Marys	157500	961
+St Marys	Inf	385
+Auburn		761
+Auburn	0	301
+Auburn	7875	872
+Auburn	15750	1385
+Auburn	21000	1752
+Auburn	26250	2147
+Auburn	34125	3571
+Auburn	42000	5563
+Auburn	52500	7360
+Auburn	65625	8208
+Auburn	78750	5772
+Auburn	91875	4957
+Auburn	105000	3633
+Auburn	157500	5493
+Auburn	Inf	2578
+Carlingford		291
+Carlingford	0	131
+Carlingford	7875	583
+Carlingford	15750	740
+Carlingford	21000	818
+Carlingford	26250	925
+Carlingford	34125	1441
+Carlingford	42000	1912
+Carlingford	52500	2514
+Carlingford	65625	2885
+Carlingford	78750	1988
+Carlingford	91875	1617
+Carlingford	105000	1198
+Carlingford	157500	1810
+Carlingford	Inf	953
+Merrylands - Guildford		802
+Merrylands - Guildford	0	353
+Merrylands - Guildford	7875	974
+Merrylands - Guildford	15750	1644
+Merrylands - Guildford	21000	2117
+Merrylands - Guildford	26250	2515
+Merrylands - Guildford	34125	4081
+Merrylands - Guildford	42000	6501
+Merrylands - Guildford	52500	7924
+Merrylands - Guildford	65625	7918
+Merrylands - Guildford	78750	5045
+Merrylands - Guildford	91875	3730
+Merrylands - Guildford	105000	2479
+Merrylands - Guildford	157500	3075
+Merrylands - Guildford	Inf	1239
+Parramatta		1318
+Parramatta	0	528
+Parramatta	7875	1929
+Parramatta	15750	2684
+Parramatta	21000	3039
+Parramatta	26250	3625
+Parramatta	34125	6018
+Parramatta	42000	8485
+Parramatta	52500	11783
+Parramatta	65625	14066
+Parramatta	78750	10506
+Parramatta	91875	8875
+Parramatta	105000	6679
+Parramatta	157500	9730
+Parramatta	Inf	4531
+Pennant Hills - Epping		134
+Pennant Hills - Epping	0	85
+Pennant Hills - Epping	7875	533
+Pennant Hills - Epping	15750	605
+Pennant Hills - Epping	21000	512
+Pennant Hills - Epping	26250	591
+Pennant Hills - Epping	34125	822
+Pennant Hills - Epping	42000	958
+Pennant Hills - Epping	52500	1113
+Pennant Hills - Epping	65625	1215
+Pennant Hills - Epping	78750	933
+Pennant Hills - Epping	91875	873
+Pennant Hills - Epping	105000	652
+Pennant Hills - Epping	157500	1003
+Pennant Hills - Epping	Inf	524
+Ryde - Hunters Hill		1158
+Ryde - Hunters Hill	0	447
+Ryde - Hunters Hill	7875	2262
+Ryde - Hunters Hill	15750	2891
+Ryde - Hunters Hill	21000	2860
+Ryde - Hunters Hill	26250	3332
+Ryde - Hunters Hill	34125	4817
+Ryde - Hunters Hill	42000	6143
+Ryde - Hunters Hill	52500	8065
+Ryde - Hunters Hill	65625	10369
+Ryde - Hunters Hill	78750	8453
+Ryde - Hunters Hill	91875	8060
+Ryde - Hunters Hill	105000	6822
+Ryde - Hunters Hill	157500	13665
+Ryde - Hunters Hill	Inf	9703
+Bringelly - Green Valley		271
+Bringelly - Green Valley	0	158
+Bringelly - Green Valley	7875	592
+Bringelly - Green Valley	15750	769
+Bringelly - Green Valley	21000	926
+Bringelly - Green Valley	26250	1075
+Bringelly - Green Valley	34125	1592
+Bringelly - Green Valley	42000	1791
+Bringelly - Green Valley	52500	2064
+Bringelly - Green Valley	65625	2086
+Bringelly - Green Valley	78750	1442
+Bringelly - Green Valley	91875	1140
+Bringelly - Green Valley	105000	868
+Bringelly - Green Valley	157500	895
+Bringelly - Green Valley	Inf	310
+Fairfield		891
+Fairfield	0	448
+Fairfield	7875	1466
+Fairfield	15750	2535
+Fairfield	21000	2790
+Fairfield	26250	3059
+Fairfield	34125	4788
+Fairfield	42000	6516
+Fairfield	52500	7787
+Fairfield	65625	7458
+Fairfield	78750	4794
+Fairfield	91875	3649
+Fairfield	105000	2576
+Fairfield	157500	2721
+Fairfield	Inf	1137
+Liverpool		906
+Liverpool	0	405
+Liverpool	7875	1519
+Liverpool	15750	2161
+Liverpool	21000	2260
+Liverpool	26250	2651
+Liverpool	34125	4449
+Liverpool	42000	6339
+Liverpool	52500	8002
+Liverpool	65625	8156
+Liverpool	78750	5831
+Liverpool	91875	4615
+Liverpool	105000	3098
+Liverpool	157500	3773
+Liverpool	Inf	1719
+Cronulla - Miranda - Caringbah		651
+Cronulla - Miranda - Caringbah	0	289
+Cronulla - Miranda - Caringbah	7875	2239
+Cronulla - Miranda - Caringbah	15750	2130
+Cronulla - Miranda - Caringbah	21000	2147
+Cronulla - Miranda - Caringbah	26250	2428
+Cronulla - Miranda - Caringbah	34125	3663
+Cronulla - Miranda - Caringbah	42000	4401
+Cronulla - Miranda - Caringbah	52500	5038
+Cronulla - Miranda - Caringbah	65625	5097
+Cronulla - Miranda - Caringbah	78750	3373
+Cronulla - Miranda - Caringbah	91875	2767
+Cronulla - Miranda - Caringbah	105000	1863
+Cronulla - Miranda - Caringbah	157500	2501
+Cronulla - Miranda - Caringbah	Inf	1498
+Sutherland - Menai - Heathcote		412
+Sutherland - Menai - Heathcote	0	167
+Sutherland - Menai - Heathcote	7875	1585
+Sutherland - Menai - Heathcote	15750	1413
+Sutherland - Menai - Heathcote	21000	1382
+Sutherland - Menai - Heathcote	26250	1620
+Sutherland - Menai - Heathcote	34125	2316
+Sutherland - Menai - Heathcote	42000	2761
+Sutherland - Menai - Heathcote	52500	3045
+Sutherland - Menai - Heathcote	65625	3168
+Sutherland - Menai - Heathcote	78750	2206
+Sutherland - Menai - Heathcote	91875	2099
+Sutherland - Menai - Heathcote	105000	1487
+Sutherland - Menai - Heathcote	157500	1847
+Sutherland - Menai - Heathcote	Inf	795
+Migratory - Offshore - Shipping (NSW)	15750	3
+Migratory - Offshore - Shipping (NSW)	21000	3
+Migratory - Offshore - Shipping (NSW)	26250	3
+Migratory - Offshore - Shipping (NSW)	34125	3
+Migratory - Offshore - Shipping (NSW)	42000	12
+Migratory - Offshore - Shipping (NSW)	52500	10
+Migratory - Offshore - Shipping (NSW)	65625	14
+Migratory - Offshore - Shipping (NSW)	78750	4
+Migratory - Offshore - Shipping (NSW)	91875	9
+Migratory - Offshore - Shipping (NSW)	105000	4
+Migratory - Offshore - Shipping (NSW)	157500	11
+Migratory - Offshore - Shipping (NSW)	Inf	16
+No usual address (NSW)		2919
+No usual address (NSW)	0	1318
+No usual address (NSW)	7875	3845
+No usual address (NSW)	15750	6585
+No usual address (NSW)	21000	8519
+No usual address (NSW)	26250	10804
+No usual address (NSW)	34125	15471
+No usual address (NSW)	42000	16390
+No usual address (NSW)	52500	19084
+No usual address (NSW)	65625	19957
+No usual address (NSW)	78750	13081
+No usual address (NSW)	91875	10074
+No usual address (NSW)	105000	5734
+No usual address (NSW)	157500	6656
+No usual address (NSW)	Inf	2935
+Ballarat		715
+Ballarat	0	316
+Ballarat	7875	2030
+Ballarat	15750	2129
+Ballarat	21000	2247
+Ballarat	26250	2886
+Ballarat	34125	4442
+Ballarat	42000	5578
+Ballarat	52500	6418
+Ballarat	65625	6174
+Ballarat	78750	4066
+Ballarat	91875	3208
+Ballarat	105000	2089
+Ballarat	157500	2308
+Ballarat	Inf	1111
+Creswick - Daylesford - Ballan		134
+Creswick - Daylesford - Ballan	0	146
+Creswick - Daylesford - Ballan	7875	387
+Creswick - Daylesford - Ballan	15750	493
+Creswick - Daylesford - Ballan	21000	571
+Creswick - Daylesford - Ballan	26250	634
+Creswick - Daylesford - Ballan	34125	858
+Creswick - Daylesford - Ballan	42000	963
+Creswick - Daylesford - Ballan	52500	968
+Creswick - Daylesford - Ballan	65625	791
+Creswick - Daylesford - Ballan	78750	472
+Creswick - Daylesford - Ballan	91875	326
+Creswick - Daylesford - Ballan	105000	211
+Creswick - Daylesford - Ballan	157500	228
+Creswick - Daylesford - Ballan	Inf	126
+Maryborough - Pyrenees		135
+Maryborough - Pyrenees	0	122
+Maryborough - Pyrenees	7875	319
+Maryborough - Pyrenees	15750	443
+Maryborough - Pyrenees	21000	462
+Maryborough - Pyrenees	26250	513
+Maryborough - Pyrenees	34125	846
+Maryborough - Pyrenees	42000	965
+Maryborough - Pyrenees	52500	927
+Maryborough - Pyrenees	65625	840
+Maryborough - Pyrenees	78750	438
+Maryborough - Pyrenees	91875	339
+Maryborough - Pyrenees	105000	194
+Maryborough - Pyrenees	157500	200
+Maryborough - Pyrenees	Inf	86
+Bendigo		645
+Bendigo	0	238
+Bendigo	7875	1944
+Bendigo	15750	1799
+Bendigo	21000	2001
+Bendigo	26250	2528
+Bendigo	34125	4082
+Bendigo	42000	5260
+Bendigo	52500	5741
+Bendigo	65625	5319
+Bendigo	78750	3805
+Bendigo	91875	2868
+Bendigo	105000	1801
+Bendigo	157500	2053
+Bendigo	Inf	929
+Heathcote - Castlemaine - Kyneton		301
+Heathcote - Castlemaine - Kyneton	0	166
+Heathcote - Castlemaine - Kyneton	7875	662
+Heathcote - Castlemaine - Kyneton	15750	756
+Heathcote - Castlemaine - Kyneton	21000	907
+Heathcote - Castlemaine - Kyneton	26250	1055
+Heathcote - Castlemaine - Kyneton	34125	1690
+Heathcote - Castlemaine - Kyneton	42000	2222
+Heathcote - Castlemaine - Kyneton	52500	2309
+Heathcote - Castlemaine - Kyneton	65625	1905
+Heathcote - Castlemaine - Kyneton	78750	1215
+Heathcote - Castlemaine - Kyneton	91875	907
+Heathcote - Castlemaine - Kyneton	105000	493
+Heathcote - Castlemaine - Kyneton	157500	581
+Heathcote - Castlemaine - Kyneton	Inf	296
+Loddon - Elmore		90
+Loddon - Elmore	0	109
+Loddon - Elmore	7875	151
+Loddon - Elmore	15750	200
+Loddon - Elmore	21000	234
+Loddon - Elmore	26250	244
+Loddon - Elmore	34125	442
+Loddon - Elmore	42000	470
+Loddon - Elmore	52500	513
+Loddon - Elmore	65625	473
+Loddon - Elmore	78750	259
+Loddon - Elmore	91875	242
+Loddon - Elmore	105000	157
+Loddon - Elmore	157500	257
+Loddon - Elmore	Inf	70
+Barwon - West		72
+Barwon - West	0	61
+Barwon - West	7875	167
+Barwon - West	15750	257
+Barwon - West	21000	252
+Barwon - West	26250	307
+Barwon - West	34125	472
+Barwon - West	42000	468
+Barwon - West	52500	466
+Barwon - West	65625	458
+Barwon - West	78750	282
+Barwon - West	91875	230
+Barwon - West	105000	117
+Barwon - West	157500	136
+Barwon - West	Inf	106
+Geelong		1456
+Geelong	0	537
+Geelong	7875	3897
+Geelong	15750	3886
+Geelong	21000	4296
+Geelong	26250	5096
+Geelong	34125	7927
+Geelong	42000	9684
+Geelong	52500	11368
+Geelong	65625	11601
+Geelong	78750	8006
+Geelong	91875	6540
+Geelong	105000	4328
+Geelong	157500	5314
+Geelong	Inf	2531
+Surf Coast - Bellarine Peninsula		291
+Surf Coast - Bellarine Peninsula	0	219
+Surf Coast - Bellarine Peninsula	7875	1169
+Surf Coast - Bellarine Peninsula	15750	1144
+Surf Coast - Bellarine Peninsula	21000	1181
+Surf Coast - Bellarine Peninsula	26250	1312
+Surf Coast - Bellarine Peninsula	34125	1871
+Surf Coast - Bellarine Peninsula	42000	1977
+Surf Coast - Bellarine Peninsula	52500	2004
+Surf Coast - Bellarine Peninsula	65625	1901
+Surf Coast - Bellarine Peninsula	78750	1274
+Surf Coast - Bellarine Peninsula	91875	1029
+Surf Coast - Bellarine Peninsula	105000	666
+Surf Coast - Bellarine Peninsula	157500	680
+Surf Coast - Bellarine Peninsula	Inf	434
+Upper Goulburn Valley		432
+Upper Goulburn Valley	0	268
+Upper Goulburn Valley	7875	905
+Upper Goulburn Valley	15750	977
+Upper Goulburn Valley	21000	1133
+Upper Goulburn Valley	26250	1363
+Upper Goulburn Valley	34125	2174
+Upper Goulburn Valley	42000	2513
+Upper Goulburn Valley	52500	2614
+Upper Goulburn Valley	65625	2482
+Upper Goulburn Valley	78750	1642
+Upper Goulburn Valley	91875	1155
+Upper Goulburn Valley	105000	807
+Upper Goulburn Valley	157500	786
+Upper Goulburn Valley	Inf	345
+Wangaratta - Benalla		338
+Wangaratta - Benalla	0	207
+Wangaratta - Benalla	7875	833
+Wangaratta - Benalla	15750	834
+Wangaratta - Benalla	21000	995
+Wangaratta - Benalla	26250	1309
+Wangaratta - Benalla	34125	1949
+Wangaratta - Benalla	42000	2536
+Wangaratta - Benalla	52500	2791
+Wangaratta - Benalla	65625	2468
+Wangaratta - Benalla	78750	1631
+Wangaratta - Benalla	91875	1247
+Wangaratta - Benalla	105000	739
+Wangaratta - Benalla	157500	761
+Wangaratta - Benalla	Inf	371
+Wodonga - Alpine		553
+Wodonga - Alpine	0	247
+Wodonga - Alpine	7875	1126
+Wodonga - Alpine	15750	1170
+Wodonga - Alpine	21000	1434
+Wodonga - Alpine	26250	1809
+Wodonga - Alpine	34125	2994
+Wodonga - Alpine	42000	3703
+Wodonga - Alpine	52500	4446
+Wodonga - Alpine	65625	4266
+Wodonga - Alpine	78750	2886
+Wodonga - Alpine	91875	2124
+Wodonga - Alpine	105000	1341
+Wodonga - Alpine	157500	1290
+Wodonga - Alpine	Inf	523
+Baw Baw		374
+Baw Baw	0	226
+Baw Baw	7875	837
+Baw Baw	15750	888
+Baw Baw	21000	938
+Baw Baw	26250	1218
+Baw Baw	34125	1752
+Baw Baw	42000	2051
+Baw Baw	52500	2128
+Baw Baw	65625	1808
+Baw Baw	78750	1201
+Baw Baw	91875	895
+Baw Baw	105000	618
+Baw Baw	157500	600
+Baw Baw	Inf	330
+Gippsland - East		323
+Gippsland - East	0	179
+Gippsland - East	7875	696
+Gippsland - East	15750	740
+Gippsland - East	21000	984
+Gippsland - East	26250	1252
+Gippsland - East	34125	1935
+Gippsland - East	42000	2178
+Gippsland - East	52500	2199
+Gippsland - East	65625	2002
+Gippsland - East	78750	1135
+Gippsland - East	91875	885
+Gippsland - East	105000	477
+Gippsland - East	157500	498
+Gippsland - East	Inf	234
+Gippsland - South West		465
+Gippsland - South West	0	301
+Gippsland - South West	7875	1029
+Gippsland - South West	15750	1147
+Gippsland - South West	21000	1466
+Gippsland - South West	26250	1700
+Gippsland - South West	34125	2499
+Gippsland - South West	42000	2645
+Gippsland - South West	52500	2654
+Gippsland - South West	65625	2428
+Gippsland - South West	78750	1513
+Gippsland - South West	91875	1170
+Gippsland - South West	105000	751
+Gippsland - South West	157500	824
+Gippsland - South West	Inf	431
+Latrobe Valley		551
+Latrobe Valley	0	236
+Latrobe Valley	7875	1331
+Latrobe Valley	15750	1325
+Latrobe Valley	21000	1452
+Latrobe Valley	26250	1740
+Latrobe Valley	34125	2854
+Latrobe Valley	42000	3366
+Latrobe Valley	52500	3751
+Latrobe Valley	65625	3700
+Latrobe Valley	78750	2656
+Latrobe Valley	91875	2225
+Latrobe Valley	105000	1694
+Latrobe Valley	157500	2508
+Latrobe Valley	Inf	1174
+Wellington		344
+Wellington	0	212
+Wellington	7875	737
+Wellington	15750	835
+Wellington	21000	903
+Wellington	26250	1152
+Wellington	34125	1625
+Wellington	42000	1882
+Wellington	52500	2094
+Wellington	65625	2160
+Wellington	78750	1417
+Wellington	91875	1058
+Wellington	105000	783
+Wellington	157500	1092
+Wellington	Inf	739
+Brunswick - Coburg		388
+Brunswick - Coburg	0	210
+Brunswick - Coburg	7875	900
+Brunswick - Coburg	15750	1291
+Brunswick - Coburg	21000	1538
+Brunswick - Coburg	26250	1708
+Brunswick - Coburg	34125	2441
+Brunswick - Coburg	42000	2968
+Brunswick - Coburg	52500	3200
+Brunswick - Coburg	65625	3066
+Brunswick - Coburg	78750	2087
+Brunswick - Coburg	91875	1652
+Brunswick - Coburg	105000	984
+Brunswick - Coburg	157500	1094
+Brunswick - Coburg	Inf	646
+Darebin - South		228
+Darebin - South	0	131
+Darebin - South	7875	574
+Darebin - South	15750	759
+Darebin - South	21000	782
+Darebin - South	26250	958
+Darebin - South	34125	1387
+Darebin - South	42000	1686
+Darebin - South	52500	1923
+Darebin - South	65625	1888
+Darebin - South	78750	1213
+Darebin - South	91875	905
+Darebin - South	105000	640
+Darebin - South	157500	725
+Darebin - South	Inf	442
+Essendon		383
+Essendon	0	190
+Essendon	7875	1050
+Essendon	15750	1108
+Essendon	21000	1217
+Essendon	26250	1243
+Essendon	34125	1834
+Essendon	42000	2148
+Essendon	52500	2392
+Essendon	65625	2499
+Essendon	78750	1817
+Essendon	91875	1579
+Essendon	105000	1045
+Essendon	157500	1264
+Essendon	Inf	688
+Melbourne City		5637
+Melbourne City	0	1848
+Melbourne City	7875	5854
+Melbourne City	15750	9503
+Melbourne City	21000	10735
+Melbourne City	26250	12600
+Melbourne City	34125	19049
+Melbourne City	42000	25774
+Melbourne City	52500	39239
+Melbourne City	65625	52815
+Melbourne City	78750	45841
+Melbourne City	91875	44260
+Melbourne City	105000	33530
+Melbourne City	157500	65887
+Melbourne City	Inf	49877
+Port Phillip		1382
+Port Phillip	0	543
+Port Phillip	7875	1397
+Port Phillip	15750	2239
+Port Phillip	21000	2628
+Port Phillip	26250	3106
+Port Phillip	34125	4593
+Port Phillip	42000	6625
+Port Phillip	52500	10426
+Port Phillip	65625	12518
+Port Phillip	78750	9698
+Port Phillip	91875	8735
+Port Phillip	105000	6326
+Port Phillip	157500	11780
+Port Phillip	Inf	8081
+Stonnington - West		534
+Stonnington - West	0	300
+Stonnington - West	7875	976
+Stonnington - West	15750	1542
+Stonnington - West	21000	1753
+Stonnington - West	26250	1860
+Stonnington - West	34125	2617
+Stonnington - West	42000	3156
+Stonnington - West	52500	3977
+Stonnington - West	65625	4416
+Stonnington - West	78750	3146
+Stonnington - West	91875	2626
+Stonnington - West	105000	1732
+Stonnington - West	157500	2735
+Stonnington - West	Inf	2291
+Yarra		1221
+Yarra	0	450
+Yarra	7875	1604
+Yarra	15750	2628
+Yarra	21000	2935
+Yarra	26250	3470
+Yarra	34125	5268
+Yarra	42000	7108
+Yarra	52500	10036
+Yarra	65625	11527
+Yarra	78750	8812
+Yarra	91875	7517
+Yarra	105000	4940
+Yarra	157500	8173
+Yarra	Inf	5699
+Boroondara		1149
+Boroondara	0	575
+Boroondara	7875	2931
+Boroondara	15750	3242
+Boroondara	21000	3175
+Boroondara	26250	3452
+Boroondara	34125	4989
+Boroondara	42000	5910
+Boroondara	52500	7539
+Boroondara	65625	8724
+Boroondara	78750	6703
+Boroondara	91875	6204
+Boroondara	105000	4356
+Boroondara	157500	7196
+Boroondara	Inf	5231
+Manningham - West		438
+Manningham - West	0	236
+Manningham - West	7875	1708
+Manningham - West	15750	1834
+Manningham - West	21000	1650
+Manningham - West	26250	1761
+Manningham - West	34125	2353
+Manningham - West	42000	2528
+Manningham - West	52500	2835
+Manningham - West	65625	2773
+Manningham - West	78750	1716
+Manningham - West	91875	1448
+Manningham - West	105000	1025
+Manningham - West	157500	1248
+Manningham - West	Inf	774
+Whitehorse - West		700
+Whitehorse - West	0	332
+Whitehorse - West	7875	1897
+Whitehorse - West	15750	2078
+Whitehorse - West	21000	2127
+Whitehorse - West	26250	2287
+Whitehorse - West	34125	3560
+Whitehorse - West	42000	4468
+Whitehorse - West	52500	5612
+Whitehorse - West	65625	6110
+Whitehorse - West	78750	4607
+Whitehorse - West	91875	4008
+Whitehorse - West	105000	2861
+Whitehorse - West	157500	3977
+Whitehorse - West	Inf	1980
+Bayside		486
+Bayside	0	272
+Bayside	7875	1552
+Bayside	15750	1559
+Bayside	21000	1512
+Bayside	26250	1663
+Bayside	34125	2404
+Bayside	42000	2878
+Bayside	52500	3499
+Bayside	65625	3733
+Bayside	78750	2537
+Bayside	91875	2259
+Bayside	105000	1464
+Bayside	157500	2070
+Bayside	Inf	1645
+Glen Eira		723
+Glen Eira	0	368
+Glen Eira	7875	1817
+Glen Eira	15750	2111
+Glen Eira	21000	2038
+Glen Eira	26250	2316
+Glen Eira	34125	3257
+Glen Eira	42000	4014
+Glen Eira	52500	4627
+Glen Eira	65625	4951
+Glen Eira	78750	3488
+Glen Eira	91875	2925
+Glen Eira	105000	1884
+Glen Eira	157500	2507
+Glen Eira	Inf	1575
+Kingston		1113
+Kingston	0	477
+Kingston	7875	2836
+Kingston	15750	2883
+Kingston	21000	2754
+Kingston	26250	3322
+Kingston	34125	5264
+Kingston	42000	7470
+Kingston	52500	8943
+Kingston	65625	8917
+Kingston	78750	5837
+Kingston	91875	4555
+Kingston	105000	2959
+Kingston	157500	3788
+Kingston	Inf	2002
+Stonnington - East		374
+Stonnington - East	0	183
+Stonnington - East	7875	1136
+Stonnington - East	15750	1354
+Stonnington - East	21000	1313
+Stonnington - East	26250	1398
+Stonnington - East	34125	1812
+Stonnington - East	42000	2088
+Stonnington - East	52500	2446
+Stonnington - East	65625	2499
+Stonnington - East	78750	1683
+Stonnington - East	91875	1436
+Stonnington - East	105000	1007
+Stonnington - East	157500	1399
+Stonnington - East	Inf	1176
+Banyule		704
+Banyule	0	288
+Banyule	7875	1896
+Banyule	15750	2030
+Banyule	21000	1905
+Banyule	26250	2253
+Banyule	34125	3471
+Banyule	42000	4412
+Banyule	52500	5105
+Banyule	65625	5546
+Banyule	78750	3955
+Banyule	91875	3227
+Banyule	105000	2078
+Banyule	157500	2126
+Banyule	Inf	1359
+Darebin - North		563
+Darebin - North	0	277
+Darebin - North	7875	1447
+Darebin - North	15750	1780
+Darebin - North	21000	1808
+Darebin - North	26250	2023
+Darebin - North	34125	3000
+Darebin - North	42000	3801
+Darebin - North	52500	4370
+Darebin - North	65625	4390
+Darebin - North	78750	3044
+Darebin - North	91875	2546
+Darebin - North	105000	1611
+Darebin - North	157500	1880
+Darebin - North	Inf	868
+Nillumbik - Kinglake		273
+Nillumbik - Kinglake	0	139
+Nillumbik - Kinglake	7875	1135
+Nillumbik - Kinglake	15750	924
+Nillumbik - Kinglake	21000	842
+Nillumbik - Kinglake	26250	970
+Nillumbik - Kinglake	34125	1316
+Nillumbik - Kinglake	42000	1468
+Nillumbik - Kinglake	52500	1639
+Nillumbik - Kinglake	65625	1599
+Nillumbik - Kinglake	78750	1105
+Nillumbik - Kinglake	91875	921
+Nillumbik - Kinglake	105000	604
+Nillumbik - Kinglake	157500	644
+Nillumbik - Kinglake	Inf	425
+Whittlesea - Wallan		1079
+Whittlesea - Wallan	0	449
+Whittlesea - Wallan	7875	2787
+Whittlesea - Wallan	15750	2851
+Whittlesea - Wallan	21000	2961
+Whittlesea - Wallan	26250	3331
+Whittlesea - Wallan	34125	5207
+Whittlesea - Wallan	42000	6702
+Whittlesea - Wallan	52500	7986
+Whittlesea - Wallan	65625	7446
+Whittlesea - Wallan	78750	4850
+Whittlesea - Wallan	91875	3583
+Whittlesea - Wallan	105000	2381
+Whittlesea - Wallan	157500	2581
+Whittlesea - Wallan	Inf	1220
+Keilor		623
+Keilor	0	235
+Keilor	7875	1158
+Keilor	15750	1251
+Keilor	21000	1220
+Keilor	26250	1521
+Keilor	34125	2501
+Keilor	42000	3579
+Keilor	52500	4874
+Keilor	65625	5090
+Keilor	78750	3365
+Keilor	91875	2550
+Keilor	105000	1699
+Keilor	157500	2228
+Keilor	Inf	1122
+Macedon Ranges		144
+Macedon Ranges	0	110
+Macedon Ranges	7875	515
+Macedon Ranges	15750	446
+Macedon Ranges	21000	435
+Macedon Ranges	26250	502
+Macedon Ranges	34125	735
+Macedon Ranges	42000	797
+Macedon Ranges	52500	812
+Macedon Ranges	65625	742
+Macedon Ranges	78750	528
+Macedon Ranges	91875	400
+Macedon Ranges	105000	243
+Macedon Ranges	157500	271
+Macedon Ranges	Inf	156
+Moreland - North		268
+Moreland - North	0	111
+Moreland - North	7875	487
+Moreland - North	15750	766
+Moreland - North	21000	893
+Moreland - North	26250	994
+Moreland - North	34125	1611
+Moreland - North	42000	1885
+Moreland - North	52500	1995
+Moreland - North	65625	1919
+Moreland - North	78750	1267
+Moreland - North	91875	937
+Moreland - North	105000	593
+Moreland - North	157500	555
+Moreland - North	Inf	292
+Sunbury		140
+Sunbury	0	75
+Sunbury	7875	630
+Sunbury	15750	556
+Sunbury	21000	509
+Sunbury	26250	590
+Sunbury	34125	863
+Sunbury	42000	873
+Sunbury	52500	957
+Sunbury	65625	916
+Sunbury	78750	558
+Sunbury	91875	443
+Sunbury	105000	282
+Sunbury	157500	294
+Sunbury	Inf	137
+Tullamarine - Broadmeadows		1446
+Tullamarine - Broadmeadows	0	498
+Tullamarine - Broadmeadows	7875	1991
+Tullamarine - Broadmeadows	15750	2466
+Tullamarine - Broadmeadows	21000	2859
+Tullamarine - Broadmeadows	26250	3466
+Tullamarine - Broadmeadows	34125	6073
+Tullamarine - Broadmeadows	42000	9073
+Tullamarine - Broadmeadows	52500	11528
+Tullamarine - Broadmeadows	65625	11689
+Tullamarine - Broadmeadows	78750	7836
+Tullamarine - Broadmeadows	91875	5855
+Tullamarine - Broadmeadows	105000	4033
+Tullamarine - Broadmeadows	157500	4928
+Tullamarine - Broadmeadows	Inf	2429
+Knox		1087
+Knox	0	450
+Knox	7875	3029
+Knox	15750	3094
+Knox	21000	2951
+Knox	26250	3473
+Knox	34125	5392
+Knox	42000	7315
+Knox	52500	9124
+Knox	65625	9135
+Knox	78750	5802
+Knox	91875	4529
+Knox	105000	2926
+Knox	157500	3949
+Knox	Inf	1966
+Manningham - East		97
+Manningham - East	0	60
+Manningham - East	7875	280
+Manningham - East	15750	263
+Manningham - East	21000	264
+Manningham - East	26250	275
+Manningham - East	34125	476
+Manningham - East	42000	524
+Manningham - East	52500	489
+Manningham - East	65625	506
+Manningham - East	78750	377
+Manningham - East	91875	344
+Manningham - East	105000	224
+Manningham - East	157500	259
+Manningham - East	Inf	174
+Maroondah		798
+Maroondah	0	342
+Maroondah	7875	2240
+Maroondah	15750	2350
+Maroondah	21000	2242
+Maroondah	26250	2508
+Maroondah	34125	3710
+Maroondah	42000	4820
+Maroondah	52500	5867
+Maroondah	65625	5738
+Maroondah	78750	3804
+Maroondah	91875	2893
+Maroondah	105000	1865
+Maroondah	157500	2068
+Maroondah	Inf	984
+Whitehorse - East		366
+Whitehorse - East	0	175
+Whitehorse - East	7875	1209
+Whitehorse - East	15750	1251
+Whitehorse - East	21000	1269
+Whitehorse - East	26250	1331
+Whitehorse - East	34125	1977
+Whitehorse - East	42000	2515
+Whitehorse - East	52500	2834
+Whitehorse - East	65625	2850
+Whitehorse - East	78750	1993
+Whitehorse - East	91875	1634
+Whitehorse - East	105000	1027
+Whitehorse - East	157500	1421
+Whitehorse - East	Inf	789
+Yarra Ranges		859
+Yarra Ranges	0	395
+Yarra Ranges	7875	2495
+Yarra Ranges	15750	2583
+Yarra Ranges	21000	2508
+Yarra Ranges	26250	2826
+Yarra Ranges	34125	4092
+Yarra Ranges	42000	4632
+Yarra Ranges	52500	5120
+Yarra Ranges	65625	4794
+Yarra Ranges	78750	3104
+Yarra Ranges	91875	2340
+Yarra Ranges	105000	1469
+Yarra Ranges	157500	1498
+Yarra Ranges	Inf	724
+Cardinia		486
+Cardinia	0	263
+Cardinia	7875	1424
+Cardinia	15750	1357
+Cardinia	21000	1314
+Cardinia	26250	1610
+Cardinia	34125	2473
+Cardinia	42000	2847
+Cardinia	52500	3120
+Cardinia	65625	2859
+Cardinia	78750	1868
+Cardinia	91875	1362
+Cardinia	105000	893
+Cardinia	157500	857
+Cardinia	Inf	422
+Casey - North		732
+Casey - North	0	326
+Casey - North	7875	2308
+Casey - North	15750	2307
+Casey - North	21000	2191
+Casey - North	26250	2516
+Casey - North	34125	3830
+Casey - North	42000	4513
+Casey - North	52500	5353
+Casey - North	65625	4989
+Casey - North	78750	3411
+Casey - North	91875	2411
+Casey - North	105000	1651
+Casey - North	157500	1811
+Casey - North	Inf	938
+Casey - South		461
+Casey - South	0	279
+Casey - South	7875	1517
+Casey - South	15750	1634
+Casey - South	21000	1524
+Casey - South	26250	1795
+Casey - South	34125	2785
+Casey - South	42000	3213
+Casey - South	52500	3209
+Casey - South	65625	3051
+Casey - South	78750	1927
+Casey - South	91875	1426
+Casey - South	105000	937
+Casey - South	157500	797
+Casey - South	Inf	380
+Dandenong		1965
+Dandenong	0	726
+Dandenong	7875	2393
+Dandenong	15750	3277
+Dandenong	21000	3729
+Dandenong	26250	4506
+Dandenong	34125	8075
+Dandenong	42000	13643
+Dandenong	52500	17754
+Dandenong	65625	17728
+Dandenong	78750	10952
+Dandenong	91875	8154
+Dandenong	105000	5087
+Dandenong	157500	6400
+Dandenong	Inf	3034
+Monash		1643
+Monash	0	677
+Monash	7875	3174
+Monash	15750	3885
+Monash	21000	3944
+Monash	26250	4492
+Monash	34125	7187
+Monash	42000	9623
+Monash	52500	12483
+Monash	65625	14638
+Monash	78750	10918
+Monash	91875	9620
+Monash	105000	6653
+Monash	157500	10060
+Monash	Inf	5358
+Brimbank		1075
+Brimbank	0	421
+Brimbank	7875	1975
+Brimbank	15750	2448
+Brimbank	21000	2611
+Brimbank	26250	2975
+Brimbank	34125	4863
+Brimbank	42000	6823
+Brimbank	52500	8071
+Brimbank	65625	8062
+Brimbank	78750	5321
+Brimbank	91875	3825
+Brimbank	105000	2438
+Brimbank	157500	2567
+Brimbank	Inf	1168
+Hobsons Bay		606
+Hobsons Bay	0	254
+Hobsons Bay	7875	1126
+Hobsons Bay	15750	1159
+Hobsons Bay	21000	1202
+Hobsons Bay	26250	1414
+Hobsons Bay	34125	2427
+Hobsons Bay	42000	3472
+Hobsons Bay	52500	4367
+Hobsons Bay	65625	4954
+Hobsons Bay	78750	3464
+Hobsons Bay	91875	2746
+Hobsons Bay	105000	1968
+Hobsons Bay	157500	2836
+Hobsons Bay	Inf	1253
+Maribyrnong		578
+Maribyrnong	0	305
+Maribyrnong	7875	1513
+Maribyrnong	15750	2031
+Maribyrnong	21000	2042
+Maribyrnong	26250	2365
+Maribyrnong	34125	3342
+Maribyrnong	42000	4116
+Maribyrnong	52500	5100
+Maribyrnong	65625	4959
+Maribyrnong	78750	3420
+Maribyrnong	91875	2620
+Maribyrnong	105000	1686
+Maribyrnong	157500	2091
+Maribyrnong	Inf	1093
+Melton - Bacchus Marsh		575
+Melton - Bacchus Marsh	0	321
+Melton - Bacchus Marsh	7875	1718
+Melton - Bacchus Marsh	15750	1676
+Melton - Bacchus Marsh	21000	1716
+Melton - Bacchus Marsh	26250	1877
+Melton - Bacchus Marsh	34125	2923
+Melton - Bacchus Marsh	42000	3657
+Melton - Bacchus Marsh	52500	3897
+Melton - Bacchus Marsh	65625	3860
+Melton - Bacchus Marsh	78750	2577
+Melton - Bacchus Marsh	91875	1950
+Melton - Bacchus Marsh	105000	1190
+Melton - Bacchus Marsh	157500	1200
+Melton - Bacchus Marsh	Inf	509
+Wyndham		1128
+Wyndham	0	531
+Wyndham	7875	2637
+Wyndham	15750	2905
+Wyndham	21000	2991
+Wyndham	26250	3329
+Wyndham	34125	5219
+Wyndham	42000	7428
+Wyndham	52500	9510
+Wyndham	65625	9705
+Wyndham	78750	6208
+Wyndham	91875	4559
+Wyndham	105000	2900
+Wyndham	157500	3199
+Wyndham	Inf	1396
+Frankston		849
+Frankston	0	325
+Frankston	7875	2164
+Frankston	15750	2102
+Frankston	21000	2168
+Frankston	26250	2567
+Frankston	34125	4245
+Frankston	42000	5177
+Frankston	52500	5847
+Frankston	65625	5757
+Frankston	78750	3885
+Frankston	91875	2963
+Frankston	105000	1840
+Frankston	157500	1915
+Frankston	Inf	1109
+Mornington Peninsula		1042
+Mornington Peninsula	0	444
+Mornington Peninsula	7875	2798
+Mornington Peninsula	15750	2580
+Mornington Peninsula	21000	2810
+Mornington Peninsula	26250	3432
+Mornington Peninsula	34125	5344
+Mornington Peninsula	42000	6170
+Mornington Peninsula	52500	6572
+Mornington Peninsula	65625	5903
+Mornington Peninsula	78750	3937
+Mornington Peninsula	91875	3015
+Mornington Peninsula	105000	2068
+Mornington Peninsula	157500	2152
+Mornington Peninsula	Inf	1216
+Grampians		492
+Grampians	0	443
+Grampians	7875	1109
+Grampians	15750	1105
+Grampians	21000	1324
+Grampians	26250	1723
+Grampians	34125	2832
+Grampians	42000	3356
+Grampians	52500	3630
+Grampians	65625	3177
+Grampians	78750	1941
+Grampians	91875	1415
+Grampians	105000	922
+Grampians	157500	943
+Grampians	Inf	443
+Mildura		469
+Mildura	0	230
+Mildura	7875	936
+Mildura	15750	983
+Mildura	21000	1065
+Mildura	26250	1424
+Mildura	34125	2239
+Mildura	42000	2960
+Mildura	52500	3271
+Mildura	65625	2771
+Mildura	78750	1766
+Mildura	91875	1344
+Mildura	105000	788
+Mildura	157500	722
+Mildura	Inf	382
+Murray River - Swan Hill		304
+Murray River - Swan Hill	0	302
+Murray River - Swan Hill	7875	690
+Murray River - Swan Hill	15750	744
+Murray River - Swan Hill	21000	839
+Murray River - Swan Hill	26250	1086
+Murray River - Swan Hill	34125	1714
+Murray River - Swan Hill	42000	2144
+Murray River - Swan Hill	52500	2223
+Murray River - Swan Hill	65625	2034
+Murray River - Swan Hill	78750	1070
+Murray River - Swan Hill	91875	830
+Murray River - Swan Hill	105000	428
+Murray River - Swan Hill	157500	489
+Murray River - Swan Hill	Inf	290
+Campaspe		313
+Campaspe	0	236
+Campaspe	7875	708
+Campaspe	15750	664
+Campaspe	21000	881
+Campaspe	26250	1037
+Campaspe	34125	1678
+Campaspe	42000	1977
+Campaspe	52500	2235
+Campaspe	65625	2092
+Campaspe	78750	1140
+Campaspe	91875	900
+Campaspe	105000	593
+Campaspe	157500	601
+Campaspe	Inf	281
+Moira		297
+Moira	0	192
+Moira	7875	519
+Moira	15750	426
+Moira	21000	620
+Moira	26250	795
+Moira	34125	1204
+Moira	42000	1373
+Moira	52500	1422
+Moira	65625	1307
+Moira	78750	795
+Moira	91875	586
+Moira	105000	441
+Moira	157500	352
+Moira	Inf	209
+Shepparton		568
+Shepparton	0	271
+Shepparton	7875	1160
+Shepparton	15750	1013
+Shepparton	21000	1284
+Shepparton	26250	1687
+Shepparton	34125	2764
+Shepparton	42000	3651
+Shepparton	52500	4137
+Shepparton	65625	4054
+Shepparton	78750	2546
+Shepparton	91875	1874
+Shepparton	105000	1084
+Shepparton	157500	1230
+Shepparton	Inf	602
+Glenelg - Southern Grampians		320
+Glenelg - Southern Grampians	0	162
+Glenelg - Southern Grampians	7875	693
+Glenelg - Southern Grampians	15750	705
+Glenelg - Southern Grampians	21000	883
+Glenelg - Southern Grampians	26250	994
+Glenelg - Southern Grampians	34125	1570
+Glenelg - Southern Grampians	42000	1842
+Glenelg - Southern Grampians	52500	1943
+Glenelg - Southern Grampians	65625	1890
+Glenelg - Southern Grampians	78750	1168
+Glenelg - Southern Grampians	91875	962
+Glenelg - Southern Grampians	105000	693
+Glenelg - Southern Grampians	157500	802
+Glenelg - Southern Grampians	Inf	333
+Colac - Corangamite		392
+Colac - Corangamite	0	337
+Colac - Corangamite	7875	839
+Colac - Corangamite	15750	803
+Colac - Corangamite	21000	948
+Colac - Corangamite	26250	1189
+Colac - Corangamite	34125	1777
+Colac - Corangamite	42000	1932
+Colac - Corangamite	52500	2355
+Colac - Corangamite	65625	2152
+Colac - Corangamite	78750	1279
+Colac - Corangamite	91875	914
+Colac - Corangamite	105000	571
+Colac - Corangamite	157500	572
+Colac - Corangamite	Inf	417
+Warrnambool		388
+Warrnambool	0	226
+Warrnambool	7875	1068
+Warrnambool	15750	998
+Warrnambool	21000	1145
+Warrnambool	26250	1482
+Warrnambool	34125	2261
+Warrnambool	42000	2749
+Warrnambool	52500	3177
+Warrnambool	65625	2947
+Warrnambool	78750	1773
+Warrnambool	91875	1350
+Warrnambool	105000	895
+Warrnambool	157500	935
+Warrnambool	Inf	517
+Migratory - Offshore - Shipping (Vic.)		5
+Migratory - Offshore - Shipping (Vic.)	15750	3
+Migratory - Offshore - Shipping (Vic.)	26250	3
+Migratory - Offshore - Shipping (Vic.)	34125	3
+Migratory - Offshore - Shipping (Vic.)	42000	7
+Migratory - Offshore - Shipping (Vic.)	52500	5
+Migratory - Offshore - Shipping (Vic.)	65625	9
+Migratory - Offshore - Shipping (Vic.)	78750	7
+Migratory - Offshore - Shipping (Vic.)	91875	8
+Migratory - Offshore - Shipping (Vic.)	105000	11
+Migratory - Offshore - Shipping (Vic.)	157500	29
+Migratory - Offshore - Shipping (Vic.)	Inf	60
+No usual address (Vic.)		2922
+No usual address (Vic.)	0	1125
+No usual address (Vic.)	7875	3527
+No usual address (Vic.)	15750	5922
+No usual address (Vic.)	21000	6827
+No usual address (Vic.)	26250	9016
+No usual address (Vic.)	34125	12484
+No usual address (Vic.)	42000	13208
+No usual address (Vic.)	52500	15503
+No usual address (Vic.)	65625	16145
+No usual address (Vic.)	78750	11304
+No usual address (Vic.)	91875	8413
+No usual address (Vic.)	105000	4907
+No usual address (Vic.)	157500	5375
+No usual address (Vic.)	Inf	2357
+Capalaba		295
+Capalaba	0	159
+Capalaba	7875	1105
+Capalaba	15750	1028
+Capalaba	21000	1072
+Capalaba	26250	1282
+Capalaba	34125	1845
+Capalaba	42000	2446
+Capalaba	52500	2628
+Capalaba	65625	2422
+Capalaba	78750	1419
+Capalaba	91875	1208
+Capalaba	105000	713
+Capalaba	157500	797
+Capalaba	Inf	428
+Cleveland - Stradbroke		396
+Cleveland - Stradbroke	0	229
+Cleveland - Stradbroke	7875	1378
+Cleveland - Stradbroke	15750	1252
+Cleveland - Stradbroke	21000	1225
+Cleveland - Stradbroke	26250	1425
+Cleveland - Stradbroke	34125	2308
+Cleveland - Stradbroke	42000	2713
+Cleveland - Stradbroke	52500	2950
+Cleveland - Stradbroke	65625	3048
+Cleveland - Stradbroke	78750	1923
+Cleveland - Stradbroke	91875	1725
+Cleveland - Stradbroke	105000	1025
+Cleveland - Stradbroke	157500	1148
+Cleveland - Stradbroke	Inf	626
+Wynnum - Manly		609
+Wynnum - Manly	0	193
+Wynnum - Manly	7875	1084
+Wynnum - Manly	15750	1173
+Wynnum - Manly	21000	1143
+Wynnum - Manly	26250	1393
+Wynnum - Manly	34125	2530
+Wynnum - Manly	42000	4120
+Wynnum - Manly	52500	5680
+Wynnum - Manly	65625	5920
+Wynnum - Manly	78750	3955
+Wynnum - Manly	91875	3374
+Wynnum - Manly	105000	2299
+Wynnum - Manly	157500	3254
+Wynnum - Manly	Inf	1600
+Bald Hills - Everton Park		108
+Bald Hills - Everton Park	0	60
+Bald Hills - Everton Park	7875	425
+Bald Hills - Everton Park	15750	440
+Bald Hills - Everton Park	21000	417
+Bald Hills - Everton Park	26250	538
+Bald Hills - Everton Park	34125	771
+Bald Hills - Everton Park	42000	860
+Bald Hills - Everton Park	52500	908
+Bald Hills - Everton Park	65625	933
+Bald Hills - Everton Park	78750	578
+Bald Hills - Everton Park	91875	559
+Bald Hills - Everton Park	105000	386
+Bald Hills - Everton Park	157500	427
+Bald Hills - Everton Park	Inf	219
+Chermside		489
+Chermside	0	161
+Chermside	7875	1512
+Chermside	15750	1504
+Chermside	21000	1545
+Chermside	26250	1804
+Chermside	34125	2959
+Chermside	42000	4063
+Chermside	52500	4915
+Chermside	65625	5083
+Chermside	78750	3572
+Chermside	91875	3111
+Chermside	105000	1884
+Chermside	157500	2479
+Chermside	Inf	1084
+Nundah		776
+Nundah	0	200
+Nundah	7875	1001
+Nundah	15750	1165
+Nundah	21000	1360
+Nundah	26250	1766
+Nundah	34125	3468
+Nundah	42000	6328
+Nundah	52500	8636
+Nundah	65625	9225
+Nundah	78750	6194
+Nundah	91875	5242
+Nundah	105000	3535
+Nundah	157500	5561
+Nundah	Inf	2919
+Sandgate		170
+Sandgate	0	89
+Sandgate	7875	596
+Sandgate	15750	599
+Sandgate	21000	623
+Sandgate	26250	716
+Sandgate	34125	1134
+Sandgate	42000	1405
+Sandgate	52500	1506
+Sandgate	65625	1501
+Sandgate	78750	927
+Sandgate	91875	848
+Sandgate	105000	495
+Sandgate	157500	507
+Sandgate	Inf	223
+Carindale		211
+Carindale	0	101
+Carindale	7875	1098
+Carindale	15750	1060
+Carindale	21000	986
+Carindale	26250	1106
+Carindale	34125	1498
+Carindale	42000	1687
+Carindale	52500	1895
+Carindale	65625	1783
+Carindale	78750	1246
+Carindale	91875	1045
+Carindale	105000	604
+Carindale	157500	969
+Carindale	Inf	471
+Holland Park - Yeronga		465
+Holland Park - Yeronga	0	202
+Holland Park - Yeronga	7875	1009
+Holland Park - Yeronga	15750	1246
+Holland Park - Yeronga	21000	1473
+Holland Park - Yeronga	26250	1734
+Holland Park - Yeronga	34125	2853
+Holland Park - Yeronga	42000	3676
+Holland Park - Yeronga	52500	4841
+Holland Park - Yeronga	65625	5866
+Holland Park - Yeronga	78750	4391
+Holland Park - Yeronga	91875	4045
+Holland Park - Yeronga	105000	2615
+Holland Park - Yeronga	157500	3407
+Holland Park - Yeronga	Inf	1634
+Mt Gravatt		446
+Mt Gravatt	0	217
+Mt Gravatt	7875	1326
+Mt Gravatt	15750	1566
+Mt Gravatt	21000	1592
+Mt Gravatt	26250	1854
+Mt Gravatt	34125	2741
+Mt Gravatt	42000	3559
+Mt Gravatt	52500	4292
+Mt Gravatt	65625	4499
+Mt Gravatt	78750	3185
+Mt Gravatt	91875	2830
+Mt Gravatt	105000	1704
+Mt Gravatt	157500	2531
+Mt Gravatt	Inf	1217
+Nathan		265
+Nathan	0	138
+Nathan	7875	584
+Nathan	15750	764
+Nathan	21000	806
+Nathan	26250	942
+Nathan	34125	1667
+Nathan	42000	2426
+Nathan	52500	3014
+Nathan	65625	3114
+Nathan	78750	2164
+Nathan	91875	1877
+Nathan	105000	1110
+Nathan	157500	1482
+Nathan	Inf	675
+Rocklea - Acacia Ridge		576
+Rocklea - Acacia Ridge	0	201
+Rocklea - Acacia Ridge	7875	657
+Rocklea - Acacia Ridge	15750	885
+Rocklea - Acacia Ridge	21000	985
+Rocklea - Acacia Ridge	26250	1324
+Rocklea - Acacia Ridge	34125	2468
+Rocklea - Acacia Ridge	42000	4298
+Rocklea - Acacia Ridge	52500	6461
+Rocklea - Acacia Ridge	65625	6830
+Rocklea - Acacia Ridge	78750	4473
+Rocklea - Acacia Ridge	91875	3269
+Rocklea - Acacia Ridge	105000	1987
+Rocklea - Acacia Ridge	157500	2344
+Rocklea - Acacia Ridge	Inf	978
+Sunnybank		100
+Sunnybank	0	87
+Sunnybank	7875	368
+Sunnybank	15750	521
+Sunnybank	21000	576
+Sunnybank	26250	623
+Sunnybank	34125	980
+Sunnybank	42000	1044
+Sunnybank	52500	1016
+Sunnybank	65625	1049
+Sunnybank	78750	573
+Sunnybank	91875	488
+Sunnybank	105000	281
+Sunnybank	157500	267
+Sunnybank	Inf	202
+Centenary		144
+Centenary	0	72
+Centenary	7875	573
+Centenary	15750	556
+Centenary	21000	544
+Centenary	26250	653
+Centenary	34125	893
+Centenary	42000	1050
+Centenary	52500	1110
+Centenary	65625	1049
+Centenary	78750	615
+Centenary	91875	532
+Centenary	105000	281
+Centenary	157500	403
+Centenary	Inf	258
+Kenmore - Brookfield - Moggill		107
+Kenmore - Brookfield - Moggill	0	77
+Kenmore - Brookfield - Moggill	7875	471
+Kenmore - Brookfield - Moggill	15750	537
+Kenmore - Brookfield - Moggill	21000	469
+Kenmore - Brookfield - Moggill	26250	522
+Kenmore - Brookfield - Moggill	34125	797
+Kenmore - Brookfield - Moggill	42000	893
+Kenmore - Brookfield - Moggill	52500	946
+Kenmore - Brookfield - Moggill	65625	899
+Kenmore - Brookfield - Moggill	78750	609
+Kenmore - Brookfield - Moggill	91875	677
+Kenmore - Brookfield - Moggill	105000	385
+Kenmore - Brookfield - Moggill	157500	594
+Kenmore - Brookfield - Moggill	Inf	406
+Sherwood - Indooroopilly		262
+Sherwood - Indooroopilly	0	188
+Sherwood - Indooroopilly	7875	1534
+Sherwood - Indooroopilly	15750	1741
+Sherwood - Indooroopilly	21000	1406
+Sherwood - Indooroopilly	26250	1420
+Sherwood - Indooroopilly	34125	2137
+Sherwood - Indooroopilly	42000	2229
+Sherwood - Indooroopilly	52500	2464
+Sherwood - Indooroopilly	65625	2730
+Sherwood - Indooroopilly	78750	2224
+Sherwood - Indooroopilly	91875	2276
+Sherwood - Indooroopilly	105000	1424
+Sherwood - Indooroopilly	157500	1860
+Sherwood - Indooroopilly	Inf	1101
+The Gap - Enoggera		212
+The Gap - Enoggera	0	96
+The Gap - Enoggera	7875	783
+The Gap - Enoggera	15750	753
+The Gap - Enoggera	21000	672
+The Gap - Enoggera	26250	801
+The Gap - Enoggera	34125	1286
+The Gap - Enoggera	42000	1474
+The Gap - Enoggera	52500	1991
+The Gap - Enoggera	65625	2728
+The Gap - Enoggera	78750	2304
+The Gap - Enoggera	91875	1786
+The Gap - Enoggera	105000	1027
+The Gap - Enoggera	157500	1215
+The Gap - Enoggera	Inf	381
+Brisbane Inner		2194
+Brisbane Inner	0	766
+Brisbane Inner	7875	2564
+Brisbane Inner	15750	4291
+Brisbane Inner	21000	4986
+Brisbane Inner	26250	6217
+Brisbane Inner	34125	9335
+Brisbane Inner	42000	13070
+Brisbane Inner	52500	18957
+Brisbane Inner	65625	25921
+Brisbane Inner	78750	22220
+Brisbane Inner	91875	21497
+Brisbane Inner	105000	16720
+Brisbane Inner	157500	29813
+Brisbane Inner	Inf	20627
+Brisbane Inner - East		178
+Brisbane Inner - East	0	122
+Brisbane Inner - East	7875	515
+Brisbane Inner - East	15750	507
+Brisbane Inner - East	21000	598
+Brisbane Inner - East	26250	657
+Brisbane Inner - East	34125	1009
+Brisbane Inner - East	42000	1573
+Brisbane Inner - East	52500	2114
+Brisbane Inner - East	65625	2102
+Brisbane Inner - East	78750	1346
+Brisbane Inner - East	91875	1112
+Brisbane Inner - East	105000	752
+Brisbane Inner - East	157500	1055
+Brisbane Inner - East	Inf	657
+Brisbane Inner - North		764
+Brisbane Inner - North	0	335
+Brisbane Inner - North	7875	1440
+Brisbane Inner - North	15750	1815
+Brisbane Inner - North	21000	1898
+Brisbane Inner - North	26250	2238
+Brisbane Inner - North	34125	3766
+Brisbane Inner - North	42000	4863
+Brisbane Inner - North	52500	6682
+Brisbane Inner - North	65625	8337
+Brisbane Inner - North	78750	6978
+Brisbane Inner - North	91875	6635
+Brisbane Inner - North	105000	4767
+Brisbane Inner - North	157500	8004
+Brisbane Inner - North	Inf	4159
+Brisbane Inner - West		452
+Brisbane Inner - West	0	219
+Brisbane Inner - West	7875	1232
+Brisbane Inner - West	15750	1329
+Brisbane Inner - West	21000	1402
+Brisbane Inner - West	26250	1551
+Brisbane Inner - West	34125	2301
+Brisbane Inner - West	42000	2958
+Brisbane Inner - West	52500	3828
+Brisbane Inner - West	65625	4597
+Brisbane Inner - West	78750	3491
+Brisbane Inner - West	91875	3230
+Brisbane Inner - West	105000	2156
+Brisbane Inner - West	157500	3885
+Brisbane Inner - West	Inf	3283
+Cairns - North		221
+Cairns - North	0	134
+Cairns - North	7875	689
+Cairns - North	15750	589
+Cairns - North	21000	664
+Cairns - North	26250	768
+Cairns - North	34125	1339
+Cairns - North	42000	1747
+Cairns - North	52500	2007
+Cairns - North	65625	1827
+Cairns - North	78750	1069
+Cairns - North	91875	1041
+Cairns - North	105000	560
+Cairns - North	157500	746
+Cairns - North	Inf	383
+Cairns - South		844
+Cairns - South	0	335
+Cairns - South	7875	1578
+Cairns - South	15750	1571
+Cairns - South	21000	1956
+Cairns - South	26250	2720
+Cairns - South	34125	4840
+Cairns - South	42000	6616
+Cairns - South	52500	7972
+Cairns - South	65625	7675
+Cairns - South	78750	5172
+Cairns - South	91875	4343
+Cairns - South	105000	2694
+Cairns - South	157500	3036
+Cairns - South	Inf	1352
+Innisfail - Cassowary Coast		277
+Innisfail - Cassowary Coast	0	170
+Innisfail - Cassowary Coast	7875	441
+Innisfail - Cassowary Coast	15750	527
+Innisfail - Cassowary Coast	21000	702
+Innisfail - Cassowary Coast	26250	882
+Innisfail - Cassowary Coast	34125	1542
+Innisfail - Cassowary Coast	42000	2015
+Innisfail - Cassowary Coast	52500	1946
+Innisfail - Cassowary Coast	65625	1616
+Innisfail - Cassowary Coast	78750	971
+Innisfail - Cassowary Coast	91875	748
+Innisfail - Cassowary Coast	105000	404
+Innisfail - Cassowary Coast	157500	467
+Innisfail - Cassowary Coast	Inf	200
+Port Douglas - Daintree		118
+Port Douglas - Daintree	0	55
+Port Douglas - Daintree	7875	152
+Port Douglas - Daintree	15750	175
+Port Douglas - Daintree	21000	260
+Port Douglas - Daintree	26250	382
+Port Douglas - Daintree	34125	621
+Port Douglas - Daintree	42000	877
+Port Douglas - Daintree	52500	996
+Port Douglas - Daintree	65625	818
+Port Douglas - Daintree	78750	385
+Port Douglas - Daintree	91875	314
+Port Douglas - Daintree	105000	165
+Port Douglas - Daintree	157500	163
+Port Douglas - Daintree	Inf	97
+Tablelands (East) - Kuranda		312
+Tablelands (East) - Kuranda	0	188
+Tablelands (East) - Kuranda	7875	636
+Tablelands (East) - Kuranda	15750	634
+Tablelands (East) - Kuranda	21000	893
+Tablelands (East) - Kuranda	26250	1005
+Tablelands (East) - Kuranda	34125	1702
+Tablelands (East) - Kuranda	42000	2073
+Tablelands (East) - Kuranda	52500	2080
+Tablelands (East) - Kuranda	65625	1701
+Tablelands (East) - Kuranda	78750	1066
+Tablelands (East) - Kuranda	91875	830
+Tablelands (East) - Kuranda	105000	461
+Tablelands (East) - Kuranda	157500	476
+Tablelands (East) - Kuranda	Inf	236
+Darling Downs (West) - Maranoa		510
+Darling Downs (West) - Maranoa	0	497
+Darling Downs (West) - Maranoa	7875	679
+Darling Downs (West) - Maranoa	15750	799
+Darling Downs (West) - Maranoa	21000	932
+Darling Downs (West) - Maranoa	26250	1078
+Darling Downs (West) - Maranoa	34125	1925
+Darling Downs (West) - Maranoa	42000	2205
+Darling Downs (West) - Maranoa	52500	2684
+Darling Downs (West) - Maranoa	65625	2919
+Darling Downs (West) - Maranoa	78750	1969
+Darling Downs (West) - Maranoa	91875	1682
+Darling Downs (West) - Maranoa	105000	1254
+Darling Downs (West) - Maranoa	157500	2145
+Darling Downs (West) - Maranoa	Inf	1180
+Darling Downs - East		339
+Darling Downs - East	0	285
+Darling Downs - East	7875	700
+Darling Downs - East	15750	756
+Darling Downs - East	21000	855
+Darling Downs - East	26250	1033
+Darling Downs - East	34125	1657
+Darling Downs - East	42000	2202
+Darling Downs - East	52500	2717
+Darling Downs - East	65625	2543
+Darling Downs - East	78750	1645
+Darling Downs - East	91875	1359
+Darling Downs - East	105000	886
+Darling Downs - East	157500	1236
+Darling Downs - East	Inf	507
+Granite Belt		310
+Granite Belt	0	244
+Granite Belt	7875	685
+Granite Belt	15750	737
+Granite Belt	21000	901
+Granite Belt	26250	1053
+Granite Belt	34125	1819
+Granite Belt	42000	2219
+Granite Belt	52500	2186
+Granite Belt	65625	1751
+Granite Belt	78750	1026
+Granite Belt	91875	770
+Granite Belt	105000	411
+Granite Belt	157500	419
+Granite Belt	Inf	228
+Central Highlands (Qld)		367
+Central Highlands (Qld)	0	183
+Central Highlands (Qld)	7875	501
+Central Highlands (Qld)	15750	498
+Central Highlands (Qld)	21000	556
+Central Highlands (Qld)	26250	629
+Central Highlands (Qld)	34125	946
+Central Highlands (Qld)	42000	1208
+Central Highlands (Qld)	52500	1388
+Central Highlands (Qld)	65625	1675
+Central Highlands (Qld)	78750	1489
+Central Highlands (Qld)	91875	1389
+Central Highlands (Qld)	105000	1334
+Central Highlands (Qld)	157500	2764
+Central Highlands (Qld)	Inf	1450
+Rockhampton		673
+Rockhampton	0	391
+Rockhampton	7875	1862
+Rockhampton	15750	1941
+Rockhampton	21000	2043
+Rockhampton	26250	2461
+Rockhampton	34125	4152
+Rockhampton	42000	5443
+Rockhampton	52500	6124
+Rockhampton	65625	6172
+Rockhampton	78750	4331
+Rockhampton	91875	3524
+Rockhampton	105000	2256
+Rockhampton	157500	2922
+Rockhampton	Inf	1155
+Biloela		203
+Biloela	0	178
+Biloela	7875	243
+Biloela	15750	284
+Biloela	21000	320
+Biloela	26250	384
+Biloela	34125	621
+Biloela	42000	743
+Biloela	52500	796
+Biloela	65625	885
+Biloela	78750	605
+Biloela	91875	619
+Biloela	105000	540
+Biloela	157500	1224
+Biloela	Inf	490
+Gladstone		412
+Gladstone	0	239
+Gladstone	7875	1058
+Gladstone	15750	978
+Gladstone	21000	1079
+Gladstone	26250	1190
+Gladstone	34125	1920
+Gladstone	42000	2180
+Gladstone	52500	2404
+Gladstone	65625	2716
+Gladstone	78750	2295
+Gladstone	91875	2150
+Gladstone	105000	1869
+Gladstone	157500	3922
+Gladstone	Inf	2165
+Broadbeach - Burleigh		592
+Broadbeach - Burleigh	0	251
+Broadbeach - Burleigh	7875	1439
+Broadbeach - Burleigh	15750	1613
+Broadbeach - Burleigh	21000	1862
+Broadbeach - Burleigh	26250	2247
+Broadbeach - Burleigh	34125	3614
+Broadbeach - Burleigh	42000	4422
+Broadbeach - Burleigh	52500	4880
+Broadbeach - Burleigh	65625	4473
+Broadbeach - Burleigh	78750	2473
+Broadbeach - Burleigh	91875	1883
+Broadbeach - Burleigh	105000	1126
+Broadbeach - Burleigh	157500	1443
+Broadbeach - Burleigh	Inf	924
+Coolangatta		291
+Coolangatta	0	141
+Coolangatta	7875	904
+Coolangatta	15750	785
+Coolangatta	21000	950
+Coolangatta	26250	1206
+Coolangatta	34125	1944
+Coolangatta	42000	2391
+Coolangatta	52500	2593
+Coolangatta	65625	2322
+Coolangatta	78750	1383
+Coolangatta	91875	1210
+Coolangatta	105000	677
+Coolangatta	157500	723
+Coolangatta	Inf	520
+Gold Coast - North		291
+Gold Coast - North	0	187
+Gold Coast - North	7875	732
+Gold Coast - North	15750	878
+Gold Coast - North	21000	1075
+Gold Coast - North	26250	1230
+Gold Coast - North	34125	2107
+Gold Coast - North	42000	2630
+Gold Coast - North	52500	2801
+Gold Coast - North	65625	2283
+Gold Coast - North	78750	1397
+Gold Coast - North	91875	1082
+Gold Coast - North	105000	564
+Gold Coast - North	157500	738
+Gold Coast - North	Inf	444
+Gold Coast Hinterland		87
+Gold Coast Hinterland	0	61
+Gold Coast Hinterland	7875	244
+Gold Coast Hinterland	15750	292
+Gold Coast Hinterland	21000	309
+Gold Coast Hinterland	26250	319
+Gold Coast Hinterland	34125	499
+Gold Coast Hinterland	42000	524
+Gold Coast Hinterland	52500	499
+Gold Coast Hinterland	65625	491
+Gold Coast Hinterland	78750	320
+Gold Coast Hinterland	91875	314
+Gold Coast Hinterland	105000	211
+Gold Coast Hinterland	157500	243
+Gold Coast Hinterland	Inf	80
+Mudgeeraba - Tallebudgera		112
+Mudgeeraba - Tallebudgera	0	78
+Mudgeeraba - Tallebudgera	7875	296
+Mudgeeraba - Tallebudgera	15750	394
+Mudgeeraba - Tallebudgera	21000	349
+Mudgeeraba - Tallebudgera	26250	487
+Mudgeeraba - Tallebudgera	34125	740
+Mudgeeraba - Tallebudgera	42000	826
+Mudgeeraba - Tallebudgera	52500	754
+Mudgeeraba - Tallebudgera	65625	779
+Mudgeeraba - Tallebudgera	78750	497
+Mudgeeraba - Tallebudgera	91875	515
+Mudgeeraba - Tallebudgera	105000	307
+Mudgeeraba - Tallebudgera	157500	266
+Mudgeeraba - Tallebudgera	Inf	158
+Nerang		311
+Nerang	0	172
+Nerang	7875	753
+Nerang	15750	782
+Nerang	21000	955
+Nerang	26250	1045
+Nerang	34125	1824
+Nerang	42000	2427
+Nerang	52500	2618
+Nerang	65625	2530
+Nerang	78750	1659
+Nerang	91875	1357
+Nerang	105000	776
+Nerang	157500	939
+Nerang	Inf	466
+Ormeau - Oxenford		827
+Ormeau - Oxenford	0	389
+Ormeau - Oxenford	7875	1736
+Ormeau - Oxenford	15750	1800
+Ormeau - Oxenford	21000	1803
+Ormeau - Oxenford	26250	2412
+Ormeau - Oxenford	34125	4203
+Ormeau - Oxenford	42000	6065
+Ormeau - Oxenford	52500	7020
+Ormeau - Oxenford	65625	6696
+Ormeau - Oxenford	78750	4590
+Ormeau - Oxenford	91875	3680
+Ormeau - Oxenford	105000	2166
+Ormeau - Oxenford	157500	2562
+Ormeau - Oxenford	Inf	1280
+Robina		374
+Robina	0	147
+Robina	7875	819
+Robina	15750	942
+Robina	21000	1054
+Robina	26250	1306
+Robina	34125	2180
+Robina	42000	2977
+Robina	52500	3393
+Robina	65625	3104
+Robina	78750	2119
+Robina	91875	1873
+Robina	105000	1139
+Robina	157500	1460
+Robina	Inf	779
+Southport		634
+Southport	0	255
+Southport	7875	1033
+Southport	15750	1297
+Southport	21000	1493
+Southport	26250	2037
+Southport	34125	3626
+Southport	42000	4993
+Southport	52500	6110
+Southport	65625	6520
+Southport	78750	4364
+Southport	91875	3611
+Southport	105000	2417
+Southport	157500	3069
+Southport	Inf	1610
+Surfers Paradise		372
+Surfers Paradise	0	197
+Surfers Paradise	7875	776
+Surfers Paradise	15750	1008
+Surfers Paradise	21000	1335
+Surfers Paradise	26250	1708
+Surfers Paradise	34125	2789
+Surfers Paradise	42000	3478
+Surfers Paradise	52500	3738
+Surfers Paradise	65625	3470
+Surfers Paradise	78750	2077
+Surfers Paradise	91875	1615
+Surfers Paradise	105000	974
+Surfers Paradise	157500	1304
+Surfers Paradise	Inf	1029
+Forest Lake - Oxley		486
+Forest Lake - Oxley	0	191
+Forest Lake - Oxley	7875	720
+Forest Lake - Oxley	15750	910
+Forest Lake - Oxley	21000	1024
+Forest Lake - Oxley	26250	1241
+Forest Lake - Oxley	34125	2340
+Forest Lake - Oxley	42000	3914
+Forest Lake - Oxley	52500	5215
+Forest Lake - Oxley	65625	5504
+Forest Lake - Oxley	78750	3797
+Forest Lake - Oxley	91875	3031
+Forest Lake - Oxley	105000	1776
+Forest Lake - Oxley	157500	2258
+Forest Lake - Oxley	Inf	889
+Ipswich Hinterland		332
+Ipswich Hinterland	0	225
+Ipswich Hinterland	7875	776
+Ipswich Hinterland	15750	823
+Ipswich Hinterland	21000	904
+Ipswich Hinterland	26250	1107
+Ipswich Hinterland	34125	1774
+Ipswich Hinterland	42000	2056
+Ipswich Hinterland	52500	2207
+Ipswich Hinterland	65625	2349
+Ipswich Hinterland	78750	1810
+Ipswich Hinterland	91875	1704
+Ipswich Hinterland	105000	931
+Ipswich Hinterland	157500	1108
+Ipswich Hinterland	Inf	398
+Ipswich Inner		558
+Ipswich Inner	0	237
+Ipswich Inner	7875	1337
+Ipswich Inner	15750	1424
+Ipswich Inner	21000	1516
+Ipswich Inner	26250	1807
+Ipswich Inner	34125	3245
+Ipswich Inner	42000	4483
+Ipswich Inner	52500	5265
+Ipswich Inner	65625	5121
+Ipswich Inner	78750	3323
+Ipswich Inner	91875	2684
+Ipswich Inner	105000	1648
+Ipswich Inner	157500	1748
+Ipswich Inner	Inf	730
+Springfield - Redbank		309
+Springfield - Redbank	0	140
+Springfield - Redbank	7875	989
+Springfield - Redbank	15750	988
+Springfield - Redbank	21000	923
+Springfield - Redbank	26250	1097
+Springfield - Redbank	34125	1840
+Springfield - Redbank	42000	2559
+Springfield - Redbank	52500	3064
+Springfield - Redbank	65625	2992
+Springfield - Redbank	78750	1967
+Springfield - Redbank	91875	1613
+Springfield - Redbank	105000	929
+Springfield - Redbank	157500	1083
+Springfield - Redbank	Inf	473
+Beaudesert		106
+Beaudesert	0	66
+Beaudesert	7875	195
+Beaudesert	15750	239
+Beaudesert	21000	277
+Beaudesert	26250	334
+Beaudesert	34125	619
+Beaudesert	42000	692
+Beaudesert	52500	736
+Beaudesert	65625	719
+Beaudesert	78750	418
+Beaudesert	91875	320
+Beaudesert	105000	170
+Beaudesert	157500	167
+Beaudesert	Inf	95
+Beenleigh		171
+Beenleigh	0	79
+Beenleigh	7875	379
+Beenleigh	15750	421
+Beenleigh	21000	478
+Beenleigh	26250	623
+Beenleigh	34125	1013
+Beenleigh	42000	1424
+Beenleigh	52500	1447
+Beenleigh	65625	1390
+Beenleigh	78750	949
+Beenleigh	91875	807
+Beenleigh	105000	450
+Beenleigh	157500	476
+Beenleigh	Inf	178
+Browns Plains		346
+Browns Plains	0	179
+Browns Plains	7875	855
+Browns Plains	15750	923
+Browns Plains	21000	943
+Browns Plains	26250	1114
+Browns Plains	34125	1863
+Browns Plains	42000	2679
+Browns Plains	52500	2921
+Browns Plains	65625	2474
+Browns Plains	78750	1515
+Browns Plains	91875	1212
+Browns Plains	105000	583
+Browns Plains	157500	728
+Browns Plains	Inf	325
+Jimboomba		142
+Jimboomba	0	107
+Jimboomba	7875	362
+Jimboomba	15750	368
+Jimboomba	21000	397
+Jimboomba	26250	424
+Jimboomba	34125	761
+Jimboomba	42000	860
+Jimboomba	52500	918
+Jimboomba	65625	846
+Jimboomba	78750	549
+Jimboomba	91875	480
+Jimboomba	105000	233
+Jimboomba	157500	263
+Jimboomba	Inf	118
+Loganlea - Carbrook		344
+Loganlea - Carbrook	0	153
+Loganlea - Carbrook	7875	915
+Loganlea - Carbrook	15750	904
+Loganlea - Carbrook	21000	952
+Loganlea - Carbrook	26250	1182
+Loganlea - Carbrook	34125	2051
+Loganlea - Carbrook	42000	2838
+Loganlea - Carbrook	52500	3224
+Loganlea - Carbrook	65625	3252
+Loganlea - Carbrook	78750	2197
+Loganlea - Carbrook	91875	1779
+Loganlea - Carbrook	105000	1070
+Loganlea - Carbrook	157500	1355
+Loganlea - Carbrook	Inf	661
+Springwood - Kingston		459
+Springwood - Kingston	0	234
+Springwood - Kingston	7875	925
+Springwood - Kingston	15750	1200
+Springwood - Kingston	21000	1375
+Springwood - Kingston	26250	1663
+Springwood - Kingston	34125	2887
+Springwood - Kingston	42000	3934
+Springwood - Kingston	52500	4658
+Springwood - Kingston	65625	4576
+Springwood - Kingston	78750	2925
+Springwood - Kingston	91875	2215
+Springwood - Kingston	105000	1268
+Springwood - Kingston	157500	1476
+Springwood - Kingston	Inf	645
+Bowen Basin - North		533
+Bowen Basin - North	0	234
+Bowen Basin - North	7875	529
+Bowen Basin - North	15750	546
+Bowen Basin - North	21000	596
+Bowen Basin - North	26250	715
+Bowen Basin - North	34125	1188
+Bowen Basin - North	42000	1424
+Bowen Basin - North	52500	1802
+Bowen Basin - North	65625	2161
+Bowen Basin - North	78750	2002
+Bowen Basin - North	91875	2304
+Bowen Basin - North	105000	2443
+Bowen Basin - North	157500	6184
+Bowen Basin - North	Inf	3197
+Mackay		963
+Mackay	0	414
+Mackay	7875	1772
+Mackay	15750	1715
+Mackay	21000	1965
+Mackay	26250	2405
+Mackay	34125	4086
+Mackay	42000	4940
+Mackay	52500	5855
+Mackay	65625	5903
+Mackay	78750	4179
+Mackay	91875	3837
+Mackay	105000	2481
+Mackay	157500	3740
+Mackay	Inf	1454
+Whitsunday		163
+Whitsunday	0	85
+Whitsunday	7875	295
+Whitsunday	15750	273
+Whitsunday	21000	388
+Whitsunday	26250	529
+Whitsunday	34125	1059
+Whitsunday	42000	1479
+Whitsunday	52500	1598
+Whitsunday	65625	1390
+Whitsunday	78750	734
+Whitsunday	91875	564
+Whitsunday	105000	241
+Whitsunday	157500	298
+Whitsunday	Inf	193
+Bribie - Beachmere		108
+Bribie - Beachmere	0	56
+Bribie - Beachmere	7875	267
+Bribie - Beachmere	15750	296
+Bribie - Beachmere	21000	378
+Bribie - Beachmere	26250	445
+Bribie - Beachmere	34125	697
+Bribie - Beachmere	42000	766
+Bribie - Beachmere	52500	703
+Bribie - Beachmere	65625	551
+Bribie - Beachmere	78750	340
+Bribie - Beachmere	91875	284
+Bribie - Beachmere	105000	178
+Bribie - Beachmere	157500	165
+Bribie - Beachmere	Inf	116
+Caboolture		354
+Caboolture	0	178
+Caboolture	7875	1220
+Caboolture	15750	1171
+Caboolture	21000	1289
+Caboolture	26250	1535
+Caboolture	34125	2547
+Caboolture	42000	2985
+Caboolture	52500	3163
+Caboolture	65625	3076
+Caboolture	78750	1997
+Caboolture	91875	1696
+Caboolture	105000	835
+Caboolture	157500	935
+Caboolture	Inf	412
+Caboolture Hinterland		86
+Caboolture Hinterland	0	47
+Caboolture Hinterland	7875	140
+Caboolture Hinterland	15750	171
+Caboolture Hinterland	21000	203
+Caboolture Hinterland	26250	217
+Caboolture Hinterland	34125	408
+Caboolture Hinterland	42000	444
+Caboolture Hinterland	52500	560
+Caboolture Hinterland	65625	638
+Caboolture Hinterland	78750	426
+Caboolture Hinterland	91875	285
+Caboolture Hinterland	105000	133
+Caboolture Hinterland	157500	133
+Caboolture Hinterland	Inf	60
+Narangba - Burpengary		218
+Narangba - Burpengary	0	132
+Narangba - Burpengary	7875	649
+Narangba - Burpengary	15750	587
+Narangba - Burpengary	21000	674
+Narangba - Burpengary	26250	715
+Narangba - Burpengary	34125	1362
+Narangba - Burpengary	42000	1706
+Narangba - Burpengary	52500	1993
+Narangba - Burpengary	65625	1963
+Narangba - Burpengary	78750	1218
+Narangba - Burpengary	91875	1018
+Narangba - Burpengary	105000	530
+Narangba - Burpengary	157500	530
+Narangba - Burpengary	Inf	246
+Redcliffe		287
+Redcliffe	0	153
+Redcliffe	7875	980
+Redcliffe	15750	877
+Redcliffe	21000	929
+Redcliffe	26250	1194
+Redcliffe	34125	2029
+Redcliffe	42000	2463
+Redcliffe	52500	2689
+Redcliffe	65625	2499
+Redcliffe	78750	1614
+Redcliffe	91875	1298
+Redcliffe	105000	749
+Redcliffe	157500	850
+Redcliffe	Inf	414
+The Hills District		214
+The Hills District	0	191
+The Hills District	7875	1165
+The Hills District	15750	974
+The Hills District	21000	890
+The Hills District	26250	947
+The Hills District	34125	1397
+The Hills District	42000	1531
+The Hills District	52500	1601
+The Hills District	65625	1592
+The Hills District	78750	989
+The Hills District	91875	996
+The Hills District	105000	475
+The Hills District	157500	719
+The Hills District	Inf	377
+North Lakes		226
+North Lakes	0	144
+North Lakes	7875	1041
+North Lakes	15750	905
+North Lakes	21000	866
+North Lakes	26250	1059
+North Lakes	34125	1562
+North Lakes	42000	1985
+North Lakes	52500	2089
+North Lakes	65625	1826
+North Lakes	78750	1108
+North Lakes	91875	1068
+North Lakes	105000	541
+North Lakes	157500	713
+North Lakes	Inf	345
+Strathpine		283
+Strathpine	0	159
+Strathpine	7875	661
+Strathpine	15750	734
+Strathpine	21000	776
+Strathpine	26250	984
+Strathpine	34125	1851
+Strathpine	42000	2666
+Strathpine	52500	3297
+Strathpine	65625	3118
+Strathpine	78750	1954
+Strathpine	91875	1618
+Strathpine	105000	841
+Strathpine	157500	1050
+Strathpine	Inf	478
+Far North		342
+Far North	0	137
+Far North	7875	188
+Far North	15750	512
+Far North	21000	518
+Far North	26250	643
+Far North	34125	1206
+Far North	42000	1196
+Far North	52500	1184
+Far North	65625	1306
+Far North	78750	1016
+Far North	91875	876
+Far North	105000	690
+Far North	157500	1014
+Far North	Inf	345
+Outback - North		373
+Outback - North	0	168
+Outback - North	7875	346
+Outback - North	15750	390
+Outback - North	21000	402
+Outback - North	26250	595
+Outback - North	34125	1031
+Outback - North	42000	1309
+Outback - North	52500	1581
+Outback - North	65625	1774
+Outback - North	78750	1553
+Outback - North	91875	1444
+Outback - North	105000	1391
+Outback - North	157500	3296
+Outback - North	Inf	1039
+Outback - South		221
+Outback - South	0	259
+Outback - South	7875	262
+Outback - South	15750	350
+Outback - South	21000	361
+Outback - South	26250	502
+Outback - South	34125	843
+Outback - South	42000	1131
+Outback - South	52500	1211
+Outback - South	65625	1250
+Outback - South	78750	767
+Outback - South	91875	622
+Outback - South	105000	387
+Outback - South	157500	480
+Outback - South	Inf	275
+Buderim		248
+Buderim	0	148
+Buderim	7875	581
+Buderim	15750	696
+Buderim	21000	782
+Buderim	26250	980
+Buderim	34125	1722
+Buderim	42000	2200
+Buderim	52500	2576
+Buderim	65625	2497
+Buderim	78750	1722
+Buderim	91875	1519
+Buderim	105000	922
+Buderim	157500	1010
+Buderim	Inf	542
+Caloundra		479
+Caloundra	0	239
+Caloundra	7875	1366
+Caloundra	15750	1357
+Caloundra	21000	1452
+Caloundra	26250	1876
+Caloundra	34125	2998
+Caloundra	42000	3729
+Caloundra	52500	4148
+Caloundra	65625	3810
+Caloundra	78750	2433
+Caloundra	91875	2028
+Caloundra	105000	1153
+Caloundra	157500	1425
+Caloundra	Inf	886
+Maroochy		437
+Maroochy	0	205
+Maroochy	7875	1505
+Maroochy	15750	1454
+Maroochy	21000	1518
+Maroochy	26250	2029
+Maroochy	34125	3182
+Maroochy	42000	3828
+Maroochy	52500	3928
+Maroochy	65625	3567
+Maroochy	78750	2156
+Maroochy	91875	1771
+Maroochy	105000	1059
+Maroochy	157500	1447
+Maroochy	Inf	754
+Noosa		244
+Noosa	0	160
+Noosa	7875	813
+Noosa	15750	804
+Noosa	21000	977
+Noosa	26250	1236
+Noosa	34125	1992
+Noosa	42000	2523
+Noosa	52500	2377
+Noosa	65625	2084
+Noosa	78750	1198
+Noosa	91875	1014
+Noosa	105000	587
+Noosa	157500	686
+Noosa	Inf	477
+Sunshine Coast Hinterland		214
+Sunshine Coast Hinterland	0	195
+Sunshine Coast Hinterland	7875	667
+Sunshine Coast Hinterland	15750	791
+Sunshine Coast Hinterland	21000	880
+Sunshine Coast Hinterland	26250	1129
+Sunshine Coast Hinterland	34125	1640
+Sunshine Coast Hinterland	42000	1744
+Sunshine Coast Hinterland	52500	1627
+Sunshine Coast Hinterland	65625	1335
+Sunshine Coast Hinterland	78750	830
+Sunshine Coast Hinterland	91875	683
+Sunshine Coast Hinterland	105000	380
+Sunshine Coast Hinterland	157500	441
+Sunshine Coast Hinterland	Inf	263
+Nambour		345
+Nambour	0	137
+Nambour	7875	565
+Nambour	15750	683
+Nambour	21000	865
+Nambour	26250	1093
+Nambour	34125	1871
+Nambour	42000	2374
+Nambour	52500	2609
+Nambour	65625	2840
+Nambour	78750	1992
+Nambour	91875	1769
+Nambour	105000	945
+Nambour	157500	1053
+Nambour	Inf	511
+Noosa Hinterland		92
+Noosa Hinterland	0	67
+Noosa Hinterland	7875	214
+Noosa Hinterland	15750	289
+Noosa Hinterland	21000	303
+Noosa Hinterland	26250	380
+Noosa Hinterland	34125	641
+Noosa Hinterland	42000	652
+Noosa Hinterland	52500	581
+Noosa Hinterland	65625	566
+Noosa Hinterland	78750	333
+Noosa Hinterland	91875	371
+Noosa Hinterland	105000	172
+Noosa Hinterland	157500	188
+Noosa Hinterland	Inf	124
+Toowoomba		892
+Toowoomba	0	436
+Toowoomba	7875	2475
+Toowoomba	15750	2477
+Toowoomba	21000	2700
+Toowoomba	26250	3461
+Toowoomba	34125	5895
+Toowoomba	42000	8067
+Toowoomba	52500	8864
+Toowoomba	65625	9048
+Toowoomba	78750	5984
+Toowoomba	91875	5222
+Toowoomba	105000	3161
+Toowoomba	157500	3757
+Toowoomba	Inf	1632
+Charters Towers - Ayr - Ingham		381
+Charters Towers - Ayr - Ingham	0	270
+Charters Towers - Ayr - Ingham	7875	655
+Charters Towers - Ayr - Ingham	15750	719
+Charters Towers - Ayr - Ingham	21000	780
+Charters Towers - Ayr - Ingham	26250	1010
+Charters Towers - Ayr - Ingham	34125	1847
+Charters Towers - Ayr - Ingham	42000	2008
+Charters Towers - Ayr - Ingham	52500	2186
+Charters Towers - Ayr - Ingham	65625	2130
+Charters Towers - Ayr - Ingham	78750	1489
+Charters Towers - Ayr - Ingham	91875	1263
+Charters Towers - Ayr - Ingham	105000	699
+Charters Towers - Ayr - Ingham	157500	738
+Charters Towers - Ayr - Ingham	Inf	373
+Townsville		1187
+Townsville	0	553
+Townsville	7875	3205
+Townsville	15750	3145
+Townsville	21000	3111
+Townsville	26250	4009
+Townsville	34125	6490
+Townsville	42000	8859
+Townsville	52500	10938
+Townsville	65625	11960
+Townsville	78750	9119
+Townsville	91875	7451
+Townsville	105000	4446
+Townsville	157500	5299
+Townsville	Inf	1960
+Bundaberg		514
+Bundaberg	0	280
+Bundaberg	7875	1191
+Bundaberg	15750	1351
+Bundaberg	21000	1611
+Bundaberg	26250	2019
+Bundaberg	34125	3343
+Bundaberg	42000	4211
+Bundaberg	52500	4407
+Bundaberg	65625	4016
+Bundaberg	78750	2304
+Bundaberg	91875	2022
+Bundaberg	105000	1082
+Bundaberg	157500	1159
+Bundaberg	Inf	523
+Burnett		415
+Burnett	0	392
+Burnett	7875	724
+Burnett	15750	872
+Burnett	21000	1027
+Burnett	26250	1304
+Burnett	34125	2028
+Burnett	42000	2299
+Burnett	52500	2302
+Burnett	65625	1951
+Burnett	78750	1132
+Burnett	91875	905
+Burnett	105000	545
+Burnett	157500	825
+Burnett	Inf	336
+Gympie - Cooloola		323
+Gympie - Cooloola	0	228
+Gympie - Cooloola	7875	669
+Gympie - Cooloola	15750	794
+Gympie - Cooloola	21000	986
+Gympie - Cooloola	26250	1177
+Gympie - Cooloola	34125	1876
+Gympie - Cooloola	42000	2167
+Gympie - Cooloola	52500	2152
+Gympie - Cooloola	65625	1837
+Gympie - Cooloola	78750	1166
+Gympie - Cooloola	91875	947
+Gympie - Cooloola	105000	559
+Gympie - Cooloola	157500	553
+Gympie - Cooloola	Inf	249
+Hervey Bay		225
+Hervey Bay	0	149
+Hervey Bay	7875	712
+Hervey Bay	15750	743
+Hervey Bay	21000	892
+Hervey Bay	26250	1248
+Hervey Bay	34125	1902
+Hervey Bay	42000	2341
+Hervey Bay	52500	2299
+Hervey Bay	65625	2031
+Hervey Bay	78750	1115
+Hervey Bay	91875	1073
+Hervey Bay	105000	551
+Hervey Bay	157500	557
+Hervey Bay	Inf	306
+Maryborough		207
+Maryborough	0	139
+Maryborough	7875	502
+Maryborough	15750	559
+Maryborough	21000	749
+Maryborough	26250	874
+Maryborough	34125	1416
+Maryborough	42000	1711
+Maryborough	52500	1826
+Maryborough	65625	1776
+Maryborough	78750	1111
+Maryborough	91875	932
+Maryborough	105000	542
+Maryborough	157500	471
+Maryborough	Inf	168
+Migratory - Offshore - Shipping (Qld)		3
+Migratory - Offshore - Shipping (Qld)	0	3
+Migratory - Offshore - Shipping (Qld)	21000	3
+Migratory - Offshore - Shipping (Qld)	26250	10
+Migratory - Offshore - Shipping (Qld)	34125	9
+Migratory - Offshore - Shipping (Qld)	42000	12
+Migratory - Offshore - Shipping (Qld)	52500	17
+Migratory - Offshore - Shipping (Qld)	65625	22
+Migratory - Offshore - Shipping (Qld)	78750	22
+Migratory - Offshore - Shipping (Qld)	91875	14
+Migratory - Offshore - Shipping (Qld)	105000	17
+Migratory - Offshore - Shipping (Qld)	157500	47
+Migratory - Offshore - Shipping (Qld)	Inf	28
+No usual address (Qld)		2040
+No usual address (Qld)	0	1004
+No usual address (Qld)	7875	2725
+No usual address (Qld)	15750	4266
+No usual address (Qld)	21000	5417
+No usual address (Qld)	26250	6548
+No usual address (Qld)	34125	9531
+No usual address (Qld)	42000	10751
+No usual address (Qld)	52500	12822
+No usual address (Qld)	65625	14111
+No usual address (Qld)	78750	9794
+No usual address (Qld)	91875	7437
+No usual address (Qld)	105000	4684
+No usual address (Qld)	157500	5342
+No usual address (Qld)	Inf	2355
+Adelaide City		1328
+Adelaide City	0	531
+Adelaide City	7875	2439
+Adelaide City	15750	3500
+Adelaide City	21000	3645
+Adelaide City	26250	4472
+Adelaide City	34125	7044
+Adelaide City	42000	9315
+Adelaide City	52500	13867
+Adelaide City	65625	17436
+Adelaide City	78750	13421
+Adelaide City	91875	12488
+Adelaide City	105000	8473
+Adelaide City	157500	12616
+Adelaide City	Inf	7030
+Adelaide Hills		291
+Adelaide Hills	0	211
+Adelaide Hills	7875	1235
+Adelaide Hills	15750	1267
+Adelaide Hills	21000	1261
+Adelaide Hills	26250	1434
+Adelaide Hills	34125	2238
+Adelaide Hills	42000	2518
+Adelaide Hills	52500	2622
+Adelaide Hills	65625	2386
+Adelaide Hills	78750	1519
+Adelaide Hills	91875	1201
+Adelaide Hills	105000	828
+Adelaide Hills	157500	819
+Adelaide Hills	Inf	465
+Burnside		196
+Burnside	0	109
+Burnside	7875	728
+Burnside	15750	745
+Burnside	21000	696
+Burnside	26250	941
+Burnside	34125	1329
+Burnside	42000	1597
+Burnside	52500	1932
+Burnside	65625	2273
+Burnside	78750	1564
+Burnside	91875	1306
+Burnside	105000	945
+Burnside	157500	1380
+Burnside	Inf	1002
+Campbelltown (SA)		122
+Campbelltown (SA)	0	76
+Campbelltown (SA)	7875	479
+Campbelltown (SA)	15750	569
+Campbelltown (SA)	21000	566
+Campbelltown (SA)	26250	701
+Campbelltown (SA)	34125	1070
+Campbelltown (SA)	42000	1169
+Campbelltown (SA)	52500	1250
+Campbelltown (SA)	65625	1159
+Campbelltown (SA)	78750	737
+Campbelltown (SA)	91875	630
+Campbelltown (SA)	105000	429
+Campbelltown (SA)	157500	381
+Campbelltown (SA)	Inf	159
+Norwood - Payneham - St Peters		278
+Norwood - Payneham - St Peters	0	136
+Norwood - Payneham - St Peters	7875	1005
+Norwood - Payneham - St Peters	15750	1167
+Norwood - Payneham - St Peters	21000	1165
+Norwood - Payneham - St Peters	26250	1424
+Norwood - Payneham - St Peters	34125	1996
+Norwood - Payneham - St Peters	42000	2659
+Norwood - Payneham - St Peters	52500	3079
+Norwood - Payneham - St Peters	65625	3036
+Norwood - Payneham - St Peters	78750	2007
+Norwood - Payneham - St Peters	91875	1633
+Norwood - Payneham - St Peters	105000	1163
+Norwood - Payneham - St Peters	157500	1407
+Norwood - Payneham - St Peters	Inf	904
+Prospect - Walkerville		121
+Prospect - Walkerville	0	55
+Prospect - Walkerville	7875	406
+Prospect - Walkerville	15750	403
+Prospect - Walkerville	21000	419
+Prospect - Walkerville	26250	536
+Prospect - Walkerville	34125	828
+Prospect - Walkerville	42000	923
+Prospect - Walkerville	52500	1104
+Prospect - Walkerville	65625	1067
+Prospect - Walkerville	78750	660
+Prospect - Walkerville	91875	539
+Prospect - Walkerville	105000	383
+Prospect - Walkerville	157500	426
+Prospect - Walkerville	Inf	214
+Unley		242
+Unley	0	122
+Unley	7875	647
+Unley	15750	858
+Unley	21000	879
+Unley	26250	1102
+Unley	34125	1788
+Unley	42000	2116
+Unley	52500	2466
+Unley	65625	2548
+Unley	78750	1715
+Unley	91875	1483
+Unley	105000	935
+Unley	157500	1515
+Unley	Inf	977
+Gawler - Two Wells		161
+Gawler - Two Wells	0	98
+Gawler - Two Wells	7875	515
+Gawler - Two Wells	15750	503
+Gawler - Two Wells	21000	539
+Gawler - Two Wells	26250	631
+Gawler - Two Wells	34125	1111
+Gawler - Two Wells	42000	1296
+Gawler - Two Wells	52500	1203
+Gawler - Two Wells	65625	1116
+Gawler - Two Wells	78750	683
+Gawler - Two Wells	91875	609
+Gawler - Two Wells	105000	407
+Gawler - Two Wells	157500	382
+Gawler - Two Wells	Inf	181
+Playford		358
+Playford	0	199
+Playford	7875	975
+Playford	15750	1157
+Playford	21000	1296
+Playford	26250	1628
+Playford	34125	2672
+Playford	42000	3113
+Playford	52500	3482
+Playford	65625	3611
+Playford	78750	2112
+Playford	91875	1605
+Playford	105000	1064
+Playford	157500	967
+Playford	Inf	460
+Port Adelaide - East		317
+Port Adelaide - East	0	144
+Port Adelaide - East	7875	826
+Port Adelaide - East	15750	915
+Port Adelaide - East	21000	987
+Port Adelaide - East	26250	1239
+Port Adelaide - East	34125	2050
+Port Adelaide - East	42000	3016
+Port Adelaide - East	52500	3836
+Port Adelaide - East	65625	3698
+Port Adelaide - East	78750	2283
+Port Adelaide - East	91875	1696
+Port Adelaide - East	105000	1069
+Port Adelaide - East	157500	1045
+Port Adelaide - East	Inf	415
+Salisbury		567
+Salisbury	0	273
+Salisbury	7875	1306
+Salisbury	15750	1629
+Salisbury	21000	1752
+Salisbury	26250	2144
+Salisbury	34125	3764
+Salisbury	42000	5361
+Salisbury	52500	6810
+Salisbury	65625	6456
+Salisbury	78750	4432
+Salisbury	91875	3632
+Salisbury	105000	2483
+Salisbury	157500	3255
+Salisbury	Inf	1029
+Tea Tree Gully		288
+Tea Tree Gully	0	163
+Tea Tree Gully	7875	1491
+Tea Tree Gully	15750	1525
+Tea Tree Gully	21000	1375
+Tea Tree Gully	26250	1613
+Tea Tree Gully	34125	2304
+Tea Tree Gully	42000	2548
+Tea Tree Gully	52500	2733
+Tea Tree Gully	65625	2602
+Tea Tree Gully	78750	1517
+Tea Tree Gully	91875	1243
+Tea Tree Gully	105000	936
+Tea Tree Gully	157500	846
+Tea Tree Gully	Inf	350
+Holdfast Bay		169
+Holdfast Bay	0	81
+Holdfast Bay	7875	807
+Holdfast Bay	15750	742
+Holdfast Bay	21000	733
+Holdfast Bay	26250	965
+Holdfast Bay	34125	1393
+Holdfast Bay	42000	1484
+Holdfast Bay	52500	1694
+Holdfast Bay	65625	1460
+Holdfast Bay	78750	816
+Holdfast Bay	91875	679
+Holdfast Bay	105000	452
+Holdfast Bay	157500	425
+Holdfast Bay	Inf	285
+Marion		286
+Marion	0	129
+Marion	7875	1072
+Marion	15750	1258
+Marion	21000	1149
+Marion	26250	1457
+Marion	34125	2181
+Marion	42000	2555
+Marion	52500	3027
+Marion	65625	3197
+Marion	78750	1783
+Marion	91875	1476
+Marion	105000	913
+Marion	157500	990
+Marion	Inf	375
+Mitcham		318
+Mitcham	0	125
+Mitcham	7875	1085
+Mitcham	15750	1245
+Mitcham	21000	1225
+Mitcham	26250	1500
+Mitcham	34125	2325
+Mitcham	42000	2767
+Mitcham	52500	3387
+Mitcham	65625	3761
+Mitcham	78750	2719
+Mitcham	91875	2419
+Mitcham	105000	1700
+Mitcham	157500	1826
+Mitcham	Inf	947
+Onkaparinga		532
+Onkaparinga	0	300
+Onkaparinga	7875	2142
+Onkaparinga	15750	2201
+Onkaparinga	21000	2243
+Onkaparinga	26250	2768
+Onkaparinga	34125	4253
+Onkaparinga	42000	4818
+Onkaparinga	52500	5243
+Onkaparinga	65625	4787
+Onkaparinga	78750	2819
+Onkaparinga	91875	2264
+Onkaparinga	105000	1506
+Onkaparinga	157500	1369
+Onkaparinga	Inf	603
+Charles Sturt		515
+Charles Sturt	0	252
+Charles Sturt	7875	1521
+Charles Sturt	15750	1852
+Charles Sturt	21000	1886
+Charles Sturt	26250	2403
+Charles Sturt	34125	3928
+Charles Sturt	42000	5106
+Charles Sturt	52500	6007
+Charles Sturt	65625	5466
+Charles Sturt	78750	3315
+Charles Sturt	91875	2677
+Charles Sturt	105000	1663
+Charles Sturt	157500	1784
+Charles Sturt	Inf	997
+Port Adelaide - West		500
+Port Adelaide - West	0	199
+Port Adelaide - West	7875	900
+Port Adelaide - West	15750	1180
+Port Adelaide - West	21000	1202
+Port Adelaide - West	26250	1529
+Port Adelaide - West	34125	2851
+Port Adelaide - West	42000	4470
+Port Adelaide - West	52500	6256
+Port Adelaide - West	65625	6288
+Port Adelaide - West	78750	4065
+Port Adelaide - West	91875	3426
+Port Adelaide - West	105000	2472
+Port Adelaide - West	157500	3081
+Port Adelaide - West	Inf	1066
+West Torrens		542
+West Torrens	0	204
+West Torrens	7875	1142
+West Torrens	15750	1443
+West Torrens	21000	1574
+West Torrens	26250	2116
+West Torrens	34125	3420
+West Torrens	42000	4650
+West Torrens	52500	6379
+West Torrens	65625	6818
+West Torrens	78750	4506
+West Torrens	91875	3596
+West Torrens	105000	2449
+West Torrens	157500	3184
+West Torrens	Inf	1387
+Barossa		212
+Barossa	0	128
+Barossa	7875	537
+Barossa	15750	668
+Barossa	21000	719
+Barossa	26250	872
+Barossa	34125	1337
+Barossa	42000	1625
+Barossa	52500	2020
+Barossa	65625	2041
+Barossa	78750	1330
+Barossa	91875	966
+Barossa	105000	564
+Barossa	157500	637
+Barossa	Inf	297
+Lower North		174
+Lower North	0	127
+Lower North	7875	316
+Lower North	15750	398
+Lower North	21000	478
+Lower North	26250	595
+Lower North	34125	992
+Lower North	42000	1230
+Lower North	52500	1330
+Lower North	65625	1140
+Lower North	78750	666
+Lower North	91875	562
+Lower North	105000	338
+Lower North	157500	364
+Lower North	Inf	166
+Mid North		186
+Mid North	0	118
+Mid North	7875	421
+Mid North	15750	473
+Mid North	21000	596
+Mid North	26250	773
+Mid North	34125	1038
+Mid North	42000	1119
+Mid North	52500	1267
+Mid North	65625	1179
+Mid North	78750	926
+Mid North	91875	773
+Mid North	105000	471
+Mid North	157500	487
+Mid North	Inf	226
+Yorke Peninsula		134
+Yorke Peninsula	0	114
+Yorke Peninsula	7875	367
+Yorke Peninsula	15750	428
+Yorke Peninsula	21000	507
+Yorke Peninsula	26250	660
+Yorke Peninsula	34125	982
+Yorke Peninsula	42000	1050
+Yorke Peninsula	52500	1051
+Yorke Peninsula	65625	987
+Yorke Peninsula	78750	596
+Yorke Peninsula	91875	492
+Yorke Peninsula	105000	310
+Yorke Peninsula	157500	296
+Yorke Peninsula	Inf	142
+Eyre Peninsula and South West		426
+Eyre Peninsula and South West	0	226
+Eyre Peninsula and South West	7875	886
+Eyre Peninsula and South West	15750	1005
+Eyre Peninsula and South West	21000	1152
+Eyre Peninsula and South West	26250	1485
+Eyre Peninsula and South West	34125	2200
+Eyre Peninsula and South West	42000	2481
+Eyre Peninsula and South West	52500	2828
+Eyre Peninsula and South West	65625	2951
+Eyre Peninsula and South West	78750	1987
+Eyre Peninsula and South West	91875	1801
+Eyre Peninsula and South West	105000	1251
+Eyre Peninsula and South West	157500	1325
+Eyre Peninsula and South West	Inf	581
+Outback - North and East		258
+Outback - North and East	0	85
+Outback - North and East	7875	306
+Outback - North and East	15750	472
+Outback - North and East	21000	452
+Outback - North and East	26250	593
+Outback - North and East	34125	972
+Outback - North and East	42000	1061
+Outback - North and East	52500	1296
+Outback - North and East	65625	1458
+Outback - North and East	78750	1275
+Outback - North and East	91875	1323
+Outback - North and East	105000	1273
+Outback - North and East	157500	2378
+Outback - North and East	Inf	792
+Fleurieu - Kangaroo Island		238
+Fleurieu - Kangaroo Island	0	192
+Fleurieu - Kangaroo Island	7875	700
+Fleurieu - Kangaroo Island	15750	853
+Fleurieu - Kangaroo Island	21000	1009
+Fleurieu - Kangaroo Island	26250	1269
+Fleurieu - Kangaroo Island	34125	1893
+Fleurieu - Kangaroo Island	42000	1938
+Fleurieu - Kangaroo Island	52500	1888
+Fleurieu - Kangaroo Island	65625	1699
+Fleurieu - Kangaroo Island	78750	957
+Fleurieu - Kangaroo Island	91875	636
+Fleurieu - Kangaroo Island	105000	436
+Fleurieu - Kangaroo Island	157500	484
+Fleurieu - Kangaroo Island	Inf	212
+Limestone Coast		489
+Limestone Coast	0	365
+Limestone Coast	7875	1146
+Limestone Coast	15750	1258
+Limestone Coast	21000	1389
+Limestone Coast	26250	1954
+Limestone Coast	34125	3070
+Limestone Coast	42000	3843
+Limestone Coast	52500	4237
+Limestone Coast	65625	3974
+Limestone Coast	78750	2322
+Limestone Coast	91875	1712
+Limestone Coast	105000	1045
+Limestone Coast	157500	1148
+Limestone Coast	Inf	548
+Murray and Mallee		494
+Murray and Mallee	0	366
+Murray and Mallee	7875	1017
+Murray and Mallee	15750	1326
+Murray and Mallee	21000	1526
+Murray and Mallee	26250	1924
+Murray and Mallee	34125	3256
+Murray and Mallee	42000	4227
+Murray and Mallee	52500	4397
+Murray and Mallee	65625	3668
+Murray and Mallee	78750	2022
+Murray and Mallee	91875	1370
+Murray and Mallee	105000	862
+Murray and Mallee	157500	823
+Murray and Mallee	Inf	419
+Migratory - Offshore - Shipping (SA)	0	4
+Migratory - Offshore - Shipping (SA)	34125	4
+Migratory - Offshore - Shipping (SA)	42000	3
+Migratory - Offshore - Shipping (SA)	52500	3
+Migratory - Offshore - Shipping (SA)	65625	4
+Migratory - Offshore - Shipping (SA)	78750	4
+Migratory - Offshore - Shipping (SA)	91875	3
+Migratory - Offshore - Shipping (SA)	105000	7
+Migratory - Offshore - Shipping (SA)	157500	22
+Migratory - Offshore - Shipping (SA)	Inf	15
+No usual address (SA)		587
+No usual address (SA)	0	294
+No usual address (SA)	7875	1081
+No usual address (SA)	15750	1914
+No usual address (SA)	21000	2250
+No usual address (SA)	26250	2728
+No usual address (SA)	34125	3932
+No usual address (SA)	42000	4202
+No usual address (SA)	52500	4601
+No usual address (SA)	65625	4697
+No usual address (SA)	78750	2927
+No usual address (SA)	91875	2077
+No usual address (SA)	105000	1134
+No usual address (SA)	157500	1332
+No usual address (SA)	Inf	551
+Augusta - Margaret River - Busselton		286
+Augusta - Margaret River - Busselton	0	243
+Augusta - Margaret River - Busselton	7875	897
+Augusta - Margaret River - Busselton	15750	891
+Augusta - Margaret River - Busselton	21000	1073
+Augusta - Margaret River - Busselton	26250	1371
+Augusta - Margaret River - Busselton	34125	2162
+Augusta - Margaret River - Busselton	42000	2348
+Augusta - Margaret River - Busselton	52500	2621
+Augusta - Margaret River - Busselton	65625	2603
+Augusta - Margaret River - Busselton	78750	1482
+Augusta - Margaret River - Busselton	91875	1305
+Augusta - Margaret River - Busselton	105000	771
+Augusta - Margaret River - Busselton	157500	890
+Augusta - Margaret River - Busselton	Inf	508
+Bunbury		661
+Bunbury	0	344
+Bunbury	7875	1765
+Bunbury	15750	1641
+Bunbury	21000	1870
+Bunbury	26250	2319
+Bunbury	34125	3557
+Bunbury	42000	4281
+Bunbury	52500	4758
+Bunbury	65625	5062
+Bunbury	78750	3681
+Bunbury	91875	3451
+Bunbury	105000	2804
+Bunbury	157500	4647
+Bunbury	Inf	1559
+Manjimup		157
+Manjimup	0	136
+Manjimup	7875	383
+Manjimup	15750	466
+Manjimup	21000	556
+Manjimup	26250	618
+Manjimup	34125	880
+Manjimup	42000	1087
+Manjimup	52500	1073
+Manjimup	65625	1019
+Manjimup	78750	675
+Manjimup	91875	541
+Manjimup	105000	359
+Manjimup	157500	446
+Manjimup	Inf	172
+Mandurah		417
+Mandurah	0	264
+Mandurah	7875	1388
+Mandurah	15750	1500
+Mandurah	21000	1606
+Mandurah	26250	1732
+Mandurah	34125	2692
+Mandurah	42000	2837
+Mandurah	52500	2952
+Mandurah	65625	2932
+Mandurah	78750	2007
+Mandurah	91875	1780
+Mandurah	105000	1439
+Mandurah	157500	2039
+Mandurah	Inf	811
+Cottesloe - Claremont		522
+Cottesloe - Claremont	0	251
+Cottesloe - Claremont	7875	1613
+Cottesloe - Claremont	15750	1792
+Cottesloe - Claremont	21000	1670
+Cottesloe - Claremont	26250	1829
+Cottesloe - Claremont	34125	2597
+Cottesloe - Claremont	42000	2874
+Cottesloe - Claremont	52500	3886
+Cottesloe - Claremont	65625	5264
+Cottesloe - Claremont	78750	4135
+Cottesloe - Claremont	91875	3717
+Cottesloe - Claremont	105000	2740
+Cottesloe - Claremont	157500	4297
+Cottesloe - Claremont	Inf	2736
+Perth City		2173
+Perth City	0	909
+Perth City	7875	3255
+Perth City	15750	4605
+Perth City	21000	4976
+Perth City	26250	5999
+Perth City	34125	9029
+Perth City	42000	11300
+Perth City	52500	15911
+Perth City	65625	22426
+Perth City	78750	19512
+Perth City	91875	18204
+Perth City	105000	14154
+Perth City	157500	29317
+Perth City	Inf	25688
+Bayswater - Bassendean		426
+Bayswater - Bassendean	0	236
+Bayswater - Bassendean	7875	1165
+Bayswater - Bassendean	15750	1345
+Bayswater - Bassendean	21000	1339
+Bayswater - Bassendean	26250	1529
+Bayswater - Bassendean	34125	2336
+Bayswater - Bassendean	42000	2738
+Bayswater - Bassendean	52500	3323
+Bayswater - Bassendean	65625	3451
+Bayswater - Bassendean	78750	2339
+Bayswater - Bassendean	91875	1918
+Bayswater - Bassendean	105000	1231
+Bayswater - Bassendean	157500	1497
+Bayswater - Bassendean	Inf	569
+Mundaring		130
+Mundaring	0	107
+Mundaring	7875	487
+Mundaring	15750	477
+Mundaring	21000	542
+Mundaring	26250	559
+Mundaring	34125	800
+Mundaring	42000	910
+Mundaring	52500	1073
+Mundaring	65625	1198
+Mundaring	78750	811
+Mundaring	91875	866
+Mundaring	105000	472
+Mundaring	157500	558
+Mundaring	Inf	219
+Swan		798
+Swan	0	433
+Swan	7875	2043
+Swan	15750	2219
+Swan	21000	2312
+Swan	26250	2593
+Swan	34125	4003
+Swan	42000	5034
+Swan	52500	6734
+Swan	65625	7879
+Swan	78750	5576
+Swan	91875	4890
+Swan	105000	3499
+Swan	157500	4424
+Swan	Inf	1720
+Joondalup		664
+Joondalup	0	407
+Joondalup	7875	3453
+Joondalup	15750	3089
+Joondalup	21000	2754
+Joondalup	26250	3022
+Joondalup	34125	4261
+Joondalup	42000	4542
+Joondalup	52500	4908
+Joondalup	65625	5264
+Joondalup	78750	3644
+Joondalup	91875	3184
+Joondalup	105000	2457
+Joondalup	157500	3041
+Joondalup	Inf	1398
+Stirling		947
+Stirling	0	431
+Stirling	7875	2592
+Stirling	15750	2818
+Stirling	21000	3013
+Stirling	26250	3596
+Stirling	34125	5419
+Stirling	42000	6520
+Stirling	52500	8349
+Stirling	65625	9711
+Stirling	78750	7243
+Stirling	91875	6063
+Stirling	105000	4201
+Stirling	157500	6376
+Stirling	Inf	3281
+Wanneroo		687
+Wanneroo	0	437
+Wanneroo	7875	2222
+Wanneroo	15750	2235
+Wanneroo	21000	2218
+Wanneroo	26250	2482
+Wanneroo	34125	3860
+Wanneroo	42000	4620
+Wanneroo	52500	5562
+Wanneroo	65625	5885
+Wanneroo	78750	4064
+Wanneroo	91875	3464
+Wanneroo	105000	2334
+Wanneroo	157500	2748
+Wanneroo	Inf	1170
+Armadale		294
+Armadale	0	169
+Armadale	7875	1045
+Armadale	15750	1004
+Armadale	21000	958
+Armadale	26250	1110
+Armadale	34125	1625
+Armadale	42000	1884
+Armadale	52500	2063
+Armadale	65625	2202
+Armadale	78750	1540
+Armadale	91875	1359
+Armadale	105000	926
+Armadale	157500	1029
+Armadale	Inf	392
+Belmont - Victoria Park		768
+Belmont - Victoria Park	0	290
+Belmont - Victoria Park	7875	1163
+Belmont - Victoria Park	15750	1596
+Belmont - Victoria Park	21000	1804
+Belmont - Victoria Park	26250	2396
+Belmont - Victoria Park	34125	3828
+Belmont - Victoria Park	42000	5187
+Belmont - Victoria Park	52500	7283
+Belmont - Victoria Park	65625	8889
+Belmont - Victoria Park	78750	6307
+Belmont - Victoria Park	91875	5160
+Belmont - Victoria Park	105000	3664
+Belmont - Victoria Park	157500	6125
+Belmont - Victoria Park	Inf	3235
+Canning		858
+Canning	0	359
+Canning	7875	1922
+Canning	15750	2350
+Canning	21000	2238
+Canning	26250	2723
+Canning	34125	4115
+Canning	42000	5615
+Canning	52500	8115
+Canning	65625	9605
+Canning	78750	7009
+Canning	91875	5952
+Canning	105000	4205
+Canning	157500	6234
+Canning	Inf	2684
+Gosnells		337
+Gosnells	0	239
+Gosnells	7875	1091
+Gosnells	15750	1266
+Gosnells	21000	1300
+Gosnells	26250	1458
+Gosnells	34125	2214
+Gosnells	42000	2562
+Gosnells	52500	2995
+Gosnells	65625	3342
+Gosnells	78750	2250
+Gosnells	91875	1890
+Gosnells	105000	1346
+Gosnells	157500	1487
+Gosnells	Inf	533
+Kalamunda		219
+Kalamunda	0	114
+Kalamunda	7875	726
+Kalamunda	15750	688
+Kalamunda	21000	674
+Kalamunda	26250	774
+Kalamunda	34125	1118
+Kalamunda	42000	1383
+Kalamunda	52500	1726
+Kalamunda	65625	1964
+Kalamunda	78750	1433
+Kalamunda	91875	1247
+Kalamunda	105000	836
+Kalamunda	157500	1122
+Kalamunda	Inf	455
+Serpentine - Jarrahdale		89
+Serpentine - Jarrahdale	0	57
+Serpentine - Jarrahdale	7875	246
+Serpentine - Jarrahdale	15750	218
+Serpentine - Jarrahdale	21000	231
+Serpentine - Jarrahdale	26250	249
+Serpentine - Jarrahdale	34125	394
+Serpentine - Jarrahdale	42000	501
+Serpentine - Jarrahdale	52500	520
+Serpentine - Jarrahdale	65625	595
+Serpentine - Jarrahdale	78750	431
+Serpentine - Jarrahdale	91875	378
+Serpentine - Jarrahdale	105000	256
+Serpentine - Jarrahdale	157500	294
+Serpentine - Jarrahdale	Inf	131
+South Perth		138
+South Perth	0	100
+South Perth	7875	518
+South Perth	15750	637
+South Perth	21000	584
+South Perth	26250	706
+South Perth	34125	1035
+South Perth	42000	1087
+South Perth	52500	1374
+South Perth	65625	1520
+South Perth	78750	1227
+South Perth	91875	1125
+South Perth	105000	809
+South Perth	157500	1445
+South Perth	Inf	830
+Cockburn		600
+Cockburn	0	302
+Cockburn	7875	1418
+Cockburn	15750	1542
+Cockburn	21000	1554
+Cockburn	26250	1792
+Cockburn	34125	2815
+Cockburn	42000	3541
+Cockburn	52500	4868
+Cockburn	65625	5764
+Cockburn	78750	4308
+Cockburn	91875	3810
+Cockburn	105000	2831
+Cockburn	157500	4212
+Cockburn	Inf	1953
+Fremantle		398
+Fremantle	0	209
+Fremantle	7875	960
+Fremantle	15750	1090
+Fremantle	21000	1189
+Fremantle	26250	1367
+Fremantle	34125	2012
+Fremantle	42000	2407
+Fremantle	52500	3069
+Fremantle	65625	3624
+Fremantle	78750	2818
+Fremantle	91875	2294
+Fremantle	105000	1682
+Fremantle	157500	2524
+Fremantle	Inf	1293
+Kwinana		180
+Kwinana	0	77
+Kwinana	7875	314
+Kwinana	15750	367
+Kwinana	21000	350
+Kwinana	26250	430
+Kwinana	34125	717
+Kwinana	42000	820
+Kwinana	52500	1144
+Kwinana	65625	1410
+Kwinana	78750	1210
+Kwinana	91875	1293
+Kwinana	105000	1154
+Kwinana	157500	2154
+Kwinana	Inf	1044
+Melville		523
+Melville	0	250
+Melville	7875	2053
+Melville	15750	2162
+Melville	21000	1890
+Melville	26250	2118
+Melville	34125	3260
+Melville	42000	3633
+Melville	52500	4294
+Melville	65625	4996
+Melville	78750	3618
+Melville	91875	3354
+Melville	105000	2428
+Melville	157500	3509
+Melville	Inf	2118
+Rockingham		387
+Rockingham	0	305
+Rockingham	7875	1900
+Rockingham	15750	1742
+Rockingham	21000	1728
+Rockingham	26250	1881
+Rockingham	34125	2758
+Rockingham	42000	2948
+Rockingham	52500	3337
+Rockingham	65625	3510
+Rockingham	78750	2585
+Rockingham	91875	2237
+Rockingham	105000	1774
+Rockingham	157500	2220
+Rockingham	Inf	747
+Albany		427
+Albany	0	318
+Albany	7875	902
+Albany	15750	996
+Albany	21000	1257
+Albany	26250	1547
+Albany	34125	2433
+Albany	42000	2867
+Albany	52500	3183
+Albany	65625	3117
+Albany	78750	2039
+Albany	91875	1719
+Albany	105000	1207
+Albany	157500	1382
+Albany	Inf	671
+Wheat Belt - North		434
+Wheat Belt - North	0	361
+Wheat Belt - North	7875	616
+Wheat Belt - North	15750	840
+Wheat Belt - North	21000	1039
+Wheat Belt - North	26250	1246
+Wheat Belt - North	34125	1936
+Wheat Belt - North	42000	2117
+Wheat Belt - North	52500	2594
+Wheat Belt - North	65625	2793
+Wheat Belt - North	78750	1897
+Wheat Belt - North	91875	1782
+Wheat Belt - North	105000	1216
+Wheat Belt - North	157500	1978
+Wheat Belt - North	Inf	927
+Wheat Belt - South		233
+Wheat Belt - South	0	161
+Wheat Belt - South	7875	220
+Wheat Belt - South	15750	308
+Wheat Belt - South	21000	443
+Wheat Belt - South	26250	497
+Wheat Belt - South	34125	832
+Wheat Belt - South	42000	930
+Wheat Belt - South	52500	1077
+Wheat Belt - South	65625	1223
+Wheat Belt - South	78750	904
+Wheat Belt - South	91875	873
+Wheat Belt - South	105000	749
+Wheat Belt - South	157500	1433
+Wheat Belt - South	Inf	519
+Kimberley		317
+Kimberley	0	95
+Kimberley	7875	228
+Kimberley	15750	443
+Kimberley	21000	395
+Kimberley	26250	517
+Kimberley	34125	949
+Kimberley	42000	1274
+Kimberley	52500	1724
+Kimberley	65625	2108
+Kimberley	78750	1546
+Kimberley	91875	1437
+Kimberley	105000	1161
+Kimberley	157500	1740
+Kimberley	Inf	658
+East Pilbara		391
+East Pilbara	0	107
+East Pilbara	7875	239
+East Pilbara	15750	268
+East Pilbara	21000	235
+East Pilbara	26250	244
+East Pilbara	34125	403
+East Pilbara	42000	509
+East Pilbara	52500	895
+East Pilbara	65625	1596
+East Pilbara	78750	1712
+East Pilbara	91875	2107
+East Pilbara	105000	2447
+East Pilbara	157500	7508
+East Pilbara	Inf	4828
+West Pilbara		595
+West Pilbara	0	155
+West Pilbara	7875	339
+West Pilbara	15750	311
+West Pilbara	21000	309
+West Pilbara	26250	362
+West Pilbara	34125	586
+West Pilbara	42000	829
+West Pilbara	52500	1130
+West Pilbara	65625	1983
+West Pilbara	78750	2165
+West Pilbara	91875	2574
+West Pilbara	105000	3107
+West Pilbara	157500	10695
+West Pilbara	Inf	11393
+Esperance		132
+Esperance	0	67
+Esperance	7875	266
+Esperance	15750	265
+Esperance	21000	317
+Esperance	26250	393
+Esperance	34125	615
+Esperance	42000	653
+Esperance	52500	729
+Esperance	65625	849
+Esperance	78750	636
+Esperance	91875	579
+Esperance	105000	487
+Esperance	157500	687
+Esperance	Inf	286
+Gascoyne		137
+Gascoyne	0	48
+Gascoyne	7875	97
+Gascoyne	15750	144
+Gascoyne	21000	167
+Gascoyne	26250	211
+Gascoyne	34125	403
+Gascoyne	42000	484
+Gascoyne	52500	608
+Gascoyne	65625	544
+Gascoyne	78750	369
+Gascoyne	91875	317
+Gascoyne	105000	259
+Gascoyne	157500	545
+Gascoyne	Inf	282
+Goldfields		393
+Goldfields	0	146
+Goldfields	7875	500
+Goldfields	15750	523
+Goldfields	21000	528
+Goldfields	26250	666
+Goldfields	34125	1009
+Goldfields	42000	1275
+Goldfields	52500	1636
+Goldfields	65625	2128
+Goldfields	78750	1967
+Goldfields	91875	2384
+Goldfields	105000	2403
+Goldfields	157500	5581
+Goldfields	Inf	1920
+Mid West		448
+Mid West	0	293
+Mid West	7875	806
+Mid West	15750	774
+Mid West	21000	951
+Mid West	26250	1167
+Mid West	34125	1909
+Mid West	42000	2168
+Mid West	52500	2444
+Mid West	65625	2858
+Mid West	78750	2167
+Mid West	91875	2144
+Mid West	105000	1769
+Mid West	157500	3053
+Mid West	Inf	1239
+Migratory - Offshore - Shipping (WA)		32
+Migratory - Offshore - Shipping (WA)	0	7
+Migratory - Offshore - Shipping (WA)	7875	5
+Migratory - Offshore - Shipping (WA)	15750	3
+Migratory - Offshore - Shipping (WA)	21000	5
+Migratory - Offshore - Shipping (WA)	26250	9
+Migratory - Offshore - Shipping (WA)	34125	11
+Migratory - Offshore - Shipping (WA)	42000	19
+Migratory - Offshore - Shipping (WA)	52500	21
+Migratory - Offshore - Shipping (WA)	65625	44
+Migratory - Offshore - Shipping (WA)	78750	32
+Migratory - Offshore - Shipping (WA)	91875	57
+Migratory - Offshore - Shipping (WA)	105000	79
+Migratory - Offshore - Shipping (WA)	157500	447
+Migratory - Offshore - Shipping (WA)	Inf	837
+No usual address (WA)		983
+No usual address (WA)	0	492
+No usual address (WA)	7875	1492
+No usual address (WA)	15750	2352
+No usual address (WA)	21000	2629
+No usual address (WA)	26250	3165
+No usual address (WA)	34125	4506
+No usual address (WA)	42000	4883
+No usual address (WA)	52500	6020
+No usual address (WA)	65625	7117
+No usual address (WA)	78750	5571
+No usual address (WA)	91875	4591
+No usual address (WA)	105000	3185
+No usual address (WA)	157500	4908
+No usual address (WA)	Inf	2483
+Brighton		43
+Brighton	0	15
+Brighton	7875	133
+Brighton	15750	126
+Brighton	21000	135
+Brighton	26250	153
+Brighton	34125	306
+Brighton	42000	419
+Brighton	52500	451
+Brighton	65625	422
+Brighton	78750	232
+Brighton	91875	193
+Brighton	105000	101
+Brighton	157500	86
+Brighton	Inf	29
+Hobart - North East		182
+Hobart - North East	0	86
+Hobart - North East	7875	655
+Hobart - North East	15750	644
+Hobart - North East	21000	696
+Hobart - North East	26250	902
+Hobart - North East	34125	1548
+Hobart - North East	42000	1805
+Hobart - North East	52500	2148
+Hobart - North East	65625	1955
+Hobart - North East	78750	1225
+Hobart - North East	91875	1107
+Hobart - North East	105000	781
+Hobart - North East	157500	755
+Hobart - North East	Inf	312
+Hobart - North West		260
+Hobart - North West	0	101
+Hobart - North West	7875	684
+Hobart - North West	15750	782
+Hobart - North West	21000	982
+Hobart - North West	26250	1260
+Hobart - North West	34125	2081
+Hobart - North West	42000	2657
+Hobart - North West	52500	3277
+Hobart - North West	65625	3100
+Hobart - North West	78750	1869
+Hobart - North West	91875	1543
+Hobart - North West	105000	855
+Hobart - North West	157500	801
+Hobart - North West	Inf	309
+Hobart - South and West		91
+Hobart - South and West	0	62
+Hobart - South and West	7875	499
+Hobart - South and West	15750	470
+Hobart - South and West	21000	410
+Hobart - South and West	26250	570
+Hobart - South and West	34125	844
+Hobart - South and West	42000	1001
+Hobart - South and West	52500	984
+Hobart - South and West	65625	943
+Hobart - South and West	78750	633
+Hobart - South and West	91875	522
+Hobart - South and West	105000	303
+Hobart - South and West	157500	359
+Hobart - South and West	Inf	153
+Hobart Inner		533
+Hobart Inner	0	204
+Hobart Inner	7875	1423
+Hobart Inner	15750	1763
+Hobart Inner	21000	1864
+Hobart Inner	26250	2411
+Hobart Inner	34125	3954
+Hobart Inner	42000	4871
+Hobart Inner	52500	6102
+Hobart Inner	65625	7345
+Hobart Inner	78750	5555
+Hobart Inner	91875	4667
+Hobart Inner	105000	3277
+Hobart Inner	157500	4256
+Hobart Inner	Inf	1974
+Sorell - Dodges Ferry		47
+Sorell - Dodges Ferry	0	37
+Sorell - Dodges Ferry	7875	170
+Sorell - Dodges Ferry	15750	230
+Sorell - Dodges Ferry	21000	210
+Sorell - Dodges Ferry	26250	276
+Sorell - Dodges Ferry	34125	395
+Sorell - Dodges Ferry	42000	451
+Sorell - Dodges Ferry	52500	423
+Sorell - Dodges Ferry	65625	309
+Sorell - Dodges Ferry	78750	184
+Sorell - Dodges Ferry	91875	150
+Sorell - Dodges Ferry	105000	91
+Sorell - Dodges Ferry	157500	91
+Sorell - Dodges Ferry	Inf	31
+Launceston		514
+Launceston	0	173
+Launceston	7875	1475
+Launceston	15750	1722
+Launceston	21000	1868
+Launceston	26250	2480
+Launceston	34125	3977
+Launceston	42000	4900
+Launceston	52500	5404
+Launceston	65625	5284
+Launceston	78750	3269
+Launceston	91875	2583
+Launceston	105000	1714
+Launceston	157500	1653
+Launceston	Inf	831
+Meander Valley - West Tamar		88
+Meander Valley - West Tamar	0	76
+Meander Valley - West Tamar	7875	215
+Meander Valley - West Tamar	15750	342
+Meander Valley - West Tamar	21000	391
+Meander Valley - West Tamar	26250	454
+Meander Valley - West Tamar	34125	641
+Meander Valley - West Tamar	42000	661
+Meander Valley - West Tamar	52500	630
+Meander Valley - West Tamar	65625	554
+Meander Valley - West Tamar	78750	367
+Meander Valley - West Tamar	91875	297
+Meander Valley - West Tamar	105000	177
+Meander Valley - West Tamar	157500	188
+Meander Valley - West Tamar	Inf	82
+North East		204
+North East	0	148
+North East	7875	422
+North East	15750	568
+North East	21000	726
+North East	26250	813
+North East	34125	1351
+North East	42000	1653
+North East	52500	1691
+North East	65625	1474
+North East	78750	968
+North East	91875	813
+North East	105000	547
+North East	157500	511
+North East	Inf	222
+Central Highlands (Tas.)		46
+Central Highlands (Tas.)	0	55
+Central Highlands (Tas.)	7875	88
+Central Highlands (Tas.)	15750	129
+Central Highlands (Tas.)	21000	150
+Central Highlands (Tas.)	26250	161
+Central Highlands (Tas.)	34125	273
+Central Highlands (Tas.)	42000	287
+Central Highlands (Tas.)	52500	282
+Central Highlands (Tas.)	65625	265
+Central Highlands (Tas.)	78750	159
+Central Highlands (Tas.)	91875	125
+Central Highlands (Tas.)	105000	80
+Central Highlands (Tas.)	157500	71
+Central Highlands (Tas.)	Inf	43
+Huon - Bruny Island		87
+Huon - Bruny Island	0	70
+Huon - Bruny Island	7875	199
+Huon - Bruny Island	15750	279
+Huon - Bruny Island	21000	347
+Huon - Bruny Island	26250	424
+Huon - Bruny Island	34125	590
+Huon - Bruny Island	42000	676
+Huon - Bruny Island	52500	625
+Huon - Bruny Island	65625	619
+Huon - Bruny Island	78750	354
+Huon - Bruny Island	91875	240
+Huon - Bruny Island	105000	129
+Huon - Bruny Island	157500	161
+Huon - Bruny Island	Inf	70
+South East Coast		43
+South East Coast	0	31
+South East Coast	7875	73
+South East Coast	15750	137
+South East Coast	21000	161
+South East Coast	26250	201
+South East Coast	34125	289
+South East Coast	42000	322
+South East Coast	52500	295
+South East Coast	65625	240
+South East Coast	78750	126
+South East Coast	91875	97
+South East Coast	105000	49
+South East Coast	157500	67
+South East Coast	Inf	47
+Burnie - Ulverstone		259
+Burnie - Ulverstone	0	130
+Burnie - Ulverstone	7875	813
+Burnie - Ulverstone	15750	866
+Burnie - Ulverstone	21000	1019
+Burnie - Ulverstone	26250	1252
+Burnie - Ulverstone	34125	1982
+Burnie - Ulverstone	42000	2444
+Burnie - Ulverstone	52500	2484
+Burnie - Ulverstone	65625	2452
+Burnie - Ulverstone	78750	1552
+Burnie - Ulverstone	91875	1286
+Burnie - Ulverstone	105000	839
+Burnie - Ulverstone	157500	743
+Burnie - Ulverstone	Inf	316
+Devonport		253
+Devonport	0	126
+Devonport	7875	659
+Devonport	15750	785
+Devonport	21000	889
+Devonport	26250	1294
+Devonport	34125	1960
+Devonport	42000	2259
+Devonport	52500	2372
+Devonport	65625	2229
+Devonport	78750	1304
+Devonport	91875	1051
+Devonport	105000	674
+Devonport	157500	630
+Devonport	Inf	261
+West Coast		146
+West Coast	0	91
+West Coast	7875	201
+West Coast	15750	309
+West Coast	21000	351
+West Coast	26250	448
+West Coast	34125	659
+West Coast	42000	828
+West Coast	52500	967
+West Coast	65625	908
+West Coast	78750	610
+West Coast	91875	572
+West Coast	105000	409
+West Coast	157500	526
+West Coast	Inf	173
+Migratory - Offshore - Shipping (Tas.)	42000	6
+Migratory - Offshore - Shipping (Tas.)	52500	3
+Migratory - Offshore - Shipping (Tas.)	65625	6
+Migratory - Offshore - Shipping (Tas.)	78750	3
+Migratory - Offshore - Shipping (Tas.)	91875	4
+Migratory - Offshore - Shipping (Tas.)	105000	11
+Migratory - Offshore - Shipping (Tas.)	157500	15
+Migratory - Offshore - Shipping (Tas.)	Inf	9
+No usual address (Tas.)		186
+No usual address (Tas.)	0	78
+No usual address (Tas.)	7875	223
+No usual address (Tas.)	15750	545
+No usual address (Tas.)	21000	609
+No usual address (Tas.)	26250	771
+No usual address (Tas.)	34125	1100
+No usual address (Tas.)	42000	1124
+No usual address (Tas.)	52500	1271
+No usual address (Tas.)	65625	1245
+No usual address (Tas.)	78750	777
+No usual address (Tas.)	91875	525
+No usual address (Tas.)	105000	251
+No usual address (Tas.)	157500	280
+No usual address (Tas.)	Inf	158
+Darwin City		424
+Darwin City	0	155
+Darwin City	7875	390
+Darwin City	15750	381
+Darwin City	21000	491
+Darwin City	26250	754
+Darwin City	34125	1274
+Darwin City	42000	1973
+Darwin City	52500	3041
+Darwin City	65625	4243
+Darwin City	78750	3345
+Darwin City	91875	3070
+Darwin City	105000	2307
+Darwin City	157500	3718
+Darwin City	Inf	1820
+Darwin Suburbs		373
+Darwin Suburbs	0	133
+Darwin Suburbs	7875	552
+Darwin Suburbs	15750	567
+Darwin Suburbs	21000	628
+Darwin Suburbs	26250	800
+Darwin Suburbs	34125	1279
+Darwin Suburbs	42000	1719
+Darwin Suburbs	52500	2617
+Darwin Suburbs	65625	3303
+Darwin Suburbs	78750	2650
+Darwin Suburbs	91875	2371
+Darwin Suburbs	105000	1875
+Darwin Suburbs	157500	2539
+Darwin Suburbs	Inf	1045
+Litchfield		237
+Litchfield	0	76
+Litchfield	7875	189
+Litchfield	15750	218
+Litchfield	21000	208
+Litchfield	26250	267
+Litchfield	34125	425
+Litchfield	42000	592
+Litchfield	52500	1018
+Litchfield	65625	1478
+Litchfield	78750	1565
+Litchfield	91875	1428
+Litchfield	105000	1170
+Litchfield	157500	2916
+Litchfield	Inf	3079
+Palmerston		128
+Palmerston	0	51
+Palmerston	7875	300
+Palmerston	15750	240
+Palmerston	21000	248
+Palmerston	26250	302
+Palmerston	34125	487
+Palmerston	42000	750
+Palmerston	52500	908
+Palmerston	65625	1047
+Palmerston	78750	816
+Palmerston	91875	667
+Palmerston	105000	537
+Palmerston	157500	657
+Palmerston	Inf	272
+Alice Springs		331
+Alice Springs	0	92
+Alice Springs	7875	355
+Alice Springs	15750	465
+Alice Springs	21000	383
+Alice Springs	26250	509
+Alice Springs	34125	967
+Alice Springs	42000	1433
+Alice Springs	52500	1925
+Alice Springs	65625	2495
+Alice Springs	78750	1903
+Alice Springs	91875	1640
+Alice Springs	105000	1288
+Alice Springs	157500	1820
+Alice Springs	Inf	687
+Barkly		67
+Barkly	0	20
+Barkly	7875	38
+Barkly	15750	99
+Barkly	21000	77
+Barkly	26250	87
+Barkly	34125	164
+Barkly	42000	214
+Barkly	52500	239
+Barkly	65625	246
+Barkly	78750	179
+Barkly	91875	168
+Barkly	105000	117
+Barkly	157500	136
+Barkly	Inf	62
+Daly - Tiwi - West Arnhem		127
+Daly - Tiwi - West Arnhem	0	56
+Daly - Tiwi - West Arnhem	7875	142
+Daly - Tiwi - West Arnhem	15750	329
+Daly - Tiwi - West Arnhem	21000	222
+Daly - Tiwi - West Arnhem	26250	230
+Daly - Tiwi - West Arnhem	34125	459
+Daly - Tiwi - West Arnhem	42000	410
+Daly - Tiwi - West Arnhem	52500	387
+Daly - Tiwi - West Arnhem	65625	436
+Daly - Tiwi - West Arnhem	78750	382
+Daly - Tiwi - West Arnhem	91875	320
+Daly - Tiwi - West Arnhem	105000	260
+Daly - Tiwi - West Arnhem	157500	513
+Daly - Tiwi - West Arnhem	Inf	169
+East Arnhem		268
+East Arnhem	0	23
+East Arnhem	7875	66
+East Arnhem	15750	260
+East Arnhem	21000	206
+East Arnhem	26250	155
+East Arnhem	34125	303
+East Arnhem	42000	250
+East Arnhem	52500	257
+East Arnhem	65625	390
+East Arnhem	78750	363
+East Arnhem	91875	364
+East Arnhem	105000	380
+East Arnhem	157500	856
+East Arnhem	Inf	310
+Katherine		192
+Katherine	0	50
+Katherine	7875	177
+Katherine	15750	289
+Katherine	21000	204
+Katherine	26250	259
+Katherine	34125	495
+Katherine	42000	598
+Katherine	52500	783
+Katherine	65625	876
+Katherine	78750	800
+Katherine	91875	738
+Katherine	105000	480
+Katherine	157500	625
+Katherine	Inf	197
+Migratory - Offshore - Shipping (NT)		3
+Migratory - Offshore - Shipping (NT)	7875	5
+Migratory - Offshore - Shipping (NT)	34125	3
+Migratory - Offshore - Shipping (NT)	52500	7
+Migratory - Offshore - Shipping (NT)	65625	7
+Migratory - Offshore - Shipping (NT)	91875	3
+Migratory - Offshore - Shipping (NT)	105000	16
+Migratory - Offshore - Shipping (NT)	157500	20
+Migratory - Offshore - Shipping (NT)	Inf	33
+No usual address (NT)		89
+No usual address (NT)	0	43
+No usual address (NT)	7875	60
+No usual address (NT)	15750	111
+No usual address (NT)	21000	117
+No usual address (NT)	26250	135
+No usual address (NT)	34125	227
+No usual address (NT)	42000	238
+No usual address (NT)	52500	353
+No usual address (NT)	65625	480
+No usual address (NT)	78750	385
+No usual address (NT)	91875	318
+No usual address (NT)	105000	296
+No usual address (NT)	157500	499
+No usual address (NT)	Inf	319
+Belconnen		269
+Belconnen	0	155
+Belconnen	7875	1299
+Belconnen	15750	1275
+Belconnen	21000	1125
+Belconnen	26250	1245
+Belconnen	34125	1720
+Belconnen	42000	2132
+Belconnen	52500	2590
+Belconnen	65625	3341
+Belconnen	78750	3239
+Belconnen	91875	3041
+Belconnen	105000	2098
+Belconnen	157500	3516
+Belconnen	Inf	1324
+Canberra East		149
+Canberra East	0	37
+Canberra East	7875	194
+Canberra East	15750	198
+Canberra East	21000	196
+Canberra East	26250	293
+Canberra East	34125	501
+Canberra East	42000	826
+Canberra East	52500	1311
+Canberra East	65625	1795
+Canberra East	78750	1714
+Canberra East	91875	1854
+Canberra East	105000	1387
+Canberra East	157500	3108
+Canberra East	Inf	1393
+Gungahlin		154
+Gungahlin	0	113
+Gungahlin	7875	836
+Gungahlin	15750	686
+Gungahlin	21000	580
+Gungahlin	26250	670
+Gungahlin	34125	1075
+Gungahlin	42000	1391
+Gungahlin	52500	1784
+Gungahlin	65625	1970
+Gungahlin	78750	1476
+Gungahlin	91875	1134
+Gungahlin	105000	751
+Gungahlin	157500	1004
+Gungahlin	Inf	457
+North Canberra		617
+North Canberra	0	217
+North Canberra	7875	1408
+North Canberra	15750	1694
+North Canberra	21000	1521
+North Canberra	26250	1792
+North Canberra	34125	2709
+North Canberra	42000	3338
+North Canberra	52500	4694
+North Canberra	65625	7002
+North Canberra	78750	8118
+North Canberra	91875	8525
+North Canberra	105000	6031
+North Canberra	157500	13872
+North Canberra	Inf	5821
+South Canberra		543
+South Canberra	0	156
+South Canberra	7875	1060
+South Canberra	15750	1017
+South Canberra	21000	1052
+South Canberra	26250	1317
+South Canberra	34125	2162
+South Canberra	42000	3079
+South Canberra	52500	4502
+South Canberra	65625	5956
+South Canberra	78750	5644
+South Canberra	91875	5667
+South Canberra	105000	4037
+South Canberra	157500	8616
+South Canberra	Inf	4315
+Tuggeranong		212
+Tuggeranong	0	110
+Tuggeranong	7875	1122
+Tuggeranong	15750	826
+Tuggeranong	21000	676
+Tuggeranong	26250	789
+Tuggeranong	34125	1156
+Tuggeranong	42000	1381
+Tuggeranong	52500	1670
+Tuggeranong	65625	1907
+Tuggeranong	78750	1975
+Tuggeranong	91875	1962
+Tuggeranong	105000	1269
+Tuggeranong	157500	2784
+Tuggeranong	Inf	873
+Weston Creek		54
+Weston Creek	0	20
+Weston Creek	7875	305
+Weston Creek	15750	215
+Weston Creek	21000	163
+Weston Creek	26250	232
+Weston Creek	34125	328
+Weston Creek	42000	398
+Weston Creek	52500	432
+Weston Creek	65625	477
+Weston Creek	78750	348
+Weston Creek	91875	321
+Weston Creek	105000	222
+Weston Creek	157500	466
+Weston Creek	Inf	213
+Woden Valley		249
+Woden Valley	0	94
+Woden Valley	7875	690
+Woden Valley	15750	625
+Woden Valley	21000	588
+Woden Valley	26250	716
+Woden Valley	34125	1204
+Woden Valley	42000	1523
+Woden Valley	52500	2135
+Woden Valley	65625	2962
+Woden Valley	78750	2898
+Woden Valley	91875	2807
+Woden Valley	105000	1805
+Woden Valley	157500	3416
+Woden Valley	Inf	1308
+Molonglo		3
+Molonglo	0	7
+Molonglo	7875	10
+Molonglo	15750	13
+Molonglo	21000	17
+Molonglo	26250	12
+Molonglo	34125	33
+Molonglo	42000	29
+Molonglo	52500	41
+Molonglo	65625	57
+Molonglo	78750	32
+Molonglo	91875	24
+Molonglo	105000	12
+Molonglo	157500	24
+Molonglo	Inf	15
+Urriarra - Namadgi		5
+Urriarra - Namadgi	0	10
+Urriarra - Namadgi	7875	18
+Urriarra - Namadgi	15750	16
+Urriarra - Namadgi	21000	8
+Urriarra - Namadgi	26250	18
+Urriarra - Namadgi	34125	27
+Urriarra - Namadgi	42000	34
+Urriarra - Namadgi	52500	37
+Urriarra - Namadgi	65625	42
+Urriarra - Namadgi	78750	52
+Urriarra - Namadgi	91875	48
+Urriarra - Namadgi	105000	48
+Urriarra - Namadgi	157500	100
+Urriarra - Namadgi	Inf	33
+No usual address (ACT)		115
+No usual address (ACT)	0	70
+No usual address (ACT)	7875	294
+No usual address (ACT)	15750	286
+No usual address (ACT)	21000	305
+No usual address (ACT)	26250	373
+No usual address (ACT)	34125	597
+No usual address (ACT)	42000	661
+No usual address (ACT)	52500	809
+No usual address (ACT)	65625	1008
+No usual address (ACT)	78750	702
+No usual address (ACT)	91875	577
+No usual address (ACT)	105000	351
+No usual address (ACT)	157500	436
+No usual address (ACT)	Inf	238
+Christmas Island		11
+Christmas Island	0	3
+Christmas Island	7875	9
+Christmas Island	15750	13
+Christmas Island	21000	22
+Christmas Island	26250	18
+Christmas Island	34125	30
+Christmas Island	42000	55
+Christmas Island	52500	91
+Christmas Island	65625	134
+Christmas Island	78750	129
+Christmas Island	91875	127
+Christmas Island	105000	115
+Christmas Island	157500	171
+Christmas Island	Inf	62
+Cocos (Keeling) Islands		8
+Cocos (Keeling) Islands	0	3
+Cocos (Keeling) Islands	7875	9
+Cocos (Keeling) Islands	15750	10
+Cocos (Keeling) Islands	21000	6
+Cocos (Keeling) Islands	26250	11
+Cocos (Keeling) Islands	34125	29
+Cocos (Keeling) Islands	42000	30
+Cocos (Keeling) Islands	52500	31
+Cocos (Keeling) Islands	65625	22
+Cocos (Keeling) Islands	78750	18
+Cocos (Keeling) Islands	91875	17
+Cocos (Keeling) Islands	105000	12
+Cocos (Keeling) Islands	157500	25
+Cocos (Keeling) Islands	Inf	7
+Jervis Bay		7
+Jervis Bay	0	3
+Jervis Bay	15750	10
+Jervis Bay	21000	10
+Jervis Bay	26250	20
+Jervis Bay	34125	28
+Jervis Bay	42000	55
+Jervis Bay	52500	55
+Jervis Bay	65625	77
+Jervis Bay	78750	53
+Jervis Bay	91875	53
+Jervis Bay	105000	39
+Jervis Bay	157500	40
+Jervis Bay	Inf	28
+Norfolk Island		22
+Norfolk Island	0	11
+Norfolk Island	7875	32
+Norfolk Island	15750	49
+Norfolk Island	21000	72
+Norfolk Island	26250	90
+Norfolk Island	34125	157
+Norfolk Island	42000	170
+Norfolk Island	52500	130
+Norfolk Island	65625	87
+Norfolk Island	78750	34
+Norfolk Island	91875	36
+Norfolk Island	105000	28
+Norfolk Island	157500	31
+Norfolk Island	Inf	28
+No usual address (OT)	0	3
+No usual address (OT)	15750	3
+No usual address (OT)	21000	3
+No usual address (OT)	26250	6
+No usual address (OT)	34125	7
+No usual address (OT)	42000	5
+No usual address (OT)	52500	5
+No usual address (OT)	65625	9
+No usual address (OT)	78750	5
+No usual address (OT)	91875	10
+No usual address (OT)	105000	9
+No usual address (OT)	157500	17
+No usual address (OT)	Inf	27

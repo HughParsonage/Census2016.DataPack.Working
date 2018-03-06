@@ -1,0 +1,2821 @@
+SA3_NAME16	LabourForceStatus	Sex	workers
+Queanbeyan		F	96
+Queanbeyan		M	175
+Queanbeyan	Employed (away from work)	F	250
+Queanbeyan	Employed (away from work)	M	232
+Queanbeyan	Employed (full-time)	F	3032
+Queanbeyan	Employed (full-time)	M	6598
+Queanbeyan	Employed (part-time)	F	2907
+Queanbeyan	Employed (part-time)	M	1659
+Snowy Mountains		F	104
+Snowy Mountains		M	121
+Snowy Mountains	Employed (away from work)	F	155
+Snowy Mountains	Employed (away from work)	M	137
+Snowy Mountains	Employed (full-time)	F	2430
+Snowy Mountains	Employed (full-time)	M	3645
+Snowy Mountains	Employed (part-time)	F	1983
+Snowy Mountains	Employed (part-time)	M	1086
+South Coast		F	230
+South Coast		M	271
+South Coast	Employed (away from work)	F	599
+South Coast	Employed (away from work)	M	406
+South Coast	Employed (full-time)	F	4836
+South Coast	Employed (full-time)	M	7379
+South Coast	Employed (part-time)	F	6812
+South Coast	Employed (part-time)	M	3435
+Goulburn - Mulwaree		F	114
+Goulburn - Mulwaree		M	154
+Goulburn - Mulwaree	Employed (away from work)	F	287
+Goulburn - Mulwaree	Employed (away from work)	M	203
+Goulburn - Mulwaree	Employed (full-time)	F	3050
+Goulburn - Mulwaree	Employed (full-time)	M	5052
+Goulburn - Mulwaree	Employed (part-time)	F	3136
+Goulburn - Mulwaree	Employed (part-time)	M	1370
+Young - Yass		F	112
+Young - Yass		M	151
+Young - Yass	Employed (away from work)	F	224
+Young - Yass	Employed (away from work)	M	165
+Young - Yass	Employed (full-time)	F	2335
+Young - Yass	Employed (full-time)	M	4186
+Young - Yass	Employed (part-time)	F	2841
+Young - Yass	Employed (part-time)	M	1275
+Gosford		F	483
+Gosford		M	573
+Gosford	Employed (away from work)	F	1365
+Gosford	Employed (away from work)	M	729
+Gosford	Employed (full-time)	F	13324
+Gosford	Employed (full-time)	M	18716
+Gosford	Employed (part-time)	F	17051
+Gosford	Employed (part-time)	M	6531
+Wyong		F	397
+Wyong		M	466
+Wyong	Employed (away from work)	F	1065
+Wyong	Employed (away from work)	M	582
+Wyong	Employed (full-time)	F	10036
+Wyong	Employed (full-time)	M	15254
+Wyong	Employed (part-time)	F	12903
+Wyong	Employed (part-time)	M	5262
+Bathurst		F	190
+Bathurst		M	207
+Bathurst	Employed (away from work)	F	457
+Bathurst	Employed (away from work)	M	282
+Bathurst	Employed (full-time)	F	4570
+Bathurst	Employed (full-time)	M	7383
+Bathurst	Employed (part-time)	F	4624
+Bathurst	Employed (part-time)	M	1897
+Lachlan Valley		F	239
+Lachlan Valley		M	313
+Lachlan Valley	Employed (away from work)	F	500
+Lachlan Valley	Employed (away from work)	M	314
+Lachlan Valley	Employed (full-time)	F	4504
+Lachlan Valley	Employed (full-time)	M	8624
+Lachlan Valley	Employed (part-time)	F	4736
+Lachlan Valley	Employed (part-time)	M	1898
+Lithgow - Mudgee		F	157
+Lithgow - Mudgee		M	196
+Lithgow - Mudgee	Employed (away from work)	F	366
+Lithgow - Mudgee	Employed (away from work)	M	300
+Lithgow - Mudgee	Employed (full-time)	F	3320
+Lithgow - Mudgee	Employed (full-time)	M	7273
+Lithgow - Mudgee	Employed (part-time)	F	4154
+Lithgow - Mudgee	Employed (part-time)	M	1605
+Orange		F	200
+Orange		M	252
+Orange	Employed (away from work)	F	553
+Orange	Employed (away from work)	M	411
+Orange	Employed (full-time)	F	6058
+Orange	Employed (full-time)	M	9952
+Orange	Employed (part-time)	F	5524
+Orange	Employed (part-time)	M	2133
+Clarence Valley		F	158
+Clarence Valley		M	194
+Clarence Valley	Employed (away from work)	F	374
+Clarence Valley	Employed (away from work)	M	269
+Clarence Valley	Employed (full-time)	F	3316
+Clarence Valley	Employed (full-time)	M	5497
+Clarence Valley	Employed (part-time)	F	4323
+Clarence Valley	Employed (part-time)	M	2110
+Coffs Harbour		F	268
+Coffs Harbour		M	331
+Coffs Harbour	Employed (away from work)	F	717
+Coffs Harbour	Employed (away from work)	M	448
+Coffs Harbour	Employed (full-time)	F	6984
+Coffs Harbour	Employed (full-time)	M	10496
+Coffs Harbour	Employed (part-time)	F	8934
+Coffs Harbour	Employed (part-time)	M	4429
+Bourke - Cobar - Coonamble		F	118
+Bourke - Cobar - Coonamble		M	175
+Bourke - Cobar - Coonamble	Employed (away from work)	F	197
+Bourke - Cobar - Coonamble	Employed (away from work)	M	181
+Bourke - Cobar - Coonamble	Employed (full-time)	F	2379
+Bourke - Cobar - Coonamble	Employed (full-time)	M	4238
+Bourke - Cobar - Coonamble	Employed (part-time)	F	1616
+Bourke - Cobar - Coonamble	Employed (part-time)	M	731
+Broken Hill and Far West		F	81
+Broken Hill and Far West		M	117
+Broken Hill and Far West	Employed (away from work)	F	196
+Broken Hill and Far West	Employed (away from work)	M	153
+Broken Hill and Far West	Employed (full-time)	F	1974
+Broken Hill and Far West	Employed (full-time)	M	3039
+Broken Hill and Far West	Employed (part-time)	F	1554
+Broken Hill and Far West	Employed (part-time)	M	737
+Dubbo		F	271
+Dubbo		M	333
+Dubbo	Employed (away from work)	F	598
+Dubbo	Employed (away from work)	M	393
+Dubbo	Employed (full-time)	F	7272
+Dubbo	Employed (full-time)	M	11178
+Dubbo	Employed (part-time)	F	5991
+Dubbo	Employed (part-time)	M	2360
+Lower Hunter		F	263
+Lower Hunter		M	376
+Lower Hunter	Employed (away from work)	F	637
+Lower Hunter	Employed (away from work)	M	596
+Lower Hunter	Employed (full-time)	F	5797
+Lower Hunter	Employed (full-time)	M	14244
+Lower Hunter	Employed (part-time)	F	7495
+Lower Hunter	Employed (part-time)	M	3112
+Maitland		F	199
+Maitland		M	239
+Maitland	Employed (away from work)	F	593
+Maitland	Employed (away from work)	M	306
+Maitland	Employed (full-time)	F	5951
+Maitland	Employed (full-time)	M	9211
+Maitland	Employed (part-time)	F	7261
+Maitland	Employed (part-time)	M	2661
+Port Stephens		F	191
+Port Stephens		M	278
+Port Stephens	Employed (away from work)	F	482
+Port Stephens	Employed (away from work)	M	458
+Port Stephens	Employed (full-time)	F	4515
+Port Stephens	Employed (full-time)	M	11933
+Port Stephens	Employed (part-time)	F	5977
+Port Stephens	Employed (part-time)	M	2778
+Upper Hunter		F	125
+Upper Hunter		M	191
+Upper Hunter	Employed (away from work)	F	282
+Upper Hunter	Employed (away from work)	M	297
+Upper Hunter	Employed (full-time)	F	2948
+Upper Hunter	Employed (full-time)	M	6634
+Upper Hunter	Employed (part-time)	F	2775
+Upper Hunter	Employed (part-time)	M	1296
+Dapto - Port Kembla		F	177
+Dapto - Port Kembla		M	293
+Dapto - Port Kembla	Employed (away from work)	F	429
+Dapto - Port Kembla	Employed (away from work)	M	517
+Dapto - Port Kembla	Employed (full-time)	F	4408
+Dapto - Port Kembla	Employed (full-time)	M	13172
+Dapto - Port Kembla	Employed (part-time)	F	5532
+Dapto - Port Kembla	Employed (part-time)	M	2972
+Illawarra Catchment Reserve		M	3
+Illawarra Catchment Reserve	Employed (full-time)	F	6
+Illawarra Catchment Reserve	Employed (full-time)	M	40
+Illawarra Catchment Reserve	Employed (part-time)	F	9
+Illawarra Catchment Reserve	Employed (part-time)	M	3
+Kiama - Shellharbour		F	156
+Kiama - Shellharbour		M	210
+Kiama - Shellharbour	Employed (away from work)	F	541
+Kiama - Shellharbour	Employed (away from work)	M	294
+Kiama - Shellharbour	Employed (full-time)	F	4663
+Kiama - Shellharbour	Employed (full-time)	M	6886
+Kiama - Shellharbour	Employed (part-time)	F	7218
+Kiama - Shellharbour	Employed (part-time)	M	2837
+Wollongong		F	387
+Wollongong		M	447
+Wollongong	Employed (away from work)	F	1325
+Wollongong	Employed (away from work)	M	613
+Wollongong	Employed (full-time)	F	12869
+Wollongong	Employed (full-time)	M	15249
+Wollongong	Employed (part-time)	F	15024
+Wollongong	Employed (part-time)	M	5736
+Great Lakes		F	98
+Great Lakes		M	118
+Great Lakes	Employed (away from work)	F	231
+Great Lakes	Employed (away from work)	M	139
+Great Lakes	Employed (full-time)	F	1752
+Great Lakes	Employed (full-time)	M	2702
+Great Lakes	Employed (part-time)	F	2660
+Great Lakes	Employed (part-time)	M	1298
+Kempsey - Nambucca		F	176
+Kempsey - Nambucca		M	246
+Kempsey - Nambucca	Employed (away from work)	F	338
+Kempsey - Nambucca	Employed (away from work)	M	285
+Kempsey - Nambucca	Employed (full-time)	F	2957
+Kempsey - Nambucca	Employed (full-time)	M	4839
+Kempsey - Nambucca	Employed (part-time)	F	3932
+Kempsey - Nambucca	Employed (part-time)	M	2093
+Lord Howe Island		F	3
+Lord Howe Island		M	4
+Lord Howe Island	Employed (away from work)	F	14
+Lord Howe Island	Employed (away from work)	M	12
+Lord Howe Island	Employed (full-time)	F	43
+Lord Howe Island	Employed (full-time)	M	68
+Lord Howe Island	Employed (part-time)	F	44
+Lord Howe Island	Employed (part-time)	M	29
+Port Macquarie		F	245
+Port Macquarie		M	293
+Port Macquarie	Employed (away from work)	F	610
+Port Macquarie	Employed (away from work)	M	396
+Port Macquarie	Employed (full-time)	F	6104
+Port Macquarie	Employed (full-time)	M	9178
+Port Macquarie	Employed (part-time)	F	7370
+Port Macquarie	Employed (part-time)	M	3314
+Taree - Gloucester		F	183
+Taree - Gloucester		M	210
+Taree - Gloucester	Employed (away from work)	F	425
+Taree - Gloucester	Employed (away from work)	M	375
+Taree - Gloucester	Employed (full-time)	F	3454
+Taree - Gloucester	Employed (full-time)	M	5350
+Taree - Gloucester	Employed (part-time)	F	4575
+Taree - Gloucester	Employed (part-time)	M	2197
+Albury		F	232
+Albury		M	273
+Albury	Employed (away from work)	F	748
+Albury	Employed (away from work)	M	366
+Albury	Employed (full-time)	F	6332
+Albury	Employed (full-time)	M	9945
+Albury	Employed (part-time)	F	7493
+Albury	Employed (part-time)	M	2673
+Lower Murray		F	56
+Lower Murray		M	89
+Lower Murray	Employed (away from work)	F	111
+Lower Murray	Employed (away from work)	M	87
+Lower Murray	Employed (full-time)	F	1028
+Lower Murray	Employed (full-time)	M	2272
+Lower Murray	Employed (part-time)	F	983
+Lower Murray	Employed (part-time)	M	493
+Upper Murray exc. Albury		F	159
+Upper Murray exc. Albury		M	222
+Upper Murray exc. Albury	Employed (away from work)	F	380
+Upper Murray exc. Albury	Employed (away from work)	M	339
+Upper Murray exc. Albury	Employed (full-time)	F	3023
+Upper Murray exc. Albury	Employed (full-time)	M	6552
+Upper Murray exc. Albury	Employed (part-time)	F	3729
+Upper Murray exc. Albury	Employed (part-time)	M	1558
+Armidale		F	135
+Armidale		M	167
+Armidale	Employed (away from work)	F	348
+Armidale	Employed (away from work)	M	212
+Armidale	Employed (full-time)	F	3571
+Armidale	Employed (full-time)	M	5562
+Armidale	Employed (part-time)	F	3707
+Armidale	Employed (part-time)	M	1861
+Inverell - Tenterfield		F	177
+Inverell - Tenterfield		M	199
+Inverell - Tenterfield	Employed (away from work)	F	318
+Inverell - Tenterfield	Employed (away from work)	M	195
+Inverell - Tenterfield	Employed (full-time)	F	2887
+Inverell - Tenterfield	Employed (full-time)	M	4910
+Inverell - Tenterfield	Employed (part-time)	F	3097
+Inverell - Tenterfield	Employed (part-time)	M	1550
+Moree - Narrabri		F	130
+Moree - Narrabri		M	159
+Moree - Narrabri	Employed (away from work)	F	248
+Moree - Narrabri	Employed (away from work)	M	204
+Moree - Narrabri	Employed (full-time)	F	2583
+Moree - Narrabri	Employed (full-time)	M	4780
+Moree - Narrabri	Employed (part-time)	F	2119
+Moree - Narrabri	Employed (part-time)	M	802
+Tamworth - Gunnedah		F	320
+Tamworth - Gunnedah		M	385
+Tamworth - Gunnedah	Employed (away from work)	F	726
+Tamworth - Gunnedah	Employed (away from work)	M	481
+Tamworth - Gunnedah	Employed (full-time)	F	7956
+Tamworth - Gunnedah	Employed (full-time)	M	13531
+Tamworth - Gunnedah	Employed (part-time)	F	7363
+Tamworth - Gunnedah	Employed (part-time)	M	3008
+Lake Macquarie - East		F	285
+Lake Macquarie - East		M	321
+Lake Macquarie - East	Employed (away from work)	F	884
+Lake Macquarie - East	Employed (away from work)	M	536
+Lake Macquarie - East	Employed (full-time)	F	8698
+Lake Macquarie - East	Employed (full-time)	M	13036
+Lake Macquarie - East	Employed (part-time)	F	11542
+Lake Macquarie - East	Employed (part-time)	M	4766
+Lake Macquarie - West		F	129
+Lake Macquarie - West		M	172
+Lake Macquarie - West	Employed (away from work)	F	399
+Lake Macquarie - West	Employed (away from work)	M	276
+Lake Macquarie - West	Employed (full-time)	F	3517
+Lake Macquarie - West	Employed (full-time)	M	6325
+Lake Macquarie - West	Employed (part-time)	F	4843
+Lake Macquarie - West	Employed (part-time)	M	1932
+Newcastle		F	704
+Newcastle		M	800
+Newcastle	Employed (away from work)	F	2371
+Newcastle	Employed (away from work)	M	1315
+Newcastle	Employed (full-time)	F	23771
+Newcastle	Employed (full-time)	M	36267
+Newcastle	Employed (part-time)	F	23020
+Newcastle	Employed (part-time)	M	9684
+Richmond Valley - Coastal		F	266
+Richmond Valley - Coastal		M	339
+Richmond Valley - Coastal	Employed (away from work)	F	557
+Richmond Valley - Coastal	Employed (away from work)	M	365
+Richmond Valley - Coastal	Employed (full-time)	F	5585
+Richmond Valley - Coastal	Employed (full-time)	M	8802
+Richmond Valley - Coastal	Employed (part-time)	F	8465
+Richmond Valley - Coastal	Employed (part-time)	M	4622
+Richmond Valley - Hinterland		F	301
+Richmond Valley - Hinterland		M	318
+Richmond Valley - Hinterland	Employed (away from work)	F	571
+Richmond Valley - Hinterland	Employed (away from work)	M	381
+Richmond Valley - Hinterland	Employed (full-time)	F	6303
+Richmond Valley - Hinterland	Employed (full-time)	M	9583
+Richmond Valley - Hinterland	Employed (part-time)	F	7326
+Richmond Valley - Hinterland	Employed (part-time)	M	3844
+Tweed Valley		F	294
+Tweed Valley		M	322
+Tweed Valley	Employed (away from work)	F	592
+Tweed Valley	Employed (away from work)	M	345
+Tweed Valley	Employed (full-time)	F	5898
+Tweed Valley	Employed (full-time)	M	8591
+Tweed Valley	Employed (part-time)	F	8317
+Tweed Valley	Employed (part-time)	M	3801
+Griffith - Murrumbidgee (West)		F	212
+Griffith - Murrumbidgee (West)		M	300
+Griffith - Murrumbidgee (West)	Employed (away from work)	F	446
+Griffith - Murrumbidgee (West)	Employed (away from work)	M	352
+Griffith - Murrumbidgee (West)	Employed (full-time)	F	4712
+Griffith - Murrumbidgee (West)	Employed (full-time)	M	9088
+Griffith - Murrumbidgee (West)	Employed (part-time)	F	4410
+Griffith - Murrumbidgee (West)	Employed (part-time)	M	1674
+Tumut - Tumbarumba		F	45
+Tumut - Tumbarumba		M	108
+Tumut - Tumbarumba	Employed (away from work)	F	116
+Tumut - Tumbarumba	Employed (away from work)	M	115
+Tumut - Tumbarumba	Employed (full-time)	F	1131
+Tumut - Tumbarumba	Employed (full-time)	M	2554
+Tumut - Tumbarumba	Employed (part-time)	F	1330
+Tumut - Tumbarumba	Employed (part-time)	M	509
+Wagga Wagga		F	349
+Wagga Wagga		M	484
+Wagga Wagga	Employed (away from work)	F	884
+Wagga Wagga	Employed (away from work)	M	547
+Wagga Wagga	Employed (full-time)	F	9655
+Wagga Wagga	Employed (full-time)	M	16295
+Wagga Wagga	Employed (part-time)	F	9053
+Wagga Wagga	Employed (part-time)	M	3623
+Shoalhaven		F	327
+Shoalhaven		M	393
+Shoalhaven	Employed (away from work)	F	795
+Shoalhaven	Employed (away from work)	M	501
+Shoalhaven	Employed (full-time)	F	6713
+Shoalhaven	Employed (full-time)	M	11591
+Shoalhaven	Employed (part-time)	F	9074
+Shoalhaven	Employed (part-time)	M	4217
+Southern Highlands		F	143
+Southern Highlands		M	154
+Southern Highlands	Employed (away from work)	F	311
+Southern Highlands	Employed (away from work)	M	214
+Southern Highlands	Employed (full-time)	F	3906
+Southern Highlands	Employed (full-time)	M	6015
+Southern Highlands	Employed (part-time)	F	5047
+Southern Highlands	Employed (part-time)	M	2166
+Baulkham Hills		F	395
+Baulkham Hills		M	534
+Baulkham Hills	Employed (away from work)	F	949
+Baulkham Hills	Employed (away from work)	M	464
+Baulkham Hills	Employed (full-time)	F	13929
+Baulkham Hills	Employed (full-time)	M	20058
+Baulkham Hills	Employed (part-time)	F	13459
+Baulkham Hills	Employed (part-time)	M	5636
+Dural - Wisemans Ferry		F	74
+Dural - Wisemans Ferry		M	106
+Dural - Wisemans Ferry	Employed (away from work)	F	140
+Dural - Wisemans Ferry	Employed (away from work)	M	132
+Dural - Wisemans Ferry	Employed (full-time)	F	2005
+Dural - Wisemans Ferry	Employed (full-time)	M	3638
+Dural - Wisemans Ferry	Employed (part-time)	F	2633
+Dural - Wisemans Ferry	Employed (part-time)	M	1393
+Hawkesbury		F	32
+Hawkesbury		M	54
+Hawkesbury	Employed (away from work)	F	58
+Hawkesbury	Employed (away from work)	M	68
+Hawkesbury	Employed (full-time)	F	777
+Hawkesbury	Employed (full-time)	M	1574
+Hawkesbury	Employed (part-time)	F	1024
+Hawkesbury	Employed (part-time)	M	536
+Rouse Hill - McGraths Hill		F	100
+Rouse Hill - McGraths Hill		M	121
+Rouse Hill - McGraths Hill	Employed (away from work)	F	150
+Rouse Hill - McGraths Hill	Employed (away from work)	M	121
+Rouse Hill - McGraths Hill	Employed (full-time)	F	2097
+Rouse Hill - McGraths Hill	Employed (full-time)	M	3938
+Rouse Hill - McGraths Hill	Employed (part-time)	F	2916
+Rouse Hill - McGraths Hill	Employed (part-time)	M	1371
+Blacktown		F	416
+Blacktown		M	620
+Blacktown	Employed (away from work)	F	736
+Blacktown	Employed (away from work)	M	515
+Blacktown	Employed (full-time)	F	10935
+Blacktown	Employed (full-time)	M	19448
+Blacktown	Employed (part-time)	F	8993
+Blacktown	Employed (part-time)	M	4889
+Blacktown - North		F	124
+Blacktown - North		M	168
+Blacktown - North	Employed (away from work)	F	247
+Blacktown - North	Employed (away from work)	M	139
+Blacktown - North	Employed (full-time)	F	3179
+Blacktown - North	Employed (full-time)	M	5415
+Blacktown - North	Employed (part-time)	F	3578
+Blacktown - North	Employed (part-time)	M	1951
+Mount Druitt		F	434
+Mount Druitt		M	742
+Mount Druitt	Employed (away from work)	F	592
+Mount Druitt	Employed (away from work)	M	568
+Mount Druitt	Employed (full-time)	F	9699
+Mount Druitt	Employed (full-time)	M	21899
+Mount Druitt	Employed (part-time)	F	6706
+Mount Druitt	Employed (part-time)	M	4400
+Botany		F	462
+Botany		M	761
+Botany	Employed (away from work)	F	1080
+Botany	Employed (away from work)	M	1130
+Botany	Employed (full-time)	F	12340
+Botany	Employed (full-time)	M	28656
+Botany	Employed (part-time)	F	8106
+Botany	Employed (part-time)	M	6775
+Marrickville - Sydenham - Petersham		F	168
+Marrickville - Sydenham - Petersham		M	309
+Marrickville - Sydenham - Petersham	Employed (away from work)	F	306
+Marrickville - Sydenham - Petersham	Employed (away from work)	M	247
+Marrickville - Sydenham - Petersham	Employed (full-time)	F	5257
+Marrickville - Sydenham - Petersham	Employed (full-time)	M	10016
+Marrickville - Sydenham - Petersham	Employed (part-time)	F	4348
+Marrickville - Sydenham - Petersham	Employed (part-time)	M	3404
+Sydney Inner City		F	3650
+Sydney Inner City		M	4610
+Sydney Inner City	Employed (away from work)	F	9606
+Sydney Inner City	Employed (away from work)	M	4784
+Sydney Inner City	Employed (full-time)	F	156226
+Sydney Inner City	Employed (full-time)	M	215645
+Sydney Inner City	Employed (part-time)	F	62784
+Sydney Inner City	Employed (part-time)	M	37675
+Eastern Suburbs - North		F	415
+Eastern Suburbs - North		M	491
+Eastern Suburbs - North	Employed (away from work)	F	819
+Eastern Suburbs - North	Employed (away from work)	M	453
+Eastern Suburbs - North	Employed (full-time)	F	12635
+Eastern Suburbs - North	Employed (full-time)	M	16186
+Eastern Suburbs - North	Employed (part-time)	F	12477
+Eastern Suburbs - North	Employed (part-time)	M	6894
+Eastern Suburbs - South		F	437
+Eastern Suburbs - South		M	415
+Eastern Suburbs - South	Employed (away from work)	F	922
+Eastern Suburbs - South	Employed (away from work)	M	397
+Eastern Suburbs - South	Employed (full-time)	F	11534
+Eastern Suburbs - South	Employed (full-time)	M	12747
+Eastern Suburbs - South	Employed (part-time)	F	9751
+Eastern Suburbs - South	Employed (part-time)	M	5294
+Bankstown		F	595
+Bankstown		M	958
+Bankstown	Employed (away from work)	F	930
+Bankstown	Employed (away from work)	M	664
+Bankstown	Employed (full-time)	F	13068
+Bankstown	Employed (full-time)	M	25155
+Bankstown	Employed (part-time)	F	11159
+Bankstown	Employed (part-time)	M	7139
+Canterbury		F	308
+Canterbury		M	471
+Canterbury	Employed (away from work)	F	412
+Canterbury	Employed (away from work)	M	325
+Canterbury	Employed (full-time)	F	6180
+Canterbury	Employed (full-time)	M	10682
+Canterbury	Employed (part-time)	F	6126
+Canterbury	Employed (part-time)	M	3961
+Hurstville		F	268
+Hurstville		M	332
+Hurstville	Employed (away from work)	F	520
+Hurstville	Employed (away from work)	M	277
+Hurstville	Employed (full-time)	F	5990
+Hurstville	Employed (full-time)	M	8740
+Hurstville	Employed (part-time)	F	7514
+Hurstville	Employed (part-time)	M	3782
+Kogarah - Rockdale		F	292
+Kogarah - Rockdale		M	396
+Kogarah - Rockdale	Employed (away from work)	F	680
+Kogarah - Rockdale	Employed (away from work)	M	323
+Kogarah - Rockdale	Employed (full-time)	F	8381
+Kogarah - Rockdale	Employed (full-time)	M	11272
+Kogarah - Rockdale	Employed (part-time)	F	7876
+Kogarah - Rockdale	Employed (part-time)	M	3848
+Canada Bay		F	294
+Canada Bay		M	413
+Canada Bay	Employed (away from work)	F	632
+Canada Bay	Employed (away from work)	M	332
+Canada Bay	Employed (full-time)	F	8986
+Canada Bay	Employed (full-time)	M	12649
+Canada Bay	Employed (part-time)	F	6539
+Canada Bay	Employed (part-time)	M	3610
+Leichhardt		F	167
+Leichhardt		M	212
+Leichhardt	Employed (away from work)	F	358
+Leichhardt	Employed (away from work)	M	220
+Leichhardt	Employed (full-time)	F	5069
+Leichhardt	Employed (full-time)	M	7776
+Leichhardt	Employed (part-time)	F	4819
+Leichhardt	Employed (part-time)	M	2535
+Strathfield - Burwood - Ashfield		F	435
+Strathfield - Burwood - Ashfield		M	656
+Strathfield - Burwood - Ashfield	Employed (away from work)	F	911
+Strathfield - Burwood - Ashfield	Employed (away from work)	M	539
+Strathfield - Burwood - Ashfield	Employed (full-time)	F	13045
+Strathfield - Burwood - Ashfield	Employed (full-time)	M	19287
+Strathfield - Burwood - Ashfield	Employed (part-time)	F	11271
+Strathfield - Burwood - Ashfield	Employed (part-time)	M	6487
+Chatswood - Lane Cove		F	595
+Chatswood - Lane Cove		M	709
+Chatswood - Lane Cove	Employed (away from work)	F	1409
+Chatswood - Lane Cove	Employed (away from work)	M	713
+Chatswood - Lane Cove	Employed (full-time)	F	21606
+Chatswood - Lane Cove	Employed (full-time)	M	32116
+Chatswood - Lane Cove	Employed (part-time)	F	15012
+Chatswood - Lane Cove	Employed (part-time)	M	7488
+Hornsby		F	189
+Hornsby		M	234
+Hornsby	Employed (away from work)	F	505
+Hornsby	Employed (away from work)	M	335
+Hornsby	Employed (full-time)	F	5816
+Hornsby	Employed (full-time)	M	9478
+Hornsby	Employed (part-time)	F	6894
+Hornsby	Employed (part-time)	M	3526
+Ku-ring-gai		F	232
+Ku-ring-gai		M	236
+Ku-ring-gai	Employed (away from work)	F	623
+Ku-ring-gai	Employed (away from work)	M	262
+Ku-ring-gai	Employed (full-time)	F	7274
+Ku-ring-gai	Employed (full-time)	M	8151
+Ku-ring-gai	Employed (part-time)	F	9401
+Ku-ring-gai	Employed (part-time)	M	4100
+North Sydney - Mosman		F	536
+North Sydney - Mosman		M	690
+North Sydney - Mosman	Employed (away from work)	F	1331
+North Sydney - Mosman	Employed (away from work)	M	653
+North Sydney - Mosman	Employed (full-time)	F	21919
+North Sydney - Mosman	Employed (full-time)	M	33519
+North Sydney - Mosman	Employed (part-time)	F	11693
+North Sydney - Mosman	Employed (part-time)	M	6396
+Manly		F	128
+Manly		M	120
+Manly	Employed (away from work)	F	269
+Manly	Employed (away from work)	M	137
+Manly	Employed (full-time)	F	3050
+Manly	Employed (full-time)	M	4022
+Manly	Employed (part-time)	F	4009
+Manly	Employed (part-time)	M	2010
+Pittwater		F	169
+Pittwater		M	190
+Pittwater	Employed (away from work)	F	353
+Pittwater	Employed (away from work)	M	253
+Pittwater	Employed (full-time)	F	4301
+Pittwater	Employed (full-time)	M	6989
+Pittwater	Employed (part-time)	F	6075
+Pittwater	Employed (part-time)	M	2823
+Warringah		F	361
+Warringah		M	465
+Warringah	Employed (away from work)	F	796
+Warringah	Employed (away from work)	M	548
+Warringah	Employed (full-time)	F	11704
+Warringah	Employed (full-time)	M	19972
+Warringah	Employed (part-time)	F	13048
+Warringah	Employed (part-time)	M	6445
+Camden		F	170
+Camden		M	239
+Camden	Employed (away from work)	F	347
+Camden	Employed (away from work)	M	212
+Camden	Employed (full-time)	F	4146
+Camden	Employed (full-time)	M	8191
+Camden	Employed (part-time)	F	5023
+Camden	Employed (part-time)	M	2036
+Campbelltown (NSW)		F	452
+Campbelltown (NSW)		M	641
+Campbelltown (NSW)	Employed (away from work)	F	912
+Campbelltown (NSW)	Employed (away from work)	M	545
+Campbelltown (NSW)	Employed (full-time)	F	11930
+Campbelltown (NSW)	Employed (full-time)	M	17997
+Campbelltown (NSW)	Employed (part-time)	F	10876
+Campbelltown (NSW)	Employed (part-time)	M	4867
+Wollondilly		F	98
+Wollondilly		M	120
+Wollondilly	Employed (away from work)	F	164
+Wollondilly	Employed (away from work)	M	172
+Wollondilly	Employed (full-time)	F	1822
+Wollondilly	Employed (full-time)	M	4569
+Wollondilly	Employed (part-time)	F	2166
+Wollondilly	Employed (part-time)	M	957
+Blue Mountains		F	130
+Blue Mountains		M	152
+Blue Mountains	Employed (away from work)	F	377
+Blue Mountains	Employed (away from work)	M	230
+Blue Mountains	Employed (full-time)	F	3842
+Blue Mountains	Employed (full-time)	M	4842
+Blue Mountains	Employed (part-time)	F	6058
+Blue Mountains	Employed (part-time)	M	2733
+Blue Mountains - South	Employed (full-time)	F	3
+Blue Mountains - South	Employed (part-time)	F	4
+Blue Mountains - South	Employed (part-time)	M	3
+Penrith		F	420
+Penrith		M	475
+Penrith	Employed (away from work)	F	1056
+Penrith	Employed (away from work)	M	505
+Penrith	Employed (full-time)	F	12342
+Penrith	Employed (full-time)	M	16670
+Penrith	Employed (part-time)	F	12194
+Penrith	Employed (part-time)	M	4899
+Richmond - Windsor		F	150
+Richmond - Windsor		M	198
+Richmond - Windsor	Employed (away from work)	F	298
+Richmond - Windsor	Employed (away from work)	M	198
+Richmond - Windsor	Employed (full-time)	F	3886
+Richmond - Windsor	Employed (full-time)	M	6749
+Richmond - Windsor	Employed (part-time)	F	4045
+Richmond - Windsor	Employed (part-time)	M	1543
+St Marys		F	180
+St Marys		M	261
+St Marys	Employed (away from work)	F	216
+St Marys	Employed (away from work)	M	238
+St Marys	Employed (full-time)	F	3701
+St Marys	Employed (full-time)	M	8878
+St Marys	Employed (part-time)	F	2938
+St Marys	Employed (part-time)	M	1848
+Auburn		F	433
+Auburn		M	807
+Auburn	Employed (away from work)	F	718
+Auburn	Employed (away from work)	M	637
+Auburn	Employed (full-time)	F	12581
+Auburn	Employed (full-time)	M	27219
+Auburn	Employed (part-time)	F	6729
+Auburn	Employed (part-time)	M	5229
+Carlingford		F	153
+Carlingford		M	255
+Carlingford	Employed (away from work)	F	300
+Carlingford	Employed (away from work)	M	191
+Carlingford	Employed (full-time)	F	4573
+Carlingford	Employed (full-time)	M	8564
+Carlingford	Employed (part-time)	F	3482
+Carlingford	Employed (part-time)	M	2283
+Merrylands - Guildford		F	453
+Merrylands - Guildford		M	798
+Merrylands - Guildford	Employed (away from work)	F	578
+Merrylands - Guildford	Employed (away from work)	M	549
+Merrylands - Guildford	Employed (full-time)	F	10648
+Merrylands - Guildford	Employed (full-time)	M	24259
+Merrylands - Guildford	Employed (part-time)	F	7525
+Merrylands - Guildford	Employed (part-time)	M	5587
+Parramatta		F	856
+Parramatta		M	1143
+Parramatta	Employed (away from work)	F	2306
+Parramatta	Employed (away from work)	M	911
+Parramatta	Employed (full-time)	F	29614
+Parramatta	Employed (full-time)	M	34026
+Parramatta	Employed (part-time)	F	17591
+Parramatta	Employed (part-time)	M	7361
+Pennant Hills - Epping		F	84
+Pennant Hills - Epping		M	102
+Pennant Hills - Epping	Employed (away from work)	F	204
+Pennant Hills - Epping	Employed (away from work)	M	87
+Pennant Hills - Epping	Employed (full-time)	F	2536
+Pennant Hills - Epping	Employed (full-time)	M	3237
+Pennant Hills - Epping	Employed (part-time)	F	2917
+Pennant Hills - Epping	Employed (part-time)	M	1402
+Ryde - Hunters Hill		F	635
+Ryde - Hunters Hill		M	913
+Ryde - Hunters Hill	Employed (away from work)	F	1525
+Ryde - Hunters Hill	Employed (away from work)	M	835
+Ryde - Hunters Hill	Employed (full-time)	F	24674
+Ryde - Hunters Hill	Employed (full-time)	M	37757
+Ryde - Hunters Hill	Employed (part-time)	F	14986
+Ryde - Hunters Hill	Employed (part-time)	M	7727
+Bringelly - Green Valley		F	156
+Bringelly - Green Valley		M	249
+Bringelly - Green Valley	Employed (away from work)	F	289
+Bringelly - Green Valley	Employed (away from work)	M	177
+Bringelly - Green Valley	Employed (full-time)	F	3790
+Bringelly - Green Valley	Employed (full-time)	M	5637
+Bringelly - Green Valley	Employed (part-time)	F	3782
+Bringelly - Green Valley	Employed (part-time)	M	1910
+Fairfield		F	574
+Fairfield		M	897
+Fairfield	Employed (away from work)	F	725
+Fairfield	Employed (away from work)	M	496
+Fairfield	Employed (full-time)	F	11484
+Fairfield	Employed (full-time)	M	21849
+Fairfield	Employed (part-time)	F	10389
+Fairfield	Employed (part-time)	M	6201
+Liverpool		F	558
+Liverpool		M	808
+Liverpool	Employed (away from work)	F	964
+Liverpool	Employed (away from work)	M	608
+Liverpool	Employed (full-time)	F	14062
+Liverpool	Employed (full-time)	M	23023
+Liverpool	Employed (part-time)	F	10392
+Liverpool	Employed (part-time)	M	5472
+Cronulla - Miranda - Caringbah		F	309
+Cronulla - Miranda - Caringbah		M	381
+Cronulla - Miranda - Caringbah	Employed (away from work)	F	733
+Cronulla - Miranda - Caringbah	Employed (away from work)	M	398
+Cronulla - Miranda - Caringbah	Employed (full-time)	F	8517
+Cronulla - Miranda - Caringbah	Employed (full-time)	M	13170
+Cronulla - Miranda - Caringbah	Employed (part-time)	F	11645
+Cronulla - Miranda - Caringbah	Employed (part-time)	M	4930
+Sutherland - Menai - Heathcote		F	199
+Sutherland - Menai - Heathcote		M	222
+Sutherland - Menai - Heathcote	Employed (away from work)	F	483
+Sutherland - Menai - Heathcote	Employed (away from work)	M	291
+Sutherland - Menai - Heathcote	Employed (full-time)	F	5376
+Sutherland - Menai - Heathcote	Employed (full-time)	M	8844
+Sutherland - Menai - Heathcote	Employed (part-time)	F	7630
+Sutherland - Menai - Heathcote	Employed (part-time)	M	3264
+Migratory - Offshore - Shipping (NSW)	Employed (away from work)	F	3
+Migratory - Offshore - Shipping (NSW)	Employed (away from work)	M	13
+Migratory - Offshore - Shipping (NSW)	Employed (full-time)	F	3
+Migratory - Offshore - Shipping (NSW)	Employed (full-time)	M	49
+Migratory - Offshore - Shipping (NSW)	Employed (part-time)	F	3
+Migratory - Offshore - Shipping (NSW)	Employed (part-time)	M	12
+No usual address (NSW)		F	1126
+No usual address (NSW)		M	2674
+No usual address (NSW)	Employed (away from work)	F	2149
+No usual address (NSW)	Employed (away from work)	M	3931
+No usual address (NSW)	Employed (full-time)	F	9445
+No usual address (NSW)	Employed (full-time)	M	72177
+No usual address (NSW)	Employed (part-time)	F	21410
+No usual address (NSW)	Employed (part-time)	M	30461
+Ballarat		F	386
+Ballarat		M	446
+Ballarat	Employed (away from work)	F	1212
+Ballarat	Employed (away from work)	M	631
+Ballarat	Employed (full-time)	F	9628
+Ballarat	Employed (full-time)	M	15912
+Ballarat	Employed (part-time)	F	12583
+Ballarat	Employed (part-time)	M	4937
+Creswick - Daylesford - Ballan		F	80
+Creswick - Daylesford - Ballan		M	101
+Creswick - Daylesford - Ballan	Employed (away from work)	F	197
+Creswick - Daylesford - Ballan	Employed (away from work)	M	133
+Creswick - Daylesford - Ballan	Employed (full-time)	F	1229
+Creswick - Daylesford - Ballan	Employed (full-time)	M	2357
+Creswick - Daylesford - Ballan	Employed (part-time)	F	2188
+Creswick - Daylesford - Ballan	Employed (part-time)	M	1029
+Maryborough - Pyrenees		F	71
+Maryborough - Pyrenees		M	92
+Maryborough - Pyrenees	Employed (away from work)	F	172
+Maryborough - Pyrenees	Employed (away from work)	M	123
+Maryborough - Pyrenees	Employed (full-time)	F	1191
+Maryborough - Pyrenees	Employed (full-time)	M	2487
+Maryborough - Pyrenees	Employed (part-time)	F	1826
+Maryborough - Pyrenees	Employed (part-time)	M	865
+Bendigo		F	307
+Bendigo		M	355
+Bendigo	Employed (away from work)	F	1117
+Bendigo	Employed (away from work)	M	629
+Bendigo	Employed (full-time)	F	8728
+Bendigo	Employed (full-time)	M	13913
+Bendigo	Employed (part-time)	F	11444
+Bendigo	Employed (part-time)	M	4517
+Heathcote - Castlemaine - Kyneton		F	137
+Heathcote - Castlemaine - Kyneton		M	155
+Heathcote - Castlemaine - Kyneton	Employed (away from work)	F	373
+Heathcote - Castlemaine - Kyneton	Employed (away from work)	M	242
+Heathcote - Castlemaine - Kyneton	Employed (full-time)	F	2826
+Heathcote - Castlemaine - Kyneton	Employed (full-time)	M	5526
+Heathcote - Castlemaine - Kyneton	Employed (part-time)	F	4117
+Heathcote - Castlemaine - Kyneton	Employed (part-time)	M	2095
+Loddon - Elmore		F	50
+Loddon - Elmore		M	67
+Loddon - Elmore	Employed (away from work)	F	71
+Loddon - Elmore	Employed (away from work)	M	98
+Loddon - Elmore	Employed (full-time)	F	588
+Loddon - Elmore	Employed (full-time)	M	1917
+Loddon - Elmore	Employed (part-time)	F	737
+Loddon - Elmore	Employed (part-time)	M	388
+Barwon - West		F	41
+Barwon - West		M	52
+Barwon - West	Employed (away from work)	F	101
+Barwon - West	Employed (away from work)	M	51
+Barwon - West	Employed (full-time)	F	622
+Barwon - West	Employed (full-time)	M	1414
+Barwon - West	Employed (part-time)	F	1071
+Barwon - West	Employed (part-time)	M	507
+Geelong		F	681
+Geelong		M	805
+Geelong	Employed (away from work)	F	2150
+Geelong	Employed (away from work)	M	1127
+Geelong	Employed (full-time)	F	18697
+Geelong	Employed (full-time)	M	30266
+Geelong	Employed (part-time)	F	23464
+Geelong	Employed (part-time)	M	9277
+Surf Coast - Bellarine Peninsula		F	151
+Surf Coast - Bellarine Peninsula		M	169
+Surf Coast - Bellarine Peninsula	Employed (away from work)	F	411
+Surf Coast - Bellarine Peninsula	Employed (away from work)	M	279
+Surf Coast - Bellarine Peninsula	Employed (full-time)	F	2872
+Surf Coast - Bellarine Peninsula	Employed (full-time)	M	5006
+Surf Coast - Bellarine Peninsula	Employed (part-time)	F	5664
+Surf Coast - Bellarine Peninsula	Employed (part-time)	M	2596
+Upper Goulburn Valley		F	191
+Upper Goulburn Valley		M	258
+Upper Goulburn Valley	Employed (away from work)	F	447
+Upper Goulburn Valley	Employed (away from work)	M	370
+Upper Goulburn Valley	Employed (full-time)	F	3949
+Upper Goulburn Valley	Employed (full-time)	M	7162
+Upper Goulburn Valley	Employed (part-time)	F	5027
+Upper Goulburn Valley	Employed (part-time)	M	2196
+Wangaratta - Benalla		F	185
+Wangaratta - Benalla		M	197
+Wangaratta - Benalla	Employed (away from work)	F	536
+Wangaratta - Benalla	Employed (away from work)	M	345
+Wangaratta - Benalla	Employed (full-time)	F	3903
+Wangaratta - Benalla	Employed (full-time)	M	6907
+Wangaratta - Benalla	Employed (part-time)	F	4998
+Wangaratta - Benalla	Employed (part-time)	M	1925
+Wodonga - Alpine		F	249
+Wodonga - Alpine		M	327
+Wodonga - Alpine	Employed (away from work)	F	658
+Wodonga - Alpine	Employed (away from work)	M	533
+Wodonga - Alpine	Employed (full-time)	F	6090
+Wodonga - Alpine	Employed (full-time)	M	12109
+Wodonga - Alpine	Employed (part-time)	F	6828
+Wodonga - Alpine	Employed (part-time)	M	3120
+Baw Baw		F	160
+Baw Baw		M	187
+Baw Baw	Employed (away from work)	F	410
+Baw Baw	Employed (away from work)	M	222
+Baw Baw	Employed (full-time)	F	3146
+Baw Baw	Employed (full-time)	M	5343
+Baw Baw	Employed (part-time)	F	4579
+Baw Baw	Employed (part-time)	M	1823
+Gippsland - East		F	169
+Gippsland - East		M	196
+Gippsland - East	Employed (away from work)	F	479
+Gippsland - East	Employed (away from work)	M	324
+Gippsland - East	Employed (full-time)	F	3014
+Gippsland - East	Employed (full-time)	M	5164
+Gippsland - East	Employed (part-time)	F	4403
+Gippsland - East	Employed (part-time)	M	1983
+Gippsland - South West		F	213
+Gippsland - South West		M	259
+Gippsland - South West	Employed (away from work)	F	626
+Gippsland - South West	Employed (away from work)	M	434
+Gippsland - South West	Employed (full-time)	F	3699
+Gippsland - South West	Employed (full-time)	M	6984
+Gippsland - South West	Employed (part-time)	F	6102
+Gippsland - South West	Employed (part-time)	M	2694
+Latrobe Valley		F	270
+Latrobe Valley		M	330
+Latrobe Valley	Employed (away from work)	F	805
+Latrobe Valley	Employed (away from work)	M	594
+Latrobe Valley	Employed (full-time)	F	5980
+Latrobe Valley	Employed (full-time)	M	11558
+Latrobe Valley	Employed (part-time)	F	8171
+Latrobe Valley	Employed (part-time)	M	2859
+Wellington		F	168
+Wellington		M	200
+Wellington	Employed (away from work)	F	399
+Wellington	Employed (away from work)	M	346
+Wellington	Employed (full-time)	F	3241
+Wellington	Employed (full-time)	M	6893
+Wellington	Employed (part-time)	F	4173
+Wellington	Employed (part-time)	M	1609
+Brunswick - Coburg		F	229
+Brunswick - Coburg		M	276
+Brunswick - Coburg	Employed (away from work)	F	421
+Brunswick - Coburg	Employed (away from work)	M	242
+Brunswick - Coburg	Employed (full-time)	F	5243
+Brunswick - Coburg	Employed (full-time)	M	7743
+Brunswick - Coburg	Employed (part-time)	F	6356
+Brunswick - Coburg	Employed (part-time)	M	3673
+Darebin - South		F	127
+Darebin - South		M	169
+Darebin - South	Employed (away from work)	F	233
+Darebin - South	Employed (away from work)	M	133
+Darebin - South	Employed (full-time)	F	3004
+Darebin - South	Employed (full-time)	M	4942
+Darebin - South	Employed (part-time)	F	3721
+Darebin - South	Employed (part-time)	M	1926
+Essendon		F	180
+Essendon		M	192
+Essendon	Employed (away from work)	F	398
+Essendon	Employed (away from work)	M	215
+Essendon	Employed (full-time)	F	4849
+Essendon	Employed (full-time)	M	6104
+Essendon	Employed (part-time)	F	5912
+Essendon	Employed (part-time)	M	2602
+Melbourne City		F	3085
+Melbourne City		M	3870
+Melbourne City	Employed (away from work)	F	9526
+Melbourne City	Employed (away from work)	M	4676
+Melbourne City	Employed (full-time)	F	125767
+Melbourne City	Employed (full-time)	M	180112
+Melbourne City	Employed (part-time)	F	62565
+Melbourne City	Employed (part-time)	M	32851
+Port Phillip		F	583
+Port Phillip		M	944
+Port Phillip	Employed (away from work)	F	1345
+Port Phillip	Employed (away from work)	M	1019
+Port Phillip	Employed (full-time)	F	22713
+Port Phillip	Employed (full-time)	M	42309
+Port Phillip	Employed (part-time)	F	12942
+Port Phillip	Employed (part-time)	M	8220
+Stonnington - West		F	278
+Stonnington - West		M	288
+Stonnington - West	Employed (away from work)	F	553
+Stonnington - West	Employed (away from work)	M	293
+Stonnington - West	Employed (full-time)	F	8843
+Stonnington - West	Employed (full-time)	M	11100
+Stonnington - West	Employed (part-time)	F	8098
+Stonnington - West	Employed (part-time)	M	4196
+Yarra		F	598
+Yarra		M	754
+Yarra	Employed (away from work)	F	1575
+Yarra	Employed (away from work)	M	727
+Yarra	Employed (full-time)	F	22851
+Yarra	Employed (full-time)	M	30840
+Yarra	Employed (part-time)	F	15504
+Yarra	Employed (part-time)	M	8539
+Boroondara		F	557
+Boroondara		M	631
+Boroondara	Employed (away from work)	F	1385
+Boroondara	Employed (away from work)	M	666
+Boroondara	Employed (full-time)	F	18215
+Boroondara	Employed (full-time)	M	23265
+Boroondara	Employed (part-time)	F	18255
+Boroondara	Employed (part-time)	M	8406
+Manningham - West		F	198
+Manningham - West		M	240
+Manningham - West	Employed (away from work)	F	460
+Manningham - West	Employed (away from work)	M	233
+Manningham - West	Employed (full-time)	F	4614
+Manningham - West	Employed (full-time)	M	6943
+Manningham - West	Employed (part-time)	F	7932
+Manningham - West	Employed (part-time)	M	3710
+Whitehorse - West		F	332
+Whitehorse - West		M	402
+Whitehorse - West	Employed (away from work)	F	1071
+Whitehorse - West	Employed (away from work)	M	459
+Whitehorse - West	Employed (full-time)	F	12007
+Whitehorse - West	Employed (full-time)	M	14968
+Whitehorse - West	Employed (part-time)	F	12182
+Whitehorse - West	Employed (part-time)	M	5193
+Bayside		F	227
+Bayside		M	263
+Bayside	Employed (away from work)	F	561
+Bayside	Employed (away from work)	M	267
+Bayside	Employed (full-time)	F	6360
+Bayside	Employed (full-time)	M	9030
+Bayside	Employed (part-time)	F	8825
+Bayside	Employed (part-time)	M	4011
+Glen Eira		F	302
+Glen Eira		M	332
+Glen Eira	Employed (away from work)	F	756
+Glen Eira	Employed (away from work)	M	320
+Glen Eira	Employed (full-time)	F	8914
+Glen Eira	Employed (full-time)	M	11301
+Glen Eira	Employed (part-time)	F	11380
+Glen Eira	Employed (part-time)	M	5301
+Kingston		F	491
+Kingston		M	636
+Kingston	Employed (away from work)	F	932
+Kingston	Employed (away from work)	M	700
+Kingston	Employed (full-time)	F	12807
+Kingston	Employed (full-time)	M	26628
+Kingston	Employed (part-time)	F	13709
+Kingston	Employed (part-time)	M	7208
+Stonnington - East		F	186
+Stonnington - East		M	197
+Stonnington - East	Employed (away from work)	F	476
+Stonnington - East	Employed (away from work)	M	169
+Stonnington - East	Employed (full-time)	F	4997
+Stonnington - East	Employed (full-time)	M	5558
+Stonnington - East	Employed (part-time)	F	7077
+Stonnington - East	Employed (part-time)	M	2640
+Banyule		F	328
+Banyule		M	355
+Banyule	Employed (away from work)	F	1044
+Banyule	Employed (away from work)	M	405
+Banyule	Employed (full-time)	F	9417
+Banyule	Employed (full-time)	M	12080
+Banyule	Employed (part-time)	F	12276
+Banyule	Employed (part-time)	M	4439
+Darebin - North		F	324
+Darebin - North		M	395
+Darebin - North	Employed (away from work)	F	708
+Darebin - North	Employed (away from work)	M	332
+Darebin - North	Employed (full-time)	F	7473
+Darebin - North	Employed (full-time)	M	11612
+Darebin - North	Employed (part-time)	F	8444
+Darebin - North	Employed (part-time)	M	4129
+Nillumbik - Kinglake		F	107
+Nillumbik - Kinglake		M	148
+Nillumbik - Kinglake	Employed (away from work)	F	251
+Nillumbik - Kinglake	Employed (away from work)	M	171
+Nillumbik - Kinglake	Employed (full-time)	F	2384
+Nillumbik - Kinglake	Employed (full-time)	M	4218
+Nillumbik - Kinglake	Employed (part-time)	F	4660
+Nillumbik - Kinglake	Employed (part-time)	M	2069
+Whittlesea - Wallan		F	500
+Whittlesea - Wallan		M	719
+Whittlesea - Wallan	Employed (away from work)	F	1102
+Whittlesea - Wallan	Employed (away from work)	M	599
+Whittlesea - Wallan	Employed (full-time)	F	11507
+Whittlesea - Wallan	Employed (full-time)	M	20523
+Whittlesea - Wallan	Employed (part-time)	F	13960
+Whittlesea - Wallan	Employed (part-time)	M	6508
+Keilor		F	241
+Keilor		M	478
+Keilor	Employed (away from work)	F	454
+Keilor	Employed (away from work)	M	421
+Keilor	Employed (full-time)	F	6356
+Keilor	Employed (full-time)	M	15658
+Keilor	Employed (part-time)	F	5978
+Keilor	Employed (part-time)	M	3448
+Macedon Ranges		F	62
+Macedon Ranges		M	67
+Macedon Ranges	Employed (away from work)	F	154
+Macedon Ranges	Employed (away from work)	M	105
+Macedon Ranges	Employed (full-time)	F	1284
+Macedon Ranges	Employed (full-time)	M	2078
+Macedon Ranges	Employed (part-time)	F	2225
+Macedon Ranges	Employed (part-time)	M	853
+Moreland - North		F	159
+Moreland - North		M	228
+Moreland - North	Employed (away from work)	F	237
+Moreland - North	Employed (away from work)	M	181
+Moreland - North	Employed (full-time)	F	2971
+Moreland - North	Employed (full-time)	M	5377
+Moreland - North	Employed (part-time)	F	3465
+Moreland - North	Employed (part-time)	M	1969
+Sunbury		F	75
+Sunbury		M	60
+Sunbury	Employed (away from work)	F	178
+Sunbury	Employed (away from work)	M	72
+Sunbury	Employed (full-time)	F	1652
+Sunbury	Employed (full-time)	M	2132
+Sunbury	Employed (part-time)	F	2664
+Sunbury	Employed (part-time)	M	986
+Tullamarine - Broadmeadows		F	650
+Tullamarine - Broadmeadows		M	1121
+Tullamarine - Broadmeadows	Employed (away from work)	F	1230
+Tullamarine - Broadmeadows	Employed (away from work)	M	1079
+Tullamarine - Broadmeadows	Employed (full-time)	F	13950
+Tullamarine - Broadmeadows	Employed (full-time)	M	36776
+Tullamarine - Broadmeadows	Employed (part-time)	F	12625
+Tullamarine - Broadmeadows	Employed (part-time)	M	8740
+Knox		F	465
+Knox		M	613
+Knox	Employed (away from work)	F	1146
+Knox	Employed (away from work)	M	739
+Knox	Employed (full-time)	F	13387
+Knox	Employed (full-time)	M	25727
+Knox	Employed (part-time)	F	15235
+Knox	Employed (part-time)	M	6908
+Manningham - East		F	36
+Manningham - East		M	44
+Manningham - East	Employed (away from work)	F	98
+Manningham - East	Employed (away from work)	M	54
+Manningham - East	Employed (full-time)	F	805
+Manningham - East	Employed (full-time)	M	1336
+Manningham - East	Employed (part-time)	F	1564
+Manningham - East	Employed (part-time)	M	672
+Maroondah		F	308
+Maroondah		M	383
+Maroondah	Employed (away from work)	F	787
+Maroondah	Employed (away from work)	M	440
+Maroondah	Employed (full-time)	F	8210
+Maroondah	Employed (full-time)	M	15528
+Maroondah	Employed (part-time)	F	11702
+Maroondah	Employed (part-time)	M	4867
+Whitehorse - East		F	192
+Whitehorse - East		M	217
+Whitehorse - East	Employed (away from work)	F	363
+Whitehorse - East	Employed (away from work)	M	252
+Whitehorse - East	Employed (full-time)	F	4463
+Whitehorse - East	Employed (full-time)	M	8158
+Whitehorse - East	Employed (part-time)	F	6026
+Whitehorse - East	Employed (part-time)	M	2959
+Yarra Ranges		F	339
+Yarra Ranges		M	386
+Yarra Ranges	Employed (away from work)	F	866
+Yarra Ranges	Employed (away from work)	M	580
+Yarra Ranges	Employed (full-time)	F	7137
+Yarra Ranges	Employed (full-time)	M	13160
+Yarra Ranges	Employed (part-time)	F	12014
+Yarra Ranges	Employed (part-time)	M	4965
+Cardinia		F	216
+Cardinia		M	292
+Cardinia	Employed (away from work)	F	435
+Cardinia	Employed (away from work)	M	261
+Cardinia	Employed (full-time)	F	4526
+Cardinia	Employed (full-time)	M	8143
+Cardinia	Employed (part-time)	F	6628
+Cardinia	Employed (part-time)	M	2661
+Casey - North		F	321
+Casey - North		M	467
+Casey - North	Employed (away from work)	F	800
+Casey - North	Employed (away from work)	M	393
+Casey - North	Employed (full-time)	F	8253
+Casey - North	Employed (full-time)	M	13292
+Casey - North	Employed (part-time)	F	11335
+Casey - North	Employed (part-time)	M	4442
+Casey - South		F	239
+Casey - South		M	286
+Casey - South	Employed (away from work)	F	494
+Casey - South	Employed (away from work)	M	254
+Casey - South	Employed (full-time)	F	5521
+Casey - South	Employed (full-time)	M	7666
+Casey - South	Employed (part-time)	F	7261
+Casey - South	Employed (part-time)	M	3219
+Dandenong		F	857
+Dandenong		M	1386
+Dandenong	Employed (away from work)	F	1483
+Dandenong	Employed (away from work)	M	1203
+Dandenong	Employed (full-time)	F	22044
+Dandenong	Employed (full-time)	M	52979
+Dandenong	Employed (part-time)	F	16656
+Dandenong	Employed (part-time)	M	10801
+Monash		F	799
+Monash		M	1071
+Monash	Employed (away from work)	F	1948
+Monash	Employed (away from work)	M	1056
+Monash	Employed (full-time)	F	24742
+Monash	Employed (full-time)	M	42732
+Monash	Employed (part-time)	F	21212
+Monash	Employed (part-time)	M	10790
+Brimbank		F	575
+Brimbank		M	819
+Brimbank	Employed (away from work)	F	902
+Brimbank	Employed (away from work)	M	629
+Brimbank	Employed (full-time)	F	11205
+Brimbank	Employed (full-time)	M	22166
+Brimbank	Employed (part-time)	F	11703
+Brimbank	Employed (part-time)	M	6641
+Hobsons Bay		F	238
+Hobsons Bay		M	439
+Hobsons Bay	Employed (away from work)	F	427
+Hobsons Bay	Employed (away from work)	M	490
+Hobsons Bay	Employed (full-time)	F	5869
+Hobsons Bay	Employed (full-time)	M	16371
+Hobsons Bay	Employed (part-time)	F	5945
+Hobsons Bay	Employed (part-time)	M	3475
+Maribyrnong		F	360
+Maribyrnong		M	437
+Maribyrnong	Employed (away from work)	F	736
+Maribyrnong	Employed (away from work)	M	399
+Maribyrnong	Employed (full-time)	F	8641
+Maribyrnong	Employed (full-time)	M	12765
+Maribyrnong	Employed (part-time)	F	9274
+Maribyrnong	Employed (part-time)	M	4651
+Melton - Bacchus Marsh		F	250
+Melton - Bacchus Marsh		M	391
+Melton - Bacchus Marsh	Employed (away from work)	F	586
+Melton - Bacchus Marsh	Employed (away from work)	M	337
+Melton - Bacchus Marsh	Employed (full-time)	F	6368
+Melton - Bacchus Marsh	Employed (full-time)	M	10128
+Melton - Bacchus Marsh	Employed (part-time)	F	8136
+Melton - Bacchus Marsh	Employed (part-time)	M	3472
+Wyndham		F	546
+Wyndham		M	874
+Wyndham	Employed (away from work)	F	1019
+Wyndham	Employed (away from work)	M	758
+Wyndham	Employed (full-time)	F	13274
+Wyndham	Employed (full-time)	M	26592
+Wyndham	Employed (part-time)	F	13379
+Wyndham	Employed (part-time)	M	7200
+Frankston		F	363
+Frankston		M	449
+Frankston	Employed (away from work)	F	1022
+Frankston	Employed (away from work)	M	444
+Frankston	Employed (full-time)	F	9261
+Frankston	Employed (full-time)	M	14178
+Frankston	Employed (part-time)	F	12507
+Frankston	Employed (part-time)	M	4690
+Mornington Peninsula		F	493
+Mornington Peninsula		M	474
+Mornington Peninsula	Employed (away from work)	F	1050
+Mornington Peninsula	Employed (away from work)	M	682
+Mornington Peninsula	Employed (full-time)	F	9473
+Mornington Peninsula	Employed (full-time)	M	15883
+Mornington Peninsula	Employed (part-time)	F	15218
+Mornington Peninsula	Employed (part-time)	M	6201
+Grampians		F	225
+Grampians		M	321
+Grampians	Employed (away from work)	F	659
+Grampians	Employed (away from work)	M	442
+Grampians	Employed (full-time)	F	4891
+Grampians	Employed (full-time)	M	9613
+Grampians	Employed (part-time)	F	6110
+Grampians	Employed (part-time)	M	2607
+Mildura		F	209
+Mildura		M	285
+Mildura	Employed (away from work)	F	503
+Mildura	Employed (away from work)	M	298
+Mildura	Employed (full-time)	F	4784
+Mildura	Employed (full-time)	M	7923
+Mildura	Employed (part-time)	F	5295
+Mildura	Employed (part-time)	M	2054
+Murray River - Swan Hill		F	171
+Murray River - Swan Hill		M	232
+Murray River - Swan Hill	Employed (away from work)	F	342
+Murray River - Swan Hill	Employed (away from work)	M	308
+Murray River - Swan Hill	Employed (full-time)	F	2963
+Murray River - Swan Hill	Employed (full-time)	M	6155
+Murray River - Swan Hill	Employed (part-time)	F	3593
+Murray River - Swan Hill	Employed (part-time)	M	1418
+Campaspe		F	150
+Campaspe		M	191
+Campaspe	Employed (away from work)	F	379
+Campaspe	Employed (away from work)	M	274
+Campaspe	Employed (full-time)	F	3118
+Campaspe	Employed (full-time)	M	5873
+Campaspe	Employed (part-time)	F	3868
+Campaspe	Employed (part-time)	M	1490
+Moira		F	123
+Moira		M	143
+Moira	Employed (away from work)	F	296
+Moira	Employed (away from work)	M	238
+Moira	Employed (full-time)	F	2044
+Moira	Employed (full-time)	M	4154
+Moira	Employed (part-time)	F	2553
+Moira	Employed (part-time)	M	974
+Shepparton		F	261
+Shepparton		M	370
+Shepparton	Employed (away from work)	F	708
+Shepparton	Employed (away from work)	M	497
+Shepparton	Employed (full-time)	F	6232
+Shepparton	Employed (full-time)	M	10624
+Shepparton	Employed (part-time)	F	6635
+Shepparton	Employed (part-time)	M	2610
+Glenelg - Southern Grampians		F	156
+Glenelg - Southern Grampians		M	188
+Glenelg - Southern Grampians	Employed (away from work)	F	388
+Glenelg - Southern Grampians	Employed (away from work)	M	301
+Glenelg - Southern Grampians	Employed (full-time)	F	2753
+Glenelg - Southern Grampians	Employed (full-time)	M	5675
+Glenelg - Southern Grampians	Employed (part-time)	F	3914
+Glenelg - Southern Grampians	Employed (part-time)	M	1594
+Colac - Corangamite		F	160
+Colac - Corangamite		M	209
+Colac - Corangamite	Employed (away from work)	F	430
+Colac - Corangamite	Employed (away from work)	M	313
+Colac - Corangamite	Employed (full-time)	F	3046
+Colac - Corangamite	Employed (full-time)	M	6403
+Colac - Corangamite	Employed (part-time)	F	4100
+Colac - Corangamite	Employed (part-time)	M	1809
+Warrnambool		F	192
+Warrnambool		M	244
+Warrnambool	Employed (away from work)	F	566
+Warrnambool	Employed (away from work)	M	398
+Warrnambool	Employed (full-time)	F	4309
+Warrnambool	Employed (full-time)	M	7974
+Warrnambool	Employed (part-time)	F	5798
+Warrnambool	Employed (part-time)	M	2407
+Migratory - Offshore - Shipping (Vic.)		M	7
+Migratory - Offshore - Shipping (Vic.)	Employed (away from work)	M	22
+Migratory - Offshore - Shipping (Vic.)	Employed (full-time)	F	3
+Migratory - Offshore - Shipping (Vic.)	Employed (full-time)	M	102
+Migratory - Offshore - Shipping (Vic.)	Employed (part-time)	F	5
+Migratory - Offshore - Shipping (Vic.)	Employed (part-time)	M	16
+No usual address (Vic.)		F	957
+No usual address (Vic.)		M	2167
+No usual address (Vic.)	Employed (away from work)	F	1876
+No usual address (Vic.)	Employed (away from work)	M	3291
+No usual address (Vic.)	Employed (full-time)	F	7233
+No usual address (Vic.)	Employed (full-time)	M	61169
+No usual address (Vic.)	Employed (part-time)	F	18437
+No usual address (Vic.)	Employed (part-time)	M	23903
+Capalaba		F	140
+Capalaba		M	157
+Capalaba	Employed (away from work)	F	333
+Capalaba	Employed (away from work)	M	184
+Capalaba	Employed (full-time)	F	4008
+Capalaba	Employed (full-time)	M	6262
+Capalaba	Employed (part-time)	F	5365
+Capalaba	Employed (part-time)	M	2406
+Cleveland - Stradbroke		F	189
+Cleveland - Stradbroke		M	197
+Cleveland - Stradbroke	Employed (away from work)	F	521
+Cleveland - Stradbroke	Employed (away from work)	M	268
+Cleveland - Stradbroke	Employed (full-time)	F	5504
+Cleveland - Stradbroke	Employed (full-time)	M	6860
+Cleveland - Stradbroke	Employed (part-time)	F	7009
+Cleveland - Stradbroke	Employed (part-time)	M	2822
+Wynnum - Manly		F	250
+Wynnum - Manly		M	416
+Wynnum - Manly	Employed (away from work)	F	501
+Wynnum - Manly	Employed (away from work)	M	556
+Wynnum - Manly	Employed (full-time)	F	8075
+Wynnum - Manly	Employed (full-time)	M	18812
+Wynnum - Manly	Employed (part-time)	F	6033
+Wynnum - Manly	Employed (part-time)	M	3679
+Bald Hills - Everton Park		F	57
+Bald Hills - Everton Park		M	71
+Bald Hills - Everton Park	Employed (away from work)	F	176
+Bald Hills - Everton Park	Employed (away from work)	M	56
+Bald Hills - Everton Park	Employed (full-time)	F	1810
+Bald Hills - Everton Park	Employed (full-time)	M	2014
+Bald Hills - Everton Park	Employed (part-time)	F	2457
+Bald Hills - Everton Park	Employed (part-time)	M	982
+Chermside		F	251
+Chermside		M	270
+Chermside	Employed (away from work)	F	748
+Chermside	Employed (away from work)	M	381
+Chermside	Employed (full-time)	F	8967
+Chermside	Employed (full-time)	M	12569
+Chermside	Employed (part-time)	F	9349
+Chermside	Employed (part-time)	M	3635
+Nundah		F	349
+Nundah		M	590
+Nundah	Employed (away from work)	F	833
+Nundah	Employed (away from work)	M	1012
+Nundah	Employed (full-time)	F	11786
+Nundah	Employed (full-time)	M	30077
+Nundah	Employed (part-time)	F	7229
+Nundah	Employed (part-time)	M	5499
+Sandgate		F	82
+Sandgate		M	98
+Sandgate	Employed (away from work)	F	304
+Sandgate	Employed (away from work)	M	115
+Sandgate	Employed (full-time)	F	2716
+Sandgate	Employed (full-time)	M	3172
+Sandgate	Employed (part-time)	F	3398
+Sandgate	Employed (part-time)	M	1452
+Carindale		F	129
+Carindale		M	135
+Carindale	Employed (away from work)	F	287
+Carindale	Employed (away from work)	M	169
+Carindale	Employed (full-time)	F	3554
+Carindale	Employed (full-time)	M	4514
+Carindale	Employed (part-time)	F	4815
+Carindale	Employed (part-time)	M	2165
+Holland Park - Yeronga		F	246
+Holland Park - Yeronga		M	323
+Holland Park - Yeronga	Employed (away from work)	F	1055
+Holland Park - Yeronga	Employed (away from work)	M	469
+Holland Park - Yeronga	Employed (full-time)	F	11582
+Holland Park - Yeronga	Employed (full-time)	M	12483
+Holland Park - Yeronga	Employed (part-time)	F	9323
+Holland Park - Yeronga	Employed (part-time)	M	3971
+Mt Gravatt		F	244
+Mt Gravatt		M	279
+Mt Gravatt	Employed (away from work)	F	669
+Mt Gravatt	Employed (away from work)	M	348
+Mt Gravatt	Employed (full-time)	F	9103
+Mt Gravatt	Employed (full-time)	M	11097
+Mt Gravatt	Employed (part-time)	F	8163
+Mt Gravatt	Employed (part-time)	M	3655
+Nathan		F	163
+Nathan		M	212
+Nathan	Employed (away from work)	F	350
+Nathan	Employed (away from work)	M	210
+Nathan	Employed (full-time)	F	4705
+Nathan	Employed (full-time)	M	9350
+Nathan	Employed (part-time)	F	3824
+Nathan	Employed (part-time)	M	2215
+Rocklea - Acacia Ridge		F	231
+Rocklea - Acacia Ridge		M	479
+Rocklea - Acacia Ridge	Employed (away from work)	F	388
+Rocklea - Acacia Ridge	Employed (away from work)	M	572
+Rocklea - Acacia Ridge	Employed (full-time)	F	6332
+Rocklea - Acacia Ridge	Employed (full-time)	M	21438
+Rocklea - Acacia Ridge	Employed (part-time)	F	4432
+Rocklea - Acacia Ridge	Employed (part-time)	M	3846
+Sunnybank		F	77
+Sunnybank		M	84
+Sunnybank	Employed (away from work)	F	164
+Sunnybank	Employed (away from work)	M	61
+Sunnybank	Employed (full-time)	F	1874
+Sunnybank	Employed (full-time)	M	2021
+Sunnybank	Employed (part-time)	F	2568
+Sunnybank	Employed (part-time)	M	1336
+Centenary		F	64
+Centenary		M	73
+Centenary	Employed (away from work)	F	168
+Centenary	Employed (away from work)	M	94
+Centenary	Employed (full-time)	F	1804
+Centenary	Employed (full-time)	M	2579
+Centenary	Employed (part-time)	F	2732
+Centenary	Employed (part-time)	M	1207
+Kenmore - Brookfield - Moggill		F	48
+Kenmore - Brookfield - Moggill		M	63
+Kenmore - Brookfield - Moggill	Employed (away from work)	F	185
+Kenmore - Brookfield - Moggill	Employed (away from work)	M	93
+Kenmore - Brookfield - Moggill	Employed (full-time)	F	1822
+Kenmore - Brookfield - Moggill	Employed (full-time)	M	2219
+Kenmore - Brookfield - Moggill	Employed (part-time)	F	2706
+Kenmore - Brookfield - Moggill	Employed (part-time)	M	1262
+Sherwood - Indooroopilly		F	208
+Sherwood - Indooroopilly		M	186
+Sherwood - Indooroopilly	Employed (away from work)	F	588
+Sherwood - Indooroopilly	Employed (away from work)	M	252
+Sherwood - Indooroopilly	Employed (full-time)	F	6300
+Sherwood - Indooroopilly	Employed (full-time)	M	6838
+Sherwood - Indooroopilly	Employed (part-time)	F	7137
+Sherwood - Indooroopilly	Employed (part-time)	M	3501
+The Gap - Enoggera		F	111
+The Gap - Enoggera		M	169
+The Gap - Enoggera	Employed (away from work)	F	308
+The Gap - Enoggera	Employed (away from work)	M	367
+The Gap - Enoggera	Employed (full-time)	F	3358
+The Gap - Enoggera	Employed (full-time)	M	7404
+The Gap - Enoggera	Employed (part-time)	F	3797
+The Gap - Enoggera	Employed (part-time)	M	1995
+Brisbane Inner		F	1264
+Brisbane Inner		M	1449
+Brisbane Inner	Employed (away from work)	F	4841
+Brisbane Inner	Employed (away from work)	M	2030
+Brisbane Inner	Employed (full-time)	F	64506
+Brisbane Inner	Employed (full-time)	M	79045
+Brisbane Inner	Employed (part-time)	F	31494
+Brisbane Inner	Employed (part-time)	M	14548
+Brisbane Inner - East		F	76
+Brisbane Inner - East		M	120
+Brisbane Inner - East	Employed (away from work)	F	181
+Brisbane Inner - East	Employed (away from work)	M	151
+Brisbane Inner - East	Employed (full-time)	F	3244
+Brisbane Inner - East	Employed (full-time)	M	6118
+Brisbane Inner - East	Employed (part-time)	F	2833
+Brisbane Inner - East	Employed (part-time)	M	1561
+Brisbane Inner - North		F	403
+Brisbane Inner - North		M	544
+Brisbane Inner - North	Employed (away from work)	F	1462
+Brisbane Inner - North	Employed (away from work)	M	782
+Brisbane Inner - North	Employed (full-time)	F	17278
+Brisbane Inner - North	Employed (full-time)	M	24585
+Brisbane Inner - North	Employed (part-time)	F	12038
+Brisbane Inner - North	Employed (part-time)	M	5591
+Brisbane Inner - West		F	228
+Brisbane Inner - West		M	293
+Brisbane Inner - West	Employed (away from work)	F	704
+Brisbane Inner - West	Employed (away from work)	M	390
+Brisbane Inner - West	Employed (full-time)	F	9637
+Brisbane Inner - West	Employed (full-time)	M	13168
+Brisbane Inner - West	Employed (part-time)	F	7755
+Brisbane Inner - West	Employed (part-time)	M	3730
+Cairns - North		F	108
+Cairns - North		M	117
+Cairns - North	Employed (away from work)	F	289
+Cairns - North	Employed (away from work)	M	190
+Cairns - North	Employed (full-time)	F	3165
+Cairns - North	Employed (full-time)	M	4695
+Cairns - North	Employed (part-time)	F	3419
+Cairns - North	Employed (part-time)	M	1811
+Cairns - South		F	428
+Cairns - South		M	529
+Cairns - South	Employed (away from work)	F	1053
+Cairns - South	Employed (away from work)	M	690
+Cairns - South	Employed (full-time)	F	14676
+Cairns - South	Employed (full-time)	M	18812
+Cairns - South	Employed (part-time)	F	11429
+Cairns - South	Employed (part-time)	M	5085
+Innisfail - Cassowary Coast		F	143
+Innisfail - Cassowary Coast		M	202
+Innisfail - Cassowary Coast	Employed (away from work)	F	248
+Innisfail - Cassowary Coast	Employed (away from work)	M	190
+Innisfail - Cassowary Coast	Employed (full-time)	F	2828
+Innisfail - Cassowary Coast	Employed (full-time)	M	4965
+Innisfail - Cassowary Coast	Employed (part-time)	F	2989
+Innisfail - Cassowary Coast	Employed (part-time)	M	1342
+Port Douglas - Daintree		F	54
+Port Douglas - Daintree		M	83
+Port Douglas - Daintree	Employed (away from work)	F	94
+Port Douglas - Daintree	Employed (away from work)	M	71
+Port Douglas - Daintree	Employed (full-time)	F	1422
+Port Douglas - Daintree	Employed (full-time)	M	1988
+Port Douglas - Daintree	Employed (part-time)	F	1214
+Port Douglas - Daintree	Employed (part-time)	M	663
+Tablelands (East) - Kuranda		F	153
+Tablelands (East) - Kuranda		M	183
+Tablelands (East) - Kuranda	Employed (away from work)	F	337
+Tablelands (East) - Kuranda	Employed (away from work)	M	203
+Tablelands (East) - Kuranda	Employed (full-time)	F	3274
+Tablelands (East) - Kuranda	Employed (full-time)	M	4782
+Tablelands (East) - Kuranda	Employed (part-time)	F	3725
+Tablelands (East) - Kuranda	Employed (part-time)	M	1640
+Darling Downs (West) - Maranoa		F	188
+Darling Downs (West) - Maranoa		M	294
+Darling Downs (West) - Maranoa	Employed (away from work)	F	427
+Darling Downs (West) - Maranoa	Employed (away from work)	M	578
+Darling Downs (West) - Maranoa	Employed (full-time)	F	4988
+Darling Downs (West) - Maranoa	Employed (full-time)	M	10541
+Darling Downs (West) - Maranoa	Employed (part-time)	F	3854
+Darling Downs (West) - Maranoa	Employed (part-time)	M	1599
+Darling Downs - East		F	176
+Darling Downs - East		M	250
+Darling Downs - East	Employed (away from work)	F	320
+Darling Downs - East	Employed (away from work)	M	316
+Darling Downs - East	Employed (full-time)	F	3675
+Darling Downs - East	Employed (full-time)	M	8874
+Darling Downs - East	Employed (part-time)	F	3507
+Darling Downs - East	Employed (part-time)	M	1615
+Granite Belt		F	160
+Granite Belt		M	203
+Granite Belt	Employed (away from work)	F	324
+Granite Belt	Employed (away from work)	M	229
+Granite Belt	Employed (full-time)	F	3067
+Granite Belt	Employed (full-time)	M	5521
+Granite Belt	Employed (part-time)	F	3585
+Granite Belt	Employed (part-time)	M	1664
+Central Highlands (Qld)		F	129
+Central Highlands (Qld)		M	228
+Central Highlands (Qld)	Employed (away from work)	F	303
+Central Highlands (Qld)	Employed (away from work)	M	481
+Central Highlands (Qld)	Employed (full-time)	F	3102
+Central Highlands (Qld)	Employed (full-time)	M	8568
+Central Highlands (Qld)	Employed (part-time)	F	2539
+Central Highlands (Qld)	Employed (part-time)	M	1016
+Rockhampton		F	348
+Rockhampton		M	407
+Rockhampton	Employed (away from work)	F	1066
+Rockhampton	Employed (away from work)	M	667
+Rockhampton	Employed (full-time)	F	11561
+Rockhampton	Employed (full-time)	M	16482
+Rockhampton	Employed (part-time)	F	10752
+Rockhampton	Employed (part-time)	M	4171
+Biloela		F	73
+Biloela		M	121
+Biloela	Employed (away from work)	F	135
+Biloela	Employed (away from work)	M	215
+Biloela	Employed (full-time)	F	1652
+Biloela	Employed (full-time)	M	4136
+Biloela	Employed (part-time)	F	1346
+Biloela	Employed (part-time)	M	468
+Gladstone		F	174
+Gladstone		M	276
+Gladstone	Employed (away from work)	F	514
+Gladstone	Employed (away from work)	M	551
+Gladstone	Employed (full-time)	F	5433
+Gladstone	Employed (full-time)	M	12170
+Gladstone	Employed (part-time)	F	5432
+Gladstone	Employed (part-time)	M	2034
+Broadbeach - Burleigh		F	314
+Broadbeach - Burleigh		M	316
+Broadbeach - Burleigh	Employed (away from work)	F	511
+Broadbeach - Burleigh	Employed (away from work)	M	320
+Broadbeach - Burleigh	Employed (full-time)	F	7255
+Broadbeach - Burleigh	Employed (full-time)	M	11244
+Broadbeach - Burleigh	Employed (part-time)	F	8792
+Broadbeach - Burleigh	Employed (part-time)	M	4498
+Coolangatta		F	162
+Coolangatta		M	149
+Coolangatta	Employed (away from work)	F	371
+Coolangatta	Employed (away from work)	M	193
+Coolangatta	Employed (full-time)	F	3984
+Coolangatta	Employed (full-time)	M	5330
+Coolangatta	Employed (part-time)	F	5480
+Coolangatta	Employed (part-time)	M	2368
+Gold Coast - North		F	171
+Gold Coast - North		M	179
+Gold Coast - North	Employed (away from work)	F	270
+Gold Coast - North	Employed (away from work)	M	176
+Gold Coast - North	Employed (full-time)	F	4113
+Gold Coast - North	Employed (full-time)	M	6070
+Gold Coast - North	Employed (part-time)	F	5122
+Gold Coast - North	Employed (part-time)	M	2347
+Gold Coast Hinterland		F	56
+Gold Coast Hinterland		M	42
+Gold Coast Hinterland	Employed (away from work)	F	97
+Gold Coast Hinterland	Employed (away from work)	M	57
+Gold Coast Hinterland	Employed (full-time)	F	869
+Gold Coast Hinterland	Employed (full-time)	M	1430
+Gold Coast Hinterland	Employed (part-time)	F	1350
+Gold Coast Hinterland	Employed (part-time)	M	603
+Mudgeeraba - Tallebudgera		F	59
+Mudgeeraba - Tallebudgera		M	54
+Mudgeeraba - Tallebudgera	Employed (away from work)	F	128
+Mudgeeraba - Tallebudgera	Employed (away from work)	M	77
+Mudgeeraba - Tallebudgera	Employed (full-time)	F	1516
+Mudgeeraba - Tallebudgera	Employed (full-time)	M	1771
+Mudgeeraba - Tallebudgera	Employed (part-time)	F	2108
+Mudgeeraba - Tallebudgera	Employed (part-time)	M	854
+Nerang		F	173
+Nerang		M	170
+Nerang	Employed (away from work)	F	298
+Nerang	Employed (away from work)	M	241
+Nerang	Employed (full-time)	F	3878
+Nerang	Employed (full-time)	M	7288
+Nerang	Employed (part-time)	F	4282
+Nerang	Employed (part-time)	M	2293
+Ormeau - Oxenford		F	332
+Ormeau - Oxenford		M	520
+Ormeau - Oxenford	Employed (away from work)	F	662
+Ormeau - Oxenford	Employed (away from work)	M	576
+Ormeau - Oxenford	Employed (full-time)	F	9306
+Ormeau - Oxenford	Employed (full-time)	M	21203
+Ormeau - Oxenford	Employed (part-time)	F	9527
+Ormeau - Oxenford	Employed (part-time)	M	5096
+Robina		F	209
+Robina		M	205
+Robina	Employed (away from work)	F	506
+Robina	Employed (away from work)	M	196
+Robina	Employed (full-time)	F	6693
+Robina	Employed (full-time)	M	6946
+Robina	Employed (part-time)	F	6493
+Robina	Employed (part-time)	M	2439
+Southport		F	347
+Southport		M	368
+Southport	Employed (away from work)	F	879
+Southport	Employed (away from work)	M	402
+Southport	Employed (full-time)	F	11866
+Southport	Employed (full-time)	M	15542
+Southport	Employed (part-time)	F	9408
+Southport	Employed (part-time)	M	4268
+Surfers Paradise		F	202
+Surfers Paradise		M	260
+Surfers Paradise	Employed (away from work)	F	487
+Surfers Paradise	Employed (away from work)	M	227
+Surfers Paradise	Employed (full-time)	F	6927
+Surfers Paradise	Employed (full-time)	M	7829
+Surfers Paradise	Employed (part-time)	F	6630
+Surfers Paradise	Employed (part-time)	M	3309
+Forest Lake - Oxley		F	224
+Forest Lake - Oxley		M	377
+Forest Lake - Oxley	Employed (away from work)	F	496
+Forest Lake - Oxley	Employed (away from work)	M	452
+Forest Lake - Oxley	Employed (full-time)	F	7256
+Forest Lake - Oxley	Employed (full-time)	M	16637
+Forest Lake - Oxley	Employed (part-time)	F	4756
+Forest Lake - Oxley	Employed (part-time)	M	3087
+Ipswich Hinterland		F	189
+Ipswich Hinterland		M	260
+Ipswich Hinterland	Employed (away from work)	F	329
+Ipswich Hinterland	Employed (away from work)	M	295
+Ipswich Hinterland	Employed (full-time)	F	3729
+Ipswich Hinterland	Employed (full-time)	M	7925
+Ipswich Hinterland	Employed (part-time)	F	4046
+Ipswich Hinterland	Employed (part-time)	M	1738
+Ipswich Inner		F	274
+Ipswich Inner		M	321
+Ipswich Inner	Employed (away from work)	F	842
+Ipswich Inner	Employed (away from work)	M	427
+Ipswich Inner	Employed (full-time)	F	8962
+Ipswich Inner	Employed (full-time)	M	11598
+Ipswich Inner	Employed (part-time)	F	8888
+Ipswich Inner	Employed (part-time)	M	3810
+Springfield - Redbank		F	172
+Springfield - Redbank		M	250
+Springfield - Redbank	Employed (away from work)	F	348
+Springfield - Redbank	Employed (away from work)	M	232
+Springfield - Redbank	Employed (full-time)	F	4903
+Springfield - Redbank	Employed (full-time)	M	8107
+Springfield - Redbank	Employed (part-time)	F	4742
+Springfield - Redbank	Employed (part-time)	M	2231
+Beaudesert		F	62
+Beaudesert		M	55
+Beaudesert	Employed (away from work)	F	88
+Beaudesert	Employed (away from work)	M	67
+Beaudesert	Employed (full-time)	F	1157
+Beaudesert	Employed (full-time)	M	1851
+Beaudesert	Employed (part-time)	F	1373
+Beaudesert	Employed (part-time)	M	504
+Beenleigh		F	111
+Beenleigh		M	113
+Beenleigh	Employed (away from work)	F	223
+Beenleigh	Employed (away from work)	M	108
+Beenleigh	Employed (full-time)	F	2617
+Beenleigh	Employed (full-time)	M	3482
+Beenleigh	Employed (part-time)	F	2570
+Beenleigh	Employed (part-time)	M	1069
+Browns Plains		F	184
+Browns Plains		M	243
+Browns Plains	Employed (away from work)	F	337
+Browns Plains	Employed (away from work)	M	223
+Browns Plains	Employed (full-time)	F	4135
+Browns Plains	Employed (full-time)	M	6902
+Browns Plains	Employed (part-time)	F	4485
+Browns Plains	Employed (part-time)	M	2150
+Jimboomba		F	52
+Jimboomba		M	97
+Jimboomba	Employed (away from work)	F	124
+Jimboomba	Employed (away from work)	M	95
+Jimboomba	Employed (full-time)	F	1433
+Jimboomba	Employed (full-time)	M	2334
+Jimboomba	Employed (part-time)	F	1858
+Jimboomba	Employed (part-time)	M	847
+Loganlea - Carbrook		F	175
+Loganlea - Carbrook		M	225
+Loganlea - Carbrook	Employed (away from work)	F	500
+Loganlea - Carbrook	Employed (away from work)	M	245
+Loganlea - Carbrook	Employed (full-time)	F	5621
+Loganlea - Carbrook	Employed (full-time)	M	8155
+Loganlea - Carbrook	Employed (part-time)	F	5691
+Loganlea - Carbrook	Employed (part-time)	M	2275
+Springwood - Kingston		F	263
+Springwood - Kingston		M	336
+Springwood - Kingston	Employed (away from work)	F	520
+Springwood - Kingston	Employed (away from work)	M	327
+Springwood - Kingston	Employed (full-time)	F	7499
+Springwood - Kingston	Employed (full-time)	M	11759
+Springwood - Kingston	Employed (part-time)	F	6489
+Springwood - Kingston	Employed (part-time)	M	3226
+Bowen Basin - North		F	194
+Bowen Basin - North		M	389
+Bowen Basin - North	Employed (away from work)	F	433
+Bowen Basin - North	Employed (away from work)	M	1036
+Bowen Basin - North	Employed (full-time)	F	4307
+Bowen Basin - North	Employed (full-time)	M	15349
+Bowen Basin - North	Employed (part-time)	F	2677
+Bowen Basin - North	Employed (part-time)	M	1467
+Mackay		F	399
+Mackay		M	507
+Mackay	Employed (away from work)	F	976
+Mackay	Employed (away from work)	M	667
+Mackay	Employed (full-time)	F	10971
+Mackay	Employed (full-time)	M	17933
+Mackay	Employed (part-time)	F	10709
+Mackay	Employed (part-time)	M	3544
+Whitsunday		F	84
+Whitsunday		M	86
+Whitsunday	Employed (away from work)	F	173
+Whitsunday	Employed (away from work)	M	115
+Whitsunday	Employed (full-time)	F	2550
+Whitsunday	Employed (full-time)	M	3514
+Whitsunday	Employed (part-time)	F	1944
+Whitsunday	Employed (part-time)	M	819
+Bribie - Beachmere		F	64
+Bribie - Beachmere		M	65
+Bribie - Beachmere	Employed (away from work)	F	110
+Bribie - Beachmere	Employed (away from work)	M	77
+Bribie - Beachmere	Employed (full-time)	F	1179
+Bribie - Beachmere	Employed (full-time)	M	1417
+Bribie - Beachmere	Employed (part-time)	F	1686
+Bribie - Beachmere	Employed (part-time)	M	747
+Caboolture		F	213
+Caboolture		M	223
+Caboolture	Employed (away from work)	F	544
+Caboolture	Employed (away from work)	M	261
+Caboolture	Employed (full-time)	F	5642
+Caboolture	Employed (full-time)	M	7035
+Caboolture	Employed (part-time)	F	6796
+Caboolture	Employed (part-time)	M	2666
+Caboolture Hinterland		F	41
+Caboolture Hinterland		M	63
+Caboolture Hinterland	Employed (away from work)	F	78
+Caboolture Hinterland	Employed (away from work)	M	65
+Caboolture Hinterland	Employed (full-time)	F	843
+Caboolture Hinterland	Employed (full-time)	M	1614
+Caboolture Hinterland	Employed (part-time)	F	843
+Caboolture Hinterland	Employed (part-time)	M	404
+Narangba - Burpengary		F	120
+Narangba - Burpengary		M	132
+Narangba - Burpengary	Employed (away from work)	F	231
+Narangba - Burpengary	Employed (away from work)	M	167
+Narangba - Burpengary	Employed (full-time)	F	2564
+Narangba - Burpengary	Employed (full-time)	M	5602
+Narangba - Burpengary	Employed (part-time)	F	3189
+Narangba - Burpengary	Employed (part-time)	M	1539
+Redcliffe		F	171
+Redcliffe		M	173
+Redcliffe	Employed (away from work)	F	432
+Redcliffe	Employed (away from work)	M	228
+Redcliffe	Employed (full-time)	F	4521
+Redcliffe	Employed (full-time)	M	5668
+Redcliffe	Employed (part-time)	F	5686
+Redcliffe	Employed (part-time)	M	2147
+The Hills District		F	100
+The Hills District		M	125
+The Hills District	Employed (away from work)	F	241
+The Hills District	Employed (away from work)	M	160
+The Hills District	Employed (full-time)	F	2649
+The Hills District	Employed (full-time)	M	4116
+The Hills District	Employed (part-time)	F	4614
+The Hills District	Employed (part-time)	M	2062
+North Lakes		F	139
+North Lakes		M	142
+North Lakes	Employed (away from work)	F	331
+North Lakes	Employed (away from work)	M	126
+North Lakes	Employed (full-time)	F	3841
+North Lakes	Employed (full-time)	M	4281
+North Lakes	Employed (part-time)	F	4832
+North Lakes	Employed (part-time)	M	1794
+Strathpine		F	129
+Strathpine		M	212
+Strathpine	Employed (away from work)	F	319
+Strathpine	Employed (away from work)	M	253
+Strathpine	Employed (full-time)	F	4292
+Strathpine	Employed (full-time)	M	9091
+Strathpine	Employed (part-time)	F	4177
+Strathpine	Employed (part-time)	M	2000
+Far North		F	155
+Far North		M	211
+Far North	Employed (away from work)	F	195
+Far North	Employed (away from work)	M	254
+Far North	Employed (full-time)	F	2954
+Far North	Employed (full-time)	M	4753
+Far North	Employed (part-time)	F	1595
+Far North	Employed (part-time)	M	1058
+Outback - North		F	167
+Outback - North		M	249
+Outback - North	Employed (away from work)	F	285
+Outback - North	Employed (away from work)	M	467
+Outback - North	Employed (full-time)	F	4183
+Outback - North	Employed (full-time)	M	8465
+Outback - North	Employed (part-time)	F	1981
+Outback - North	Employed (part-time)	M	891
+Outback - South		F	107
+Outback - South		M	124
+Outback - South	Employed (away from work)	F	220
+Outback - South	Employed (away from work)	M	160
+Outback - South	Employed (full-time)	F	2600
+Outback - South	Employed (full-time)	M	3789
+Outback - South	Employed (part-time)	F	1393
+Outback - South	Employed (part-time)	M	529
+Buderim		F	112
+Buderim		M	166
+Buderim	Employed (away from work)	F	296
+Buderim	Employed (away from work)	M	206
+Buderim	Employed (full-time)	F	3941
+Buderim	Employed (full-time)	M	6698
+Buderim	Employed (part-time)	F	4844
+Buderim	Employed (part-time)	M	1886
+Caloundra		F	243
+Caloundra		M	248
+Caloundra	Employed (away from work)	F	584
+Caloundra	Employed (away from work)	M	308
+Caloundra	Employed (full-time)	F	6480
+Caloundra	Employed (full-time)	M	9944
+Caloundra	Employed (part-time)	F	8167
+Caloundra	Employed (part-time)	M	3406
+Maroochy		F	203
+Maroochy		M	250
+Maroochy	Employed (away from work)	F	529
+Maroochy	Employed (away from work)	M	316
+Maroochy	Employed (full-time)	F	6693
+Maroochy	Employed (full-time)	M	8927
+Maroochy	Employed (part-time)	F	8401
+Maroochy	Employed (part-time)	M	3533
+Noosa		F	144
+Noosa		M	136
+Noosa	Employed (away from work)	F	293
+Noosa	Employed (away from work)	M	184
+Noosa	Employed (full-time)	F	3763
+Noosa	Employed (full-time)	M	4906
+Noosa	Employed (part-time)	F	5355
+Noosa	Employed (part-time)	M	2390
+Sunshine Coast Hinterland		F	135
+Sunshine Coast Hinterland		M	134
+Sunshine Coast Hinterland	Employed (away from work)	F	244
+Sunshine Coast Hinterland	Employed (away from work)	M	159
+Sunshine Coast Hinterland	Employed (full-time)	F	2415
+Sunshine Coast Hinterland	Employed (full-time)	M	4036
+Sunshine Coast Hinterland	Employed (part-time)	F	3826
+Sunshine Coast Hinterland	Employed (part-time)	M	1864
+Nambour		F	150
+Nambour		M	177
+Nambour	Employed (away from work)	F	457
+Nambour	Employed (away from work)	M	229
+Nambour	Employed (full-time)	F	4580
+Nambour	Employed (full-time)	M	6351
+Nambour	Employed (part-time)	F	5567
+Nambour	Employed (part-time)	M	2124
+Noosa Hinterland		F	36
+Noosa Hinterland		M	48
+Noosa Hinterland	Employed (away from work)	F	100
+Noosa Hinterland	Employed (away from work)	M	76
+Noosa Hinterland	Employed (full-time)	F	920
+Noosa Hinterland	Employed (full-time)	M	1615
+Noosa Hinterland	Employed (part-time)	F	1415
+Noosa Hinterland	Employed (part-time)	M	759
+Toowoomba		F	436
+Toowoomba		M	579
+Toowoomba	Employed (away from work)	F	1449
+Toowoomba	Employed (away from work)	M	866
+Toowoomba	Employed (full-time)	F	15642
+Toowoomba	Employed (full-time)	M	23561
+Toowoomba	Employed (part-time)	F	15437
+Toowoomba	Employed (part-time)	M	6098
+Charters Towers - Ayr - Ingham		F	167
+Charters Towers - Ayr - Ingham		M	238
+Charters Towers - Ayr - Ingham	Employed (away from work)	F	324
+Charters Towers - Ayr - Ingham	Employed (away from work)	M	256
+Charters Towers - Ayr - Ingham	Employed (full-time)	F	3656
+Charters Towers - Ayr - Ingham	Employed (full-time)	M	6795
+Charters Towers - Ayr - Ingham	Employed (part-time)	F	3771
+Charters Towers - Ayr - Ingham	Employed (part-time)	M	1346
+Townsville		F	568
+Townsville		M	777
+Townsville	Employed (away from work)	F	1906
+Townsville	Employed (away from work)	M	1198
+Townsville	Employed (full-time)	F	21543
+Townsville	Employed (full-time)	M	30591
+Townsville	Employed (part-time)	F	17429
+Townsville	Employed (part-time)	M	7714
+Bundaberg		F	268
+Bundaberg		M	328
+Bundaberg	Employed (away from work)	F	590
+Bundaberg	Employed (away from work)	M	365
+Bundaberg	Employed (full-time)	F	6964
+Bundaberg	Employed (full-time)	M	10599
+Bundaberg	Employed (part-time)	F	7584
+Bundaberg	Employed (part-time)	M	3348
+Burnett		F	187
+Burnett		M	279
+Burnett	Employed (away from work)	F	337
+Burnett	Employed (away from work)	M	265
+Burnett	Employed (full-time)	F	3746
+Burnett	Employed (full-time)	M	6400
+Burnett	Employed (part-time)	F	4009
+Burnett	Employed (part-time)	M	1828
+Gympie - Cooloola		F	145
+Gympie - Cooloola		M	183
+Gympie - Cooloola	Employed (away from work)	F	351
+Gympie - Cooloola	Employed (away from work)	M	258
+Gympie - Cooloola	Employed (full-time)	F	3246
+Gympie - Cooloola	Employed (full-time)	M	5391
+Gympie - Cooloola	Employed (part-time)	F	4254
+Gympie - Cooloola	Employed (part-time)	M	1860
+Hervey Bay		F	157
+Hervey Bay		M	157
+Hervey Bay	Employed (away from work)	F	363
+Hervey Bay	Employed (away from work)	M	194
+Hervey Bay	Employed (full-time)	F	3885
+Hervey Bay	Employed (full-time)	M	4652
+Hervey Bay	Employed (part-time)	F	4665
+Hervey Bay	Employed (part-time)	M	2078
+Maryborough		F	119
+Maryborough		M	143
+Maryborough	Employed (away from work)	F	271
+Maryborough	Employed (away from work)	M	218
+Maryborough	Employed (full-time)	F	2860
+Maryborough	Employed (full-time)	M	4703
+Maryborough	Employed (part-time)	F	3152
+Maryborough	Employed (part-time)	M	1521
+Migratory - Offshore - Shipping (Qld)		M	11
+Migratory - Offshore - Shipping (Qld)	Employed (away from work)	M	25
+Migratory - Offshore - Shipping (Qld)	Employed (full-time)	F	18
+Migratory - Offshore - Shipping (Qld)	Employed (full-time)	M	137
+Migratory - Offshore - Shipping (Qld)	Employed (part-time)	M	15
+No usual address (Qld)		F	760
+No usual address (Qld)		M	1643
+No usual address (Qld)	Employed (away from work)	F	1648
+No usual address (Qld)	Employed (away from work)	M	3137
+No usual address (Qld)	Employed (full-time)	F	6982
+No usual address (Qld)	Employed (full-time)	M	50886
+No usual address (Qld)	Employed (part-time)	F	14638
+No usual address (Qld)	Employed (part-time)	M	19143
+Adelaide City		F	777
+Adelaide City		M	759
+Adelaide City	Employed (away from work)	F	3433
+Adelaide City	Employed (away from work)	M	1353
+Adelaide City	Employed (full-time)	F	35383
+Adelaide City	Employed (full-time)	M	40662
+Adelaide City	Employed (part-time)	F	25389
+Adelaide City	Employed (part-time)	M	9853
+Adelaide Hills		F	156
+Adelaide Hills		M	191
+Adelaide Hills	Employed (away from work)	F	447
+Adelaide Hills	Employed (away from work)	M	318
+Adelaide Hills	Employed (full-time)	F	3439
+Adelaide Hills	Employed (full-time)	M	6547
+Adelaide Hills	Employed (part-time)	F	6251
+Adelaide Hills	Employed (part-time)	M	2945
+Burnside		F	113
+Burnside		M	125
+Burnside	Employed (away from work)	F	425
+Burnside	Employed (away from work)	M	181
+Burnside	Employed (full-time)	F	4230
+Burnside	Employed (full-time)	M	4842
+Burnside	Employed (part-time)	F	4926
+Burnside	Employed (part-time)	M	1920
+Campbelltown (SA)		F	68
+Campbelltown (SA)		M	80
+Campbelltown (SA)	Employed (away from work)	F	197
+Campbelltown (SA)	Employed (away from work)	M	108
+Campbelltown (SA)	Employed (full-time)	F	1807
+Campbelltown (SA)	Employed (full-time)	M	2815
+Campbelltown (SA)	Employed (part-time)	F	3072
+Campbelltown (SA)	Employed (part-time)	M	1355
+Norwood - Payneham - St Peters		F	142
+Norwood - Payneham - St Peters		M	182
+Norwood - Payneham - St Peters	Employed (away from work)	F	423
+Norwood - Payneham - St Peters	Employed (away from work)	M	230
+Norwood - Payneham - St Peters	Employed (full-time)	F	5246
+Norwood - Payneham - St Peters	Employed (full-time)	M	7673
+Norwood - Payneham - St Peters	Employed (part-time)	F	6321
+Norwood - Payneham - St Peters	Employed (part-time)	M	2837
+Prospect - Walkerville		F	83
+Prospect - Walkerville		M	59
+Prospect - Walkerville	Employed (away from work)	F	155
+Prospect - Walkerville	Employed (away from work)	M	91
+Prospect - Walkerville	Employed (full-time)	F	1782
+Prospect - Walkerville	Employed (full-time)	M	2430
+Prospect - Walkerville	Employed (part-time)	F	2391
+Prospect - Walkerville	Employed (part-time)	M	1095
+Unley		F	131
+Unley		M	133
+Unley	Employed (away from work)	F	469
+Unley	Employed (away from work)	M	188
+Unley	Employed (full-time)	F	4842
+Unley	Employed (full-time)	M	5862
+Unley	Employed (part-time)	F	5570
+Unley	Employed (part-time)	M	2197
+Gawler - Two Wells		F	64
+Gawler - Two Wells		M	91
+Gawler - Two Wells	Employed (away from work)	F	195
+Gawler - Two Wells	Employed (away from work)	M	120
+Gawler - Two Wells	Employed (full-time)	F	1889
+Gawler - Two Wells	Employed (full-time)	M	3005
+Gawler - Two Wells	Employed (part-time)	F	2875
+Gawler - Two Wells	Employed (part-time)	M	1203
+Playford		F	206
+Playford		M	263
+Playford	Employed (away from work)	F	691
+Playford	Employed (away from work)	M	285
+Playford	Employed (full-time)	F	5615
+Playford	Employed (full-time)	M	7932
+Playford	Employed (part-time)	F	6987
+Playford	Employed (part-time)	M	2724
+Port Adelaide - East		F	156
+Port Adelaide - East		M	231
+Port Adelaide - East	Employed (away from work)	F	418
+Port Adelaide - East	Employed (away from work)	M	340
+Port Adelaide - East	Employed (full-time)	F	4458
+Port Adelaide - East	Employed (full-time)	M	10182
+Port Adelaide - East	Employed (part-time)	F	4788
+Port Adelaide - East	Employed (part-time)	M	2968
+Salisbury		F	298
+Salisbury		M	477
+Salisbury	Employed (away from work)	F	706
+Salisbury	Employed (away from work)	M	729
+Salisbury	Employed (full-time)	F	8074
+Salisbury	Employed (full-time)	M	21223
+Salisbury	Employed (part-time)	F	8372
+Salisbury	Employed (part-time)	M	5024
+Tea Tree Gully		F	185
+Tea Tree Gully		M	151
+Tea Tree Gully	Employed (away from work)	F	444
+Tea Tree Gully	Employed (away from work)	M	250
+Tea Tree Gully	Employed (full-time)	F	4208
+Tea Tree Gully	Employed (full-time)	M	6064
+Tea Tree Gully	Employed (part-time)	F	7262
+Tea Tree Gully	Employed (part-time)	M	2959
+Holdfast Bay		F	86
+Holdfast Bay		M	73
+Holdfast Bay	Employed (away from work)	F	262
+Holdfast Bay	Employed (away from work)	M	150
+Holdfast Bay	Employed (full-time)	F	2411
+Holdfast Bay	Employed (full-time)	M	3178
+Holdfast Bay	Employed (part-time)	F	4134
+Holdfast Bay	Employed (part-time)	M	1893
+Marion		F	130
+Marion		M	158
+Marion	Employed (away from work)	F	542
+Marion	Employed (away from work)	M	297
+Marion	Employed (full-time)	F	4265
+Marion	Employed (full-time)	M	7135
+Marion	Employed (part-time)	F	6260
+Marion	Employed (part-time)	M	3059
+Mitcham		F	171
+Mitcham		M	163
+Mitcham	Employed (away from work)	F	884
+Mitcham	Employed (away from work)	M	304
+Mitcham	Employed (full-time)	F	6479
+Mitcham	Employed (full-time)	M	7611
+Mitcham	Employed (part-time)	F	8377
+Mitcham	Employed (part-time)	M	3363
+Onkaparinga		F	295
+Onkaparinga		M	307
+Onkaparinga	Employed (away from work)	F	867
+Onkaparinga	Employed (away from work)	M	525
+Onkaparinga	Employed (full-time)	F	6964
+Onkaparinga	Employed (full-time)	M	12115
+Onkaparinga	Employed (part-time)	F	11521
+Onkaparinga	Employed (part-time)	M	5244
+Charles Sturt		F	247
+Charles Sturt		M	338
+Charles Sturt	Employed (away from work)	F	766
+Charles Sturt	Employed (away from work)	M	544
+Charles Sturt	Employed (full-time)	F	7878
+Charles Sturt	Employed (full-time)	M	14795
+Charles Sturt	Employed (part-time)	F	9763
+Charles Sturt	Employed (part-time)	M	5047
+Port Adelaide - West		F	229
+Port Adelaide - West		M	441
+Port Adelaide - West	Employed (away from work)	F	493
+Port Adelaide - West	Employed (away from work)	M	679
+Port Adelaide - West	Employed (full-time)	F	6198
+Port Adelaide - West	Employed (full-time)	M	21826
+Port Adelaide - West	Employed (part-time)	F	5653
+Port Adelaide - West	Employed (part-time)	M	3981
+West Torrens		F	254
+West Torrens		M	358
+West Torrens	Employed (away from work)	F	761
+West Torrens	Employed (away from work)	M	696
+West Torrens	Employed (full-time)	F	8745
+West Torrens	Employed (full-time)	M	19135
+West Torrens	Employed (part-time)	F	8484
+West Torrens	Employed (part-time)	M	4993
+Barossa		F	100
+Barossa		M	120
+Barossa	Employed (away from work)	F	300
+Barossa	Employed (away from work)	M	227
+Barossa	Employed (full-time)	F	2631
+Barossa	Employed (full-time)	M	5516
+Barossa	Employed (part-time)	F	3573
+Barossa	Employed (part-time)	M	1484
+Lower North		F	73
+Lower North		M	110
+Lower North	Employed (away from work)	F	192
+Lower North	Employed (away from work)	M	174
+Lower North	Employed (full-time)	F	1494
+Lower North	Employed (full-time)	M	3578
+Lower North	Employed (part-time)	F	2291
+Lower North	Employed (part-time)	M	948
+Mid North		F	95
+Mid North		M	108
+Mid North	Employed (away from work)	F	255
+Mid North	Employed (away from work)	M	141
+Mid North	Employed (full-time)	F	1850
+Mid North	Employed (full-time)	M	3904
+Mid North	Employed (part-time)	F	2665
+Mid North	Employed (part-time)	M	1031
+Yorke Peninsula		F	84
+Yorke Peninsula		M	104
+Yorke Peninsula	Employed (away from work)	F	212
+Yorke Peninsula	Employed (away from work)	M	169
+Yorke Peninsula	Employed (full-time)	F	1462
+Yorke Peninsula	Employed (full-time)	M	2720
+Yorke Peninsula	Employed (part-time)	F	2321
+Yorke Peninsula	Employed (part-time)	M	1039
+Eyre Peninsula and South West		F	207
+Eyre Peninsula and South West		M	273
+Eyre Peninsula and South West	Employed (away from work)	F	536
+Eyre Peninsula and South West	Employed (away from work)	M	448
+Eyre Peninsula and South West	Employed (full-time)	F	4370
+Eyre Peninsula and South West	Employed (full-time)	M	8702
+Eyre Peninsula and South West	Employed (part-time)	F	5789
+Eyre Peninsula and South West	Employed (part-time)	M	2274
+Outback - North and East		F	125
+Outback - North and East		M	193
+Outback - North and East	Employed (away from work)	F	280
+Outback - North and East	Employed (away from work)	M	480
+Outback - North and East	Employed (full-time)	F	2840
+Outback - North and East	Employed (full-time)	M	6813
+Outback - North and East	Employed (part-time)	F	2133
+Outback - North and East	Employed (part-time)	M	1126
+Fleurieu - Kangaroo Island		F	127
+Fleurieu - Kangaroo Island		M	132
+Fleurieu - Kangaroo Island	Employed (away from work)	F	381
+Fleurieu - Kangaroo Island	Employed (away from work)	M	231
+Fleurieu - Kangaroo Island	Employed (full-time)	F	2421
+Fleurieu - Kangaroo Island	Employed (full-time)	M	4267
+Fleurieu - Kangaroo Island	Employed (part-time)	F	4557
+Fleurieu - Kangaroo Island	Employed (part-time)	M	2276
+Limestone Coast		F	219
+Limestone Coast		M	285
+Limestone Coast	Employed (away from work)	F	719
+Limestone Coast	Employed (away from work)	M	590
+Limestone Coast	Employed (full-time)	F	5334
+Limestone Coast	Employed (full-time)	M	11406
+Limestone Coast	Employed (part-time)	F	7280
+Limestone Coast	Employed (part-time)	M	2668
+Murray and Mallee		F	216
+Murray and Mallee		M	311
+Murray and Mallee	Employed (away from work)	F	564
+Murray and Mallee	Employed (away from work)	M	484
+Murray and Mallee	Employed (full-time)	F	5553
+Murray and Mallee	Employed (full-time)	M	10887
+Murray and Mallee	Employed (part-time)	F	6717
+Murray and Mallee	Employed (part-time)	M	2960
+Migratory - Offshore - Shipping (SA)	Employed (away from work)	M	14
+Migratory - Offshore - Shipping (SA)	Employed (full-time)	F	3
+Migratory - Offshore - Shipping (SA)	Employed (full-time)	M	39
+Migratory - Offshore - Shipping (SA)	Employed (part-time)	M	11
+No usual address (SA)		F	206
+No usual address (SA)		M	498
+No usual address (SA)	Employed (away from work)	F	691
+No usual address (SA)	Employed (away from work)	M	1123
+No usual address (SA)	Employed (full-time)	F	2131
+No usual address (SA)	Employed (full-time)	M	15840
+No usual address (SA)	Employed (part-time)	F	6144
+No usual address (SA)	Employed (part-time)	M	7690
+Augusta - Margaret River - Busselton		F	171
+Augusta - Margaret River - Busselton		M	183
+Augusta - Margaret River - Busselton	Employed (away from work)	F	484
+Augusta - Margaret River - Busselton	Employed (away from work)	M	354
+Augusta - Margaret River - Busselton	Employed (full-time)	F	3739
+Augusta - Margaret River - Busselton	Employed (full-time)	M	6069
+Augusta - Margaret River - Busselton	Employed (part-time)	F	5988
+Augusta - Margaret River - Busselton	Employed (part-time)	M	2462
+Bunbury		F	327
+Bunbury		M	436
+Bunbury	Employed (away from work)	F	930
+Bunbury	Employed (away from work)	M	894
+Bunbury	Employed (full-time)	F	8357
+Bunbury	Employed (full-time)	M	16713
+Bunbury	Employed (part-time)	F	11084
+Bunbury	Employed (part-time)	M	3648
+Manjimup		F	72
+Manjimup		M	108
+Manjimup	Employed (away from work)	F	222
+Manjimup	Employed (away from work)	M	227
+Manjimup	Employed (full-time)	F	1623
+Manjimup	Employed (full-time)	M	3062
+Manjimup	Employed (part-time)	F	2291
+Manjimup	Employed (part-time)	M	961
+Mandurah		F	218
+Mandurah		M	274
+Mandurah	Employed (away from work)	F	604
+Mandurah	Employed (away from work)	M	381
+Mandurah	Employed (full-time)	F	5736
+Mandurah	Employed (full-time)	M	7694
+Mandurah	Employed (part-time)	F	8412
+Mandurah	Employed (part-time)	M	3059
+Cottesloe - Claremont		F	304
+Cottesloe - Claremont		M	272
+Cottesloe - Claremont	Employed (away from work)	F	1064
+Cottesloe - Claremont	Employed (away from work)	M	402
+Cottesloe - Claremont	Employed (full-time)	F	10943
+Cottesloe - Claremont	Employed (full-time)	M	10586
+Cottesloe - Claremont	Employed (part-time)	F	11521
+Cottesloe - Claremont	Employed (part-time)	M	4830
+Perth City		F	1174
+Perth City		M	1359
+Perth City	Employed (away from work)	F	4617
+Perth City	Employed (away from work)	M	2578
+Perth City	Employed (full-time)	F	54496
+Perth City	Employed (full-time)	M	74358
+Perth City	Employed (part-time)	F	34832
+Perth City	Employed (part-time)	M	14035
+Bayswater - Bassendean		F	207
+Bayswater - Bassendean		M	264
+Bayswater - Bassendean	Employed (away from work)	F	398
+Bayswater - Bassendean	Employed (away from work)	M	298
+Bayswater - Bassendean	Employed (full-time)	F	4810
+Bayswater - Bassendean	Employed (full-time)	M	9797
+Bayswater - Bassendean	Employed (part-time)	F	6390
+Bayswater - Bassendean	Employed (part-time)	M	3273
+Mundaring		F	52
+Mundaring		M	95
+Mundaring	Employed (away from work)	F	174
+Mundaring	Employed (away from work)	M	148
+Mundaring	Employed (full-time)	F	1809
+Mundaring	Employed (full-time)	M	3172
+Mundaring	Employed (part-time)	F	2574
+Mundaring	Employed (part-time)	M	1192
+Swan		F	352
+Swan		M	560
+Swan	Employed (away from work)	F	846
+Swan	Employed (away from work)	M	838
+Swan	Employed (full-time)	F	11084
+Swan	Employed (full-time)	M	23425
+Swan	Employed (part-time)	F	11444
+Swan	Employed (part-time)	M	5591
+Joondalup		F	381
+Joondalup		M	379
+Joondalup	Employed (away from work)	F	1089
+Joondalup	Employed (away from work)	M	473
+Joondalup	Employed (full-time)	F	10425
+Joondalup	Employed (full-time)	M	10375
+Joondalup	Employed (part-time)	F	16703
+Joondalup	Employed (part-time)	M	6265
+Stirling		F	506
+Stirling		M	585
+Stirling	Employed (away from work)	F	1273
+Stirling	Employed (away from work)	M	842
+Stirling	Employed (full-time)	F	15880
+Stirling	Employed (full-time)	M	26570
+Stirling	Employed (part-time)	F	16863
+Stirling	Employed (part-time)	M	8048
+Wanneroo		F	330
+Wanneroo		M	450
+Wanneroo	Employed (away from work)	F	719
+Wanneroo	Employed (away from work)	M	576
+Wanneroo	Employed (full-time)	F	8129
+Wanneroo	Employed (full-time)	M	17318
+Wanneroo	Employed (part-time)	F	11192
+Wanneroo	Employed (part-time)	M	5277
+Armadale		F	152
+Armadale		M	172
+Armadale	Employed (away from work)	F	422
+Armadale	Employed (away from work)	M	204
+Armadale	Employed (full-time)	F	3913
+Armadale	Employed (full-time)	M	5175
+Armadale	Employed (part-time)	F	5446
+Armadale	Employed (part-time)	M	2124
+Belmont - Victoria Park		F	402
+Belmont - Victoria Park		M	591
+Belmont - Victoria Park	Employed (away from work)	F	941
+Belmont - Victoria Park	Employed (away from work)	M	1051
+Belmont - Victoria Park	Employed (full-time)	F	11701
+Belmont - Victoria Park	Employed (full-time)	M	27155
+Belmont - Victoria Park	Employed (part-time)	F	9481
+Belmont - Victoria Park	Employed (part-time)	M	6375
+Canning		F	404
+Canning		M	685
+Canning	Employed (away from work)	F	1006
+Canning	Employed (away from work)	M	925
+Canning	Employed (full-time)	F	12790
+Canning	Employed (full-time)	M	29992
+Canning	Employed (part-time)	F	11631
+Canning	Employed (part-time)	M	6565
+Gosnells		F	179
+Gosnells		M	245
+Gosnells	Employed (away from work)	F	430
+Gosnells	Employed (away from work)	M	355
+Gosnells	Employed (full-time)	F	4863
+Gosnells	Employed (full-time)	M	8914
+Gosnells	Employed (part-time)	F	6166
+Gosnells	Employed (part-time)	M	3148
+Kalamunda		F	100
+Kalamunda		M	148
+Kalamunda	Employed (away from work)	F	203
+Kalamunda	Employed (away from work)	M	193
+Kalamunda	Employed (full-time)	F	2625
+Kalamunda	Employed (full-time)	M	5822
+Kalamunda	Employed (part-time)	F	3647
+Kalamunda	Employed (part-time)	M	1741
+Serpentine - Jarrahdale		F	40
+Serpentine - Jarrahdale		M	44
+Serpentine - Jarrahdale	Employed (away from work)	F	94
+Serpentine - Jarrahdale	Employed (away from work)	M	83
+Serpentine - Jarrahdale	Employed (full-time)	F	879
+Serpentine - Jarrahdale	Employed (full-time)	M	1735
+Serpentine - Jarrahdale	Employed (part-time)	F	1176
+Serpentine - Jarrahdale	Employed (part-time)	M	540
+South Perth		F	89
+South Perth		M	98
+South Perth	Employed (away from work)	F	271
+South Perth	Employed (away from work)	M	164
+South Perth	Employed (full-time)	F	3157
+South Perth	Employed (full-time)	M	3864
+South Perth	Employed (part-time)	F	3848
+South Perth	Employed (part-time)	M	1637
+Cockburn		F	267
+Cockburn		M	447
+Cockburn	Employed (away from work)	F	560
+Cockburn	Employed (away from work)	M	645
+Cockburn	Employed (full-time)	F	7171
+Cockburn	Employed (full-time)	M	20262
+Cockburn	Employed (part-time)	F	7828
+Cockburn	Employed (part-time)	M	4134
+Fremantle		F	181
+Fremantle		M	268
+Fremantle	Employed (away from work)	F	543
+Fremantle	Employed (away from work)	M	477
+Fremantle	Employed (full-time)	F	5817
+Fremantle	Employed (full-time)	M	9809
+Fremantle	Employed (part-time)	F	6478
+Fremantle	Employed (part-time)	M	3359
+Kwinana		F	78
+Kwinana		M	113
+Kwinana	Employed (away from work)	F	177
+Kwinana	Employed (away from work)	M	290
+Kwinana	Employed (full-time)	F	2148
+Kwinana	Employed (full-time)	M	6844
+Kwinana	Employed (part-time)	F	2014
+Kwinana	Employed (part-time)	M	995
+Melville		F	322
+Melville		M	301
+Melville	Employed (away from work)	F	1036
+Melville	Employed (away from work)	M	418
+Melville	Employed (full-time)	F	10503
+Melville	Employed (full-time)	M	10404
+Melville	Employed (part-time)	F	12629
+Melville	Employed (part-time)	M	4602
+Rockingham		F	257
+Rockingham		M	233
+Rockingham	Employed (away from work)	F	739
+Rockingham	Employed (away from work)	M	393
+Rockingham	Employed (full-time)	F	6804
+Rockingham	Employed (full-time)	M	9129
+Rockingham	Employed (part-time)	F	9277
+Rockingham	Employed (part-time)	M	3233
+Albany		F	199
+Albany		M	242
+Albany	Employed (away from work)	F	608
+Albany	Employed (away from work)	M	502
+Albany	Employed (full-time)	F	4907
+Albany	Employed (full-time)	M	8731
+Albany	Employed (part-time)	F	6135
+Albany	Employed (part-time)	M	2736
+Wheat Belt - North		F	199
+Wheat Belt - North		M	255
+Wheat Belt - North	Employed (away from work)	F	442
+Wheat Belt - North	Employed (away from work)	M	485
+Wheat Belt - North	Employed (full-time)	F	4427
+Wheat Belt - North	Employed (full-time)	M	9348
+Wheat Belt - North	Employed (part-time)	F	4608
+Wheat Belt - North	Employed (part-time)	M	1997
+Wheat Belt - South		F	95
+Wheat Belt - South		M	138
+Wheat Belt - South	Employed (away from work)	F	239
+Wheat Belt - South	Employed (away from work)	M	350
+Wheat Belt - South	Employed (full-time)	F	1953
+Wheat Belt - South	Employed (full-time)	M	4956
+Wheat Belt - South	Employed (part-time)	F	1899
+Wheat Belt - South	Employed (part-time)	M	763
+Kimberley		F	185
+Kimberley		M	217
+Kimberley	Employed (away from work)	F	345
+Kimberley	Employed (away from work)	M	329
+Kimberley	Employed (full-time)	F	4531
+Kimberley	Employed (full-time)	M	5721
+Kimberley	Employed (part-time)	F	2057
+Kimberley	Employed (part-time)	M	1199
+East Pilbara		F	153
+East Pilbara		M	389
+East Pilbara	Employed (away from work)	F	444
+East Pilbara	Employed (away from work)	M	1479
+East Pilbara	Employed (full-time)	F	3925
+East Pilbara	Employed (full-time)	M	14711
+East Pilbara	Employed (part-time)	F	1331
+East Pilbara	Employed (part-time)	M	1064
+West Pilbara		F	176
+West Pilbara		M	555
+West Pilbara	Employed (away from work)	F	656
+West Pilbara	Employed (away from work)	M	2483
+West Pilbara	Employed (full-time)	F	5235
+West Pilbara	Employed (full-time)	M	23813
+West Pilbara	Employed (part-time)	F	1969
+West Pilbara	Employed (part-time)	M	1651
+Esperance		F	55
+Esperance		M	75
+Esperance	Employed (away from work)	F	191
+Esperance	Employed (away from work)	M	191
+Esperance	Employed (full-time)	F	1341
+Esperance	Employed (full-time)	M	2948
+Esperance	Employed (part-time)	F	1587
+Esperance	Employed (part-time)	M	573
+Gascoyne		F	42
+Gascoyne		M	64
+Gascoyne	Employed (away from work)	F	121
+Gascoyne	Employed (away from work)	M	154
+Gascoyne	Employed (full-time)	F	1184
+Gascoyne	Employed (full-time)	M	1907
+Gascoyne	Employed (part-time)	F	753
+Gascoyne	Employed (part-time)	M	398
+Goldfields		F	174
+Goldfields		M	366
+Goldfields	Employed (away from work)	F	412
+Goldfields	Employed (away from work)	M	753
+Goldfields	Employed (full-time)	F	4786
+Goldfields	Employed (full-time)	M	12415
+Goldfields	Employed (part-time)	F	2885
+Goldfields	Employed (part-time)	M	1263
+Mid West		F	212
+Mid West		M	294
+Mid West	Employed (away from work)	F	561
+Mid West	Employed (away from work)	M	695
+Mid West	Employed (full-time)	F	5241
+Mid West	Employed (full-time)	M	10206
+Mid West	Employed (part-time)	F	4958
+Mid West	Employed (part-time)	M	2041
+Migratory - Offshore - Shipping (WA)		F	8
+Migratory - Offshore - Shipping (WA)		M	27
+Migratory - Offshore - Shipping (WA)	Employed (away from work)	F	3
+Migratory - Offshore - Shipping (WA)	Employed (away from work)	M	158
+Migratory - Offshore - Shipping (WA)	Employed (full-time)	F	78
+Migratory - Offshore - Shipping (WA)	Employed (full-time)	M	1242
+Migratory - Offshore - Shipping (WA)	Employed (part-time)	F	3
+Migratory - Offshore - Shipping (WA)	Employed (part-time)	M	73
+No usual address (WA)		F	362
+No usual address (WA)		M	888
+No usual address (WA)	Employed (away from work)	F	978
+No usual address (WA)	Employed (away from work)	M	2510
+No usual address (WA)	Employed (full-time)	F	3738
+No usual address (WA)	Employed (full-time)	M	27086
+No usual address (WA)	Employed (part-time)	F	8236
+No usual address (WA)	Employed (part-time)	M	10581
+Brighton		F	23
+Brighton		M	33
+Brighton	Employed (away from work)	F	70
+Brighton	Employed (away from work)	M	50
+Brighton	Employed (full-time)	F	489
+Brighton	Employed (full-time)	M	1207
+Brighton	Employed (part-time)	F	651
+Brighton	Employed (part-time)	M	318
+Hobart - North East		F	96
+Hobart - North East		M	125
+Hobart - North East	Employed (away from work)	F	338
+Hobart - North East	Employed (away from work)	M	251
+Hobart - North East	Employed (full-time)	F	2930
+Hobart - North East	Employed (full-time)	M	5271
+Hobart - North East	Employed (part-time)	F	3880
+Hobart - North East	Employed (part-time)	M	1911
+Hobart - North West		F	162
+Hobart - North West		M	229
+Hobart - North West	Employed (away from work)	F	374
+Hobart - North West	Employed (away from work)	M	357
+Hobart - North West	Employed (full-time)	F	3599
+Hobart - North West	Employed (full-time)	M	8850
+Hobart - North West	Employed (part-time)	F	4495
+Hobart - North West	Employed (part-time)	M	2512
+Hobart - South and West		F	47
+Hobart - South and West		M	60
+Hobart - South and West	Employed (away from work)	F	159
+Hobart - South and West	Employed (away from work)	M	124
+Hobart - South and West	Employed (full-time)	F	1257
+Hobart - South and West	Employed (full-time)	M	2691
+Hobart - South and West	Employed (part-time)	F	2334
+Hobart - South and West	Employed (part-time)	M	1169
+Hobart Inner		F	301
+Hobart Inner		M	342
+Hobart Inner	Employed (away from work)	F	1537
+Hobart Inner	Employed (away from work)	M	627
+Hobart Inner	Employed (full-time)	F	13209
+Hobart Inner	Employed (full-time)	M	15676
+Hobart Inner	Employed (part-time)	F	13227
+Hobart Inner	Employed (part-time)	M	5270
+Sorell - Dodges Ferry		F	25
+Sorell - Dodges Ferry		M	20
+Sorell - Dodges Ferry	Employed (away from work)	F	83
+Sorell - Dodges Ferry	Employed (away from work)	M	66
+Sorell - Dodges Ferry	Employed (full-time)	F	501
+Sorell - Dodges Ferry	Employed (full-time)	M	927
+Sorell - Dodges Ferry	Employed (part-time)	F	996
+Sorell - Dodges Ferry	Employed (part-time)	M	485
+Launceston		F	292
+Launceston		M	333
+Launceston	Employed (away from work)	F	981
+Launceston	Employed (away from work)	M	527
+Launceston	Employed (full-time)	F	8396
+Launceston	Employed (full-time)	M	12554
+Launceston	Employed (part-time)	F	10562
+Launceston	Employed (part-time)	M	4214
+Meander Valley - West Tamar		F	45
+Meander Valley - West Tamar		M	57
+Meander Valley - West Tamar	Employed (away from work)	F	146
+Meander Valley - West Tamar	Employed (away from work)	M	110
+Meander Valley - West Tamar	Employed (full-time)	F	816
+Meander Valley - West Tamar	Employed (full-time)	M	1949
+Meander Valley - West Tamar	Employed (part-time)	F	1385
+Meander Valley - West Tamar	Employed (part-time)	M	663
+North East		F	98
+North East		M	143
+North East	Employed (away from work)	F	267
+North East	Employed (away from work)	M	250
+North East	Employed (full-time)	F	1849
+North East	Employed (full-time)	M	5239
+North East	Employed (part-time)	F	2690
+North East	Employed (part-time)	M	1571
+Central Highlands (Tas.)		F	25
+Central Highlands (Tas.)		M	39
+Central Highlands (Tas.)	Employed (away from work)	F	44
+Central Highlands (Tas.)	Employed (away from work)	M	44
+Central Highlands (Tas.)	Employed (full-time)	F	342
+Central Highlands (Tas.)	Employed (full-time)	M	955
+Central Highlands (Tas.)	Employed (part-time)	F	473
+Central Highlands (Tas.)	Employed (part-time)	M	277
+Huon - Bruny Island		F	34
+Huon - Bruny Island		M	74
+Huon - Bruny Island	Employed (away from work)	F	101
+Huon - Bruny Island	Employed (away from work)	M	84
+Huon - Bruny Island	Employed (full-time)	F	791
+Huon - Bruny Island	Employed (full-time)	M	1718
+Huon - Bruny Island	Employed (part-time)	F	1333
+Huon - Bruny Island	Employed (part-time)	M	746
+South East Coast		F	28
+South East Coast		M	29
+South East Coast	Employed (away from work)	F	70
+South East Coast	Employed (away from work)	M	58
+South East Coast	Employed (full-time)	F	377
+South East Coast	Employed (full-time)	M	652
+South East Coast	Employed (part-time)	F	604
+South East Coast	Employed (part-time)	M	360
+Burnie - Ulverstone		F	168
+Burnie - Ulverstone		M	172
+Burnie - Ulverstone	Employed (away from work)	F	448
+Burnie - Ulverstone	Employed (away from work)	M	309
+Burnie - Ulverstone	Employed (full-time)	F	3777
+Burnie - Ulverstone	Employed (full-time)	M	6495
+Burnie - Ulverstone	Employed (part-time)	F	5132
+Burnie - Ulverstone	Employed (part-time)	M	1935
+Devonport		F	133
+Devonport		M	178
+Devonport	Employed (away from work)	F	473
+Devonport	Employed (away from work)	M	370
+Devonport	Employed (full-time)	F	3259
+Devonport	Employed (full-time)	M	5878
+Devonport	Employed (part-time)	F	4545
+Devonport	Employed (part-time)	M	1917
+West Coast		F	57
+West Coast		M	99
+West Coast	Employed (away from work)	F	182
+West Coast	Employed (away from work)	M	187
+West Coast	Employed (full-time)	F	1220
+West Coast	Employed (full-time)	M	3301
+West Coast	Employed (part-time)	F	1499
+West Coast	Employed (part-time)	M	659
+Migratory - Offshore - Shipping (Tas.)	Employed (away from work)	M	5
+Migratory - Offshore - Shipping (Tas.)	Employed (full-time)	F	4
+Migratory - Offshore - Shipping (Tas.)	Employed (full-time)	M	41
+Migratory - Offshore - Shipping (Tas.)	Employed (part-time)	M	11
+No usual address (Tas.)		F	77
+No usual address (Tas.)		M	172
+No usual address (Tas.)	Employed (away from work)	F	178
+No usual address (Tas.)	Employed (away from work)	M	341
+No usual address (Tas.)	Employed (full-time)	F	484
+No usual address (Tas.)	Employed (full-time)	M	4337
+No usual address (Tas.)	Employed (part-time)	F	1611
+No usual address (Tas.)	Employed (part-time)	M	1930
+Darwin City		F	234
+Darwin City		M	309
+Darwin City	Employed (away from work)	F	616
+Darwin City	Employed (away from work)	M	464
+Darwin City	Employed (full-time)	F	8831
+Darwin City	Employed (full-time)	M	11962
+Darwin City	Employed (part-time)	F	3137
+Darwin City	Employed (part-time)	M	1842
+Darwin Suburbs		F	228
+Darwin Suburbs		M	292
+Darwin Suburbs	Employed (away from work)	F	598
+Darwin Suburbs	Employed (away from work)	M	326
+Darwin Suburbs	Employed (full-time)	F	7432
+Darwin Suburbs	Employed (full-time)	M	7867
+Darwin Suburbs	Employed (part-time)	F	3846
+Darwin Suburbs	Employed (part-time)	M	1859
+Litchfield		F	91
+Litchfield		M	251
+Litchfield	Employed (away from work)	F	167
+Litchfield	Employed (away from work)	M	662
+Litchfield	Employed (full-time)	F	2305
+Litchfield	Employed (full-time)	M	9619
+Litchfield	Employed (part-time)	F	977
+Litchfield	Employed (part-time)	M	790
+Palmerston		F	69
+Palmerston		M	94
+Palmerston	Employed (away from work)	F	169
+Palmerston	Employed (away from work)	M	112
+Palmerston	Employed (full-time)	F	2233
+Palmerston	Employed (full-time)	M	2663
+Palmerston	Employed (part-time)	F	1417
+Palmerston	Employed (part-time)	M	642
+Alice Springs		F	172
+Alice Springs		M	176
+Alice Springs	Employed (away from work)	F	382
+Alice Springs	Employed (away from work)	M	341
+Alice Springs	Employed (full-time)	F	5345
+Alice Springs	Employed (full-time)	M	6636
+Alice Springs	Employed (part-time)	F	2065
+Alice Springs	Employed (part-time)	M	1174
+Barkly		F	27
+Barkly		M	36
+Barkly	Employed (away from work)	F	46
+Barkly	Employed (away from work)	M	41
+Barkly	Employed (full-time)	F	621
+Barkly	Employed (full-time)	M	798
+Barkly	Employed (part-time)	F	187
+Barkly	Employed (part-time)	M	162
+Daly - Tiwi - West Arnhem		F	111
+Daly - Tiwi - West Arnhem		M	116
+Daly - Tiwi - West Arnhem	Employed (away from work)	F	91
+Daly - Tiwi - West Arnhem	Employed (away from work)	M	118
+Daly - Tiwi - West Arnhem	Employed (full-time)	F	1207
+Daly - Tiwi - West Arnhem	Employed (full-time)	M	1844
+Daly - Tiwi - West Arnhem	Employed (part-time)	F	527
+Daly - Tiwi - West Arnhem	Employed (part-time)	M	427
+East Arnhem		F	76
+East Arnhem		M	92
+East Arnhem	Employed (away from work)	F	111
+East Arnhem	Employed (away from work)	M	181
+East Arnhem	Employed (full-time)	F	1113
+East Arnhem	Employed (full-time)	M	1939
+East Arnhem	Employed (part-time)	F	553
+East Arnhem	Employed (part-time)	M	393
+Katherine		F	117
+Katherine		M	141
+Katherine	Employed (away from work)	F	166
+Katherine	Employed (away from work)	M	158
+Katherine	Employed (full-time)	F	2001
+Katherine	Employed (full-time)	M	2918
+Katherine	Employed (part-time)	F	756
+Katherine	Employed (part-time)	M	496
+Migratory - Offshore - Shipping (NT)		M	3
+Migratory - Offshore - Shipping (NT)	Employed (away from work)	F	5
+Migratory - Offshore - Shipping (NT)	Employed (away from work)	M	4
+Migratory - Offshore - Shipping (NT)	Employed (full-time)	F	5
+Migratory - Offshore - Shipping (NT)	Employed (full-time)	M	68
+Migratory - Offshore - Shipping (NT)	Employed (part-time)	M	5
+No usual address (NT)		F	33
+No usual address (NT)		M	77
+No usual address (NT)	Employed (away from work)	F	111
+No usual address (NT)	Employed (away from work)	M	228
+No usual address (NT)	Employed (full-time)	F	356
+No usual address (NT)	Employed (full-time)	M	2060
+No usual address (NT)	Employed (part-time)	F	352
+No usual address (NT)	Employed (part-time)	M	468
+Belconnen		F	189
+Belconnen		M	238
+Belconnen	Employed (away from work)	F	809
+Belconnen	Employed (away from work)	M	391
+Belconnen	Employed (full-time)	F	8077
+Belconnen	Employed (full-time)	M	8946
+Belconnen	Employed (part-time)	F	6390
+Belconnen	Employed (part-time)	M	3327
+Canberra East		F	82
+Canberra East		M	150
+Canberra East	Employed (away from work)	F	307
+Canberra East	Employed (away from work)	M	272
+Canberra East	Employed (full-time)	F	3515
+Canberra East	Employed (full-time)	M	8199
+Canberra East	Employed (part-time)	F	1395
+Canberra East	Employed (part-time)	M	1035
+Gungahlin		F	82
+Gungahlin		M	132
+Gungahlin	Employed (away from work)	F	275
+Gungahlin	Employed (away from work)	M	173
+Gungahlin	Employed (full-time)	F	3006
+Gungahlin	Employed (full-time)	M	5682
+Gungahlin	Employed (part-time)	F	2939
+Gungahlin	Employed (part-time)	M	1791
+North Canberra		F	505
+North Canberra		M	561
+North Canberra	Employed (away from work)	F	1904
+North Canberra	Employed (away from work)	M	1003
+North Canberra	Employed (full-time)	F	20981
+North Canberra	Employed (full-time)	M	26658
+North Canberra	Employed (part-time)	F	10324
+North Canberra	Employed (part-time)	M	5409
+South Canberra		F	287
+South Canberra		M	383
+South Canberra	Employed (away from work)	F	1385
+South Canberra	Employed (away from work)	M	805
+South Canberra	Employed (full-time)	F	14455
+South Canberra	Employed (full-time)	M	20547
+South Canberra	Employed (part-time)	F	7292
+South Canberra	Employed (part-time)	M	3970
+Tuggeranong		F	129
+Tuggeranong		M	148
+Tuggeranong	Employed (away from work)	F	457
+Tuggeranong	Employed (away from work)	M	280
+Tuggeranong	Employed (full-time)	F	5112
+Tuggeranong	Employed (full-time)	M	6262
+Tuggeranong	Employed (part-time)	F	4074
+Tuggeranong	Employed (part-time)	M	2236
+Weston Creek		F	30
+Weston Creek		M	31
+Weston Creek	Employed (away from work)	F	113
+Weston Creek	Employed (away from work)	M	47
+Weston Creek	Employed (full-time)	F	1115
+Weston Creek	Employed (full-time)	M	1089
+Weston Creek	Employed (part-time)	F	1206
+Weston Creek	Employed (part-time)	M	578
+Woden Valley		F	164
+Woden Valley		M	140
+Woden Valley	Employed (away from work)	F	885
+Woden Valley	Employed (away from work)	M	270
+Woden Valley	Employed (full-time)	F	7871
+Woden Valley	Employed (full-time)	M	6643
+Woden Valley	Employed (part-time)	F	5149
+Woden Valley	Employed (part-time)	M	1914
+Molonglo		F	3
+Molonglo		M	3
+Molonglo	Employed (away from work)	F	6
+Molonglo	Employed (away from work)	M	5
+Molonglo	Employed (full-time)	F	48
+Molonglo	Employed (full-time)	M	156
+Molonglo	Employed (part-time)	F	59
+Molonglo	Employed (part-time)	M	44
+Urriarra - Namadgi	Employed (away from work)	F	3
+Urriarra - Namadgi	Employed (away from work)	M	6
+Urriarra - Namadgi	Employed (full-time)	F	86
+Urriarra - Namadgi	Employed (full-time)	M	284
+Urriarra - Namadgi	Employed (part-time)	F	70
+Urriarra - Namadgi	Employed (part-time)	M	42
+No usual address (ACT)		F	61
+No usual address (ACT)		M	100
+No usual address (ACT)	Employed (away from work)	F	157
+No usual address (ACT)	Employed (away from work)	M	162
+No usual address (ACT)	Employed (full-time)	F	499
+No usual address (ACT)	Employed (full-time)	M	3600
+No usual address (ACT)	Employed (part-time)	F	972
+No usual address (ACT)	Employed (part-time)	M	1270
+Christmas Island		F	8
+Christmas Island		M	12
+Christmas Island	Employed (away from work)	F	27
+Christmas Island	Employed (away from work)	M	50
+Christmas Island	Employed (full-time)	F	236
+Christmas Island	Employed (full-time)	M	482
+Christmas Island	Employed (part-time)	F	103
+Christmas Island	Employed (part-time)	M	79
+Cocos (Keeling) Islands		F	3
+Cocos (Keeling) Islands		M	9
+Cocos (Keeling) Islands	Employed (away from work)	F	4
+Cocos (Keeling) Islands	Employed (away from work)	M	10
+Cocos (Keeling) Islands	Employed (full-time)	F	47
+Cocos (Keeling) Islands	Employed (full-time)	M	86
+Cocos (Keeling) Islands	Employed (part-time)	F	39
+Cocos (Keeling) Islands	Employed (part-time)	M	33
+Jervis Bay		F	3
+Jervis Bay		M	8
+Jervis Bay	Employed (away from work)	F	11
+Jervis Bay	Employed (away from work)	M	16
+Jervis Bay	Employed (full-time)	F	87
+Jervis Bay	Employed (full-time)	M	261
+Jervis Bay	Employed (part-time)	F	48
+Jervis Bay	Employed (part-time)	M	33
+Norfolk Island		F	23
+Norfolk Island		M	11
+Norfolk Island	Employed (away from work)	F	21
+Norfolk Island	Employed (away from work)	M	15
+Norfolk Island	Employed (full-time)	F	258
+Norfolk Island	Employed (full-time)	M	341
+Norfolk Island	Employed (part-time)	F	212
+Norfolk Island	Employed (part-time)	M	103
+No usual address (OT)		M	3
+No usual address (OT)	Employed (away from work)	F	6
+No usual address (OT)	Employed (away from work)	M	19
+No usual address (OT)	Employed (full-time)	F	11
+No usual address (OT)	Employed (full-time)	M	44
+No usual address (OT)	Employed (part-time)	F	5
+No usual address (OT)	Employed (part-time)	M	17
